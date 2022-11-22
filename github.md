@@ -2,7 +2,7 @@
 국내 주요 IT 기업의 Github 레포지터리 주소와 총 공개 레포지터리 숫자 및 팔로워를 모았습니다. 이러한 숫자가 절대적인 기준이 될 수는 없겠지만, 얼마나 오픈 소스 활동 및 투명한 정보 공개를 하고 있는지 알 수 있을 것입니다. 혹시 여러분의 회사가 빠져 있거나, 데이터 수정이 필요한 경우 Pull Request 올려 주시기 바랍니다. 
 
 | **회사명** | **리포지터리수** | **팔로워수** | **Github 주소** |
-|:---:|:---:|:---:|:---:|
+|:---|---:|---:|:---|
 | 티맥스클라우드 | 245 | 15 | https://github.com/tmax-cloud |
 | 네이버 | 214 | 445 | https://github.com/naver |
 | 삼성전자 | 155 | - | https://github.com/Samsung |
@@ -14,7 +14,7 @@
 | NHN | 103 | 216 | https://github.com/nhn |
 | 레블업 | 101 | 18 | https://github.com/lablup |
 | 하이퍼커넥트 | 99 | 14 | https://github.com/hyperconnect |
-| 삼성SDS | 84 | 4 | https://github.com/samsung-cnct (70) https://github.com/SDSACT (7)https://github.com/samsungsds-rnd (7) |
+| 삼성SDS | 84 | 4 | https://github.com/samsung-cnct (70)<br>https://github.com/SDSACT<br>(7)https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 53 | 21 | https://github.com/riiid |
 | 버즈빌 | 53 | 6 | https://github.com/Buzzvil |
 | 카카오 | 50 | 157 | https://github.com/kakao |
@@ -44,7 +44,7 @@
 | 컬리 | 8 | 31 | https://github.com/thefarmersfront |
 | 티몬 | 8 | - | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | - | https://github.com/megazone-devops |
-| 현대자동차 | 6 | 6 | https://github.com/hkmc-airlab (4)https://github.com/42dot (2) |
+| 현대자동차 | 6 | 6 | https://github.com/hkmc-airlab<br>(4)https://github.com/42dot (2) |
 | 포스코ICT | 6 | 1 | https://github.com/poscoict-glueframework |
 | 요기요 | 6 | - | https://github.com/yogiyo |
 | 가비아 | 5 | - | https://github.com/gabia |
@@ -53,7 +53,7 @@
 | 줌인터넷 | 4 | 4 | https://github.com/zuminternet |
 | 네이버랩스 | 3 | 5 | https://github.com/naverlabs |
 | 무신사 | 3 | 1 | https://github.com/musinsa |
-| SK C&C | 3 | - | https://github.com/SK-HOLDINGS-CC https://github.com/cloudsvcdev (3) |
+| SK C&C | 3 | - | https://github.com/SK-HOLDINGS-CC<br>https://github.com/cloudsvcdev (3) |
 | 카카오페이 | 1 | 3 | https://github.com/kakaopay |
 | 신한은행 | 1 | 1 | https://github.com/Shinhan-Bank |
 | 크레프톤 | 0 | 1 | https://github.com/Krafton |
