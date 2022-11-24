@@ -62,3 +62,4 @@
 | 크레프톤 | 0 | 1 | https://github.com/Krafton |
 | 카카오뱅크 | 0 | 3 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 4 | https://github.com/kakaohairshop |
+| 플라네타리움 | 91 | 56 | https://github.com/planetarium |
