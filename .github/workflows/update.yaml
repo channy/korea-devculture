@@ -1,5 +1,8 @@
 name: update-companies
 on:
+  schedule:
+    # 하루에 한 번, 04:00 UTC => 13:00 (GMT+9)에 업데이트
+    - cron: '0 4 * * *'
   workflow_dispatch:
 
 jobs:
