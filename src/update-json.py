@@ -25,14 +25,14 @@ async def fetchStat(organization, session):
     return [organization]
 
 async def main():
-  file_path = os.path.join(dir_path, './github.json')
+  file_path = os.path.join(dir_path, '../github.json')
 
   with open(file_path, 'r') as file:
     companies = json.load(file)
 
   items = []
   async with aiohttp.ClientSession(headers={
-'Authorization': f'Bearer {TOKEN}'
+    'Authorization': f'Bearer {TOKEN}'
   }) as session:
     for company in companies:
       await asyncio.sleep(0.3)

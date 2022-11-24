@@ -53,7 +53,7 @@ def inject_result_to_readme(readme_path, injected_content):
       readme.write(updated_content)
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
-file_path = os.path.join(dir_path, './github.json')
+file_path = os.path.join(dir_path, '../github.json')
 
 with open(file_path, 'r') as file:
   companies = json.load(file)
