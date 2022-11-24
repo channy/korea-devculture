@@ -14,7 +14,7 @@
 | 라인 | 109 | 297 | https://github.com/line |
 | 당근마켓 | 103 | 271 | https://github.com/daangn |
 | NHN | 103 | 216 | https://github.com/nhn |
-| 레블업 | 101 | 18 | https://github.com/lablup |
+| 래블업 | 101 | 18 | https://github.com/lablup |
 | 하이퍼커넥트 | 99 | 14 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 4 | https://github.com/samsung-cnct (70)<br>https://github.com/SDSACT<br>(7)https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 53 | 21 | https://github.com/riiid |

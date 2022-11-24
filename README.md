@@ -14,4 +14,4 @@
 | 라인 | 109 | 297 | https://github.com/line |
 | 당근마켓 | 103 | 271 | https://github.com/daangn |
 | NHN | 103 | 216 | https://github.com/nhn |
-| 레블업 | 101 | 18 | https://github.com/lablup |
+| 래블업 | 101 | 18 | https://github.com/lablup |
