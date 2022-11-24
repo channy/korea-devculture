@@ -41,7 +41,10 @@ async def main():
         if len(stat) == 1:
           for org in company['organizations']:
             if org[0] == stat[0]:
-              stats[idx] = org
+              if len(org) != 3:
+                stats[idx] = [org[0], 0, 0]
+              else:
+                stats[idx] = org
 
       items.append({ 'name': company['name'], 'organizations': stats })
 
