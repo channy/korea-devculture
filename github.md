@@ -60,3 +60,4 @@
 | 신한은행 | 1 | 1 | https://github.com/Shinhan-Bank |
 | 크레프톤 | 0 | 1 | https://github.com/Krafton |
 | 카카오뱅크 | 0 | 3 | https://github.com/kakaobank |
+| 카카오헤어샵 | 12 | 4 | https://github.com/kakaohairshop |
