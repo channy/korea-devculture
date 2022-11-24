@@ -4,8 +4,10 @@ import json
 import asyncio
 import aiohttp
 import os.path
+import sys
 
-TOKEN = ''
+TOKEN = sys.argv[1]
+
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
 async def fetchStat(organization, session):
