@@ -2,601 +2,601 @@
   {
     "name": "티맥스클라우드",
     "organizations": [
-      [
-        "tmax-cloud",
-        245,
-        17
-      ]
+      {
+        "followers": 18,
+        "organization_id": "tmax-cloud",
+        "public_repos": 245
+      }
     ]
   },
   {
     "name": "네이버",
     "organizations": [
-      [
-        "naver",
-        214,
-        468
-      ]
+      {
+        "followers": 471,
+        "organization_id": "naver",
+        "public_repos": 214
+      }
     ]
   },
   {
     "name": "인베슘",
     "organizations": [
-      [
-        "hamonikr",
-        163,
-        12
-      ]
+      {
+        "followers": 12,
+        "organization_id": "hamonikr",
+        "public_repos": 164
+      }
     ]
   },
   {
     "name": "삼성전자",
     "organizations": [
-      [
-        "Samsung",
-        155,
-        278
-      ]
+      {
+        "followers": 279,
+        "organization_id": "Samsung",
+        "public_repos": 155
+      }
     ]
   },
   {
     "name": "센드버드",
     "organizations": [
-      [
-        "sendbird",
-        154,
-        68
-      ]
+      {
+        "followers": 69,
+        "organization_id": "sendbird",
+        "public_repos": 154
+      }
     ]
   },
   {
     "name": "데브시스터즈",
     "organizations": [
-      [
-        "devsisters",
-        150,
-        69
-      ]
+      {
+        "followers": 70,
+        "organization_id": "devsisters",
+        "public_repos": 150
+      }
     ]
   },
   {
     "name": "리디",
     "organizations": [
-      [
-        "ridi",
-        123,
-        30
-      ]
+      {
+        "followers": 31,
+        "organization_id": "ridi",
+        "public_repos": 123
+      }
     ]
   },
   {
     "name": "라인",
     "organizations": [
-      [
-        "line",
-        109,
-        308
-      ]
+      {
+        "followers": 310,
+        "organization_id": "line",
+        "public_repos": 109
+      }
     ]
   },
   {
     "name": "당근마켓",
     "organizations": [
-      [
-        "daangn",
-        103,
-        284
-      ]
+      {
+        "followers": 288,
+        "organization_id": "daangn",
+        "public_repos": 103
+      }
     ]
   },
   {
     "name": "NHN",
     "organizations": [
-      [
-        "nhn",
-        103,
-        224
-      ]
+      {
+        "followers": 225,
+        "organization_id": "nhn",
+        "public_repos": 103
+      }
     ]
   },
   {
     "name": "래블업",
     "organizations": [
-      [
-        "lablup",
-        102,
-        22
-      ]
+      {
+        "followers": 22,
+        "organization_id": "lablup",
+        "public_repos": 102
+      }
     ]
   },
   {
     "name": "하이퍼커넥트",
     "organizations": [
-      [
-        "hyperconnect",
-        99,
-        18
-      ]
+      {
+        "followers": 18,
+        "organization_id": "hyperconnect",
+        "public_repos": 99
+      }
     ]
   },
   {
     "name": "삼성SDS",
     "organizations": [
-      [
-        "samsung-cnct",
-        70,
-        5
-      ],
-      [
-        "SDSACT",
-        7,
-        3
-      ],
-      [
-        "samsungsds-rnd",
-        7,
-        3
-      ]
+      {
+        "followers": 5,
+        "organization_id": "samsung-cnct",
+        "public_repos": 70
+      },
+      {
+        "followers": 3,
+        "organization_id": "SDSACT",
+        "public_repos": 7
+      },
+      {
+        "followers": 3,
+        "organization_id": "samsungsds-rnd",
+        "public_repos": 7
+      }
     ]
   },
   {
     "name": "뤼이드",
     "organizations": [
-      [
-        "riiid",
-        53,
-        23
-      ]
+      {
+        "followers": 23,
+        "organization_id": "riiid",
+        "public_repos": 53
+      }
     ]
   },
   {
     "name": "버즈빌",
     "organizations": [
-      [
-        "Buzzvil",
-        53,
-        9
-      ]
+      {
+        "followers": 9,
+        "organization_id": "Buzzvil",
+        "public_repos": 53
+      }
     ]
   },
   {
     "name": "카카오",
     "organizations": [
-      [
-        "kakao",
-        50,
-        159
-      ]
+      {
+        "followers": 162,
+        "organization_id": "kakao",
+        "public_repos": 50
+      }
     ]
   },
   {
     "name": "네이버클라우드",
     "organizations": [
-      [
-        "NaverCloudPlatform",
-        40,
-        23
-      ]
+      {
+        "followers": 24,
+        "organization_id": "NaverCloudPlatform",
+        "public_repos": 40
+      }
     ]
   },
   {
     "name": "카카오브레인",
     "organizations": [
-      [
-        "kakaobrain",
-        29,
-        220
-      ]
+      {
+        "followers": 222,
+        "organization_id": "kakaobrain",
+        "public_repos": 30
+      }
     ]
   },
   {
     "name": "그린랩스",
     "organizations": [
-      [
-        "green-labs",
-        28,
-        39
-      ]
+      {
+        "followers": 41,
+        "organization_id": "green-labs",
+        "public_repos": 28
+      }
     ]
   },
   {
     "name": "직방",
     "organizations": [
-      [
-        "zigbang",
-        26,
-        23
-      ]
+      {
+        "followers": 23,
+        "organization_id": "zigbang",
+        "public_repos": 26
+      }
     ]
   },
   {
     "name": "우아한형제들",
     "organizations": [
-      [
-        "woowabros",
-        25,
-        46
-      ]
+      {
+        "followers": 46,
+        "organization_id": "woowabros",
+        "public_repos": 25
+      }
     ]
   },
   {
     "name": "쏘카",
     "organizations": [
-      [
-        "socar-inc",
-        25,
-        25
-      ]
+      {
+        "followers": 26,
+        "organization_id": "socar-inc",
+        "public_repos": 25
+      }
     ]
   },
   {
     "name": "한글과컴퓨터",
     "organizations": [
-      [
-        "hancom-io",
-        24,
-        5
-      ]
+      {
+        "followers": 5,
+        "organization_id": "hancom-io",
+        "public_repos": 24
+      }
     ]
   },
   {
     "name": "엔씨소프트",
     "organizations": [
-      [
-        "ncsoft",
-        24,
-        28
-      ]
+      {
+        "followers": 29,
+        "organization_id": "ncsoft",
+        "public_repos": 24
+      }
     ]
   },
   {
     "name": "버켓플레이스",
     "organizations": [
-      [
-        "bucketplace",
-        23,
-        35
-      ]
+      {
+        "followers": 35,
+        "organization_id": "bucketplace",
+        "public_repos": 23
+      }
     ]
   },
   {
     "name": "비바리퍼블리카",
     "organizations": [
-      [
-        "toss",
-        22,
-        202
-      ]
+      {
+        "followers": 203,
+        "organization_id": "toss",
+        "public_repos": 22
+      }
     ]
   },
   {
     "name": "마이리얼트립",
     "organizations": [
-      [
-        "myrealtrip",
-        19,
-        14
-      ]
+      {
+        "followers": 14,
+        "organization_id": "myrealtrip",
+        "public_repos": 19
+      }
     ]
   },
   {
     "name": "쿠팡",
     "organizations": [
-      [
-        "coupang",
-        18,
-        13
-      ]
+      {
+        "followers": 13,
+        "organization_id": "coupang",
+        "public_repos": 18
+      }
     ]
   },
   {
     "name": "LG전자",
     "organizations": [
-      [
-        "LGE-OSS",
-        17,
-        23
-      ]
+      {
+        "followers": 24,
+        "organization_id": "LGE-OSS",
+        "public_repos": 17
+      }
     ]
   },
   {
     "name": "드라마앤컴퍼니",
     "organizations": [
-      [
-        "dramancompany",
-        16,
-        7
-      ]
+      {
+        "followers": 7,
+        "organization_id": "dramancompany",
+        "public_repos": 16
+      }
     ]
   },
   {
     "name": "야놀자",
     "organizations": [
-      [
-        "yanolja",
-        16,
-        5
-      ]
+      {
+        "followers": 5,
+        "organization_id": "yanolja",
+        "public_repos": 16
+      }
     ]
   },
   {
     "name": "VCNC",
     "organizations": [
-      [
-        "VCNC",
-        14,
-        8
-      ]
+      {
+        "followers": 8,
+        "organization_id": "VCNC",
+        "public_repos": 14
+      }
     ]
   },
   {
     "name": "다나와",
     "organizations": [
-      [
-        "danawalab",
-        16,
-        5
-      ]
+      {
+        "followers": 5,
+        "organization_id": "danawalab",
+        "public_repos": 16
+      }
     ]
   },
   {
     "name": "뱅크샐러드",
     "organizations": [
-      [
-        "banksalad",
-        14,
-        53
-      ]
+      {
+        "followers": 53,
+        "organization_id": "banksalad",
+        "public_repos": 14
+      }
     ]
   },
   {
     "name": "카카오엔터프라이즈",
     "organizations": [
-      [
-        "kakaoenterprise",
-        12,
-        38
-      ]
+      {
+        "followers": 38,
+        "organization_id": "kakaoenterprise",
+        "public_repos": 12
+      }
     ]
   },
   {
     "name": "딜리셔스",
     "organizations": [
-      [
-        "dealicious-inc",
-        12,
-        19
-      ]
+      {
+        "followers": 19,
+        "organization_id": "dealicious-inc",
+        "public_repos": 12
+      }
     ]
   },
   {
     "name": "몰로코",
     "organizations": [
-      [
-        "moloco",
-        11,
-        37
-      ]
+      {
+        "followers": 37,
+        "organization_id": "moloco",
+        "public_repos": 11
+      }
     ]
   },
   {
     "name": "네이버제트",
     "organizations": [
-      [
-        "naverz",
-        10,
-        32
-      ]
+      {
+        "followers": 33,
+        "organization_id": "naverz",
+        "public_repos": 10
+      }
     ]
   },
   {
     "name": "SK텔레콤",
     "organizations": [
-      [
-        "sktelecom",
-        4,
-        9
-      ]
+      {
+        "followers": 9,
+        "organization_id": "sktelecom",
+        "public_repos": 4
+      }
     ]
   },
   {
     "name": "컬리",
     "organizations": [
-      [
-        "thefarmersfront",
-        8,
-        32
-      ]
+      {
+        "followers": 32,
+        "organization_id": "thefarmersfront",
+        "public_repos": 8
+      }
     ]
   },
   {
     "name": "티몬",
     "organizations": [
-      [
-        "tmoncorp",
-        8,
-        1
-      ]
+      {
+        "followers": 1,
+        "organization_id": "tmoncorp",
+        "public_repos": 8
+      }
     ]
   },
   {
     "name": "메가존클라우드",
     "organizations": [
-      [
-        "megazone-devops",
-        8,
-        1
-      ]
+      {
+        "followers": 1,
+        "organization_id": "megazone-devops",
+        "public_repos": 8
+      }
     ]
   },
   {
     "name": "현대자동차",
     "organizations": [
-      [
-        "hkmc-airlab",
-        4,
-        23
-      ],
-      [
-        "42dot",
-        2,
-        7
-      ]
+      {
+        "followers": 24,
+        "organization_id": "hkmc-airlab",
+        "public_repos": 4
+      },
+      {
+        "followers": 8,
+        "organization_id": "42dot",
+        "public_repos": 2
+      }
     ]
   },
   {
     "name": "포스코ICT",
     "organizations": [
-      [
-        "poscoict-glueframework",
-        9,
-        3
-      ]
+      {
+        "followers": 4,
+        "organization_id": "poscoict-glueframework",
+        "public_repos": 9
+      }
     ]
   },
   {
     "name": "요기요",
     "organizations": [
-      [
-        "yogiyo",
-        6,
-        34
-      ]
+      {
+        "followers": 34,
+        "organization_id": "yogiyo",
+        "public_repos": 6
+      }
     ]
   },
   {
     "name": "가비아",
     "organizations": [
-      [
-        "gabia",
-        5,
-        1
-      ]
+      {
+        "followers": 1,
+        "organization_id": "gabia",
+        "public_repos": 5
+      }
     ]
   },
   {
     "name": "힐링페이퍼",
     "organizations": [
-      [
-        "healingpaper",
-        4,
-        8
-      ]
+      {
+        "followers": 8,
+        "organization_id": "healingpaper",
+        "public_repos": 4
+      }
     ]
   },
   {
     "name": "11번가",
     "organizations": [
-      [
-        "11st-corp",
-        4,
-        7
-      ]
+      {
+        "followers": 7,
+        "organization_id": "11st-corp",
+        "public_repos": 4
+      }
     ]
   },
   {
     "name": "줌인터넷",
     "organizations": [
-      [
-        "zuminternet",
-        4,
-        6
-      ]
+      {
+        "followers": 6,
+        "organization_id": "zuminternet",
+        "public_repos": 4
+      }
     ]
   },
   {
     "name": "네이버랩스",
     "organizations": [
-      [
-        "naverlabs",
-        3,
-        6
-      ]
+      {
+        "followers": 7,
+        "organization_id": "naverlabs",
+        "public_repos": 3
+      }
     ]
   },
   {
     "name": "무신사",
     "organizations": [
-      [
-        "musinsa",
-        3,
-        7
-      ]
+      {
+        "followers": 7,
+        "organization_id": "musinsa",
+        "public_repos": 3
+      }
     ]
   },
   {
     "name": "SK",
     "organizations": [
-      [
-        "SK-HOLDINGS-CC",
-        0,
-        0
-      ],
-      [
-        "cloudsvcdev",
-        3,
-        1
-      ]
+      {
+        "followers": 0,
+        "organization_id": "SK-HOLDINGS-CC",
+        "public_repos": 0
+      },
+      {
+        "followers": 1,
+        "organization_id": "cloudsvcdev",
+        "public_repos": 3
+      }
     ]
   },
   {
     "name": "카카오페이",
     "organizations": [
-      [
-        "kakaopay",
-        1,
-        4
-      ]
+      {
+        "followers": 4,
+        "organization_id": "kakaopay",
+        "public_repos": 1
+      }
     ]
   },
   {
     "name": "신한은행",
     "organizations": [
-      [
-        "Shinhan-Bank",
-        1,
-        3
-      ]
+      {
+        "followers": 4,
+        "organization_id": "Shinhan-Bank",
+        "public_repos": 1
+      }
     ]
   },
   {
     "name": "크레프톤",
     "organizations": [
-      [
-        "Krafton",
-        0,
-        1
-      ]
+      {
+        "followers": 1,
+        "organization_id": "Krafton",
+        "public_repos": 0
+      }
     ]
   },
   {
     "name": "카카오뱅크",
     "organizations": [
-      [
-        "kakaobank",
-        0,
-        3
-      ]
+      {
+        "followers": 3,
+        "organization_id": "kakaobank",
+        "public_repos": 0
+      }
     ]
   },
   {
     "name": "카카오헤어샵",
     "organizations": [
-      [
-        "kakaohairshop",
-        12,
-        5
-      ]
+      {
+        "followers": 5,
+        "organization_id": "kakaohairshop",
+        "public_repos": 12
+      }
     ]
   },
   {
     "name": "플라네타리움",
     "organizations": [
-      [
-        "planetarium",
-        90,
-        57
-      ]
+      {
+        "followers": 57,
+        "organization_id": "planetarium",
+        "public_repos": 90
+      }
     ]
   }
 ]

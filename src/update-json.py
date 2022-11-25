@@ -19,10 +19,10 @@ async def fetchStat(organization, session):
     info = json.loads(data)
 
   try:
-    return [organization, info['public_repos'], info['followers']]
+    return { 'organization_id': organization, 'public_repos': info['public_repos'], 'followers': info['followers'] }
   except:
     print(info)
-    return [organization]
+    return { 'organization_id': organization }
 
 async def main():
   file_path = os.path.join(dir_path, '../github.json')
@@ -36,15 +36,15 @@ async def main():
   }) as session:
     for company in companies:
       await asyncio.sleep(0.3)
-      stats = await asyncio.gather(*[fetchStat(item[0], session) for item in company['organizations']])
+      stats = await asyncio.gather(*[fetchStat(item['organization_id'], session) for item in company['organizations']])
       print(stats)
 
       for idx, stat in enumerate(stats):
-        if len(stat) == 1:
+        if len(list(stat.keys())) == 1 and stat['organization_id'] != "":
           for org in company['organizations']:
-            if org[0] == stat[0]:
-              if len(org) != 3:
-                stats[idx] = [org[0], 0, 0]
+            if org['organization_id'] == stat['organization_id']:
+              if len(list(org.keys())) != 3:
+                stats[idx] = { 'organization_id': org['organization_id'], 'public_repos': 0, 'followers': 0 }
               else:
                 stats[idx] = org
 
