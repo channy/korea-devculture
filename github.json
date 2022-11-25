@@ -1,0 +1,602 @@
+[
+  {
+    "name": "티맥스클라우드",
+    "organizations": [
+      [
+        "tmax-cloud",
+        245,
+        17
+      ]
+    ]
+  },
+  {
+    "name": "네이버",
+    "organizations": [
+      [
+        "naver",
+        214,
+        463
+      ]
+    ]
+  },
+  {
+    "name": "인베슘",
+    "organizations": [
+      [
+        "hamonikr",
+        163,
+        12
+      ]
+    ]
+  },
+  {
+    "name": "삼성전자",
+    "organizations": [
+      [
+        "Samsung",
+        155,
+        278
+      ]
+    ]
+  },
+  {
+    "name": "센드버드",
+    "organizations": [
+      [
+        "sendbird",
+        155,
+        68
+      ]
+    ]
+  },
+  {
+    "name": "데브시스터즈",
+    "organizations": [
+      [
+        "devsisters",
+        150,
+        69
+      ]
+    ]
+  },
+  {
+    "name": "리디",
+    "organizations": [
+      [
+        "ridi",
+        123,
+        29
+      ]
+    ]
+  },
+  {
+    "name": "라인",
+    "organizations": [
+      [
+        "line",
+        109,
+        306
+      ]
+    ]
+  },
+  {
+    "name": "당근마켓",
+    "organizations": [
+      [
+        "daangn",
+        103,
+        281
+      ]
+    ]
+  },
+  {
+    "name": "NHN",
+    "organizations": [
+      [
+        "nhn",
+        103,
+        224
+      ]
+    ]
+  },
+  {
+    "name": "래블업",
+    "organizations": [
+      [
+        "lablup",
+        102,
+        22
+      ]
+    ]
+  },
+  {
+    "name": "하이퍼커넥트",
+    "organizations": [
+      [
+        "hyperconnect",
+        99,
+        17
+      ]
+    ]
+  },
+  {
+    "name": "삼성SDS",
+    "organizations": [
+      [
+        "samsung-cnct",
+        70,
+        4
+      ],
+      [
+        "SDSACT",
+        7,
+        2
+      ],
+      [
+        "samsungsds-rnd",
+        7,
+        2
+      ]
+    ]
+  },
+  {
+    "name": "뤼이드",
+    "organizations": [
+      [
+        "riiid",
+        53,
+        22
+      ]
+    ]
+  },
+  {
+    "name": "버즈빌",
+    "organizations": [
+      [
+        "Buzzvil",
+        53,
+        8
+      ]
+    ]
+  },
+  {
+    "name": "카카오",
+    "organizations": [
+      [
+        "kakao",
+        50,
+        158
+      ]
+    ]
+  },
+  {
+    "name": "네이버클라우드",
+    "organizations": [
+      [
+        "NaverCloudPlatform",
+        40,
+        22
+      ]
+    ]
+  },
+  {
+    "name": "카카오브레인",
+    "organizations": [
+      [
+        "kakaobrain",
+        29,
+        219
+      ]
+    ]
+  },
+  {
+    "name": "그린랩스",
+    "organizations": [
+      [
+        "green-labs",
+        28,
+        38
+      ]
+    ]
+  },
+  {
+    "name": "직방",
+    "organizations": [
+      [
+        "zigbang",
+        26,
+        21
+      ]
+    ]
+  },
+  {
+    "name": "우아한형제들",
+    "organizations": [
+      [
+        "woowabros",
+        25,
+        44
+      ]
+    ]
+  },
+  {
+    "name": "쏘카",
+    "organizations": [
+      [
+        "socar-inc",
+        25,
+        24
+      ]
+    ]
+  },
+  {
+    "name": "한글과컴퓨터",
+    "organizations": [
+      [
+        "hancom-io",
+        24,
+        4
+      ]
+    ]
+  },
+  {
+    "name": "엔씨소프트",
+    "organizations": [
+      [
+        "ncsoft",
+        24,
+        27
+      ]
+    ]
+  },
+  {
+    "name": "버켓플레이스",
+    "organizations": [
+      [
+        "bucketplace",
+        23,
+        34
+      ]
+    ]
+  },
+  {
+    "name": "비바리퍼블리카",
+    "organizations": [
+      [
+        "toss",
+        22,
+        200
+      ]
+    ]
+  },
+  {
+    "name": "마이리얼트립",
+    "organizations": [
+      [
+        "myrealtrip",
+        19,
+        13
+      ]
+    ]
+  },
+  {
+    "name": "쿠팡",
+    "organizations": [
+      [
+        "coupang",
+        18,
+        12
+      ]
+    ]
+  },
+  {
+    "name": "LG전자",
+    "organizations": [
+      [
+        "LGE-OSS",
+        17,
+        22
+      ]
+    ]
+  },
+  {
+    "name": "드라마앤컴퍼니",
+    "organizations": [
+      [
+        "dramancompany",
+        17,
+        11
+      ]
+    ]
+  },
+  {
+    "name": "야놀자",
+    "organizations": [
+      [
+        "yanolja",
+        16,
+        4
+      ]
+    ]
+  },
+  {
+    "name": "VCNC",
+    "organizations": [
+      [
+        "VCNC",
+        14,
+        7
+      ]
+    ]
+  },
+  {
+    "name": "다나와",
+    "organizations": [
+      [
+        "danawalab",
+        16,
+        4
+      ]
+    ]
+  },
+  {
+    "name": "뱅크샐러드",
+    "organizations": [
+      [
+        "banksalad",
+        14,
+        51
+      ]
+    ]
+  },
+  {
+    "name": "카카오엔터프라이즈",
+    "organizations": [
+      [
+        "kakaoenterprise",
+        12,
+        37
+      ]
+    ]
+  },
+  {
+    "name": "딜리셔스",
+    "organizations": [
+      [
+        "dealicious-inc",
+        12,
+        18
+      ]
+    ]
+  },
+  {
+    "name": "몰로코",
+    "organizations": [
+      [
+        "moloco",
+        11,
+        36
+      ]
+    ]
+  },
+  {
+    "name": "네이버제트",
+    "organizations": [
+      [
+        "naverz",
+        10,
+        31
+      ]
+    ]
+  },
+  {
+    "name": "SK텔레콤",
+    "organizations": [
+      [
+        "sktelecom",
+        4,
+        8
+      ]
+    ]
+  },
+  {
+    "name": "컬리",
+    "organizations": [
+      [
+        "thefarmersfront",
+        8,
+        31
+      ]
+    ]
+  },
+  {
+    "name": "티몬",
+    "organizations": [
+      [
+        "tmoncorp",
+        8,
+        0
+      ]
+    ]
+  },
+  {
+    "name": "메가존클라우드",
+    "organizations": [
+      [
+        "megazone-devops",
+        8,
+        0
+      ]
+    ]
+  },
+  {
+    "name": "현대자동차",
+    "organizations": [
+      [
+        "hkmc-airlab",
+        4,
+        22
+      ],
+      [
+        "42dot",
+        2,
+        6
+      ]
+    ]
+  },
+  {
+    "name": "포스코ICT",
+    "organizations": [
+      [
+        "poscoict-glueframework",
+        9,
+        2
+      ]
+    ]
+  },
+  {
+    "name": "요기요",
+    "organizations": [
+      [
+        "yogiyo",
+        6,
+        32
+      ]
+    ]
+  },
+  {
+    "name": "가비아",
+    "organizations": [
+      [
+        "gabia",
+        5,
+        0
+      ]
+    ]
+  },
+  {
+    "name": "힐링페이퍼",
+    "organizations": [
+      [
+        "healingpaper",
+        4,
+        0
+      ]
+    ]
+  },
+  {
+    "name": "11번가",
+    "organizations": [
+      [
+        "11st-corp",
+        4,
+        6
+      ]
+    ]
+  },
+  {
+    "name": "줌인터넷",
+    "organizations": [
+      [
+        "zuminternet",
+        4,
+        5
+      ]
+    ]
+  },
+  {
+    "name": "네이버랩스",
+    "organizations": [
+      [
+        "naverlabs",
+        3,
+        5
+      ]
+    ]
+  },
+  {
+    "name": "무신사",
+    "organizations": [
+      [
+        "musinsa",
+        3,
+        6
+      ]
+    ]
+  },
+  {
+    "name": "SK",
+    "organizations": [
+      [
+        "SK-HOLDINGS-CC",
+        0,
+        0
+      ],
+      [
+        "cloudsvcdev",
+        3,
+        0
+      ]
+    ]
+  },
+  {
+    "name": "카카오페이",
+    "organizations": [
+      [
+        "kakaopay",
+        1,
+        3
+      ]
+    ]
+  },
+  {
+    "name": "신한은행",
+    "organizations": [
+      [
+        "Shinhan-Bank",
+        1,
+        2
+      ]
+    ]
+  },
+  {
+    "name": "크레프톤",
+    "organizations": [
+      [
+        "Krafton",
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "name": "카카오뱅크",
+    "organizations": [
+      [
+        "kakaobank",
+        0,
+        3
+      ]
+    ]
+  },
+  {
+    "name": "카카오헤어샵",
+    "organizations": [
+      [
+        "kakaohairshop",
+        12,
+        4
+      ]
+    ]
+  },
+  {
+    "name": "플라네타리움",
+    "organizations": [
+      [
+        "planetarium",
+        91,
+        56
+      ]
+    ]
+  }
+]
