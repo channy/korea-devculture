@@ -600,6 +600,16 @@
     ]
   },
   {
+    "name": "큐브리드",
+    "organizations": [
+      [
+        "CUBRID",
+        38,
+        11
+        ]
+       ]
+    },
+    {
     "name": "코클",
     "organizations": [
       [
