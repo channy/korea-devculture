@@ -35,10 +35,13 @@ jobs:
           python3 ./src/update-json.py ${{ secrets.GITHUB_TOKEN }}
           python3 ./src/update-markdown.py
 
+      - name: Set date in environment variable
+        run: echo "DATE=$(date +'%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_ENV
+
       - name: Commit & Push changes
         uses: Andro999b/push@patch-1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
           message: >
-            🎉 chore: update draws for ${{ env.DATE }}
+            🎉 기업별 GitHub 데이터 업데이트 완료 (${{ env.DATE }})
