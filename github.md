@@ -8,9 +8,9 @@
 | 티맥스클라우드 | 245 | 18 | https://github.com/tmax-cloud |
 | 네이버 | 214 | 471 | https://github.com/naver |
 | 인베슘 | 164 | 12 | https://github.com/hamonikr |
-| 삼성전자 | 155 | 279 | https://github.com/Samsung |
+| 삼성전자 | 155 | 280 | https://github.com/Samsung |
 | 센드버드 | 154 | 69 | https://github.com/sendbird |
-| 데브시스터즈 | 150 | 70 | https://github.com/devsisters |
+| 데브시스터즈 | 150 | 71 | https://github.com/devsisters |
 | 리디 | 123 | 31 | https://github.com/ridi |
 | 라인 | 109 | 310 | https://github.com/line |
 | 당근마켓 | 103 | 288 | https://github.com/daangn |
@@ -22,7 +22,7 @@
 | 버즈빌 | 53 | 9 | https://github.com/Buzzvil |
 | 카카오 | 50 | 162 | https://github.com/kakao |
 | 네이버클라우드 | 40 | 24 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 30 | 222 | https://github.com/kakaobrain |
+| 카카오브레인 | 31 | 222 | https://github.com/kakaobrain |
 | 그린랩스 | 28 | 41 | https://github.com/green-labs |
 | 직방 | 26 | 23 | https://github.com/zigbang |
 | 우아한형제들 | 25 | 46 | https://github.com/woowabros |
@@ -63,5 +63,7 @@
 | 카카오뱅크 | 0 | 3 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 5 | https://github.com/kakaohairshop |
 | 플라네타리움 | 90 | 57 | https://github.com/planetarium |
+| 큐브리드 | 38 | 12 | https://github.com/CUBRID |
+| 코클 | 7 | 6 | https://github.com/cochlearai |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->

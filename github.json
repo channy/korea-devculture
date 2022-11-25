@@ -32,6 +32,7 @@
   {
     "name": "삼성전자",
     "organizations": [
+
       {
         "followers": 279,
         "organization_id": "Samsung",
@@ -597,6 +598,26 @@
         "organization_id": "planetarium",
         "public_repos": 90
       }
+    ]
+  },
+  {
+    "name": "큐브리드",
+    "organizations": [
+      [
+        "CUBRID",
+        38,
+        12
+      ]
+    ]
+  },
+  {
+    "name": "코클",
+    "organizations": [
+      [
+        "cochlearai",
+        7,
+        6
+      ]
     ]
   }
 ]
