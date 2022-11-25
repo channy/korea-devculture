@@ -16,18 +16,18 @@ def render_table_row(company):
 
   stats = company['organizations']
   for stat in stats:
-    total_public_repos += stat[1]
-    total_followers += stat[2]
+    total_public_repos += stat['public_repos']
+    total_followers += stat['followers']
 
   markdown += f" {total_public_repos} |"
   markdown += f" {total_followers} |"
 
   if len(stats) == 1:
-    markdown += f" https://github.com/{stats[0][0]} |"
+    markdown += f" https://github.com/{stats[0]['organization_id']} |"
   else:
     markdown += " "
     for idx, stat in enumerate(stats):
-      markdown += f"https://github.com/{stat[0]} ({stat[1]})"
+      markdown += f"https://github.com/{stat['organization_id']} ({stat['public_repos']})"
       if idx != len(stats) - 1:
         markdown += '<br />'
     markdown += " |"
@@ -71,7 +71,7 @@ inject_result_to_readme(readme_path, markdown)
 readme_path = os.path.join(dir_path, '../README.md')
 markdown = render_table_header()
 
-top_10_companies = sorted(companies, key = lambda item: sum(org[1] for org in item['organizations']), reverse=True)[:10]
+top_10_companies = sorted(companies, key = lambda item: sum(org['public_repos'] for org in item['organizations']), reverse=True)[:10]
 for company in top_10_companies:
   markdown += render_table_row(company)
 
