@@ -63,6 +63,7 @@
 | 카카오뱅크 | 0 | 3 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 5 | https://github.com/kakaohairshop |
 | 플라네타리움 | 90 | 57 | https://github.com/planetarium |
+| 큐브리드 | 38 | 12 | https://github.com/CUBRID |
 | 코클 | 7 | 6 | https://github.com/cochlearai |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->
