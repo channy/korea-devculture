@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 223,
+        "followers": 224,
         "organization_id": "kakaobrain",
         "public_repos": 31
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 58,
+        "followers": 59,
         "organization_id": "planetarium",
         "public_repos": 90
       }
@@ -627,6 +627,6 @@
         "organization_id": "SkelterLabsInc",
         "public_repos": 14
       }
-     ]
+    ]
   }
 ]
