@@ -25,7 +25,7 @@
       {
         "followers": 12,
         "organization_id": "hamonikr",
-        "public_repos": 167
+        "public_repos": 168
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 281,
+        "followers": 282,
         "organization_id": "Samsung",
         "public_repos": 155
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 72,
+        "followers": 73,
         "organization_id": "devsisters",
         "public_repos": 150
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 31,
+        "followers": 32,
         "organization_id": "ridi",
         "public_repos": 123
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 229,
+        "followers": 230,
         "organization_id": "nhn",
         "public_repos": 103
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 224,
+        "followers": 225,
         "organization_id": "kakaobrain",
         "public_repos": 31
       }
@@ -193,7 +193,7 @@
     "name": "그린랩스",
     "organizations": [
       {
-        "followers": 41,
+        "followers": 42,
         "organization_id": "green-labs",
         "public_repos": 28
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 30,
+        "followers": 31,
         "organization_id": "ncsoft",
         "public_repos": 24
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 24,
+        "followers": 25,
         "organization_id": "LGE-OSS",
         "public_repos": 17
       }
@@ -343,7 +343,7 @@
     "name": "뱅크샐러드",
     "organizations": [
       {
-        "followers": 53,
+        "followers": 54,
         "organization_id": "banksalad",
         "public_repos": 14
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 37,
+        "followers": 38,
         "organization_id": "moloco",
         "public_repos": 11
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 32,
+        "followers": 33,
         "organization_id": "thefarmersfront",
         "public_repos": 8
       }
@@ -498,7 +498,7 @@
     "name": "줌인터넷",
     "organizations": [
       {
-        "followers": 6,
+        "followers": 5,
         "organization_id": "zuminternet",
         "public_repos": 4
       }
