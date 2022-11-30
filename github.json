@@ -5,7 +5,7 @@
       {
         "followers": 18,
         "organization_id": "tmax-cloud",
-        "public_repos": 245
+        "public_repos": 246
       }
     ]
   },
@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 472,
+        "followers": 478,
         "organization_id": "naver",
         "public_repos": 214
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 282,
+        "followers": 283,
         "organization_id": "Samsung",
         "public_repos": 155
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 313,
+        "followers": 314,
         "organization_id": "line",
         "public_repos": 109
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 290,
+        "followers": 289,
         "organization_id": "daangn",
         "public_repos": 103
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 230,
+        "followers": 233,
         "organization_id": "nhn",
         "public_repos": 103
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 22,
+        "followers": 23,
         "organization_id": "lablup",
         "public_repos": 102
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 165,
+        "followers": 166,
         "organization_id": "kakao",
         "public_repos": 50
       }
@@ -183,9 +183,9 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 225,
+        "followers": 226,
         "organization_id": "kakaobrain",
-        "public_repos": 31
+        "public_repos": 33
       }
     ]
   },
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 25,
+        "followers": 26,
         "organization_id": "LGE-OSS",
         "public_repos": 17
       }
@@ -363,7 +363,7 @@
     "name": "딜리셔스",
     "organizations": [
       {
-        "followers": 19,
+        "followers": 20,
         "organization_id": "dealicious-inc",
         "public_repos": 12
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 38,
+        "followers": 39,
         "organization_id": "moloco",
         "public_repos": 11
       }
