@@ -6,31 +6,31 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 246 | 18 | https://github.com/tmax-cloud |
-| 네이버 | 214 | 480 | https://github.com/naver |
+| 네이버 | 214 | 483 | https://github.com/naver |
 | 인베슘 | 168 | 13 | https://github.com/hamonikr |
 | 삼성전자 | 155 | 286 | https://github.com/Samsung |
 | 센드버드 | 154 | 69 | https://github.com/sendbird |
 | 데브시스터즈 | 150 | 73 | https://github.com/devsisters |
 | 리디 | 123 | 32 | https://github.com/ridi |
-| 라인 | 109 | 315 | https://github.com/line |
-| 당근마켓 | 103 | 289 | https://github.com/daangn |
-| NHN | 103 | 233 | https://github.com/nhn |
+| 라인 | 109 | 317 | https://github.com/line |
+| 당근마켓 | 103 | 290 | https://github.com/daangn |
+| NHN | 104 | 234 | https://github.com/nhn |
 | 래블업 | 102 | 23 | https://github.com/lablup |
 | 하이퍼커넥트 | 99 | 18 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 11 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
-| 뤼이드 | 53 | 23 | https://github.com/riiid |
+| 뤼이드 | 53 | 24 | https://github.com/riiid |
 | 버즈빌 | 53 | 9 | https://github.com/Buzzvil |
-| 카카오 | 50 | 167 | https://github.com/kakao |
+| 카카오 | 50 | 169 | https://github.com/kakao |
 | 네이버클라우드 | 40 | 24 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 33 | 227 | https://github.com/kakaobrain |
-| 그린랩스 | 28 | 42 | https://github.com/green-labs |
+| 카카오브레인 | 33 | 228 | https://github.com/kakaobrain |
+| 그린랩스 | 28 | 43 | https://github.com/green-labs |
 | 직방 | 26 | 23 | https://github.com/zigbang |
 | 우아한형제들 | 25 | 46 | https://github.com/woowabros |
 | 쏘카 | 26 | 26 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 24 | 5 | https://github.com/hancom-io |
 | 엔씨소프트 | 25 | 31 | https://github.com/ncsoft |
 | 버켓플레이스 | 23 | 35 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 22 | 205 | https://github.com/toss |
+| 비바리퍼블리카 | 23 | 206 | https://github.com/toss |
 | 마이리얼트립 | 19 | 14 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 13 | https://github.com/coupang |
 | LG전자 | 18 | 26 | https://github.com/LGE-OSS |
