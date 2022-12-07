@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 491,
+        "followers": 492,
         "organization_id": "naver",
         "public_repos": 215
       }
@@ -45,7 +45,7 @@
       {
         "followers": 69,
         "organization_id": "sendbird",
-        "public_repos": 155
+        "public_repos": 154
       }
     ]
   },
@@ -85,7 +85,7 @@
       {
         "followers": 292,
         "organization_id": "daangn",
-        "public_repos": 103
+        "public_repos": 104
       }
     ]
   },
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 23,
+        "followers": 24,
         "organization_id": "lablup",
         "public_repos": 102
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 173,
+        "followers": 174,
         "organization_id": "kakao",
         "public_repos": 50
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 234,
+        "followers": 235,
         "organization_id": "kakaobrain",
         "public_repos": 33
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 26,
+        "followers": 27,
         "organization_id": "socar-inc",
         "public_repos": 25
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 208,
+        "followers": 209,
         "organization_id": "toss",
         "public_repos": 23
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 27,
+        "followers": 26,
         "organization_id": "LGE-OSS",
         "public_repos": 18
       }
@@ -333,9 +333,9 @@
     "name": "다나와",
     "organizations": [
       {
-        "followers": 5,
+        "followers": 6,
         "organization_id": "danawalab",
-        "public_repos": 16
+        "public_repos": 18
       }
     ]
   },
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 35,
+        "followers": 37,
         "organization_id": "thefarmersfront",
         "public_repos": 8
       }
@@ -508,7 +508,7 @@
     "name": "네이버랩스",
     "organizations": [
       {
-        "followers": 8,
+        "followers": 9,
         "organization_id": "naverlabs",
         "public_repos": 3
       }
