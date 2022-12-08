@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 492,
+        "followers": 496,
         "organization_id": "naver",
         "public_repos": 215
       }
@@ -25,7 +25,7 @@
       {
         "followers": 14,
         "organization_id": "hamonikr",
-        "public_repos": 168
+        "public_repos": 169
       }
     ]
   },
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 69,
+        "followers": 70,
         "organization_id": "sendbird",
         "public_repos": 154
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 292,
+        "followers": 294,
         "organization_id": "daangn",
         "public_repos": 104
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 238,
+        "followers": 239,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 174,
+        "followers": 176,
         "organization_id": "kakao",
         "public_repos": 50
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 235,
+        "followers": 237,
         "organization_id": "kakaobrain",
         "public_repos": 33
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 46,
+        "followers": 47,
         "organization_id": "woowabros",
         "public_repos": 25
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 13,
+        "followers": 15,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 26,
+        "followers": 27,
         "organization_id": "LGE-OSS",
         "public_repos": 18
       }
@@ -315,7 +315,7 @@
       {
         "followers": 5,
         "organization_id": "yanolja",
-        "public_repos": 16
+        "public_repos": 18
       }
     ]
   },
