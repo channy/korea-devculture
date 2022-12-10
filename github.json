@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 501,
+        "followers": 507,
         "organization_id": "naver",
         "public_repos": 215
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 70,
+        "followers": 71,
         "organization_id": "sendbird",
         "public_repos": 154
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 324,
+        "followers": 326,
         "organization_id": "line",
         "public_repos": 109
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 296,
+        "followers": 299,
         "organization_id": "daangn",
         "public_repos": 104
       }
@@ -143,9 +143,9 @@
     "name": "뤼이드",
     "organizations": [
       {
-        "followers": 26,
+        "followers": 25,
         "organization_id": "riiid",
-        "public_repos": 53
+        "public_repos": 54
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 176,
+        "followers": 177,
         "organization_id": "kakao",
         "public_repos": 50
       }
@@ -243,9 +243,9 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 33,
+        "followers": 38,
         "organization_id": "ncsoft",
-        "public_repos": 25
+        "public_repos": 26
       }
     ]
   },
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 39,
+        "followers": 40,
         "organization_id": "moloco",
         "public_repos": 11
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 37,
+        "followers": 36,
         "organization_id": "thefarmersfront",
         "public_repos": 8
       }
