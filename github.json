@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 508,
+        "followers": 512,
         "organization_id": "naver",
         "public_repos": 215
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 295,
+        "followers": 296,
         "organization_id": "Samsung",
         "public_repos": 155
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 71,
+        "followers": 72,
         "organization_id": "sendbird",
         "public_repos": 154
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 326,
+        "followers": 327,
         "organization_id": "line",
         "public_repos": 109
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 299,
+        "followers": 301,
         "organization_id": "daangn",
         "public_repos": 104
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 239,
+        "followers": 240,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 177,
+        "followers": 178,
         "organization_id": "kakao",
         "public_repos": 50
       }
@@ -243,9 +243,9 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 38,
+        "followers": 42,
         "organization_id": "ncsoft",
-        "public_repos": 26
+        "public_repos": 27
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 210,
+        "followers": 211,
         "organization_id": "toss",
         "public_repos": 23
       }
@@ -335,7 +335,7 @@
       {
         "followers": 5,
         "organization_id": "danawalab",
-        "public_repos": 18
+        "public_repos": 19
       }
     ]
   },
@@ -488,7 +488,7 @@
     "name": "11번가",
     "organizations": [
       {
-        "followers": 7,
+        "followers": 8,
         "organization_id": "11st-corp",
         "public_repos": 4
       }
