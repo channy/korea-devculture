@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 519,
+        "followers": 522,
         "organization_id": "naver",
         "public_repos": 215
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 296,
+        "followers": 295,
         "organization_id": "Samsung",
         "public_repos": 155
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 304,
+        "followers": 303,
         "organization_id": "daangn",
         "public_repos": 104
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 244,
+        "followers": 245,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -155,7 +155,7 @@
       {
         "followers": 10,
         "organization_id": "Buzzvil",
-        "public_repos": 54
+        "public_repos": 55
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 179,
+        "followers": 181,
         "organization_id": "kakao",
         "public_repos": 50
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 24,
+        "followers": 25,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 41
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 238,
+        "followers": 241,
         "organization_id": "kakaobrain",
         "public_repos": 33
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 27,
+        "followers": 28,
         "organization_id": "socar-inc",
         "public_repos": 25
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 216,
+        "followers": 219,
         "organization_id": "toss",
         "public_repos": 23
       }
@@ -343,7 +343,7 @@
     "name": "뱅크샐러드",
     "organizations": [
       {
-        "followers": 55,
+        "followers": 56,
         "organization_id": "banksalad",
         "public_repos": 14
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 40,
+        "followers": 41,
         "organization_id": "moloco",
         "public_repos": 11
       }
@@ -613,7 +613,7 @@
     "name": "코클",
     "organizations": [
       {
-        "followers": 6,
+        "followers": 7,
         "organization_id": "cochlearai",
         "public_repos": 6
       }
