@@ -5,7 +5,7 @@
       {
         "followers": 19,
         "organization_id": "tmax-cloud",
-        "public_repos": 249
+        "public_repos": 250
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 295,
+        "followers": 296,
         "organization_id": "Samsung",
         "public_repos": 155
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 33,
+        "followers": 34,
         "organization_id": "ridi",
         "public_repos": 123
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 303,
+        "followers": 307,
         "organization_id": "daangn",
         "public_repos": 104
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 245,
+        "followers": 246,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 25,
+        "followers": 26,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 41
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 241,
+        "followers": 240,
         "organization_id": "kakaobrain",
         "public_repos": 33
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 219,
+        "followers": 222,
         "organization_id": "toss",
         "public_repos": 23
       }
@@ -313,9 +313,9 @@
     "name": "야놀자",
     "organizations": [
       {
-        "followers": 5,
+        "followers": 6,
         "organization_id": "yanolja",
-        "public_repos": 18
+        "public_repos": 19
       }
     ]
   },
@@ -383,7 +383,7 @@
     "name": "네이버제트",
     "organizations": [
       {
-        "followers": 33,
+        "followers": 34,
         "organization_id": "naverz",
         "public_repos": 10
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 36,
+        "followers": 35,
         "organization_id": "thefarmersfront",
         "public_repos": 8
       }
