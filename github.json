@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 529,
+        "followers": 531,
         "organization_id": "naver",
         "public_repos": 215
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 297,
+        "followers": 298,
         "organization_id": "Samsung",
         "public_repos": 155
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 76,
+        "followers": 77,
         "organization_id": "devsisters",
         "public_repos": 151
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 33,
+        "followers": 34,
         "organization_id": "ridi",
         "public_repos": 123
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 336,
+        "followers": 338,
         "organization_id": "line",
         "public_repos": 109
       }
@@ -83,9 +83,9 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 308,
+        "followers": 310,
         "organization_id": "daangn",
-        "public_repos": 104
+        "public_repos": 103
       }
     ]
   },
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 249,
+        "followers": 251,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -153,7 +153,7 @@
     "name": "버즈빌",
     "organizations": [
       {
-        "followers": 10,
+        "followers": 11,
         "organization_id": "Buzzvil",
         "public_repos": 55
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 184,
+        "followers": 185,
         "organization_id": "kakao",
         "public_repos": 50
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 224,
+        "followers": 225,
         "organization_id": "toss",
         "public_repos": 23
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 41,
+        "followers": 42,
         "organization_id": "moloco",
         "public_repos": 11
       }
