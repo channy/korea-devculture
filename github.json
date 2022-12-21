@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 531,
+        "followers": 533,
         "organization_id": "naver",
         "public_repos": 215
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 298,
+        "followers": 303,
         "organization_id": "Samsung",
         "public_repos": 155
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 338,
+        "followers": 341,
         "organization_id": "line",
         "public_repos": 109
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 251,
+        "followers": 252,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 185,
+        "followers": 186,
         "organization_id": "kakao",
         "public_repos": 50
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 240,
+        "followers": 241,
         "organization_id": "kakaobrain",
         "public_repos": 33
       }
@@ -193,7 +193,7 @@
     "name": "그린랩스",
     "organizations": [
       {
-        "followers": 43,
+        "followers": 44,
         "organization_id": "green-labs",
         "public_repos": 29
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 47,
+        "followers": 48,
         "organization_id": "woowabros",
         "public_repos": 25
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 36,
+        "followers": 37,
         "organization_id": "bucketplace",
         "public_repos": 23
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 225,
+        "followers": 227,
         "organization_id": "toss",
         "public_repos": 23
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 15,
+        "followers": 16,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -323,7 +323,7 @@
     "name": "VCNC",
     "organizations": [
       {
-        "followers": 8,
+        "followers": 9,
         "organization_id": "VCNC",
         "public_repos": 14
       }
@@ -520,7 +520,7 @@
       {
         "followers": 7,
         "organization_id": "musinsa",
-        "public_repos": 3
+        "public_repos": 1
       }
     ]
   },
@@ -595,7 +595,7 @@
       {
         "followers": 65,
         "organization_id": "planetarium",
-        "public_repos": 90
+        "public_repos": 92
       }
     ]
   },
