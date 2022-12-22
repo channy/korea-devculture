@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 533,
+        "followers": 534,
         "organization_id": "naver",
         "public_repos": 215
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 310,
+        "followers": 311,
         "organization_id": "daangn",
         "public_repos": 103
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 252,
+        "followers": 253,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 186,
+        "followers": 188,
         "organization_id": "kakao",
         "public_repos": 50
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 241,
+        "followers": 246,
         "organization_id": "kakaobrain",
         "public_repos": 33
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 48,
+        "followers": 49,
         "organization_id": "woowabros",
         "public_repos": 25
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 43,
+        "followers": 44,
         "organization_id": "ncsoft",
         "public_repos": 27
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 227,
+        "followers": 228,
         "organization_id": "toss",
         "public_repos": 23
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 42,
+        "followers": 43,
         "organization_id": "moloco",
         "public_repos": 11
       }
