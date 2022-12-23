@@ -3,7 +3,7 @@
     "name": "티맥스클라우드",
     "organizations": [
       {
-        "followers": 19,
+        "followers": 20,
         "organization_id": "tmax-cloud",
         "public_repos": 250
       }
@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 534,
+        "followers": 535,
         "organization_id": "naver",
         "public_repos": 215
       }
@@ -45,7 +45,7 @@
       {
         "followers": 73,
         "organization_id": "sendbird",
-        "public_repos": 155
+        "public_repos": 158
       }
     ]
   },
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 34,
+        "followers": 35,
         "organization_id": "ridi",
         "public_repos": 123
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 341,
+        "followers": 342,
         "organization_id": "line",
         "public_repos": 109
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 253,
+        "followers": 254,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 25,
+        "followers": 26,
         "organization_id": "lablup",
         "public_repos": 103
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 188,
+        "followers": 189,
         "organization_id": "kakao",
         "public_repos": 50
       }
@@ -195,7 +195,7 @@
       {
         "followers": 44,
         "organization_id": "green-labs",
-        "public_repos": 29
+        "public_repos": 30
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 228,
+        "followers": 230,
         "organization_id": "toss",
         "public_repos": 23
       }
@@ -303,7 +303,7 @@
     "name": "드라마앤컴퍼니",
     "organizations": [
       {
-        "followers": 7,
+        "followers": 8,
         "organization_id": "dramancompany",
         "public_repos": 16
       }
