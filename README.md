@@ -17,11 +17,11 @@
 | 네이버 | 215 | 535 | https://github.com/naver |
 | 인베슘 | 170 | 15 | https://github.com/hamonikr |
 | 센드버드 | 158 | 73 | https://github.com/sendbird |
-| 삼성전자 | 155 | 305 | https://github.com/Samsung |
+| 삼성전자 | 155 | 306 | https://github.com/Samsung |
 | 데브시스터즈 | 151 | 77 | https://github.com/devsisters |
 | 리디 | 123 | 35 | https://github.com/ridi |
 | 라인 | 109 | 343 | https://github.com/line |
-| NHN | 104 | 256 | https://github.com/nhn |
+| NHN | 104 | 258 | https://github.com/nhn |
 | 당근마켓 | 103 | 313 | https://github.com/daangn |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->
