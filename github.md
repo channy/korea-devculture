@@ -10,9 +10,9 @@
 | 인베슘 | 170 | 15 | https://github.com/hamonikr |
 | 삼성전자 | 155 | 306 | https://github.com/Samsung |
 | 센드버드 | 158 | 73 | https://github.com/sendbird |
-| 데브시스터즈 | 151 | 77 | https://github.com/devsisters |
+| 데브시스터즈 | 151 | 79 | https://github.com/devsisters |
 | 리디 | 123 | 35 | https://github.com/ridi |
-| 라인 | 109 | 343 | https://github.com/line |
+| 라인 | 109 | 344 | https://github.com/line |
 | 당근마켓 | 103 | 313 | https://github.com/daangn |
 | NHN | 104 | 258 | https://github.com/nhn |
 | 래블업 | 103 | 26 | https://github.com/lablup |
@@ -38,10 +38,10 @@
 | 야놀자 | 19 | 6 | https://github.com/yanolja |
 | VCNC | 14 | 9 | https://github.com/VCNC |
 | 다나와 | 19 | 5 | https://github.com/danawalab |
-| 뱅크샐러드 | 14 | 56 | https://github.com/banksalad |
+| 뱅크샐러드 | 14 | 57 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 12 | 39 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 12 | 20 | https://github.com/dealicious-inc |
-| 몰로코 | 11 | 43 | https://github.com/moloco |
+| 몰로코 | 11 | 44 | https://github.com/moloco |
 | 네이버제트 | 10 | 34 | https://github.com/naverz |
 | SK텔레콤 | 4 | 9 | https://github.com/sktelecom |
 | 컬리 | 8 | 35 | https://github.com/thefarmersfront |
@@ -53,7 +53,7 @@
 | 가비아 | 5 | 1 | https://github.com/gabia |
 | 힐링페이퍼 | 4 | 8 | https://github.com/healingpaper |
 | 11번가 | 4 | 8 | https://github.com/11st-corp |
-| 줌인터넷 | 4 | 5 | https://github.com/zuminternet |
+| 줌인터넷 | 4 | 6 | https://github.com/zuminternet |
 | 네이버랩스 | 3 | 9 | https://github.com/naverlabs |
 | 무신사 | 1 | 7 | https://github.com/musinsa |
 | SK | 3 | 1 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (3) |
