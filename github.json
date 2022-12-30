@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 540,
+        "followers": 541,
         "organization_id": "naver",
         "public_repos": 215
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 311,
+        "followers": 312,
         "organization_id": "Samsung",
         "public_repos": 156
       }
@@ -55,7 +55,7 @@
       {
         "followers": 80,
         "organization_id": "devsisters",
-        "public_repos": 151
+        "public_repos": 152
       }
     ]
   },
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 316,
+        "followers": 314,
         "organization_id": "daangn",
         "public_repos": 103
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 264,
+        "followers": 267,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -143,7 +143,7 @@
     "name": "뤼이드",
     "organizations": [
       {
-        "followers": 26,
+        "followers": 27,
         "organization_id": "riiid",
         "public_repos": 54
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 190,
+        "followers": 189,
         "organization_id": "kakao",
         "public_repos": 50
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 250,
+        "followers": 251,
         "organization_id": "kakaobrain",
         "public_repos": 35
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 29,
+        "followers": 30,
         "organization_id": "socar-inc",
         "public_repos": 25
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 234,
+        "followers": 233,
         "organization_id": "toss",
         "public_repos": 23
       }
@@ -490,7 +490,7 @@
       {
         "followers": 8,
         "organization_id": "11st-corp",
-        "public_repos": 4
+        "public_repos": 5
       }
     ]
   },
@@ -595,7 +595,7 @@
       {
         "followers": 68,
         "organization_id": "planetarium",
-        "public_repos": 93
+        "public_repos": 95
       }
     ]
   },
