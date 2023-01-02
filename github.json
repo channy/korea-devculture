@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 540,
+        "followers": 543,
         "organization_id": "naver",
         "public_repos": 215
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 313,
+        "followers": 314,
         "organization_id": "Samsung",
         "public_repos": 156
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 352,
+        "followers": 353,
         "organization_id": "line",
         "public_repos": 110
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 315,
+        "followers": 316,
         "organization_id": "daangn",
         "public_repos": 103
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 268,
+        "followers": 271,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 251,
+        "followers": 252,
         "organization_id": "kakaobrain",
         "public_repos": 35
       }
@@ -245,7 +245,7 @@
       {
         "followers": 44,
         "organization_id": "ncsoft",
-        "public_repos": 27
+        "public_repos": 28
       }
     ]
   },
@@ -353,7 +353,7 @@
     "name": "카카오엔터프라이즈",
     "organizations": [
       {
-        "followers": 41,
+        "followers": 42,
         "organization_id": "kakaoenterprise",
         "public_repos": 13
       }
@@ -543,7 +543,7 @@
     "name": "카카오페이",
     "organizations": [
       {
-        "followers": 4,
+        "followers": 5,
         "organization_id": "kakaopay",
         "public_repos": 1
       }
@@ -583,7 +583,7 @@
     "name": "카카오헤어샵",
     "organizations": [
       {
-        "followers": 6,
+        "followers": 7,
         "organization_id": "kakaohairshop",
         "public_repos": 12
       }
