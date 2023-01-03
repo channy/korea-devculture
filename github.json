@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 543,
+        "followers": 545,
         "organization_id": "naver",
         "public_repos": 215
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 314,
+        "followers": 315,
         "organization_id": "Samsung",
         "public_repos": 156
       }
@@ -73,9 +73,9 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 353,
+        "followers": 355,
         "organization_id": "line",
-        "public_repos": 110
+        "public_repos": 111
       }
     ]
   },
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 316,
+        "followers": 318,
         "organization_id": "daangn",
         "public_repos": 103
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 252,
+        "followers": 254,
         "organization_id": "kakaobrain",
         "public_repos": 35
       }
@@ -203,7 +203,7 @@
     "name": "직방",
     "organizations": [
       {
-        "followers": 23,
+        "followers": 24,
         "organization_id": "zigbang",
         "public_repos": 26
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 49,
+        "followers": 50,
         "organization_id": "woowabros",
         "public_repos": 25
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 44,
+        "followers": 45,
         "organization_id": "ncsoft",
         "public_repos": 28
       }
