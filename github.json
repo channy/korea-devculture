@@ -5,7 +5,7 @@
       {
         "followers": 22,
         "organization_id": "tmax-cloud",
-        "public_repos": 251
+        "public_repos": 252
       }
     ]
   },
@@ -13,9 +13,9 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 545,
+        "followers": 547,
         "organization_id": "naver",
-        "public_repos": 215
+        "public_repos": 216
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 315,
+        "followers": 316,
         "organization_id": "Samsung",
         "public_repos": 156
       }
@@ -45,7 +45,7 @@
       {
         "followers": 73,
         "organization_id": "sendbird",
-        "public_repos": 158
+        "public_repos": 160
       }
     ]
   },
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 80,
+        "followers": 81,
         "organization_id": "devsisters",
         "public_repos": 152
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 355,
+        "followers": 356,
         "organization_id": "line",
         "public_repos": 111
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 318,
+        "followers": 319,
         "organization_id": "daangn",
         "public_repos": 103
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 271,
+        "followers": 272,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 254,
+        "followers": 255,
         "organization_id": "kakaobrain",
         "public_repos": 35
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 29,
+        "followers": 30,
         "organization_id": "LGE-OSS",
         "public_repos": 18
       }
@@ -323,7 +323,7 @@
     "name": "VCNC",
     "organizations": [
       {
-        "followers": 9,
+        "followers": 10,
         "organization_id": "VCNC",
         "public_repos": 14
       }
@@ -335,7 +335,7 @@
       {
         "followers": 5,
         "organization_id": "danawalab",
-        "public_repos": 19
+        "public_repos": 20
       }
     ]
   },
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 44,
+        "followers": 45,
         "organization_id": "moloco",
         "public_repos": 11
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 35,
+        "followers": 36,
         "organization_id": "thefarmersfront",
         "public_repos": 8
       }
@@ -593,9 +593,9 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 68,
+        "followers": 69,
         "organization_id": "planetarium",
-        "public_repos": 95
+        "public_repos": 96
       }
     ]
   },
