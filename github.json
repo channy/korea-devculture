@@ -15,7 +15,7 @@
       {
         "followers": 547,
         "organization_id": "naver",
-        "public_repos": 216
+        "public_repos": 217
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 316,
+        "followers": 320,
         "organization_id": "Samsung",
         "public_repos": 156
       }
@@ -45,7 +45,7 @@
       {
         "followers": 73,
         "organization_id": "sendbird",
-        "public_repos": 160
+        "public_repos": 159
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 356,
+        "followers": 357,
         "organization_id": "line",
         "public_repos": 111
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 255,
+        "followers": 256,
         "organization_id": "kakaobrain",
         "public_repos": 35
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 50,
+        "followers": 51,
         "organization_id": "woowabros",
         "public_repos": 25
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 234,
+        "followers": 238,
         "organization_id": "toss",
         "public_repos": 23
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 36,
+        "followers": 37,
         "organization_id": "thefarmersfront",
         "public_repos": 8
       }
@@ -433,7 +433,7 @@
     "name": "현대자동차",
     "organizations": [
       {
-        "followers": 24,
+        "followers": 26,
         "organization_id": "hkmc-airlab",
         "public_repos": 4
       },
@@ -448,7 +448,7 @@
     "name": "포스코ICT",
     "organizations": [
       {
-        "followers": 4,
+        "followers": 5,
         "organization_id": "poscoict-glueframework",
         "public_repos": 9
       }
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 36,
+        "followers": 37,
         "organization_id": "yogiyo",
         "public_repos": 6
       }
