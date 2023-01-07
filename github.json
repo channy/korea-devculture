@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 548,
+        "followers": 549,
         "organization_id": "naver",
         "public_repos": 217
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 73,
+        "followers": 74,
         "organization_id": "sendbird",
         "public_repos": 159
       }
@@ -53,9 +53,9 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 82,
+        "followers": 83,
         "organization_id": "devsisters",
-        "public_repos": 152
+        "public_repos": 153
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 359,
+        "followers": 362,
         "organization_id": "line",
         "public_repos": 111
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 321,
+        "followers": 323,
         "organization_id": "daangn",
         "public_repos": 99
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 274,
+        "followers": 275,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 191,
+        "followers": 192,
         "organization_id": "kakao",
         "public_repos": 50
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 256,
+        "followers": 258,
         "organization_id": "kakaobrain",
         "public_repos": 35
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 51,
+        "followers": 52,
         "organization_id": "woowabros",
         "public_repos": 25
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 45,
+        "followers": 46,
         "organization_id": "moloco",
         "public_repos": 11
       }
@@ -393,7 +393,7 @@
     "name": "SK텔레콤",
     "organizations": [
       {
-        "followers": 9,
+        "followers": 10,
         "organization_id": "sktelecom",
         "public_repos": 4
       }
