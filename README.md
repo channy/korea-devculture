@@ -16,11 +16,11 @@
 | 티맥스클라우드 | 252 | 22 | https://github.com/tmax-cloud |
 | 네이버 | 217 | 549 | https://github.com/naver |
 | 인베슘 | 171 | 15 | https://github.com/hamonikr |
-| 센드버드 | 159 | 74 | https://github.com/sendbird |
-| 삼성전자 | 156 | 322 | https://github.com/Samsung |
-| 데브시스터즈 | 153 | 82 | https://github.com/devsisters |
-| 리디 | 124 | 36 | https://github.com/ridi |
-| 라인 | 111 | 364 | https://github.com/line |
+| 센드버드 | 159 | 75 | https://github.com/sendbird |
+| 삼성전자 | 156 | 323 | https://github.com/Samsung |
+| 데브시스터즈 | 153 | 83 | https://github.com/devsisters |
+| 리디 | 124 | 37 | https://github.com/ridi |
+| 라인 | 112 | 364 | https://github.com/line |
 | NHN | 104 | 275 | https://github.com/nhn |
 | 래블업 | 103 | 29 | https://github.com/lablup |
 
