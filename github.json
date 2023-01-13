@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 558,
+        "followers": 560,
         "organization_id": "naver",
         "public_repos": 217
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 325,
+        "followers": 327,
         "organization_id": "Samsung",
         "public_repos": 157
       }
@@ -45,7 +45,7 @@
       {
         "followers": 77,
         "organization_id": "sendbird",
-        "public_repos": 159
+        "public_repos": 160
       }
     ]
   },
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 84,
+        "followers": 85,
         "organization_id": "devsisters",
         "public_repos": 153
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 37,
+        "followers": 38,
         "organization_id": "ridi",
         "public_repos": 124
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 371,
+        "followers": 372,
         "organization_id": "line",
         "public_repos": 112
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 196,
+        "followers": 200,
         "organization_id": "kakao",
         "public_repos": 51
       }
@@ -183,9 +183,9 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 258,
+        "followers": 259,
         "organization_id": "kakaobrain",
-        "public_repos": 35
+        "public_repos": 36
       }
     ]
   },
@@ -193,7 +193,7 @@
     "name": "그린랩스",
     "organizations": [
       {
-        "followers": 47,
+        "followers": 48,
         "organization_id": "green-labs",
         "public_repos": 30
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 241,
+        "followers": 242,
         "organization_id": "toss",
         "public_repos": 23
       }
@@ -353,7 +353,7 @@
     "name": "카카오엔터프라이즈",
     "organizations": [
       {
-        "followers": 42,
+        "followers": 43,
         "organization_id": "kakaoenterprise",
         "public_repos": 13
       }
