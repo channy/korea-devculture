@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 560,
+        "followers": 562,
         "organization_id": "naver",
         "public_repos": 217
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 327,
+        "followers": 328,
         "organization_id": "Samsung",
         "public_repos": 157
       }
@@ -55,7 +55,7 @@
       {
         "followers": 85,
         "organization_id": "devsisters",
-        "public_repos": 153
+        "public_repos": 154
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 372,
+        "followers": 373,
         "organization_id": "line",
         "public_repos": 112
       }
@@ -193,7 +193,7 @@
     "name": "그린랩스",
     "organizations": [
       {
-        "followers": 48,
+        "followers": 47,
         "organization_id": "green-labs",
         "public_repos": 30
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 242,
+        "followers": 243,
         "organization_id": "toss",
         "public_repos": 23
       }
@@ -303,7 +303,7 @@
     "name": "드라마앤컴퍼니",
     "organizations": [
       {
-        "followers": 9,
+        "followers": 10,
         "organization_id": "dramancompany",
         "public_repos": 16
       }
@@ -383,7 +383,7 @@
     "name": "네이버제트",
     "organizations": [
       {
-        "followers": 35,
+        "followers": 36,
         "organization_id": "naverz",
         "public_repos": 10
       }
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 38,
+        "followers": 39,
         "organization_id": "yogiyo",
         "public_repos": 6
       }
