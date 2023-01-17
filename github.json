@@ -15,7 +15,7 @@
       {
         "followers": 562,
         "organization_id": "naver",
-        "public_repos": 217
+        "public_repos": 218
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 329,
+        "followers": 330,
         "organization_id": "Samsung",
         "public_repos": 157
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 86,
+        "followers": 87,
         "organization_id": "devsisters",
         "public_repos": 154
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 281,
+        "followers": 283,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -105,7 +105,7 @@
       {
         "followers": 29,
         "organization_id": "lablup",
-        "public_repos": 103
+        "public_repos": 104
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 200,
+        "followers": 201,
         "organization_id": "kakao",
         "public_repos": 51
       }
@@ -243,9 +243,9 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 46,
+        "followers": 45,
         "organization_id": "ncsoft",
-        "public_repos": 29
+        "public_repos": 30
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 244,
+        "followers": 245,
         "organization_id": "toss",
         "public_repos": 23
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 29,
+        "followers": 30,
         "organization_id": "LGE-OSS",
         "public_repos": 18
       }
@@ -393,7 +393,7 @@
     "name": "SK텔레콤",
     "organizations": [
       {
-        "followers": 11,
+        "followers": 12,
         "organization_id": "sktelecom",
         "public_repos": 4
       }
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 40,
+        "followers": 41,
         "organization_id": "yogiyo",
         "public_repos": 6
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 70,
+        "followers": 71,
         "organization_id": "planetarium",
         "public_repos": 97
       }
@@ -625,7 +625,7 @@
       {
         "followers": 5,
         "organization_id": "SkelterLabsInc",
-        "public_repos": 14
+        "public_repos": 11
       }
     ]
   }
