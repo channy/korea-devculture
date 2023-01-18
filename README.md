@@ -20,8 +20,8 @@
 | 삼성전자 | 157 | 330 | https://github.com/Samsung |
 | 데브시스터즈 | 154 | 87 | https://github.com/devsisters |
 | 리디 | 124 | 38 | https://github.com/ridi |
-| 라인 | 112 | 377 | https://github.com/line |
-| NHN | 104 | 283 | https://github.com/nhn |
+| 라인 | 112 | 378 | https://github.com/line |
+| NHN | 104 | 286 | https://github.com/nhn |
 | 래블업 | 104 | 29 | https://github.com/lablup |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->

@@ -12,20 +12,20 @@
 | 센드버드 | 160 | 77 | https://github.com/sendbird |
 | 데브시스터즈 | 154 | 87 | https://github.com/devsisters |
 | 리디 | 124 | 38 | https://github.com/ridi |
-| 라인 | 112 | 377 | https://github.com/line |
-| 당근마켓 | 99 | 324 | https://github.com/daangn |
-| NHN | 104 | 283 | https://github.com/nhn |
+| 라인 | 112 | 378 | https://github.com/line |
+| 당근마켓 | 100 | 325 | https://github.com/daangn |
+| NHN | 104 | 286 | https://github.com/nhn |
 | 래블업 | 104 | 29 | https://github.com/lablup |
 | 하이퍼커넥트 | 99 | 19 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 11 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 54 | 27 | https://github.com/riiid |
 | 버즈빌 | 55 | 11 | https://github.com/Buzzvil |
-| 카카오 | 51 | 201 | https://github.com/kakao |
-| 네이버클라우드 | 41 | 27 | https://github.com/NaverCloudPlatform |
+| 카카오 | 51 | 202 | https://github.com/kakao |
+| 네이버클라우드 | 42 | 27 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 36 | 260 | https://github.com/kakaobrain |
 | 그린랩스 | 30 | 47 | https://github.com/green-labs |
 | 직방 | 26 | 24 | https://github.com/zigbang |
-| 우아한형제들 | 25 | 53 | https://github.com/woowabros |
+| 우아한형제들 | 25 | 54 | https://github.com/woowabros |
 | 쏘카 | 25 | 31 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 24 | 5 | https://github.com/hancom-io |
 | 엔씨소프트 | 30 | 45 | https://github.com/ncsoft |
@@ -41,7 +41,7 @@
 | 뱅크샐러드 | 14 | 57 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 13 | 43 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 12 | 20 | https://github.com/dealicious-inc |
-| 몰로코 | 11 | 47 | https://github.com/moloco |
+| 몰로코 | 11 | 48 | https://github.com/moloco |
 | 네이버제트 | 10 | 36 | https://github.com/naverz |
 | SK텔레콤 | 4 | 12 | https://github.com/sktelecom |
 | 컬리 | 8 | 37 | https://github.com/thefarmersfront |
@@ -49,7 +49,7 @@
 | 메가존클라우드 | 8 | 1 | https://github.com/megazone-devops |
 | 현대자동차 | 6 | 34 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (2) |
 | 포스코ICT | 9 | 5 | https://github.com/poscoict-glueframework |
-| 요기요 | 6 | 41 | https://github.com/yogiyo |
+| 요기요 | 6 | 42 | https://github.com/yogiyo |
 | 가비아 | 5 | 1 | https://github.com/gabia |
 | 힐링페이퍼 | 4 | 8 | https://github.com/healingpaper |
 | 11번가 | 5 | 8 | https://github.com/11st-corp |
