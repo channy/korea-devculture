@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 562,
+        "followers": 565,
         "organization_id": "naver",
         "public_repos": 218
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 330,
+        "followers": 333,
         "organization_id": "Samsung",
         "public_repos": 157
       }
@@ -43,9 +43,9 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 77,
+        "followers": 78,
         "organization_id": "sendbird",
-        "public_repos": 160
+        "public_repos": 162
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 378,
+        "followers": 379,
         "organization_id": "line",
         "public_repos": 112
       }
@@ -105,7 +105,7 @@
       {
         "followers": 29,
         "organization_id": "lablup",
-        "public_repos": 104
+        "public_repos": 105
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 202,
+        "followers": 204,
         "organization_id": "kakao",
         "public_repos": 51
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 27,
+        "followers": 28,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 42
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 31,
+        "followers": 32,
         "organization_id": "socar-inc",
         "public_repos": 25
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 45,
+        "followers": 47,
         "organization_id": "ncsoft",
         "public_repos": 30
       }
@@ -345,7 +345,7 @@
       {
         "followers": 57,
         "organization_id": "banksalad",
-        "public_repos": 14
+        "public_repos": 15
       }
     ]
   },
@@ -623,7 +623,7 @@
     "name": "스켈터랩스",
     "organizations": [
       {
-        "followers": 5,
+        "followers": 6,
         "organization_id": "SkelterLabsInc",
         "public_repos": 11
       }
