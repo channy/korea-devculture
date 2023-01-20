@@ -6,30 +6,30 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 252 | 22 | https://github.com/tmax-cloud |
-| 네이버 | 218 | 565 | https://github.com/naver |
+| 네이버 | 218 | 566 | https://github.com/naver |
 | 인베슘 | 171 | 15 | https://github.com/hamonikr |
-| 삼성전자 | 157 | 333 | https://github.com/Samsung |
+| 삼성전자 | 157 | 334 | https://github.com/Samsung |
 | 센드버드 | 162 | 78 | https://github.com/sendbird |
-| 데브시스터즈 | 154 | 87 | https://github.com/devsisters |
+| 데브시스터즈 | 154 | 91 | https://github.com/devsisters |
 | 리디 | 124 | 38 | https://github.com/ridi |
-| 라인 | 112 | 379 | https://github.com/line |
+| 라인 | 113 | 381 | https://github.com/line |
 | 당근마켓 | 100 | 325 | https://github.com/daangn |
-| NHN | 104 | 286 | https://github.com/nhn |
+| NHN | 104 | 287 | https://github.com/nhn |
 | 래블업 | 105 | 29 | https://github.com/lablup |
 | 하이퍼커넥트 | 99 | 19 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 11 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 54 | 27 | https://github.com/riiid |
 | 버즈빌 | 55 | 11 | https://github.com/Buzzvil |
-| 카카오 | 51 | 204 | https://github.com/kakao |
+| 카카오 | 51 | 206 | https://github.com/kakao |
 | 네이버클라우드 | 42 | 28 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 36 | 260 | https://github.com/kakaobrain |
+| 카카오브레인 | 36 | 261 | https://github.com/kakaobrain |
 | 그린랩스 | 30 | 47 | https://github.com/green-labs |
 | 직방 | 26 | 24 | https://github.com/zigbang |
 | 우아한형제들 | 25 | 54 | https://github.com/woowabros |
 | 쏘카 | 25 | 32 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 24 | 5 | https://github.com/hancom-io |
-| 엔씨소프트 | 30 | 47 | https://github.com/ncsoft |
-| 버켓플레이스 | 23 | 37 | https://github.com/bucketplace |
+| 엔씨소프트 | 30 | 46 | https://github.com/ncsoft |
+| 버켓플레이스 | 23 | 38 | https://github.com/bucketplace |
 | 비바리퍼블리카 | 23 | 245 | https://github.com/toss |
 | 마이리얼트립 | 19 | 14 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 15 | https://github.com/coupang |
