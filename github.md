@@ -6,15 +6,15 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 252 | 22 | https://github.com/tmax-cloud |
-| 네이버 | 218 | 566 | https://github.com/naver |
+| 네이버 | 218 | 567 | https://github.com/naver |
 | 인베슘 | 171 | 15 | https://github.com/hamonikr |
-| 삼성전자 | 155 | 339 | https://github.com/Samsung |
+| 삼성전자 | 155 | 341 | https://github.com/Samsung |
 | 센드버드 | 162 | 78 | https://github.com/sendbird |
-| 데브시스터즈 | 154 | 91 | https://github.com/devsisters |
+| 데브시스터즈 | 154 | 92 | https://github.com/devsisters |
 | 리디 | 124 | 38 | https://github.com/ridi |
 | 라인 | 113 | 385 | https://github.com/line |
 | 당근마켓 | 100 | 324 | https://github.com/daangn |
-| NHN | 104 | 287 | https://github.com/nhn |
+| NHN | 104 | 288 | https://github.com/nhn |
 | 래블업 | 105 | 29 | https://github.com/lablup |
 | 하이퍼커넥트 | 99 | 19 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 11 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -28,7 +28,7 @@
 | 우아한형제들 | 25 | 54 | https://github.com/woowabros |
 | 쏘카 | 25 | 32 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 24 | 5 | https://github.com/hancom-io |
-| 엔씨소프트 | 30 | 47 | https://github.com/ncsoft |
+| 엔씨소프트 | 30 | 48 | https://github.com/ncsoft |
 | 버켓플레이스 | 23 | 38 | https://github.com/bucketplace |
 | 비바리퍼블리카 | 23 | 245 | https://github.com/toss |
 | 마이리얼트립 | 19 | 14 | https://github.com/myrealtrip |
@@ -39,7 +39,7 @@
 | VCNC | 14 | 10 | https://github.com/VCNC |
 | 다나와 | 21 | 5 | https://github.com/danawalab |
 | 뱅크샐러드 | 14 | 57 | https://github.com/banksalad |
-| 카카오엔터프라이즈 | 13 | 43 | https://github.com/kakaoenterprise |
+| 카카오엔터프라이즈 | 13 | 42 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 12 | 20 | https://github.com/dealicious-inc |
 | 몰로코 | 11 | 48 | https://github.com/moloco |
 | 네이버제트 | 10 | 36 | https://github.com/naverz |
@@ -54,7 +54,7 @@
 | 힐링페이퍼 | 4 | 8 | https://github.com/healingpaper |
 | 11번가 | 5 | 8 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 6 | https://github.com/zuminternet |
-| 네이버랩스 | 3 | 9 | https://github.com/naverlabs |
+| 네이버랩스 | 3 | 10 | https://github.com/naverlabs |
 | 무신사 | 1 | 7 | https://github.com/musinsa |
 | SK | 3 | 1 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (3) |
 | 카카오페이 | 1 | 5 | https://github.com/kakaopay |
