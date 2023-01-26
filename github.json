@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 569,
+        "followers": 572,
         "organization_id": "naver",
         "public_repos": 218
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 92,
+        "followers": 94,
         "organization_id": "devsisters",
         "public_repos": 154
       }
@@ -65,7 +65,7 @@
       {
         "followers": 38,
         "organization_id": "ridi",
-        "public_repos": 124
+        "public_repos": 122
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 389,
+        "followers": 391,
         "organization_id": "line",
         "public_repos": 113
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 289,
+        "followers": 290,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 204,
+        "followers": 205,
         "organization_id": "kakao",
         "public_repos": 51
       }
@@ -353,7 +353,7 @@
     "name": "카카오엔터프라이즈",
     "organizations": [
       {
-        "followers": 43,
+        "followers": 44,
         "organization_id": "kakaoenterprise",
         "public_repos": 13
       }
@@ -383,7 +383,7 @@
     "name": "네이버제트",
     "organizations": [
       {
-        "followers": 36,
+        "followers": 37,
         "organization_id": "naverz",
         "public_repos": 10
       }
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 42,
+        "followers": 43,
         "organization_id": "yogiyo",
         "public_repos": 6
       }
