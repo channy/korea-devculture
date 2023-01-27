@@ -5,15 +5,15 @@
 
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
-| 티맥스클라우드 | 252 | 22 | https://github.com/tmax-cloud |
-| 네이버 | 218 | 572 | https://github.com/naver |
+| 티맥스클라우드 | 253 | 22 | https://github.com/tmax-cloud |
+| 네이버 | 218 | 577 | https://github.com/naver |
 | 인베슘 | 171 | 15 | https://github.com/hamonikr |
 | 삼성전자 | 155 | 341 | https://github.com/Samsung |
 | 센드버드 | 162 | 78 | https://github.com/sendbird |
 | 데브시스터즈 | 154 | 94 | https://github.com/devsisters |
-| 리디 | 122 | 38 | https://github.com/ridi |
-| 라인 | 113 | 391 | https://github.com/line |
-| 당근마켓 | 100 | 326 | https://github.com/daangn |
+| 리디 | 116 | 38 | https://github.com/ridi |
+| 라인 | 113 | 393 | https://github.com/line |
+| 당근마켓 | 100 | 328 | https://github.com/daangn |
 | NHN | 104 | 290 | https://github.com/nhn |
 | 래블업 | 105 | 29 | https://github.com/lablup |
 | 하이퍼커넥트 | 99 | 19 | https://github.com/hyperconnect |
@@ -28,13 +28,13 @@
 | 우아한형제들 | 25 | 54 | https://github.com/woowabros |
 | 쏘카 | 25 | 32 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 24 | 5 | https://github.com/hancom-io |
-| 엔씨소프트 | 30 | 48 | https://github.com/ncsoft |
+| 엔씨소프트 | 31 | 51 | https://github.com/ncsoft |
 | 버켓플레이스 | 23 | 38 | https://github.com/bucketplace |
 | 비바리퍼블리카 | 23 | 246 | https://github.com/toss |
 | 마이리얼트립 | 19 | 14 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 15 | https://github.com/coupang |
 | LG전자 | 18 | 30 | https://github.com/LGE-OSS |
-| 드라마앤컴퍼니 | 16 | 10 | https://github.com/dramancompany |
+| 드라마앤컴퍼니 | 18 | 11 | https://github.com/dramancompany |
 | 야놀자 | 19 | 6 | https://github.com/yanolja |
 | VCNC | 14 | 10 | https://github.com/VCNC |
 | 다나와 | 21 | 5 | https://github.com/danawalab |
@@ -42,9 +42,9 @@
 | 카카오엔터프라이즈 | 13 | 44 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 12 | 20 | https://github.com/dealicious-inc |
 | 몰로코 | 11 | 48 | https://github.com/moloco |
-| 네이버제트 | 10 | 37 | https://github.com/naverz |
+| 네이버제트 | 10 | 39 | https://github.com/naverz |
 | SK텔레콤 | 4 | 12 | https://github.com/sktelecom |
-| 컬리 | 8 | 38 | https://github.com/thefarmersfront |
+| 컬리 | 8 | 37 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 1 | https://github.com/megazone-devops |
 | 현대자동차 | 6 | 34 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (2) |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 1 | https://github.com/Krafton |
 | 카카오뱅크 | 0 | 3 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 97 | 71 | https://github.com/planetarium |
+| 플라네타리움 | 97 | 73 | https://github.com/planetarium |
 | 큐브리드 | 38 | 12 | https://github.com/CUBRID |
 | 코클 | 6 | 7 | https://github.com/cochlearai |
 | 스켈터랩스 | 11 | 6 | https://github.com/SkelterLabsInc |

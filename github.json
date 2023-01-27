@@ -5,7 +5,7 @@
       {
         "followers": 22,
         "organization_id": "tmax-cloud",
-        "public_repos": 252
+        "public_repos": 253
       }
     ]
   },
@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 572,
+        "followers": 577,
         "organization_id": "naver",
         "public_repos": 218
       }
@@ -65,7 +65,7 @@
       {
         "followers": 38,
         "organization_id": "ridi",
-        "public_repos": 122
+        "public_repos": 116
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 391,
+        "followers": 393,
         "organization_id": "line",
         "public_repos": 113
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 326,
+        "followers": 328,
         "organization_id": "daangn",
         "public_repos": 100
       }
@@ -243,9 +243,9 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 48,
+        "followers": 51,
         "organization_id": "ncsoft",
-        "public_repos": 30
+        "public_repos": 31
       }
     ]
   },
@@ -303,9 +303,9 @@
     "name": "드라마앤컴퍼니",
     "organizations": [
       {
-        "followers": 10,
+        "followers": 11,
         "organization_id": "dramancompany",
-        "public_repos": 16
+        "public_repos": 18
       }
     ]
   },
@@ -383,7 +383,7 @@
     "name": "네이버제트",
     "organizations": [
       {
-        "followers": 37,
+        "followers": 39,
         "organization_id": "naverz",
         "public_repos": 10
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 38,
+        "followers": 37,
         "organization_id": "thefarmersfront",
         "public_repos": 8
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 71,
+        "followers": 73,
         "organization_id": "planetarium",
         "public_repos": 97
       }
