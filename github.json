@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 581,
+        "followers": 583,
         "organization_id": "naver",
         "public_repos": 218
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 343,
+        "followers": 344,
         "organization_id": "Samsung",
         "public_repos": 155
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 95,
+        "followers": 96,
         "organization_id": "devsisters",
         "public_repos": 155
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 293,
+        "followers": 295,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -163,9 +163,9 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 207,
+        "followers": 208,
         "organization_id": "kakao",
-        "public_repos": 51
+        "public_repos": 52
       }
     ]
   },
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 27,
+        "followers": 28,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 42
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 39,
+        "followers": 41,
         "organization_id": "bucketplace",
         "public_repos": 23
       }
@@ -263,9 +263,9 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 247,
+        "followers": 248,
         "organization_id": "toss",
-        "public_repos": 23
+        "public_repos": 24
       }
     ]
   },
@@ -335,7 +335,7 @@
       {
         "followers": 5,
         "organization_id": "danawalab",
-        "public_repos": 21
+        "public_repos": 18
       }
     ]
   },
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 73,
+        "followers": 74,
         "organization_id": "planetarium",
         "public_repos": 97
       }
