@@ -5,7 +5,7 @@
       {
         "followers": 22,
         "organization_id": "tmax-cloud",
-        "public_repos": 253
+        "public_repos": 254
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 348,
+        "followers": 349,
         "organization_id": "Samsung",
         "public_repos": 155
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 332,
+        "followers": 334,
         "organization_id": "daangn",
         "public_repos": 100
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 303,
+        "followers": 304,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 75,
+        "followers": 76,
         "organization_id": "planetarium",
         "public_repos": 97
       }

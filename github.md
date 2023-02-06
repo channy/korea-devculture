@@ -5,16 +5,16 @@
 
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
-| 티맥스클라우드 | 253 | 22 | https://github.com/tmax-cloud |
+| 티맥스클라우드 | 254 | 22 | https://github.com/tmax-cloud |
 | 네이버 | 219 | 591 | https://github.com/naver |
 | 인베슘 | 172 | 15 | https://github.com/hamonikr |
-| 삼성전자 | 155 | 348 | https://github.com/Samsung |
+| 삼성전자 | 155 | 349 | https://github.com/Samsung |
 | 센드버드 | 162 | 82 | https://github.com/sendbird |
 | 데브시스터즈 | 155 | 96 | https://github.com/devsisters |
 | 리디 | 115 | 39 | https://github.com/ridi |
 | 라인 | 113 | 399 | https://github.com/line |
-| 당근마켓 | 100 | 332 | https://github.com/daangn |
-| NHN | 104 | 303 | https://github.com/nhn |
+| 당근마켓 | 100 | 334 | https://github.com/daangn |
+| NHN | 104 | 304 | https://github.com/nhn |
 | 래블업 | 106 | 30 | https://github.com/lablup |
 | 하이퍼커넥트 | 40 | 19 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 11 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 1 | https://github.com/Krafton |
 | 카카오뱅크 | 0 | 3 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 97 | 75 | https://github.com/planetarium |
+| 플라네타리움 | 97 | 76 | https://github.com/planetarium |
 | 큐브리드 | 38 | 12 | https://github.com/CUBRID |
 | 코클 | 6 | 7 | https://github.com/cochlearai |
 | 스켈터랩스 | 11 | 6 | https://github.com/SkelterLabsInc |
