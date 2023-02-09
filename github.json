@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 596,
+        "followers": 599,
         "organization_id": "naver",
         "public_repos": 220
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 402,
+        "followers": 404,
         "organization_id": "line",
         "public_repos": 113
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 336,
+        "followers": 339,
         "organization_id": "daangn",
         "public_repos": 101
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 305,
+        "followers": 308,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -155,7 +155,7 @@
       {
         "followers": 11,
         "organization_id": "Buzzvil",
-        "public_repos": 55
+        "public_repos": 46
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 211,
+        "followers": 212,
         "organization_id": "kakao",
         "public_repos": 52
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 269,
+        "followers": 271,
         "organization_id": "kakaobrain",
         "public_repos": 37
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 258,
+        "followers": 261,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -343,7 +343,7 @@
     "name": "뱅크샐러드",
     "organizations": [
       {
-        "followers": 57,
+        "followers": 58,
         "organization_id": "banksalad",
         "public_repos": 14
       }
@@ -375,7 +375,7 @@
       {
         "followers": 50,
         "organization_id": "moloco",
-        "public_repos": 11
+        "public_repos": 12
       }
     ]
   },
@@ -595,7 +595,7 @@
       {
         "followers": 76,
         "organization_id": "planetarium",
-        "public_repos": 98
+        "public_repos": 99
       }
     ]
   },
