@@ -5,7 +5,7 @@
       {
         "followers": 22,
         "organization_id": "tmax-cloud",
-        "public_repos": 254
+        "public_repos": 255
       }
     ]
   },
@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 599,
+        "followers": 601,
         "organization_id": "naver",
         "public_repos": 220
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 39,
+        "followers": 40,
         "organization_id": "ridi",
         "public_repos": 115
       }
@@ -153,7 +153,7 @@
     "name": "버즈빌",
     "organizations": [
       {
-        "followers": 11,
+        "followers": 12,
         "organization_id": "Buzzvil",
         "public_repos": 46
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 212,
+        "followers": 213,
         "organization_id": "kakao",
         "public_repos": 52
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 271,
+        "followers": 272,
         "organization_id": "kakaobrain",
         "public_repos": 37
       }
@@ -193,7 +193,7 @@
     "name": "그린랩스",
     "organizations": [
       {
-        "followers": 49,
+        "followers": 50,
         "organization_id": "green-labs",
         "public_repos": 30
       }
@@ -215,7 +215,7 @@
       {
         "followers": 55,
         "organization_id": "woowabros",
-        "public_repos": 25
+        "public_repos": 22
       }
     ]
   },
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 40,
+        "followers": 41,
         "organization_id": "bucketplace",
         "public_repos": 23
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 261,
+        "followers": 262,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -315,7 +315,7 @@
       {
         "followers": 6,
         "organization_id": "yanolja",
-        "public_repos": 19
+        "public_repos": 20
       }
     ]
   },
@@ -383,7 +383,7 @@
     "name": "네이버제트",
     "organizations": [
       {
-        "followers": 39,
+        "followers": 40,
         "organization_id": "naverz",
         "public_repos": 10
       }
