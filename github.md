@@ -9,11 +9,11 @@
 | 네이버 | 220 | 601 | https://github.com/naver |
 | 인베슘 | 172 | 15 | https://github.com/hamonikr |
 | 삼성전자 | 155 | 350 | https://github.com/Samsung |
-| 센드버드 | 162 | 83 | https://github.com/sendbird |
+| 센드버드 | 162 | 84 | https://github.com/sendbird |
 | 데브시스터즈 | 155 | 98 | https://github.com/devsisters |
 | 리디 | 115 | 40 | https://github.com/ridi |
 | 라인 | 113 | 404 | https://github.com/line |
-| 당근마켓 | 101 | 339 | https://github.com/daangn |
+| 당근마켓 | 101 | 344 | https://github.com/daangn |
 | NHN | 104 | 308 | https://github.com/nhn |
 | 래블업 | 106 | 30 | https://github.com/lablup |
 | 하이퍼커넥트 | 40 | 19 | https://github.com/hyperconnect |
@@ -22,10 +22,10 @@
 | 버즈빌 | 46 | 12 | https://github.com/Buzzvil |
 | 카카오 | 52 | 213 | https://github.com/kakao |
 | 네이버클라우드 | 42 | 28 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 37 | 272 | https://github.com/kakaobrain |
+| 카카오브레인 | 37 | 273 | https://github.com/kakaobrain |
 | 그린랩스 | 30 | 50 | https://github.com/green-labs |
 | 직방 | 27 | 24 | https://github.com/zigbang |
-| 우아한형제들 | 22 | 55 | https://github.com/woowabros |
+| 우아한형제들 | 21 | 55 | https://github.com/woowabros |
 | 쏘카 | 25 | 33 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 24 | 5 | https://github.com/hancom-io |
 | 엔씨소프트 | 31 | 54 | https://github.com/ncsoft |
@@ -52,7 +52,7 @@
 | 요기요 | 6 | 43 | https://github.com/yogiyo |
 | 가비아 | 5 | 1 | https://github.com/gabia |
 | 힐링페이퍼 | 4 | 8 | https://github.com/healingpaper |
-| 11번가 | 5 | 8 | https://github.com/11st-corp |
+| 11번가 | 6 | 8 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 6 | https://github.com/zuminternet |
 | 네이버랩스 | 3 | 11 | https://github.com/naverlabs |
 | 무신사 | 1 | 7 | https://github.com/musinsa |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 1 | https://github.com/Krafton |
 | 카카오뱅크 | 0 | 4 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 99 | 76 | https://github.com/planetarium |
+| 플라네타리움 | 99 | 77 | https://github.com/planetarium |
 | 큐브리드 | 38 | 12 | https://github.com/CUBRID |
 | 코클 | 6 | 7 | https://github.com/cochlearai |
 | 스켈터랩스 | 11 | 6 | https://github.com/SkelterLabsInc |

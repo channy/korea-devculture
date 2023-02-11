@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 83,
+        "followers": 84,
         "organization_id": "sendbird",
         "public_repos": 162
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 339,
+        "followers": 344,
         "organization_id": "daangn",
         "public_repos": 101
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 272,
+        "followers": 273,
         "organization_id": "kakaobrain",
         "public_repos": 37
       }
@@ -215,7 +215,7 @@
       {
         "followers": 55,
         "organization_id": "woowabros",
-        "public_repos": 22
+        "public_repos": 21
       }
     ]
   },
@@ -490,7 +490,7 @@
       {
         "followers": 8,
         "organization_id": "11st-corp",
-        "public_repos": 5
+        "public_repos": 6
       }
     ]
   },
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 76,
+        "followers": 77,
         "organization_id": "planetarium",
         "public_repos": 99
       }
