@@ -3,7 +3,7 @@
     "name": "티맥스클라우드",
     "organizations": [
       {
-        "followers": 22,
+        "followers": 23,
         "organization_id": "tmax-cloud",
         "public_repos": 255
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 98,
+        "followers": 99,
         "organization_id": "devsisters",
         "public_repos": 155
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 404,
+        "followers": 406,
         "organization_id": "line",
         "public_repos": 113
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 307,
+        "followers": 309,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 213,
+        "followers": 215,
         "organization_id": "kakao",
         "public_repos": 52
       }
@@ -195,7 +195,7 @@
       {
         "followers": 50,
         "organization_id": "green-labs",
-        "public_repos": 30
+        "public_repos": 31
       }
     ]
   },
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 55,
+        "followers": 56,
         "organization_id": "ncsoft",
         "public_repos": 31
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 263,
+        "followers": 265,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -335,7 +335,7 @@
       {
         "followers": 5,
         "organization_id": "danawalab",
-        "public_repos": 19
+        "public_repos": 4
       }
     ]
   },
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 51,
+        "followers": 52,
         "organization_id": "moloco",
         "public_repos": 12
       }
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 43,
+        "followers": 44,
         "organization_id": "yogiyo",
         "public_repos": 6
       }
