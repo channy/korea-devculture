@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 605,
+        "followers": 608,
         "organization_id": "naver",
         "public_repos": 222
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 351,
+        "followers": 353,
         "organization_id": "Samsung",
         "public_repos": 155
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 410,
+        "followers": 411,
         "organization_id": "line",
         "public_repos": 113
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 347,
+        "followers": 348,
         "organization_id": "daangn",
         "public_repos": 101
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 217,
+        "followers": 218,
         "organization_id": "kakao",
         "public_repos": 52
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 277,
+        "followers": 279,
         "organization_id": "kakaobrain",
         "public_repos": 37
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 267,
+        "followers": 268,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 30,
+        "followers": 29,
         "organization_id": "LGE-OSS",
         "public_repos": 18
       }
@@ -315,7 +315,7 @@
       {
         "followers": 6,
         "organization_id": "yanolja",
-        "public_repos": 17
+        "public_repos": 18
       }
     ]
   },
@@ -433,7 +433,7 @@
     "name": "현대자동차",
     "organizations": [
       {
-        "followers": 26,
+        "followers": 25,
         "organization_id": "hkmc-airlab",
         "public_repos": 4
       },
@@ -488,7 +488,7 @@
     "name": "11번가",
     "organizations": [
       {
-        "followers": 8,
+        "followers": 9,
         "organization_id": "11st-corp",
         "public_repos": 6
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 77,
+        "followers": 78,
         "organization_id": "planetarium",
         "public_repos": 99
       }
