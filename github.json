@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 608,
+        "followers": 607,
         "organization_id": "naver",
         "public_repos": 222
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 353,
+        "followers": 354,
         "organization_id": "Samsung",
         "public_repos": 155
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 85,
+        "followers": 86,
         "organization_id": "sendbird",
         "public_repos": 162
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 40,
+        "followers": 42,
         "organization_id": "ridi",
         "public_repos": 115
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 411,
+        "followers": 414,
         "organization_id": "line",
         "public_repos": 113
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 312,
+        "followers": 313,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -143,7 +143,7 @@
     "name": "뤼이드",
     "organizations": [
       {
-        "followers": 27,
+        "followers": 29,
         "organization_id": "riiid",
         "public_repos": 54
       }
@@ -155,7 +155,7 @@
       {
         "followers": 12,
         "organization_id": "Buzzvil",
-        "public_repos": 46
+        "public_repos": 47
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 218,
+        "followers": 217,
         "organization_id": "kakao",
         "public_repos": 52
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 279,
+        "followers": 280,
         "organization_id": "kakaobrain",
         "public_repos": 37
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 55,
+        "followers": 57,
         "organization_id": "woowabros",
         "public_repos": 20
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 41,
+        "followers": 42,
         "organization_id": "bucketplace",
         "public_repos": 23
       }
@@ -543,7 +543,7 @@
     "name": "카카오페이",
     "organizations": [
       {
-        "followers": 5,
+        "followers": 6,
         "organization_id": "kakaopay",
         "public_repos": 1
       }
@@ -593,9 +593,9 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 78,
+        "followers": 81,
         "organization_id": "planetarium",
-        "public_repos": 99
+        "public_repos": 100
       }
     ]
   },
