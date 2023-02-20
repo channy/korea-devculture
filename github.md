@@ -6,23 +6,23 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 255 | 23 | https://github.com/tmax-cloud |
-| 네이버 | 222 | 607 | https://github.com/naver |
+| 네이버 | 222 | 606 | https://github.com/naver |
 | 인베슘 | 172 | 15 | https://github.com/hamonikr |
-| 삼성전자 | 155 | 354 | https://github.com/Samsung |
+| 삼성전자 | 155 | 355 | https://github.com/Samsung |
 | 센드버드 | 162 | 86 | https://github.com/sendbird |
-| 데브시스터즈 | 155 | 99 | https://github.com/devsisters |
+| 데브시스터즈 | 155 | 101 | https://github.com/devsisters |
 | 리디 | 115 | 42 | https://github.com/ridi |
-| 라인 | 113 | 414 | https://github.com/line |
+| 라인 | 113 | 415 | https://github.com/line |
 | 당근마켓 | 101 | 348 | https://github.com/daangn |
-| NHN | 104 | 313 | https://github.com/nhn |
-| 래블업 | 106 | 30 | https://github.com/lablup |
+| NHN | 104 | 314 | https://github.com/nhn |
+| 래블업 | 106 | 32 | https://github.com/lablup |
 | 하이퍼커넥트 | 40 | 19 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 11 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 54 | 29 | https://github.com/riiid |
 | 버즈빌 | 47 | 12 | https://github.com/Buzzvil |
 | 카카오 | 52 | 217 | https://github.com/kakao |
 | 네이버클라우드 | 42 | 28 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 37 | 280 | https://github.com/kakaobrain |
+| 카카오브레인 | 37 | 281 | https://github.com/kakaobrain |
 | 그린랩스 | 31 | 50 | https://github.com/green-labs |
 | 직방 | 28 | 25 | https://github.com/zigbang |
 | 우아한형제들 | 20 | 57 | https://github.com/woowabros |
