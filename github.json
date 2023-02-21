@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 606,
+        "followers": 608,
         "organization_id": "naver",
         "public_repos": 222
       }
@@ -45,7 +45,7 @@
       {
         "followers": 86,
         "organization_id": "sendbird",
-        "public_repos": 162
+        "public_repos": 163
       }
     ]
   },
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 348,
+        "followers": 349,
         "organization_id": "daangn",
         "public_repos": 101
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 314,
+        "followers": 316,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -155,7 +155,7 @@
       {
         "followers": 12,
         "organization_id": "Buzzvil",
-        "public_repos": 47
+        "public_repos": 46
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 217,
+        "followers": 218,
         "organization_id": "kakao",
         "public_repos": 52
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 281,
+        "followers": 283,
         "organization_id": "kakaobrain",
         "public_repos": 37
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 33,
+        "followers": 34,
         "organization_id": "socar-inc",
         "public_repos": 25
       }
@@ -245,7 +245,7 @@
       {
         "followers": 57,
         "organization_id": "ncsoft",
-        "public_repos": 31
+        "public_repos": 30
       }
     ]
   },
@@ -383,7 +383,7 @@
     "name": "네이버제트",
     "organizations": [
       {
-        "followers": 40,
+        "followers": 41,
         "organization_id": "naverz",
         "public_repos": 10
       }
@@ -595,7 +595,7 @@
       {
         "followers": 81,
         "organization_id": "planetarium",
-        "public_repos": 100
+        "public_repos": 101
       }
     ]
   },
