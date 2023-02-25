@@ -6,15 +6,15 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 255 | 23 | https://github.com/tmax-cloud |
-| 네이버 | 222 | 611 | https://github.com/naver |
+| 네이버 | 223 | 612 | https://github.com/naver |
 | 인베슘 | 172 | 14 | https://github.com/hamonikr |
-| 삼성전자 | 153 | 356 | https://github.com/Samsung |
+| 삼성전자 | 153 | 355 | https://github.com/Samsung |
 | 센드버드 | 163 | 86 | https://github.com/sendbird |
 | 데브시스터즈 | 156 | 104 | https://github.com/devsisters |
 | 리디 | 115 | 43 | https://github.com/ridi |
-| 라인 | 113 | 422 | https://github.com/line |
+| 라인 | 113 | 424 | https://github.com/line |
 | 당근마켓 | 101 | 351 | https://github.com/daangn |
-| NHN | 104 | 317 | https://github.com/nhn |
+| NHN | 104 | 319 | https://github.com/nhn |
 | 래블업 | 106 | 32 | https://github.com/lablup |
 | 하이퍼커넥트 | 40 | 19 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 11 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -38,7 +38,7 @@
 | 야놀자 | 18 | 6 | https://github.com/yanolja |
 | VCNC | 14 | 11 | https://github.com/VCNC |
 | 다나와 | 1 | 5 | https://github.com/danawalab |
-| 뱅크샐러드 | 14 | 58 | https://github.com/banksalad |
+| 뱅크샐러드 | 14 | 59 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 13 | 46 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 12 | 20 | https://github.com/dealicious-inc |
 | 몰로코 | 12 | 53 | https://github.com/moloco |
@@ -57,7 +57,7 @@
 | 네이버랩스 | 3 | 11 | https://github.com/naverlabs |
 | 무신사 | 1 | 7 | https://github.com/musinsa |
 | SK | 3 | 1 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (3) |
-| 카카오페이 | 1 | 8 | https://github.com/kakaopay |
+| 카카오페이 | 1 | 9 | https://github.com/kakaopay |
 | 신한은행 | 1 | 4 | https://github.com/Shinhan-Bank |
 | 크레프톤 | 0 | 1 | https://github.com/Krafton |
 | 카카오뱅크 | 0 | 4 | https://github.com/kakaobank |
