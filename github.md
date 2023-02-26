@@ -13,8 +13,8 @@
 | 데브시스터즈 | 156 | 104 | https://github.com/devsisters |
 | 리디 | 115 | 43 | https://github.com/ridi |
 | 라인 | 113 | 424 | https://github.com/line |
-| 당근마켓 | 101 | 351 | https://github.com/daangn |
-| NHN | 104 | 319 | https://github.com/nhn |
+| 당근마켓 | 101 | 352 | https://github.com/daangn |
+| NHN | 104 | 320 | https://github.com/nhn |
 | 래블업 | 106 | 32 | https://github.com/lablup |
 | 하이퍼커넥트 | 40 | 19 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 11 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -28,7 +28,7 @@
 | 우아한형제들 | 20 | 57 | https://github.com/woowabros |
 | 쏘카 | 25 | 34 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 24 | 5 | https://github.com/hancom-io |
-| 엔씨소프트 | 31 | 58 | https://github.com/ncsoft |
+| 엔씨소프트 | 31 | 57 | https://github.com/ncsoft |
 | 버켓플레이스 | 23 | 42 | https://github.com/bucketplace |
 | 비바리퍼블리카 | 24 | 269 | https://github.com/toss |
 | 마이리얼트립 | 19 | 14 | https://github.com/myrealtrip |

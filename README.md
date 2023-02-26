@@ -22,6 +22,6 @@
 | 리디 | 115 | 43 | https://github.com/ridi |
 | 라인 | 113 | 424 | https://github.com/line |
 | 래블업 | 106 | 32 | https://github.com/lablup |
-| NHN | 104 | 319 | https://github.com/nhn |
+| NHN | 104 | 320 | https://github.com/nhn |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->
