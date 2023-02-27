@@ -6,15 +6,15 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 255 | 23 | https://github.com/tmax-cloud |
-| 네이버 | 223 | 612 | https://github.com/naver |
+| 네이버 | 223 | 614 | https://github.com/naver |
 | 인베슘 | 172 | 14 | https://github.com/hamonikr |
-| 삼성전자 | 153 | 355 | https://github.com/Samsung |
+| 삼성전자 | 153 | 356 | https://github.com/Samsung |
 | 센드버드 | 163 | 86 | https://github.com/sendbird |
 | 데브시스터즈 | 156 | 104 | https://github.com/devsisters |
 | 리디 | 115 | 43 | https://github.com/ridi |
 | 라인 | 113 | 424 | https://github.com/line |
-| 당근마켓 | 101 | 352 | https://github.com/daangn |
-| NHN | 104 | 320 | https://github.com/nhn |
+| 당근마켓 | 101 | 353 | https://github.com/daangn |
+| NHN | 104 | 321 | https://github.com/nhn |
 | 래블업 | 106 | 32 | https://github.com/lablup |
 | 하이퍼커넥트 | 40 | 19 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 11 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -22,7 +22,7 @@
 | 버즈빌 | 46 | 12 | https://github.com/Buzzvil |
 | 카카오 | 52 | 218 | https://github.com/kakao |
 | 네이버클라우드 | 42 | 28 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 37 | 286 | https://github.com/kakaobrain |
+| 카카오브레인 | 37 | 287 | https://github.com/kakaobrain |
 | 그린랩스 | 31 | 49 | https://github.com/green-labs |
 | 직방 | 28 | 25 | https://github.com/zigbang |
 | 우아한형제들 | 20 | 57 | https://github.com/woowabros |
@@ -38,18 +38,18 @@
 | 야놀자 | 18 | 6 | https://github.com/yanolja |
 | VCNC | 14 | 11 | https://github.com/VCNC |
 | 다나와 | 1 | 5 | https://github.com/danawalab |
-| 뱅크샐러드 | 14 | 59 | https://github.com/banksalad |
+| 뱅크샐러드 | 14 | 60 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 13 | 46 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 12 | 20 | https://github.com/dealicious-inc |
 | 몰로코 | 12 | 53 | https://github.com/moloco |
 | 네이버제트 | 11 | 41 | https://github.com/naverz |
-| SK텔레콤 | 4 | 13 | https://github.com/sktelecom |
+| SK텔레콤 | 4 | 14 | https://github.com/sktelecom |
 | 컬리 | 8 | 38 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 1 | https://github.com/megazone-devops |
 | 현대자동차 | 6 | 33 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (2) |
 | 포스코ICT | 9 | 5 | https://github.com/poscoict-glueframework |
-| 요기요 | 6 | 45 | https://github.com/yogiyo |
+| 요기요 | 6 | 46 | https://github.com/yogiyo |
 | 가비아 | 5 | 1 | https://github.com/gabia |
 | 힐링페이퍼 | 4 | 8 | https://github.com/healingpaper |
 | 11번가 | 6 | 9 | https://github.com/11st-corp |
