@@ -5,7 +5,7 @@
       {
         "followers": 23,
         "organization_id": "tmax-cloud",
-        "public_repos": 255
+        "public_repos": 256
       }
     ]
   },
@@ -13,9 +13,9 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 617,
+        "followers": 626,
         "organization_id": "naver",
-        "public_repos": 224
+        "public_repos": 225
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 357,
+        "followers": 359,
         "organization_id": "Samsung",
         "public_repos": 153
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 425,
+        "followers": 426,
         "organization_id": "line",
         "public_repos": 113
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 353,
+        "followers": 354,
         "organization_id": "daangn",
         "public_repos": 101
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 218,
+        "followers": 220,
         "organization_id": "kakao",
         "public_repos": 52
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 28,
+        "followers": 29,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 42
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 287,
+        "followers": 288,
         "organization_id": "kakaobrain",
         "public_repos": 37
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 57,
+        "followers": 58,
         "organization_id": "woowabros",
         "public_repos": 20
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 269,
+        "followers": 270,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -383,7 +383,7 @@
     "name": "네이버제트",
     "organizations": [
       {
-        "followers": 41,
+        "followers": 42,
         "organization_id": "naverz",
         "public_repos": 11
       }
@@ -438,9 +438,9 @@
         "public_repos": 4
       },
       {
-        "followers": 9,
+        "followers": 12,
         "organization_id": "42dot",
-        "public_repos": 2
+        "public_repos": 3
       }
     ]
   },
