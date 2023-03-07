@@ -6,31 +6,31 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 256 | 23 | https://github.com/tmax-cloud |
-| 네이버 | 225 | 641 | https://github.com/naver |
-| 인베슘 | 172 | 14 | https://github.com/hamonikr |
-| 삼성전자 | 153 | 359 | https://github.com/Samsung |
-| 센드버드 | 163 | 87 | https://github.com/sendbird |
-| 데브시스터즈 | 156 | 102 | https://github.com/devsisters |
+| 네이버 | 225 | 646 | https://github.com/naver |
+| 인베슘 | 172 | 15 | https://github.com/hamonikr |
+| 삼성전자 | 153 | 360 | https://github.com/Samsung |
+| 센드버드 | 162 | 88 | https://github.com/sendbird |
+| 데브시스터즈 | 156 | 103 | https://github.com/devsisters |
 | 리디 | 115 | 45 | https://github.com/ridi |
-| 라인 | 113 | 432 | https://github.com/line |
-| 당근마켓 | 101 | 357 | https://github.com/daangn |
+| 라인 | 113 | 433 | https://github.com/line |
+| 당근마켓 | 101 | 358 | https://github.com/daangn |
 | NHN | 104 | 321 | https://github.com/nhn |
 | 래블업 | 106 | 32 | https://github.com/lablup |
 | 하이퍼커넥트 | 40 | 19 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 11 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 54 | 29 | https://github.com/riiid |
 | 버즈빌 | 46 | 12 | https://github.com/Buzzvil |
-| 카카오 | 52 | 223 | https://github.com/kakao |
+| 카카오 | 53 | 223 | https://github.com/kakao |
 | 네이버클라우드 | 42 | 31 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 37 | 290 | https://github.com/kakaobrain |
+| 카카오브레인 | 37 | 292 | https://github.com/kakaobrain |
 | 그린랩스 | 31 | 48 | https://github.com/green-labs |
 | 직방 | 28 | 26 | https://github.com/zigbang |
-| 우아한형제들 | 20 | 60 | https://github.com/woowabros |
-| 쏘카 | 25 | 34 | https://github.com/socar-inc |
+| 우아한형제들 | 19 | 60 | https://github.com/woowabros |
+| 쏘카 | 25 | 35 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 24 | 5 | https://github.com/hancom-io |
-| 엔씨소프트 | 31 | 57 | https://github.com/ncsoft |
+| 엔씨소프트 | 31 | 58 | https://github.com/ncsoft |
 | 버켓플레이스 | 23 | 43 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 24 | 272 | https://github.com/toss |
+| 비바리퍼블리카 | 24 | 273 | https://github.com/toss |
 | 마이리얼트립 | 19 | 14 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 15 | https://github.com/coupang |
 | LG전자 | 18 | 30 | https://github.com/LGE-OSS |
