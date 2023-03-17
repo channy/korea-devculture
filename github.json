@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 666,
+        "followers": 671,
         "organization_id": "naver",
         "public_repos": 226
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 372,
+        "followers": 374,
         "organization_id": "Samsung",
         "public_repos": 154
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 93,
+        "followers": 94,
         "organization_id": "sendbird",
         "public_repos": 162
       }
@@ -55,7 +55,7 @@
       {
         "followers": 105,
         "organization_id": "devsisters",
-        "public_repos": 156
+        "public_repos": 155
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 449,
+        "followers": 450,
         "organization_id": "line",
         "public_repos": 114
       }
@@ -145,7 +145,7 @@
       {
         "followers": 29,
         "organization_id": "riiid",
-        "public_repos": 54
+        "public_repos": 53
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 230,
+        "followers": 232,
         "organization_id": "kakao",
         "public_repos": 53
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 294,
+        "followers": 295,
         "organization_id": "kakaobrain",
         "public_repos": 37
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 275,
+        "followers": 276,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -313,7 +313,7 @@
     "name": "야놀자",
     "organizations": [
       {
-        "followers": 6,
+        "followers": 7,
         "organization_id": "yanolja",
         "public_repos": 19
       }
@@ -343,7 +343,7 @@
     "name": "뱅크샐러드",
     "organizations": [
       {
-        "followers": 60,
+        "followers": 61,
         "organization_id": "banksalad",
         "public_repos": 14
       }
