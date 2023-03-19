@@ -13,16 +13,16 @@
 | 데브시스터즈 | 155 | 105 | https://github.com/devsisters |
 | 리디 | 115 | 47 | https://github.com/ridi |
 | 라인 | 114 | 451 | https://github.com/line |
-| 당근마켓 | 102 | 364 | https://github.com/daangn |
+| 당근마켓 | 102 | 365 | https://github.com/daangn |
 | NHN | 104 | 333 | https://github.com/nhn |
 | 래블업 | 106 | 33 | https://github.com/lablup |
-| 하이퍼커넥트 | 40 | 19 | https://github.com/hyperconnect |
+| 하이퍼커넥트 | 40 | 20 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 11 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 53 | 29 | https://github.com/riiid |
 | 버즈빌 | 46 | 12 | https://github.com/Buzzvil |
 | 카카오 | 53 | 233 | https://github.com/kakao |
 | 네이버클라우드 | 43 | 32 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 37 | 295 | https://github.com/kakaobrain |
+| 카카오브레인 | 37 | 294 | https://github.com/kakaobrain |
 | 그린랩스 | 31 | 47 | https://github.com/green-labs |
 | 직방 | 28 | 25 | https://github.com/zigbang |
 | 우아한형제들 | 19 | 62 | https://github.com/woowabros |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 1 | https://github.com/Krafton |
 | 카카오뱅크 | 0 | 3 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 104 | 84 | https://github.com/planetarium |
+| 플라네타리움 | 104 | 85 | https://github.com/planetarium |
 | 큐브리드 | 40 | 12 | https://github.com/CUBRID |
 | 코클 | 6 | 7 | https://github.com/cochlearai |
 | 스켈터랩스 | 11 | 6 | https://github.com/SkelterLabsInc |
