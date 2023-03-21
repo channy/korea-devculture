@@ -13,9 +13,9 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 679,
+        "followers": 683,
         "organization_id": "naver",
-        "public_repos": 226
+        "public_repos": 227
       }
     ]
   },
@@ -23,7 +23,7 @@
     "name": "인베슘",
     "organizations": [
       {
-        "followers": 15,
+        "followers": 16,
         "organization_id": "hamonikr",
         "public_repos": 172
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 453,
+        "followers": 454,
         "organization_id": "line",
         "public_repos": 114
       }
@@ -105,7 +105,7 @@
       {
         "followers": 33,
         "organization_id": "lablup",
-        "public_repos": 106
+        "public_repos": 107
       }
     ]
   },
@@ -145,7 +145,7 @@
       {
         "followers": 29,
         "organization_id": "riiid",
-        "public_repos": 53
+        "public_repos": 54
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 234,
+        "followers": 235,
         "organization_id": "kakao",
         "public_repos": 53
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 295,
+        "followers": 298,
         "organization_id": "kakaobrain",
         "public_repos": 37
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 280,
+        "followers": 282,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 32,
+        "followers": 33,
         "organization_id": "LGE-OSS",
         "public_repos": 19
       }
@@ -313,7 +313,7 @@
     "name": "야놀자",
     "organizations": [
       {
-        "followers": 7,
+        "followers": 8,
         "organization_id": "yanolja",
         "public_repos": 19
       }
@@ -343,7 +343,7 @@
     "name": "뱅크샐러드",
     "organizations": [
       {
-        "followers": 61,
+        "followers": 60,
         "organization_id": "banksalad",
         "public_repos": 14
       }
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 46,
+        "followers": 47,
         "organization_id": "yogiyo",
         "public_repos": 6
       }
