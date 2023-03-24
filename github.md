@@ -6,13 +6,13 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 256 | 25 | https://github.com/tmax-cloud |
-| 네이버 | 227 | 688 | https://github.com/naver |
+| 네이버 | 227 | 690 | https://github.com/naver |
 | 인베슘 | 172 | 16 | https://github.com/hamonikr |
 | 삼성전자 | 154 | 381 | https://github.com/Samsung |
 | 센드버드 | 162 | 94 | https://github.com/sendbird |
 | 데브시스터즈 | 156 | 105 | https://github.com/devsisters |
 | 리디 | 115 | 48 | https://github.com/ridi |
-| 라인 | 114 | 456 | https://github.com/line |
+| 라인 | 114 | 457 | https://github.com/line |
 | 당근마켓 | 102 | 365 | https://github.com/daangn |
 | NHN | 104 | 337 | https://github.com/nhn |
 | 래블업 | 107 | 33 | https://github.com/lablup |
@@ -20,16 +20,16 @@
 | 삼성SDS | 84 | 11 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 54 | 29 | https://github.com/riiid |
 | 버즈빌 | 46 | 12 | https://github.com/Buzzvil |
-| 카카오 | 54 | 235 | https://github.com/kakao |
+| 카카오 | 54 | 236 | https://github.com/kakao |
 | 네이버클라우드 | 43 | 34 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 37 | 300 | https://github.com/kakaobrain |
-| 그린랩스 | 32 | 48 | https://github.com/green-labs |
+| 카카오브레인 | 37 | 301 | https://github.com/kakaobrain |
+| 그린랩스 | 32 | 49 | https://github.com/green-labs |
 | 직방 | 28 | 25 | https://github.com/zigbang |
 | 우아한형제들 | 19 | 62 | https://github.com/woowabros |
 | 쏘카 | 25 | 35 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 29 | 6 | https://github.com/hancom-io |
 | 엔씨소프트 | 31 | 58 | https://github.com/ncsoft |
-| 버켓플레이스 | 23 | 46 | https://github.com/bucketplace |
+| 버켓플레이스 | 23 | 48 | https://github.com/bucketplace |
 | 비바리퍼블리카 | 24 | 281 | https://github.com/toss |
 | 마이리얼트립 | 19 | 14 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 15 | https://github.com/coupang |
@@ -51,7 +51,7 @@
 | 포스코ICT | 9 | 5 | https://github.com/poscoict-glueframework |
 | 요기요 | 6 | 48 | https://github.com/yogiyo |
 | 가비아 | 5 | 1 | https://github.com/gabia |
-| 힐링페이퍼 | 4 | 8 | https://github.com/healingpaper |
+| 힐링페이퍼 | 4 | 9 | https://github.com/healingpaper |
 | 11번가 | 7 | 9 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 6 | https://github.com/zuminternet |
 | 네이버랩스 | 3 | 11 | https://github.com/naverlabs |
