@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 691,
+        "followers": 693,
         "organization_id": "naver",
         "public_repos": 227
       }
@@ -23,7 +23,7 @@
     "name": "인베슘",
     "organizations": [
       {
-        "followers": 17,
+        "followers": 18,
         "organization_id": "hamonikr",
         "public_repos": 172
       }
@@ -145,7 +145,7 @@
       {
         "followers": 29,
         "organization_id": "riiid",
-        "public_repos": 54
+        "public_repos": 55
       }
     ]
   },
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 303,
+        "followers": 304,
         "organization_id": "kakaobrain",
         "public_repos": 37
       }
@@ -195,7 +195,7 @@
       {
         "followers": 50,
         "organization_id": "green-labs",
-        "public_repos": 32
+        "public_repos": 31
       }
     ]
   },
@@ -543,7 +543,7 @@
     "name": "카카오페이",
     "organizations": [
       {
-        "followers": 9,
+        "followers": 10,
         "organization_id": "kakaopay",
         "public_repos": 1
       }
