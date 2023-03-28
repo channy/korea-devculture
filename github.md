@@ -5,19 +5,19 @@
 
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
-| 티맥스클라우드 | 256 | 25 | https://github.com/tmax-cloud |
-| 네이버 | 227 | 693 | https://github.com/naver |
+| 티맥스클라우드 | 256 | 24 | https://github.com/tmax-cloud |
+| 네이버 | 227 | 694 | https://github.com/naver |
 | 인베슘 | 172 | 18 | https://github.com/hamonikr |
-| 삼성전자 | 152 | 382 | https://github.com/Samsung |
+| 삼성전자 | 152 | 381 | https://github.com/Samsung |
 | 센드버드 | 162 | 95 | https://github.com/sendbird |
 | 데브시스터즈 | 156 | 105 | https://github.com/devsisters |
 | 리디 | 115 | 48 | https://github.com/ridi |
-| 라인 | 114 | 458 | https://github.com/line |
-| 당근마켓 | 102 | 365 | https://github.com/daangn |
-| NHN | 104 | 339 | https://github.com/nhn |
-| 래블업 | 107 | 33 | https://github.com/lablup |
+| 라인 | 114 | 459 | https://github.com/line |
+| 당근마켓 | 102 | 366 | https://github.com/daangn |
+| NHN | 104 | 341 | https://github.com/nhn |
+| 래블업 | 107 | 34 | https://github.com/lablup |
 | 하이퍼커넥트 | 40 | 20 | https://github.com/hyperconnect |
-| 삼성SDS | 84 | 11 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
+| 삼성SDS | 84 | 13 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 55 | 29 | https://github.com/riiid |
 | 버즈빌 | 46 | 12 | https://github.com/Buzzvil |
 | 카카오 | 54 | 237 | https://github.com/kakao |
@@ -28,14 +28,14 @@
 | 우아한형제들 | 19 | 62 | https://github.com/woowabros |
 | 쏘카 | 25 | 35 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 29 | 6 | https://github.com/hancom-io |
-| 엔씨소프트 | 31 | 58 | https://github.com/ncsoft |
+| 엔씨소프트 | 31 | 59 | https://github.com/ncsoft |
 | 버켓플레이스 | 23 | 49 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 24 | 282 | https://github.com/toss |
+| 비바리퍼블리카 | 24 | 281 | https://github.com/toss |
 | 마이리얼트립 | 19 | 14 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 15 | https://github.com/coupang |
 | LG전자 | 19 | 33 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 20 | 11 | https://github.com/dramancompany |
-| 야놀자 | 20 | 8 | https://github.com/yanolja |
+| 야놀자 | 19 | 8 | https://github.com/yanolja |
 | VCNC | 14 | 12 | https://github.com/VCNC |
 | 다나와 | 1 | 5 | https://github.com/danawalab |
 | 뱅크샐러드 | 14 | 60 | https://github.com/banksalad |
