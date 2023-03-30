@@ -14,14 +14,14 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 256 | 24 | https://github.com/tmax-cloud |
-| 네이버 | 227 | 695 | https://github.com/naver |
+| 네이버 | 227 | 698 | https://github.com/naver |
 | 인베슘 | 172 | 19 | https://github.com/hamonikr |
-| 센드버드 | 163 | 95 | https://github.com/sendbird |
+| 센드버드 | 164 | 95 | https://github.com/sendbird |
 | 데브시스터즈 | 156 | 105 | https://github.com/devsisters |
-| 삼성전자 | 152 | 383 | https://github.com/Samsung |
-| 리디 | 115 | 48 | https://github.com/ridi |
+| 삼성전자 | 152 | 385 | https://github.com/Samsung |
+| 리디 | 115 | 49 | https://github.com/ridi |
 | 라인 | 114 | 461 | https://github.com/line |
-| 래블업 | 108 | 34 | https://github.com/lablup |
-| NHN | 104 | 342 | https://github.com/nhn |
+| 래블업 | 108 | 35 | https://github.com/lablup |
+| 플라네타리움 | 105 | 85 | https://github.com/planetarium |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->
