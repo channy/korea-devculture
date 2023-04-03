@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 388,
+        "followers": 387,
         "organization_id": "Samsung",
         "public_repos": 152
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 49,
+        "followers": 50,
         "organization_id": "ridi",
         "public_repos": 115
       }
@@ -115,7 +115,7 @@
       {
         "followers": 20,
         "organization_id": "hyperconnect",
-        "public_repos": 40
+        "public_repos": 41
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 241,
+        "followers": 242,
         "organization_id": "kakao",
         "public_repos": 54
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 306,
+        "followers": 308,
         "organization_id": "kakaobrain",
         "public_repos": 37
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 59,
+        "followers": 60,
         "organization_id": "ncsoft",
         "public_repos": 31
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 279,
+        "followers": 280,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -353,7 +353,7 @@
     "name": "카카오엔터프라이즈",
     "organizations": [
       {
-        "followers": 50,
+        "followers": 51,
         "organization_id": "kakaoenterprise",
         "public_repos": 16
       }
