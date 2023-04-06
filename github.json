@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 712,
+        "followers": 715,
         "organization_id": "naver",
         "public_repos": 227
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 387,
+        "followers": 388,
         "organization_id": "Samsung",
         "public_repos": 152
       }
@@ -43,9 +43,9 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 125,
+        "followers": 126,
         "organization_id": "sendbird",
-        "public_repos": 166
+        "public_repos": 167
       }
     ]
   },
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 59,
+        "followers": 60,
         "organization_id": "ridi",
         "public_repos": 115
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 467,
+        "followers": 469,
         "organization_id": "line",
         "public_repos": 114
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 372,
+        "followers": 373,
         "organization_id": "daangn",
         "public_repos": 102
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 245,
+        "followers": 246,
         "organization_id": "kakao",
         "public_repos": 54
       }
@@ -193,7 +193,7 @@
     "name": "그린랩스",
     "organizations": [
       {
-        "followers": 49,
+        "followers": 48,
         "organization_id": "green-labs",
         "public_repos": 31
       }
@@ -215,7 +215,7 @@
       {
         "followers": 62,
         "organization_id": "woowabros",
-        "public_repos": 19
+        "public_repos": 18
       }
     ]
   },
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 60,
+        "followers": 61,
         "organization_id": "ncsoft",
         "public_repos": 31
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 50,
+        "followers": 49,
         "organization_id": "bucketplace",
         "public_repos": 23
       }
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 48,
+        "followers": 49,
         "organization_id": "yogiyo",
         "public_repos": 6
       }
