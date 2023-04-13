@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 154,
+        "followers": 155,
         "organization_id": "sendbird",
         "public_repos": 167
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 380,
+        "followers": 382,
         "organization_id": "daangn",
         "public_repos": 102
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 349,
+        "followers": 352,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -105,7 +105,7 @@
       {
         "followers": 37,
         "organization_id": "lablup",
-        "public_repos": 108
+        "public_repos": 109
       }
     ]
   },
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 315,
+        "followers": 316,
         "organization_id": "kakaobrain",
         "public_repos": 37
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 281,
+        "followers": 282,
         "organization_id": "toss",
         "public_repos": 24
       }
