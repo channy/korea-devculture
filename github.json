@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 740,
+        "followers": 743,
         "organization_id": "naver",
         "public_repos": 227
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 396,
+        "followers": 397,
         "organization_id": "Samsung",
         "public_repos": 152
       }
@@ -45,7 +45,7 @@
       {
         "followers": 157,
         "organization_id": "sendbird",
-        "public_repos": 167
+        "public_repos": 168
       }
     ]
   },
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 84,
+        "followers": 85,
         "organization_id": "ridi",
         "public_repos": 115
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 481,
+        "followers": 482,
         "organization_id": "line",
         "public_repos": 115
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 387,
+        "followers": 388,
         "organization_id": "daangn",
         "public_repos": 102
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 353,
+        "followers": 357,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 35,
+        "followers": 36,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 43
       }
@@ -185,7 +185,7 @@
       {
         "followers": 316,
         "organization_id": "kakaobrain",
-        "public_repos": 38
+        "public_repos": 39
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 283,
+        "followers": 285,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 57,
+        "followers": 59,
         "organization_id": "moloco",
         "public_repos": 13
       }
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 51,
+        "followers": 52,
         "organization_id": "yogiyo",
         "public_repos": 6
       }
