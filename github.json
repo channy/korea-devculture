@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 760,
+        "followers": 764,
         "organization_id": "naver",
         "public_repos": 227
       }
@@ -33,9 +33,9 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 412,
+        "followers": 415,
         "organization_id": "Samsung",
-        "public_repos": 153
+        "public_repos": 154
       }
     ]
   },
@@ -55,7 +55,7 @@
       {
         "followers": 106,
         "organization_id": "devsisters",
-        "public_repos": 156
+        "public_repos": 157
       }
     ]
   },
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 418,
+        "followers": 422,
         "organization_id": "daangn",
         "public_repos": 102
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 366,
+        "followers": 367,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -195,7 +195,7 @@
       {
         "followers": 50,
         "organization_id": "green-labs",
-        "public_repos": 32
+        "public_repos": 33
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 285,
+        "followers": 284,
         "organization_id": "toss",
         "public_repos": 24
       }
