@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 770,
+        "followers": 773,
         "organization_id": "naver",
         "public_repos": 227
       }
@@ -43,9 +43,9 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 165,
+        "followers": 168,
         "organization_id": "sendbird",
-        "public_repos": 170
+        "public_repos": 172
       }
     ]
   },
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 88,
+        "followers": 89,
         "organization_id": "ridi",
         "public_repos": 115
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 501,
+        "followers": 504,
         "organization_id": "line",
         "public_repos": 106
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 426,
+        "followers": 427,
         "organization_id": "daangn",
         "public_repos": 102
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 372,
+        "followers": 374,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -155,7 +155,7 @@
       {
         "followers": 12,
         "organization_id": "Buzzvil",
-        "public_repos": 46
+        "public_repos": 47
       }
     ]
   },
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 37,
+        "followers": 38,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 43
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 63,
+        "followers": 64,
         "organization_id": "woowabros",
         "public_repos": 20
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 64,
+        "followers": 65,
         "organization_id": "ncsoft",
         "public_repos": 31
       }
@@ -343,7 +343,7 @@
     "name": "뱅크샐러드",
     "organizations": [
       {
-        "followers": 60,
+        "followers": 61,
         "organization_id": "banksalad",
         "public_repos": 15
       }
@@ -363,7 +363,7 @@
     "name": "딜리셔스",
     "organizations": [
       {
-        "followers": 20,
+        "followers": 21,
         "organization_id": "dealicious-inc",
         "public_repos": 12
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 90,
+        "followers": 91,
         "organization_id": "planetarium",
         "public_repos": 107
       }
