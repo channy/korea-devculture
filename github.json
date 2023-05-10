@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 423,
+        "followers": 425,
         "organization_id": "Samsung",
         "public_repos": 154
       }
@@ -45,7 +45,7 @@
       {
         "followers": 170,
         "organization_id": "sendbird",
-        "public_repos": 164
+        "public_repos": 162
       }
     ]
   },
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 90,
+        "followers": 91,
         "organization_id": "ridi",
         "public_repos": 115
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 507,
+        "followers": 508,
         "organization_id": "line",
         "public_repos": 106
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 380,
+        "followers": 381,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -113,7 +113,7 @@
     "name": "하이퍼커넥트",
     "organizations": [
       {
-        "followers": 20,
+        "followers": 21,
         "organization_id": "hyperconnect",
         "public_repos": 41
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 259,
+        "followers": 260,
         "organization_id": "kakao",
         "public_repos": 54
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 332,
+        "followers": 333,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 65,
+        "followers": 66,
         "organization_id": "woowabros",
         "public_repos": 20
       }
@@ -383,7 +383,7 @@
     "name": "네이버제트",
     "organizations": [
       {
-        "followers": 42,
+        "followers": 43,
         "organization_id": "naverz",
         "public_repos": 10
       }
@@ -393,7 +393,7 @@
     "name": "SK텔레콤",
     "organizations": [
       {
-        "followers": 17,
+        "followers": 18,
         "organization_id": "sktelecom",
         "public_repos": 4
       }
@@ -433,7 +433,7 @@
     "name": "현대자동차",
     "organizations": [
       {
-        "followers": 27,
+        "followers": 28,
         "organization_id": "hkmc-airlab",
         "public_repos": 4
       },
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 57,
+        "followers": 58,
         "organization_id": "yogiyo",
         "public_repos": 6
       }
@@ -623,7 +623,7 @@
     "name": "스켈터랩스",
     "organizations": [
       {
-        "followers": 7,
+        "followers": 8,
         "organization_id": "SkelterLabsInc",
         "public_repos": 11
       }
