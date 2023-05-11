@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 781,
+        "followers": 782,
         "organization_id": "naver",
         "public_repos": 227
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 425,
+        "followers": 426,
         "organization_id": "Samsung",
         "public_repos": 154
       }
@@ -43,9 +43,9 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 170,
+        "followers": 171,
         "organization_id": "sendbird",
-        "public_repos": 162
+        "public_repos": 153
       }
     ]
   },
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 108,
+        "followers": 109,
         "organization_id": "devsisters",
         "public_repos": 158
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 508,
+        "followers": 510,
         "organization_id": "line",
         "public_repos": 106
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 430,
+        "followers": 432,
         "organization_id": "daangn",
         "public_repos": 103
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 381,
+        "followers": 384,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 289,
+        "followers": 290,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 11,
+        "followers": 12,
         "organization_id": "musinsa",
         "public_repos": 2
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 91,
+        "followers": 93,
         "organization_id": "planetarium",
         "public_repos": 107
       }
