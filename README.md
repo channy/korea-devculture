@@ -19,9 +19,9 @@
 | 데브시스터즈 | 158 | 109 | https://github.com/devsisters |
 | 삼성전자 | 154 | 426 | https://github.com/Samsung |
 | 센드버드 | 153 | 171 | https://github.com/sendbird |
-| 리디 | 115 | 91 | https://github.com/ridi |
+| 리디 | 115 | 90 | https://github.com/ridi |
 | 래블업 | 111 | 39 | https://github.com/lablup |
 | 플라네타리움 | 107 | 93 | https://github.com/planetarium |
-| 라인 | 106 | 510 | https://github.com/line |
+| 라인 | 106 | 511 | https://github.com/line |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->
