@@ -3,7 +3,7 @@
     "name": "티맥스클라우드",
     "organizations": [
       {
-        "followers": 26,
+        "followers": 27,
         "organization_id": "tmax-cloud",
         "public_repos": 257
       }
@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 793,
+        "followers": 794,
         "organization_id": "naver",
         "public_repos": 227
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 430,
+        "followers": 431,
         "organization_id": "Samsung",
         "public_repos": 154
       }
@@ -45,7 +45,7 @@
       {
         "followers": 171,
         "organization_id": "sendbird",
-        "public_repos": 156
+        "public_repos": 155
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 513,
+        "followers": 514,
         "organization_id": "line",
         "public_repos": 106
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 390,
+        "followers": 393,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -105,7 +105,7 @@
       {
         "followers": 42,
         "organization_id": "lablup",
-        "public_repos": 111
+        "public_repos": 113
       }
     ]
   },
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 334,
+        "followers": 335,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -383,7 +383,7 @@
     "name": "네이버제트",
     "organizations": [
       {
-        "followers": 43,
+        "followers": 44,
         "organization_id": "naverz",
         "public_repos": 10
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 42,
+        "followers": 43,
         "organization_id": "thefarmersfront",
         "public_repos": 8
       }
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 59,
+        "followers": 60,
         "organization_id": "yogiyo",
         "public_repos": 6
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 93,
+        "followers": 94,
         "organization_id": "planetarium",
         "public_repos": 107
       }
