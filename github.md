@@ -9,12 +9,12 @@
 | 네이버 | 227 | 803 | https://github.com/naver |
 | 인베슘 | 172 | 26 | https://github.com/hamonikr |
 | 삼성전자 | 154 | 439 | https://github.com/Samsung |
-| 센드버드 | 155 | 172 | https://github.com/sendbird |
+| 센드버드 | 155 | 173 | https://github.com/sendbird |
 | 데브시스터즈 | 158 | 110 | https://github.com/devsisters |
 | 리디 | 113 | 90 | https://github.com/ridi |
-| 라인 | 106 | 518 | https://github.com/line |
+| 라인 | 106 | 521 | https://github.com/line |
 | 당근마켓 | 103 | 447 | https://github.com/daangn |
-| NHN | 104 | 394 | https://github.com/nhn |
+| NHN | 104 | 397 | https://github.com/nhn |
 | 래블업 | 113 | 42 | https://github.com/lablup |
 | 하이퍼커넥트 | 41 | 21 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 14 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -26,11 +26,11 @@
 | 그린랩스 | 34 | 50 | https://github.com/green-labs |
 | 직방 | 28 | 26 | https://github.com/zigbang |
 | 우아한형제들 | 20 | 65 | https://github.com/woowabros |
-| 쏘카 | 25 | 38 | https://github.com/socar-inc |
+| 쏘카 | 25 | 39 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 29 | 6 | https://github.com/hancom-io |
 | 엔씨소프트 | 31 | 66 | https://github.com/ncsoft |
 | 버켓플레이스 | 23 | 52 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 24 | 296 | https://github.com/toss |
+| 비바리퍼블리카 | 24 | 297 | https://github.com/toss |
 | 마이리얼트립 | 19 | 14 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 16 | https://github.com/coupang |
 | LG전자 | 19 | 35 | https://github.com/LGE-OSS |
