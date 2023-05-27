@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 809,
+        "followers": 811,
         "organization_id": "naver",
         "public_repos": 227
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 447,
+        "followers": 448,
         "organization_id": "Samsung",
         "public_repos": 154
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 175,
+        "followers": 176,
         "organization_id": "sendbird",
         "public_repos": 155
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 529,
+        "followers": 528,
         "organization_id": "line",
         "public_repos": 106
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 455,
+        "followers": 456,
         "organization_id": "daangn",
         "public_repos": 105
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 398,
+        "followers": 397,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 41,
+        "followers": 42,
         "organization_id": "lablup",
         "public_repos": 113
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 14,
+        "followers": 15,
         "organization_id": "myrealtrip",
         "public_repos": 19
       }
@@ -373,9 +373,9 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 63,
+        "followers": 64,
         "organization_id": "moloco",
-        "public_repos": 12
+        "public_repos": 13
       }
     ]
   },
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 44,
+        "followers": 45,
         "organization_id": "thefarmersfront",
         "public_repos": 8
       }
