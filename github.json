@@ -5,7 +5,7 @@
       {
         "followers": 28,
         "organization_id": "tmax-cloud",
-        "public_repos": 257
+        "public_repos": 258
       }
     ]
   },
@@ -13,9 +13,9 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 815,
+        "followers": 817,
         "organization_id": "naver",
-        "public_repos": 227
+        "public_repos": 228
       }
     ]
   },
@@ -43,9 +43,9 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 176,
+        "followers": 177,
         "organization_id": "sendbird",
-        "public_repos": 155
+        "public_repos": 156
       }
     ]
   },
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 93,
+        "followers": 94,
         "organization_id": "ridi",
         "public_repos": 113
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 532,
+        "followers": 535,
         "organization_id": "line",
         "public_repos": 106
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 465,
+        "followers": 467,
         "organization_id": "daangn",
         "public_repos": 105
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 400,
+        "followers": 401,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -245,7 +245,7 @@
       {
         "followers": 68,
         "organization_id": "ncsoft",
-        "public_repos": 31
+        "public_repos": 32
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 300,
+        "followers": 303,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 64,
+        "followers": 65,
         "organization_id": "moloco",
         "public_repos": 13
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 12,
+        "followers": 13,
         "organization_id": "musinsa",
         "public_repos": 3
       }
