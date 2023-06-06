@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 402,
+        "followers": 403,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 68,
+        "followers": 69,
         "organization_id": "ncsoft",
         "public_repos": 32
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 305,
+        "followers": 306,
         "organization_id": "toss",
         "public_repos": 24
       }
