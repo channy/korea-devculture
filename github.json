@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 833,
+        "followers": 835,
         "organization_id": "naver",
         "public_repos": 228
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 460,
+        "followers": 461,
         "organization_id": "Samsung",
         "public_repos": 155
       }
@@ -45,7 +45,7 @@
       {
         "followers": 177,
         "organization_id": "sendbird",
-        "public_repos": 157
+        "public_repos": 158
       }
     ]
   },
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 93,
+        "followers": 92,
         "organization_id": "ridi",
         "public_repos": 113
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 539,
+        "followers": 541,
         "organization_id": "line",
         "public_repos": 106
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 466,
+        "followers": 468,
         "organization_id": "daangn",
         "public_repos": 106
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 403,
+        "followers": 404,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 42,
+        "followers": 43,
         "organization_id": "lablup",
         "public_repos": 114
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 40,
+        "followers": 41,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 43
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 350,
+        "followers": 351,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 69,
+        "followers": 70,
         "organization_id": "ncsoft",
         "public_repos": 32
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 45,
+        "followers": 46,
         "organization_id": "thefarmersfront",
         "public_repos": 8
       }

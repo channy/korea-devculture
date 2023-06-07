@@ -6,29 +6,29 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 258 | 28 | https://github.com/tmax-cloud |
-| 네이버 | 228 | 833 | https://github.com/naver |
+| 네이버 | 228 | 835 | https://github.com/naver |
 | 인베슘 | 172 | 27 | https://github.com/hamonikr |
-| 삼성전자 | 155 | 460 | https://github.com/Samsung |
-| 센드버드 | 157 | 177 | https://github.com/sendbird |
+| 삼성전자 | 155 | 461 | https://github.com/Samsung |
+| 센드버드 | 158 | 177 | https://github.com/sendbird |
 | 데브시스터즈 | 158 | 117 | https://github.com/devsisters |
-| 리디 | 113 | 93 | https://github.com/ridi |
-| 라인 | 106 | 539 | https://github.com/line |
-| 당근마켓 | 106 | 466 | https://github.com/daangn |
-| NHN | 104 | 403 | https://github.com/nhn |
-| 래블업 | 114 | 42 | https://github.com/lablup |
+| 리디 | 113 | 92 | https://github.com/ridi |
+| 라인 | 106 | 541 | https://github.com/line |
+| 당근마켓 | 106 | 468 | https://github.com/daangn |
+| NHN | 104 | 404 | https://github.com/nhn |
+| 래블업 | 114 | 43 | https://github.com/lablup |
 | 하이퍼커넥트 | 41 | 22 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 14 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 55 | 30 | https://github.com/riiid |
 | 버즈빌 | 47 | 12 | https://github.com/Buzzvil |
 | 카카오 | 54 | 270 | https://github.com/kakao |
-| 네이버클라우드 | 43 | 40 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 40 | 350 | https://github.com/kakaobrain |
+| 네이버클라우드 | 43 | 41 | https://github.com/NaverCloudPlatform |
+| 카카오브레인 | 40 | 351 | https://github.com/kakaobrain |
 | 그린랩스 | 34 | 52 | https://github.com/green-labs |
 | 직방 | 28 | 26 | https://github.com/zigbang |
 | 우아한형제들 | 20 | 68 | https://github.com/woowabros |
 | 쏘카 | 25 | 39 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 29 | 6 | https://github.com/hancom-io |
-| 엔씨소프트 | 32 | 69 | https://github.com/ncsoft |
+| 엔씨소프트 | 32 | 70 | https://github.com/ncsoft |
 | 버켓플레이스 | 23 | 52 | https://github.com/bucketplace |
 | 비바리퍼블리카 | 24 | 306 | https://github.com/toss |
 | 마이리얼트립 | 19 | 15 | https://github.com/myrealtrip |
@@ -44,7 +44,7 @@
 | 몰로코 | 13 | 65 | https://github.com/moloco |
 | 네이버제트 | 10 | 45 | https://github.com/naverz |
 | SK텔레콤 | 4 | 18 | https://github.com/sktelecom |
-| 컬리 | 8 | 45 | https://github.com/thefarmersfront |
+| 컬리 | 8 | 46 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 1 | https://github.com/megazone-devops |
 | 현대자동차 | 7 | 45 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (3) |
