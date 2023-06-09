@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 841,
+        "followers": 844,
         "organization_id": "naver",
         "public_repos": 228
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 117,
+        "followers": 119,
         "organization_id": "devsisters",
         "public_repos": 158
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 542,
+        "followers": 544,
         "organization_id": "line",
         "public_repos": 106
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 404,
+        "followers": 405,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 270,
+        "followers": 272,
         "organization_id": "kakao",
         "public_repos": 54
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 41,
+        "followers": 42,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 43
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 351,
+        "followers": 353,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 310,
+        "followers": 313,
         "organization_id": "toss",
         "public_repos": 24
       }
