@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 846,
+        "followers": 847,
         "organization_id": "naver",
         "public_repos": 228
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 468,
+        "followers": 467,
         "organization_id": "daangn",
         "public_repos": 106
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 353,
+        "followers": 352,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -393,7 +393,7 @@
     "name": "SK텔레콤",
     "organizations": [
       {
-        "followers": 18,
+        "followers": 19,
         "organization_id": "sktelecom",
         "public_repos": 4
       }
