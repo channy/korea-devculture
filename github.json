@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 847,
+        "followers": 851,
         "organization_id": "naver",
         "public_repos": 228
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 466,
+        "followers": 468,
         "organization_id": "Samsung",
         "public_repos": 155
       }
@@ -63,9 +63,9 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 92,
+        "followers": 93,
         "organization_id": "ridi",
-        "public_repos": 113
+        "public_repos": 114
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 545,
+        "followers": 546,
         "organization_id": "line",
         "public_repos": 106
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 467,
+        "followers": 468,
         "organization_id": "daangn",
         "public_repos": 106
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 272,
+        "followers": 274,
         "organization_id": "kakao",
         "public_repos": 54
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 42,
+        "followers": 43,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 43
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 16,
+        "followers": 17,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 46,
+        "followers": 47,
         "organization_id": "thefarmersfront",
         "public_repos": 8
       }
