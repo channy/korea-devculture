@@ -5,7 +5,7 @@
       {
         "followers": 29,
         "organization_id": "tmax-cloud",
-        "public_repos": 258
+        "public_repos": 259
       }
     ]
   },
@@ -13,9 +13,9 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 864,
+        "followers": 869,
         "organization_id": "naver",
-        "public_repos": 228
+        "public_repos": 229
       }
     ]
   },
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 92,
+        "followers": 93,
         "organization_id": "ridi",
         "public_repos": 114
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 552,
+        "followers": 554,
         "organization_id": "line",
         "public_repos": 106
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 408,
+        "followers": 407,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 275,
+        "followers": 276,
         "organization_id": "kakao",
         "public_repos": 54
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 44,
+        "followers": 45,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 43
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 319,
+        "followers": 320,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 63,
+        "followers": 64,
         "organization_id": "yogiyo",
         "public_repos": 6
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 18,
+        "followers": 19,
         "organization_id": "musinsa",
         "public_repos": 3
       }
