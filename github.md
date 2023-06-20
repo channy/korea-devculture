@@ -11,18 +11,18 @@
 | 삼성전자 | 156 | 475 | https://github.com/Samsung |
 | 센드버드 | 158 | 177 | https://github.com/sendbird |
 | 데브시스터즈 | 158 | 120 | https://github.com/devsisters |
-| 리디 | 114 | 92 | https://github.com/ridi |
-| 라인 | 106 | 560 | https://github.com/line |
-| 당근마켓 | 107 | 472 | https://github.com/daangn |
-| NHN | 104 | 408 | https://github.com/nhn |
-| 래블업 | 114 | 46 | https://github.com/lablup |
+| 리디 | 114 | 94 | https://github.com/ridi |
+| 라인 | 106 | 561 | https://github.com/line |
+| 당근마켓 | 107 | 475 | https://github.com/daangn |
+| NHN | 104 | 409 | https://github.com/nhn |
+| 래블업 | 114 | 47 | https://github.com/lablup |
 | 하이퍼커넥트 | 41 | 22 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 14 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 55 | 31 | https://github.com/riiid |
 | 버즈빌 | 47 | 12 | https://github.com/Buzzvil |
 | 카카오 | 54 | 278 | https://github.com/kakao |
 | 네이버클라우드 | 43 | 45 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 40 | 357 | https://github.com/kakaobrain |
+| 카카오브레인 | 40 | 359 | https://github.com/kakaobrain |
 | 그린랩스 | 35 | 52 | https://github.com/green-labs |
 | 직방 | 28 | 27 | https://github.com/zigbang |
 | 우아한형제들 | 20 | 71 | https://github.com/woowabros |
@@ -30,11 +30,11 @@
 | 한글과컴퓨터 | 29 | 6 | https://github.com/hancom-io |
 | 엔씨소프트 | 32 | 71 | https://github.com/ncsoft |
 | 버켓플레이스 | 23 | 54 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 24 | 325 | https://github.com/toss |
+| 비바리퍼블리카 | 24 | 326 | https://github.com/toss |
 | 마이리얼트립 | 19 | 15 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 17 | https://github.com/coupang |
 | LG전자 | 19 | 36 | https://github.com/LGE-OSS |
-| 드라마앤컴퍼니 | 20 | 12 | https://github.com/dramancompany |
+| 드라마앤컴퍼니 | 21 | 12 | https://github.com/dramancompany |
 | 야놀자 | 19 | 9 | https://github.com/yanolja |
 | VCNC | 15 | 12 | https://github.com/VCNC |
 | 다나와 | 1 | 5 | https://github.com/danawalab |
@@ -55,7 +55,7 @@
 | 11번가 | 7 | 12 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 6 | https://github.com/zuminternet |
 | 네이버랩스 | 3 | 14 | https://github.com/naverlabs |
-| 무신사 | 3 | 21 | https://github.com/musinsa |
+| 무신사 | 3 | 22 | https://github.com/musinsa |
 | SK | 3 | 1 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (3) |
 | 카카오페이 | 2 | 12 | https://github.com/kakaopay |
 | 신한은행 | 1 | 4 | https://github.com/Shinhan-Bank |
