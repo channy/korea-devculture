@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 880,
+        "followers": 883,
         "organization_id": "naver",
         "public_repos": 230
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 120,
+        "followers": 119,
         "organization_id": "devsisters",
         "public_repos": 158
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 562,
+        "followers": 563,
         "organization_id": "line",
         "public_repos": 107
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 474,
+        "followers": 473,
         "organization_id": "daangn",
         "public_repos": 107
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 409,
+        "followers": 411,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -113,7 +113,7 @@
     "name": "하이퍼커넥트",
     "organizations": [
       {
-        "followers": 22,
+        "followers": 23,
         "organization_id": "hyperconnect",
         "public_repos": 41
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 47,
+        "followers": 49,
         "organization_id": "thefarmersfront",
         "public_repos": 8
       }
@@ -553,7 +553,7 @@
     "name": "신한은행",
     "organizations": [
       {
-        "followers": 4,
+        "followers": 6,
         "organization_id": "Shinhan-Bank",
         "public_repos": 1
       }

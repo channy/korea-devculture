@@ -6,17 +6,17 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 259 | 29 | https://github.com/tmax-cloud |
-| 네이버 | 230 | 880 | https://github.com/naver |
+| 네이버 | 230 | 883 | https://github.com/naver |
 | 인베슘 | 172 | 27 | https://github.com/hamonikr |
 | 삼성전자 | 156 | 476 | https://github.com/Samsung |
 | 센드버드 | 158 | 178 | https://github.com/sendbird |
-| 데브시스터즈 | 158 | 120 | https://github.com/devsisters |
+| 데브시스터즈 | 158 | 119 | https://github.com/devsisters |
 | 리디 | 114 | 94 | https://github.com/ridi |
-| 라인 | 107 | 562 | https://github.com/line |
-| 당근마켓 | 107 | 474 | https://github.com/daangn |
-| NHN | 104 | 409 | https://github.com/nhn |
+| 라인 | 107 | 563 | https://github.com/line |
+| 당근마켓 | 107 | 473 | https://github.com/daangn |
+| NHN | 104 | 411 | https://github.com/nhn |
 | 래블업 | 114 | 47 | https://github.com/lablup |
-| 하이퍼커넥트 | 41 | 22 | https://github.com/hyperconnect |
+| 하이퍼커넥트 | 41 | 23 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 14 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 55 | 31 | https://github.com/riiid |
 | 버즈빌 | 47 | 12 | https://github.com/Buzzvil |
@@ -44,7 +44,7 @@
 | 몰로코 | 13 | 65 | https://github.com/moloco |
 | 네이버제트 | 10 | 45 | https://github.com/naverz |
 | SK텔레콤 | 4 | 19 | https://github.com/sktelecom |
-| 컬리 | 8 | 47 | https://github.com/thefarmersfront |
+| 컬리 | 8 | 49 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 1 | https://github.com/megazone-devops |
 | 현대자동차 | 7 | 45 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (3) |
@@ -58,7 +58,7 @@
 | 무신사 | 3 | 26 | https://github.com/musinsa |
 | SK | 3 | 1 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (3) |
 | 카카오페이 | 2 | 12 | https://github.com/kakaopay |
-| 신한은행 | 1 | 4 | https://github.com/Shinhan-Bank |
+| 신한은행 | 1 | 6 | https://github.com/Shinhan-Bank |
 | 크레프톤 | 0 | 0 | https://github.com/Krafton |
 | 카카오뱅크 | 0 | 7 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
