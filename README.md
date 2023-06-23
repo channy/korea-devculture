@@ -21,7 +21,7 @@
 | 삼성전자 | 156 | 476 | https://github.com/Samsung |
 | 리디 | 114 | 94 | https://github.com/ridi |
 | 래블업 | 114 | 47 | https://github.com/lablup |
-| 플라네타리움 | 113 | 97 | https://github.com/planetarium |
-| 라인 | 107 | 563 | https://github.com/line |
+| 플라네타리움 | 113 | 98 | https://github.com/planetarium |
+| 라인 | 107 | 564 | https://github.com/line |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->
