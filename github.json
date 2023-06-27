@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 885,
+        "followers": 886,
         "organization_id": "naver",
         "public_repos": 230
       }
@@ -45,7 +45,7 @@
       {
         "followers": 176,
         "organization_id": "sendbird",
-        "public_repos": 159
+        "public_repos": 132
       }
     ]
   },
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 120,
+        "followers": 121,
         "organization_id": "devsisters",
         "public_repos": 158
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 95,
+        "followers": 96,
         "organization_id": "ridi",
         "public_repos": 114
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 567,
+        "followers": 568,
         "organization_id": "line",
         "public_repos": 107
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 473,
+        "followers": 475,
         "organization_id": "daangn",
         "public_repos": 107
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 413,
+        "followers": 414,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 360,
+        "followers": 362,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -253,9 +253,9 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 54,
+        "followers": 55,
         "organization_id": "bucketplace",
-        "public_repos": 23
+        "public_repos": 24
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 331,
+        "followers": 332,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 37,
+        "followers": 36,
         "organization_id": "LGE-OSS",
         "public_repos": 19
       }
@@ -305,7 +305,7 @@
       {
         "followers": 12,
         "organization_id": "dramancompany",
-        "public_repos": 21
+        "public_repos": 22
       }
     ]
   },
@@ -383,7 +383,7 @@
     "name": "네이버제트",
     "organizations": [
       {
-        "followers": 45,
+        "followers": 46,
         "organization_id": "naverz",
         "public_repos": 10
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 100,
+        "followers": 101,
         "organization_id": "planetarium",
         "public_repos": 113
       }
