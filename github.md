@@ -6,14 +6,14 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 259 | 29 | https://github.com/tmax-cloud |
-| 네이버 | 230 | 886 | https://github.com/naver |
+| 네이버 | 230 | 887 | https://github.com/naver |
 | 인베슘 | 172 | 27 | https://github.com/hamonikr |
-| 삼성전자 | 156 | 479 | https://github.com/Samsung |
+| 삼성전자 | 156 | 480 | https://github.com/Samsung |
 | 센드버드 | 132 | 176 | https://github.com/sendbird |
 | 데브시스터즈 | 158 | 121 | https://github.com/devsisters |
 | 리디 | 114 | 96 | https://github.com/ridi |
-| 라인 | 107 | 568 | https://github.com/line |
-| 당근마켓 | 107 | 475 | https://github.com/daangn |
+| 라인 | 107 | 567 | https://github.com/line |
+| 당근마켓 | 107 | 477 | https://github.com/daangn |
 | NHN | 104 | 414 | https://github.com/nhn |
 | 래블업 | 114 | 47 | https://github.com/lablup |
 | 하이퍼커넥트 | 41 | 23 | https://github.com/hyperconnect |
@@ -30,9 +30,9 @@
 | 한글과컴퓨터 | 29 | 6 | https://github.com/hancom-io |
 | 엔씨소프트 | 32 | 71 | https://github.com/ncsoft |
 | 버켓플레이스 | 24 | 55 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 24 | 332 | https://github.com/toss |
+| 비바리퍼블리카 | 24 | 333 | https://github.com/toss |
 | 마이리얼트립 | 19 | 15 | https://github.com/myrealtrip |
-| 쿠팡 | 18 | 17 | https://github.com/coupang |
+| 쿠팡 | 18 | 18 | https://github.com/coupang |
 | LG전자 | 19 | 36 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 22 | 12 | https://github.com/dramancompany |
 | 야놀자 | 19 | 9 | https://github.com/yanolja |
@@ -41,7 +41,7 @@
 | 뱅크샐러드 | 15 | 60 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 16 | 53 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 13 | 21 | https://github.com/dealicious-inc |
-| 몰로코 | 13 | 65 | https://github.com/moloco |
+| 몰로코 | 15 | 65 | https://github.com/moloco |
 | 네이버제트 | 10 | 46 | https://github.com/naverz |
 | SK텔레콤 | 4 | 19 | https://github.com/sktelecom |
 | 컬리 | 8 | 49 | https://github.com/thefarmersfront |
@@ -55,14 +55,14 @@
 | 11번가 | 7 | 12 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 6 | https://github.com/zuminternet |
 | 네이버랩스 | 3 | 14 | https://github.com/naverlabs |
-| 무신사 | 3 | 30 | https://github.com/musinsa |
+| 무신사 | 3 | 31 | https://github.com/musinsa |
 | SK | 3 | 1 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (3) |
 | 카카오페이 | 2 | 12 | https://github.com/kakaopay |
 | 신한은행 | 1 | 6 | https://github.com/Shinhan-Bank |
 | 크레프톤 | 0 | 0 | https://github.com/Krafton |
 | 카카오뱅크 | 0 | 8 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 113 | 101 | https://github.com/planetarium |
+| 플라네타리움 | 113 | 102 | https://github.com/planetarium |
 | 큐브리드 | 40 | 12 | https://github.com/CUBRID |
 | 코클 | 7 | 8 | https://github.com/cochlearai |
 | 스켈터랩스 | 11 | 8 | https://github.com/SkelterLabsInc |
