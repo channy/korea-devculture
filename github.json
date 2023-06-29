@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 887,
+        "followers": 889,
         "organization_id": "naver",
         "public_repos": 230
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 480,
+        "followers": 481,
         "organization_id": "Samsung",
         "public_repos": 156
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 121,
+        "followers": 122,
         "organization_id": "devsisters",
         "public_repos": 158
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 96,
+        "followers": 97,
         "organization_id": "ridi",
         "public_repos": 114
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 567,
+        "followers": 568,
         "organization_id": "line",
         "public_repos": 107
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 414,
+        "followers": 415,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 47,
+        "followers": 49,
         "organization_id": "lablup",
         "public_repos": 114
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 278,
+        "followers": 277,
         "organization_id": "kakao",
         "public_repos": 54
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 46,
+        "followers": 45,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 43
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 362,
+        "followers": 363,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 36,
+        "followers": 37,
         "organization_id": "LGE-OSS",
         "public_repos": 19
       }
@@ -383,7 +383,7 @@
     "name": "네이버제트",
     "organizations": [
       {
-        "followers": 46,
+        "followers": 47,
         "organization_id": "naverz",
         "public_repos": 10
       }
@@ -433,7 +433,7 @@
     "name": "현대자동차",
     "organizations": [
       {
-        "followers": 28,
+        "followers": 29,
         "organization_id": "hkmc-airlab",
         "public_repos": 4
       },
@@ -518,9 +518,9 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 31,
+        "followers": 34,
         "organization_id": "musinsa",
-        "public_repos": 3
+        "public_repos": 4
       }
     ]
   },
