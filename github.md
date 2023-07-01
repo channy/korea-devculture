@@ -6,13 +6,13 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 259 | 29 | https://github.com/tmax-cloud |
-| 네이버 | 230 | 890 | https://github.com/naver |
+| 네이버 | 230 | 889 | https://github.com/naver |
 | 인베슘 | 172 | 27 | https://github.com/hamonikr |
 | 삼성전자 | 156 | 482 | https://github.com/Samsung |
-| 센드버드 | 132 | 176 | https://github.com/sendbird |
+| 센드버드 | 132 | 177 | https://github.com/sendbird |
 | 데브시스터즈 | 158 | 122 | https://github.com/devsisters |
 | 리디 | 114 | 97 | https://github.com/ridi |
-| 라인 | 107 | 569 | https://github.com/line |
+| 라인 | 107 | 570 | https://github.com/line |
 | 당근마켓 | 107 | 479 | https://github.com/daangn |
 | NHN | 104 | 415 | https://github.com/nhn |
 | 래블업 | 114 | 49 | https://github.com/lablup |
@@ -31,7 +31,7 @@
 | 엔씨소프트 | 32 | 71 | https://github.com/ncsoft |
 | 버켓플레이스 | 24 | 55 | https://github.com/bucketplace |
 | 비바리퍼블리카 | 24 | 333 | https://github.com/toss |
-| 마이리얼트립 | 19 | 15 | https://github.com/myrealtrip |
+| 마이리얼트립 | 19 | 16 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 18 | https://github.com/coupang |
 | LG전자 | 19 | 37 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 22 | 12 | https://github.com/dramancompany |
@@ -62,9 +62,9 @@
 | 크레프톤 | 0 | 0 | https://github.com/Krafton |
 | 카카오뱅크 | 0 | 8 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 113 | 102 | https://github.com/planetarium |
+| 플라네타리움 | 113 | 103 | https://github.com/planetarium |
 | 큐브리드 | 40 | 12 | https://github.com/CUBRID |
 | 코클 | 7 | 8 | https://github.com/cochlearai |
-| 스켈터랩스 | 11 | 8 | https://github.com/SkelterLabsInc |
+| 스켈터랩스 | 10 | 8 | https://github.com/SkelterLabsInc |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->

@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 890,
+        "followers": 889,
         "organization_id": "naver",
         "public_repos": 230
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 176,
+        "followers": 177,
         "organization_id": "sendbird",
         "public_repos": 132
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 569,
+        "followers": 570,
         "organization_id": "line",
         "public_repos": 107
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 15,
+        "followers": 16,
         "organization_id": "myrealtrip",
         "public_repos": 19
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 102,
+        "followers": 103,
         "organization_id": "planetarium",
         "public_repos": 113
       }
@@ -625,7 +625,7 @@
       {
         "followers": 8,
         "organization_id": "SkelterLabsInc",
-        "public_repos": 11
+        "public_repos": 10
       }
     ]
   }
