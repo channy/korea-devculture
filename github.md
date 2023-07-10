@@ -6,16 +6,16 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 259 | 29 | https://github.com/tmax-cloud |
-| 네이버 | 231 | 904 | https://github.com/naver |
+| 네이버 | 231 | 907 | https://github.com/naver |
 | 인베슘 | 172 | 27 | https://github.com/hamonikr |
-| 삼성전자 | 156 | 491 | https://github.com/Samsung |
+| 삼성전자 | 156 | 493 | https://github.com/Samsung |
 | 센드버드 | 133 | 178 | https://github.com/sendbird |
 | 데브시스터즈 | 158 | 123 | https://github.com/devsisters |
 | 리디 | 114 | 99 | https://github.com/ridi |
-| 라인 | 107 | 590 | https://github.com/line |
-| 당근마켓 | 107 | 485 | https://github.com/daangn |
+| 라인 | 107 | 591 | https://github.com/line |
+| 당근마켓 | 107 | 484 | https://github.com/daangn |
 | NHN | 104 | 421 | https://github.com/nhn |
-| 래블업 | 115 | 49 | https://github.com/lablup |
+| 래블업 | 116 | 49 | https://github.com/lablup |
 | 하이퍼커넥트 | 41 | 23 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 13 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 56 | 31 | https://github.com/riiid |
@@ -30,10 +30,10 @@
 | 한글과컴퓨터 | 29 | 6 | https://github.com/hancom-io |
 | 엔씨소프트 | 32 | 72 | https://github.com/ncsoft |
 | 버켓플레이스 | 24 | 55 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 24 | 339 | https://github.com/toss |
+| 비바리퍼블리카 | 24 | 343 | https://github.com/toss |
 | 마이리얼트립 | 20 | 16 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 18 | https://github.com/coupang |
-| LG전자 | 19 | 37 | https://github.com/LGE-OSS |
+| LG전자 | 19 | 38 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 22 | 12 | https://github.com/dramancompany |
 | 야놀자 | 19 | 9 | https://github.com/yanolja |
 | VCNC | 15 | 12 | https://github.com/VCNC |
@@ -55,7 +55,7 @@
 | 11번가 | 7 | 12 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 6 | https://github.com/zuminternet |
 | 네이버랩스 | 3 | 14 | https://github.com/naverlabs |
-| 무신사 | 4 | 45 | https://github.com/musinsa |
+| 무신사 | 4 | 46 | https://github.com/musinsa |
 | SK | 3 | 1 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (3) |
 | 카카오페이 | 2 | 12 | https://github.com/kakaopay |
 | 신한은행 | 1 | 6 | https://github.com/Shinhan-Bank |
