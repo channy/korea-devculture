@@ -6,23 +6,23 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 259 | 29 | https://github.com/tmax-cloud |
-| 네이버 | 231 | 907 | https://github.com/naver |
+| 네이버 | 231 | 910 | https://github.com/naver |
 | 인베슘 | 172 | 27 | https://github.com/hamonikr |
-| 삼성전자 | 156 | 493 | https://github.com/Samsung |
+| 삼성전자 | 156 | 495 | https://github.com/Samsung |
 | 센드버드 | 133 | 178 | https://github.com/sendbird |
 | 데브시스터즈 | 158 | 123 | https://github.com/devsisters |
 | 리디 | 114 | 99 | https://github.com/ridi |
-| 라인 | 107 | 591 | https://github.com/line |
-| 당근마켓 | 107 | 484 | https://github.com/daangn |
-| NHN | 104 | 421 | https://github.com/nhn |
-| 래블업 | 116 | 49 | https://github.com/lablup |
+| 라인 | 107 | 590 | https://github.com/line |
+| 당근마켓 | 107 | 483 | https://github.com/daangn |
+| NHN | 104 | 422 | https://github.com/nhn |
+| 래블업 | 116 | 50 | https://github.com/lablup |
 | 하이퍼커넥트 | 41 | 23 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 13 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 56 | 31 | https://github.com/riiid |
 | 버즈빌 | 47 | 12 | https://github.com/Buzzvil |
-| 카카오 | 54 | 281 | https://github.com/kakao |
+| 카카오 | 54 | 282 | https://github.com/kakao |
 | 네이버클라우드 | 43 | 47 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 41 | 369 | https://github.com/kakaobrain |
+| 카카오브레인 | 41 | 371 | https://github.com/kakaobrain |
 | 그린랩스 | 35 | 53 | https://github.com/green-labs |
 | 직방 | 28 | 27 | https://github.com/zigbang |
 | 우아한형제들 | 20 | 72 | https://github.com/woowabros |
@@ -55,14 +55,14 @@
 | 11번가 | 7 | 12 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 6 | https://github.com/zuminternet |
 | 네이버랩스 | 3 | 14 | https://github.com/naverlabs |
-| 무신사 | 4 | 46 | https://github.com/musinsa |
+| 무신사 | 4 | 47 | https://github.com/musinsa |
 | SK | 3 | 1 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (3) |
 | 카카오페이 | 2 | 12 | https://github.com/kakaopay |
 | 신한은행 | 1 | 6 | https://github.com/Shinhan-Bank |
 | 크레프톤 | 0 | 0 | https://github.com/Krafton |
 | 카카오뱅크 | 0 | 7 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 113 | 104 | https://github.com/planetarium |
+| 플라네타리움 | 113 | 103 | https://github.com/planetarium |
 | 큐브리드 | 40 | 12 | https://github.com/CUBRID |
 | 코클 | 7 | 8 | https://github.com/cochlearai |
 | 스켈터랩스 | 10 | 8 | https://github.com/SkelterLabsInc |
