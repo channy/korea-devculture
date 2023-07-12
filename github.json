@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 910,
+        "followers": 914,
         "organization_id": "naver",
         "public_repos": 231
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 178,
+        "followers": 177,
         "organization_id": "sendbird",
         "public_repos": 133
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 123,
+        "followers": 124,
         "organization_id": "devsisters",
         "public_repos": 158
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 99,
+        "followers": 101,
         "organization_id": "ridi",
         "public_repos": 114
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 590,
+        "followers": 592,
         "organization_id": "line",
         "public_repos": 107
       }
@@ -85,7 +85,7 @@
       {
         "followers": 483,
         "organization_id": "daangn",
-        "public_repos": 107
+        "public_repos": 106
       }
     ]
   },
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 422,
+        "followers": 424,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 282,
+        "followers": 284,
         "organization_id": "kakao",
         "public_repos": 54
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 343,
+        "followers": 344,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 65,
+        "followers": 66,
         "organization_id": "moloco",
         "public_repos": 15
       }
@@ -595,7 +595,7 @@
       {
         "followers": 103,
         "organization_id": "planetarium",
-        "public_repos": 113
+        "public_repos": 112
       }
     ]
   },
