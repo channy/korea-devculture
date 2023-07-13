@@ -3,7 +3,7 @@
     "name": "티맥스클라우드",
     "organizations": [
       {
-        "followers": 29,
+        "followers": 28,
         "organization_id": "tmax-cloud",
         "public_repos": 259
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 495,
+        "followers": 501,
         "organization_id": "Samsung",
         "public_repos": 156
       }
@@ -55,7 +55,7 @@
       {
         "followers": 124,
         "organization_id": "devsisters",
-        "public_repos": 158
+        "public_repos": 160
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 592,
+        "followers": 594,
         "organization_id": "line",
         "public_repos": 107
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 483,
+        "followers": 482,
         "organization_id": "daangn",
         "public_repos": 106
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 72,
+        "followers": 71,
         "organization_id": "woowabros",
         "public_repos": 20
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 72,
+        "followers": 73,
         "organization_id": "ncsoft",
         "public_repos": 32
       }
@@ -393,7 +393,7 @@
     "name": "SK텔레콤",
     "organizations": [
       {
-        "followers": 19,
+        "followers": 18,
         "organization_id": "sktelecom",
         "public_repos": 4
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 47,
+        "followers": 51,
         "organization_id": "musinsa",
         "public_repos": 4
       }
