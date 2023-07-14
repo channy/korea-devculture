@@ -17,11 +17,11 @@
 | 네이버 | 231 | 914 | https://github.com/naver |
 | 인베슘 | 172 | 27 | https://github.com/hamonikr |
 | 데브시스터즈 | 160 | 124 | https://github.com/devsisters |
-| 삼성전자 | 156 | 501 | https://github.com/Samsung |
+| 삼성전자 | 156 | 504 | https://github.com/Samsung |
 | 센드버드 | 133 | 177 | https://github.com/sendbird |
-| 래블업 | 116 | 50 | https://github.com/lablup |
+| 래블업 | 116 | 51 | https://github.com/lablup |
 | 리디 | 114 | 101 | https://github.com/ridi |
-| 플라네타리움 | 112 | 103 | https://github.com/planetarium |
-| 라인 | 107 | 594 | https://github.com/line |
+| 플라네타리움 | 112 | 104 | https://github.com/planetarium |
+| 라인 | 107 | 596 | https://github.com/line |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->
