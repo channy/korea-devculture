@@ -3,7 +3,7 @@
     "name": "티맥스클라우드",
     "organizations": [
       {
-        "followers": 29,
+        "followers": 30,
         "organization_id": "tmax-cloud",
         "public_repos": 259
       }
@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 919,
+        "followers": 921,
         "organization_id": "naver",
         "public_repos": 231
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 506,
+        "followers": 507,
         "organization_id": "Samsung",
         "public_repos": 156
       }
@@ -55,7 +55,7 @@
       {
         "followers": 125,
         "organization_id": "devsisters",
-        "public_repos": 160
+        "public_repos": 161
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 599,
+        "followers": 600,
         "organization_id": "line",
         "public_repos": 107
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 427,
+        "followers": 429,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -183,9 +183,9 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 378,
+        "followers": 379,
         "organization_id": "kakaobrain",
-        "public_repos": 42
+        "public_repos": 41
       }
     ]
   },
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 71,
+        "followers": 72,
         "organization_id": "woowabros",
         "public_repos": 20
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 55,
+        "followers": 56,
         "organization_id": "bucketplace",
         "public_repos": 24
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 347,
+        "followers": 351,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 18,
+        "followers": 19,
         "organization_id": "42dot",
         "public_repos": 3
       }
