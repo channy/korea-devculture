@@ -3,7 +3,7 @@
     "name": "티맥스클라우드",
     "organizations": [
       {
-        "followers": 30,
+        "followers": 31,
         "organization_id": "tmax-cloud",
         "public_repos": 259
       }
@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 922,
+        "followers": 926,
         "organization_id": "naver",
         "public_repos": 231
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 509,
+        "followers": 511,
         "organization_id": "Samsung",
         "public_repos": 156
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 177,
+        "followers": 178,
         "organization_id": "sendbird",
         "public_repos": 133
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 125,
+        "followers": 126,
         "organization_id": "devsisters",
         "public_repos": 162
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 429,
+        "followers": 430,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 382,
+        "followers": 384,
         "organization_id": "kakaobrain",
         "public_repos": 41
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 355,
+        "followers": 358,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 49,
+        "followers": 50,
         "organization_id": "thefarmersfront",
         "public_repos": 8
       }
@@ -595,7 +595,7 @@
       {
         "followers": 104,
         "organization_id": "planetarium",
-        "public_repos": 112
+        "public_repos": 113
       }
     ]
   },
