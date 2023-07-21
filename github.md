@@ -6,16 +6,16 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 259 | 31 | https://github.com/tmax-cloud |
-| 네이버 | 231 | 926 | https://github.com/naver |
+| 네이버 | 231 | 930 | https://github.com/naver |
 | 인베슘 | 172 | 27 | https://github.com/hamonikr |
-| 삼성전자 | 156 | 511 | https://github.com/Samsung |
+| 삼성전자 | 156 | 513 | https://github.com/Samsung |
 | 센드버드 | 133 | 178 | https://github.com/sendbird |
 | 데브시스터즈 | 162 | 126 | https://github.com/devsisters |
 | 리디 | 114 | 101 | https://github.com/ridi |
 | 라인 | 107 | 600 | https://github.com/line |
 | 당근마켓 | 106 | 486 | https://github.com/daangn |
-| NHN | 104 | 430 | https://github.com/nhn |
-| 래블업 | 116 | 52 | https://github.com/lablup |
+| NHN | 104 | 429 | https://github.com/nhn |
+| 래블업 | 116 | 53 | https://github.com/lablup |
 | 하이퍼커넥트 | 41 | 24 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 13 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 56 | 31 | https://github.com/riiid |
@@ -30,8 +30,8 @@
 | 한글과컴퓨터 | 29 | 6 | https://github.com/hancom-io |
 | 엔씨소프트 | 32 | 74 | https://github.com/ncsoft |
 | 버켓플레이스 | 24 | 57 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 24 | 358 | https://github.com/toss |
-| 마이리얼트립 | 20 | 16 | https://github.com/myrealtrip |
+| 비바리퍼블리카 | 24 | 359 | https://github.com/toss |
+| 마이리얼트립 | 22 | 16 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 18 | https://github.com/coupang |
 | LG전자 | 19 | 38 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 22 | 12 | https://github.com/dramancompany |
@@ -55,7 +55,7 @@
 | 11번가 | 8 | 12 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 6 | https://github.com/zuminternet |
 | 네이버랩스 | 3 | 15 | https://github.com/naverlabs |
-| 무신사 | 4 | 51 | https://github.com/musinsa |
+| 무신사 | 4 | 52 | https://github.com/musinsa |
 | SK | 3 | 1 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (3) |
 | 카카오페이 | 2 | 12 | https://github.com/kakaopay |
 | 신한은행 | 1 | 6 | https://github.com/Shinhan-Bank |
