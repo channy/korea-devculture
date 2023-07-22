@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 930,
+        "followers": 931,
         "organization_id": "naver",
         "public_repos": 231
       }
@@ -45,7 +45,7 @@
       {
         "followers": 178,
         "organization_id": "sendbird",
-        "public_repos": 133
+        "public_repos": 135
       }
     ]
   },
@@ -73,9 +73,9 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 600,
+        "followers": 602,
         "organization_id": "line",
-        "public_repos": 107
+        "public_repos": 108
       }
     ]
   },
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 384,
+        "followers": 386,
         "organization_id": "kakaobrain",
         "public_repos": 41
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 72,
+        "followers": 73,
         "organization_id": "woowabros",
         "public_repos": 20
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 359,
+        "followers": 360,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -343,7 +343,7 @@
     "name": "뱅크샐러드",
     "organizations": [
       {
-        "followers": 60,
+        "followers": 61,
         "organization_id": "banksalad",
         "public_repos": 16
       }
