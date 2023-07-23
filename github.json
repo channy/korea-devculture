@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 513,
+        "followers": 511,
         "organization_id": "Samsung",
         "public_repos": 156
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 178,
+        "followers": 179,
         "organization_id": "sendbird",
         "public_repos": 135
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 429,
+        "followers": 431,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -123,7 +123,7 @@
     "name": "삼성SDS",
     "organizations": [
       {
-        "followers": 6,
+        "followers": 5,
         "organization_id": "samsung-cnct",
         "public_repos": 70
       },
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 386,
+        "followers": 387,
         "organization_id": "kakaobrain",
         "public_repos": 41
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 360,
+        "followers": 361,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 38,
+        "followers": 39,
         "organization_id": "LGE-OSS",
         "public_repos": 19
       }
