@@ -3,7 +3,7 @@
     "name": "티맥스클라우드",
     "organizations": [
       {
-        "followers": 31,
+        "followers": 32,
         "organization_id": "tmax-cloud",
         "public_repos": 259
       }
@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 931,
+        "followers": 934,
         "organization_id": "naver",
         "public_repos": 231
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 511,
+        "followers": 512,
         "organization_id": "Samsung",
         "public_repos": 156
       }
@@ -45,7 +45,7 @@
       {
         "followers": 179,
         "organization_id": "sendbird",
-        "public_repos": 135
+        "public_repos": 134
       }
     ]
   },
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 431,
+        "followers": 432,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 361,
+        "followers": 363,
         "organization_id": "toss",
         "public_repos": 24
       }
