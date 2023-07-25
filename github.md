@@ -6,7 +6,7 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 259 | 32 | https://github.com/tmax-cloud |
-| 네이버 | 231 | 934 | https://github.com/naver |
+| 네이버 | 231 | 935 | https://github.com/naver |
 | 인베슘 | 172 | 27 | https://github.com/hamonikr |
 | 삼성전자 | 156 | 512 | https://github.com/Samsung |
 | 센드버드 | 134 | 179 | https://github.com/sendbird |
@@ -20,7 +20,7 @@
 | 삼성SDS | 84 | 12 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 56 | 31 | https://github.com/riiid |
 | 버즈빌 | 47 | 12 | https://github.com/Buzzvil |
-| 카카오 | 54 | 284 | https://github.com/kakao |
+| 카카오 | 54 | 285 | https://github.com/kakao |
 | 네이버클라우드 | 43 | 47 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 41 | 387 | https://github.com/kakaobrain |
 | 그린랩스 | 35 | 53 | https://github.com/green-labs |
@@ -40,8 +40,8 @@
 | 다나와 | 1 | 5 | https://github.com/danawalab |
 | 뱅크샐러드 | 16 | 61 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 16 | 52 | https://github.com/kakaoenterprise |
-| 딜리셔스 | 14 | 21 | https://github.com/dealicious-inc |
-| 몰로코 | 15 | 67 | https://github.com/moloco |
+| 딜리셔스 | 15 | 21 | https://github.com/dealicious-inc |
+| 몰로코 | 15 | 68 | https://github.com/moloco |
 | 네이버제트 | 10 | 47 | https://github.com/naverz |
 | SK텔레콤 | 4 | 18 | https://github.com/sktelecom |
 | 컬리 | 8 | 50 | https://github.com/thefarmersfront |
@@ -63,7 +63,7 @@
 | 카카오뱅크 | 0 | 7 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
 | 플라네타리움 | 113 | 104 | https://github.com/planetarium |
-| 큐브리드 | 40 | 12 | https://github.com/CUBRID |
+| 큐브리드 | 40 | 13 | https://github.com/CUBRID |
 | 코클 | 7 | 8 | https://github.com/cochlearai |
 | 스켈터랩스 | 10 | 8 | https://github.com/SkelterLabsInc |
 
