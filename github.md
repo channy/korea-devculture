@@ -6,31 +6,31 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 259 | 32 | https://github.com/tmax-cloud |
-| 네이버 | 231 | 943 | https://github.com/naver |
+| 네이버 | 231 | 944 | https://github.com/naver |
 | 인베슘 | 172 | 27 | https://github.com/hamonikr |
-| 삼성전자 | 156 | 521 | https://github.com/Samsung |
-| 센드버드 | 135 | 180 | https://github.com/sendbird |
+| 삼성전자 | 156 | 522 | https://github.com/Samsung |
+| 센드버드 | 136 | 180 | https://github.com/sendbird |
 | 데브시스터즈 | 162 | 127 | https://github.com/devsisters |
 | 리디 | 114 | 101 | https://github.com/ridi |
-| 라인 | 108 | 609 | https://github.com/line |
+| 라인 | 108 | 612 | https://github.com/line |
 | 당근마켓 | 106 | 487 | https://github.com/daangn |
-| NHN | 104 | 434 | https://github.com/nhn |
+| NHN | 104 | 435 | https://github.com/nhn |
 | 래블업 | 117 | 54 | https://github.com/lablup |
 | 하이퍼커넥트 | 41 | 24 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 13 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 56 | 31 | https://github.com/riiid |
 | 버즈빌 | 47 | 12 | https://github.com/Buzzvil |
-| 카카오 | 54 | 285 | https://github.com/kakao |
+| 카카오 | 54 | 287 | https://github.com/kakao |
 | 네이버클라우드 | 43 | 47 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 41 | 393 | https://github.com/kakaobrain |
+| 카카오브레인 | 41 | 394 | https://github.com/kakaobrain |
 | 그린랩스 | 35 | 53 | https://github.com/green-labs |
 | 직방 | 28 | 27 | https://github.com/zigbang |
 | 우아한형제들 | 20 | 77 | https://github.com/woowabros |
 | 쏘카 | 25 | 40 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 29 | 7 | https://github.com/hancom-io |
-| 엔씨소프트 | 32 | 75 | https://github.com/ncsoft |
+| 엔씨소프트 | 32 | 76 | https://github.com/ncsoft |
 | 버켓플레이스 | 24 | 57 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 24 | 368 | https://github.com/toss |
+| 비바리퍼블리카 | 24 | 369 | https://github.com/toss |
 | 마이리얼트립 | 22 | 16 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 20 | https://github.com/coupang |
 | LG전자 | 19 | 39 | https://github.com/LGE-OSS |
