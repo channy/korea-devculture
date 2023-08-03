@@ -3,7 +3,7 @@
     "name": "티맥스클라우드",
     "organizations": [
       {
-        "followers": 32,
+        "followers": 33,
         "organization_id": "tmax-cloud",
         "public_repos": 259
       }
@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 946,
+        "followers": 949,
         "organization_id": "naver",
         "public_repos": 231
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 128,
+        "followers": 129,
         "organization_id": "devsisters",
         "public_repos": 163
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 112,
+        "followers": 114,
         "organization_id": "ridi",
         "public_repos": 114
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 614,
+        "followers": 615,
         "organization_id": "line",
         "public_repos": 108
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 436,
+        "followers": 439,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 393,
+        "followers": 394,
         "organization_id": "kakaobrain",
         "public_repos": 41
       }
@@ -193,7 +193,7 @@
     "name": "그린랩스",
     "organizations": [
       {
-        "followers": 53,
+        "followers": 54,
         "organization_id": "green-labs",
         "public_repos": 35
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 76,
+        "followers": 77,
         "organization_id": "ncsoft",
         "public_repos": 32
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 16,
+        "followers": 17,
         "organization_id": "myrealtrip",
         "public_repos": 22
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 57,
+        "followers": 58,
         "organization_id": "musinsa",
         "public_repos": 4
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 104,
+        "followers": 105,
         "organization_id": "planetarium",
         "public_repos": 115
       }
