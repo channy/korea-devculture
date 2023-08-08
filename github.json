@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 123,
+        "followers": 126,
         "organization_id": "ridi",
         "public_repos": 114
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 620,
+        "followers": 621,
         "organization_id": "line",
         "public_repos": 108
       }
@@ -85,7 +85,7 @@
       {
         "followers": 499,
         "organization_id": "daangn",
-        "public_repos": 106
+        "public_repos": 107
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 373,
+        "followers": 374,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 39,
+        "followers": 40,
         "organization_id": "LGE-OSS",
         "public_repos": 19
       }
@@ -353,7 +353,7 @@
     "name": "카카오엔터프라이즈",
     "organizations": [
       {
-        "followers": 52,
+        "followers": 53,
         "organization_id": "kakaoenterprise",
         "public_repos": 16
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 105,
+        "followers": 106,
         "organization_id": "planetarium",
         "public_repos": 115
       }
