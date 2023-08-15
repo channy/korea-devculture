@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 962,
+        "followers": 963,
         "organization_id": "naver",
         "public_repos": 231
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 543,
+        "followers": 542,
         "organization_id": "Samsung",
         "public_repos": 156
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 188,
+        "followers": 190,
         "organization_id": "sendbird",
         "public_repos": 138
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 130,
+        "followers": 131,
         "organization_id": "ridi",
         "public_repos": 114
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 629,
+        "followers": 630,
         "organization_id": "line",
         "public_repos": 108
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 505,
+        "followers": 507,
         "organization_id": "daangn",
         "public_repos": 107
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 445,
+        "followers": 447,
         "organization_id": "nhn",
         "public_repos": 104
       }
@@ -155,7 +155,7 @@
       {
         "followers": 12,
         "organization_id": "Buzzvil",
-        "public_repos": 47
+        "public_repos": 48
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 295,
+        "followers": 296,
         "organization_id": "kakao",
         "public_repos": 54
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 21,
+        "followers": 20,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -480,7 +480,7 @@
       {
         "followers": 9,
         "organization_id": "healingpaper",
-        "public_repos": 4
+        "public_repos": 5
       }
     ]
   },

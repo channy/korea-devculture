@@ -6,21 +6,21 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 259 | 34 | https://github.com/tmax-cloud |
-| 네이버 | 231 | 962 | https://github.com/naver |
+| 네이버 | 231 | 963 | https://github.com/naver |
 | 인베슘 | 172 | 27 | https://github.com/hamonikr |
-| 삼성전자 | 156 | 543 | https://github.com/Samsung |
-| 센드버드 | 138 | 188 | https://github.com/sendbird |
+| 삼성전자 | 156 | 542 | https://github.com/Samsung |
+| 센드버드 | 138 | 190 | https://github.com/sendbird |
 | 데브시스터즈 | 163 | 130 | https://github.com/devsisters |
-| 리디 | 114 | 130 | https://github.com/ridi |
-| 라인 | 108 | 629 | https://github.com/line |
-| 당근마켓 | 107 | 505 | https://github.com/daangn |
-| NHN | 104 | 445 | https://github.com/nhn |
+| 리디 | 114 | 131 | https://github.com/ridi |
+| 라인 | 108 | 630 | https://github.com/line |
+| 당근마켓 | 107 | 507 | https://github.com/daangn |
+| NHN | 104 | 447 | https://github.com/nhn |
 | 래블업 | 117 | 55 | https://github.com/lablup |
 | 하이퍼커넥트 | 41 | 24 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 14 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 57 | 32 | https://github.com/riiid |
-| 버즈빌 | 47 | 12 | https://github.com/Buzzvil |
-| 카카오 | 54 | 295 | https://github.com/kakao |
+| 버즈빌 | 48 | 12 | https://github.com/Buzzvil |
+| 카카오 | 54 | 296 | https://github.com/kakao |
 | 네이버클라우드 | 43 | 49 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 41 | 403 | https://github.com/kakaobrain |
 | 그린랩스 | 35 | 54 | https://github.com/green-labs |
@@ -32,7 +32,7 @@
 | 버켓플레이스 | 24 | 62 | https://github.com/bucketplace |
 | 비바리퍼블리카 | 24 | 378 | https://github.com/toss |
 | 마이리얼트립 | 22 | 17 | https://github.com/myrealtrip |
-| 쿠팡 | 18 | 21 | https://github.com/coupang |
+| 쿠팡 | 18 | 20 | https://github.com/coupang |
 | LG전자 | 19 | 40 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 22 | 12 | https://github.com/dramancompany |
 | 야놀자 | 19 | 9 | https://github.com/yanolja |
@@ -51,7 +51,7 @@
 | 포스코ICT | 9 | 5 | https://github.com/poscoict-glueframework |
 | 요기요 | 8 | 66 | https://github.com/yogiyo |
 | 가비아 | 5 | 1 | https://github.com/gabia |
-| 힐링페이퍼 | 4 | 9 | https://github.com/healingpaper |
+| 힐링페이퍼 | 5 | 9 | https://github.com/healingpaper |
 | 11번가 | 8 | 12 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 6 | https://github.com/zuminternet |
 | 네이버랩스 | 3 | 15 | https://github.com/naverlabs |
