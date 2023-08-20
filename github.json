@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 978,
+        "followers": 979,
         "organization_id": "naver",
         "public_repos": 231
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 190,
+        "followers": 191,
         "organization_id": "sendbird",
         "public_repos": 138
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 634,
+        "followers": 635,
         "organization_id": "line",
         "public_repos": 109
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 404,
+        "followers": 405,
         "organization_id": "kakaobrain",
         "public_repos": 41
       }
@@ -353,7 +353,7 @@
     "name": "카카오엔터프라이즈",
     "organizations": [
       {
-        "followers": 54,
+        "followers": 55,
         "organization_id": "kakaoenterprise",
         "public_repos": 16
       }
