@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 987,
+        "followers": 990,
         "organization_id": "naver",
         "public_repos": 231
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 192,
+        "followers": 193,
         "organization_id": "sendbird",
         "public_repos": 138
       }
@@ -143,7 +143,7 @@
     "name": "뤼이드",
     "organizations": [
       {
-        "followers": 32,
+        "followers": 33,
         "organization_id": "riiid",
         "public_repos": 58
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 49,
+        "followers": 50,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 43
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 407,
+        "followers": 408,
         "organization_id": "kakaobrain",
         "public_repos": 41
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 385,
+        "followers": 388,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -315,7 +315,7 @@
       {
         "followers": 9,
         "organization_id": "yanolja",
-        "public_repos": 19
+        "public_repos": 20
       }
     ]
   },
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 61,
+        "followers": 62,
         "organization_id": "musinsa",
         "public_repos": 1
       }
