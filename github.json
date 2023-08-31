@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1004,
+        "followers": 1006,
         "organization_id": "naver",
         "public_repos": 231
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 557,
+        "followers": 558,
         "organization_id": "Samsung",
         "public_repos": 158
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 195,
+        "followers": 196,
         "organization_id": "sendbird",
         "public_repos": 138
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 645,
+        "followers": 647,
         "organization_id": "line",
         "public_repos": 109
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 525,
+        "followers": 529,
         "organization_id": "daangn",
         "public_repos": 107
       }
@@ -93,9 +93,9 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 456,
+        "followers": 458,
         "organization_id": "nhn",
-        "public_repos": 104
+        "public_repos": 105
       }
     ]
   },
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 408,
+        "followers": 409,
         "organization_id": "kakaobrain",
         "public_repos": 41
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 388,
+        "followers": 389,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 18,
+        "followers": 19,
         "organization_id": "myrealtrip",
         "public_repos": 22
       }
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 20,
+        "followers": 21,
         "organization_id": "42dot",
         "public_repos": 3
       }
