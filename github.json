@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1011,
+        "followers": 1016,
         "organization_id": "naver",
         "public_repos": 231
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 560,
+        "followers": 561,
         "organization_id": "Samsung",
         "public_repos": 158
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 654,
+        "followers": 657,
         "organization_id": "line",
         "public_repos": 109
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 531,
+        "followers": 534,
         "organization_id": "daangn",
         "public_repos": 107
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 461,
+        "followers": 462,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -105,7 +105,7 @@
       {
         "followers": 58,
         "organization_id": "lablup",
-        "public_repos": 117
+        "public_repos": 118
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 305,
+        "followers": 306,
         "organization_id": "kakao",
         "public_repos": 54
       }
@@ -175,7 +175,7 @@
       {
         "followers": 50,
         "organization_id": "NaverCloudPlatform",
-        "public_repos": 43
+        "public_repos": 44
       }
     ]
   },
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 78,
+        "followers": 79,
         "organization_id": "woowabros",
         "public_repos": 21
       }
@@ -263,9 +263,9 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 390,
+        "followers": 391,
         "organization_id": "toss",
-        "public_repos": 24
+        "public_repos": 25
       }
     ]
   },
@@ -343,7 +343,7 @@
     "name": "뱅크샐러드",
     "organizations": [
       {
-        "followers": 66,
+        "followers": 67,
         "organization_id": "banksalad",
         "public_repos": 16
       }
@@ -365,7 +365,7 @@
       {
         "followers": 21,
         "organization_id": "dealicious-inc",
-        "public_repos": 16
+        "public_repos": 17
       }
     ]
   },
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 67,
+        "followers": 68,
         "organization_id": "yogiyo",
         "public_repos": 8
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 66,
+        "followers": 67,
         "organization_id": "musinsa",
         "public_repos": 1
       }
