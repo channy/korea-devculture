@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1016,
+        "followers": 1018,
         "organization_id": "naver",
         "public_repos": 231
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 561,
+        "followers": 565,
         "organization_id": "Samsung",
         "public_repos": 158
       }
@@ -43,9 +43,9 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 199,
+        "followers": 200,
         "organization_id": "sendbird",
-        "public_repos": 138
+        "public_repos": 139
       }
     ]
   },
@@ -53,9 +53,9 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 135,
+        "followers": 136,
         "organization_id": "devsisters",
-        "public_repos": 163
+        "public_repos": 164
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 657,
+        "followers": 658,
         "organization_id": "line",
         "public_repos": 109
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 534,
+        "followers": 536,
         "organization_id": "daangn",
         "public_repos": 107
       }
@@ -163,9 +163,9 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 306,
+        "followers": 308,
         "organization_id": "kakao",
-        "public_repos": 54
+        "public_repos": 55
       }
     ]
   },
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 50,
+        "followers": 51,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 44
       }
@@ -235,7 +235,7 @@
       {
         "followers": 7,
         "organization_id": "hancom-io",
-        "public_repos": 29
+        "public_repos": 31
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 391,
+        "followers": 392,
         "organization_id": "toss",
         "public_repos": 25
       }
@@ -603,7 +603,7 @@
     "name": "큐브리드",
     "organizations": [
       {
-        "followers": 14,
+        "followers": 15,
         "organization_id": "CUBRID",
         "public_repos": 40
       }
