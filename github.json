@@ -13,9 +13,9 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1027,
+        "followers": 1029,
         "organization_id": "naver",
-        "public_repos": 231
+        "public_repos": 232
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 573,
+        "followers": 574,
         "organization_id": "Samsung",
         "public_repos": 158
       }
@@ -45,7 +45,7 @@
       {
         "followers": 200,
         "organization_id": "sendbird",
-        "public_repos": 143
+        "public_repos": 144
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 660,
+        "followers": 661,
         "organization_id": "line",
         "public_repos": 110
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 543,
+        "followers": 542,
         "organization_id": "daangn",
         "public_repos": 107
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 463,
+        "followers": 465,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -105,7 +105,7 @@
       {
         "followers": 58,
         "organization_id": "lablup",
-        "public_repos": 116
+        "public_repos": 117
       }
     ]
   },
@@ -123,7 +123,7 @@
     "name": "삼성SDS",
     "organizations": [
       {
-        "followers": 8,
+        "followers": 9,
         "organization_id": "samsung-cnct",
         "public_repos": 70
       },
@@ -145,7 +145,7 @@
       {
         "followers": 34,
         "organization_id": "riiid",
-        "public_repos": 58
+        "public_repos": 59
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 310,
+        "followers": 312,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 62,
+        "followers": 63,
         "organization_id": "bucketplace",
         "public_repos": 24
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 398,
+        "followers": 400,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -383,7 +383,7 @@
     "name": "네이버제트",
     "organizations": [
       {
-        "followers": 47,
+        "followers": 48,
         "organization_id": "naverz",
         "public_repos": 10
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 70,
+        "followers": 71,
         "organization_id": "musinsa",
         "public_repos": 1
       }
