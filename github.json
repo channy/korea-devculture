@@ -13,9 +13,9 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1033,
+        "followers": 1032,
         "organization_id": "naver",
-        "public_repos": 231
+        "public_repos": 232
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 581,
+        "followers": 583,
         "organization_id": "Samsung",
         "public_repos": 158
       }
@@ -45,7 +45,7 @@
       {
         "followers": 201,
         "organization_id": "sendbird",
-        "public_repos": 144
+        "public_repos": 145
       }
     ]
   },
@@ -73,9 +73,9 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 666,
+        "followers": 668,
         "organization_id": "line",
-        "public_repos": 110
+        "public_repos": 111
       }
     ]
   },
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 468,
+        "followers": 470,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 51,
+        "followers": 52,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 44
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 404,
+        "followers": 408,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 43,
+        "followers": 44,
         "organization_id": "LGE-OSS",
         "public_repos": 19
       }
@@ -343,7 +343,7 @@
     "name": "뱅크샐러드",
     "organizations": [
       {
-        "followers": 68,
+        "followers": 67,
         "organization_id": "banksalad",
         "public_repos": 16
       }
