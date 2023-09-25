@@ -22,6 +22,6 @@
 | 플라네타리움 | 119 | 108 | https://github.com/planetarium |
 | 래블업 | 117 | 60 | https://github.com/lablup |
 | 리디 | 114 | 136 | https://github.com/ridi |
-| 라인 | 111 | 673 | https://github.com/line |
+| 라인 | 111 | 676 | https://github.com/line |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->

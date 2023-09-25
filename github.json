@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 673,
+        "followers": 676,
         "organization_id": "line",
         "public_repos": 111
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 551,
+        "followers": 553,
         "organization_id": "daangn",
         "public_repos": 107
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 471,
+        "followers": 472,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -115,7 +115,7 @@
       {
         "followers": 25,
         "organization_id": "hyperconnect",
-        "public_repos": 41
+        "public_repos": 42
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 314,
+        "followers": 315,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 417,
+        "followers": 418,
         "organization_id": "kakaobrain",
         "public_repos": 41
       }

@@ -12,17 +12,17 @@
 | 센드버드 | 147 | 202 | https://github.com/sendbird |
 | 데브시스터즈 | 164 | 136 | https://github.com/devsisters |
 | 리디 | 114 | 136 | https://github.com/ridi |
-| 라인 | 111 | 673 | https://github.com/line |
-| 당근마켓 | 107 | 551 | https://github.com/daangn |
-| NHN | 105 | 471 | https://github.com/nhn |
+| 라인 | 111 | 676 | https://github.com/line |
+| 당근마켓 | 107 | 553 | https://github.com/daangn |
+| NHN | 105 | 472 | https://github.com/nhn |
 | 래블업 | 117 | 60 | https://github.com/lablup |
-| 하이퍼커넥트 | 41 | 25 | https://github.com/hyperconnect |
+| 하이퍼커넥트 | 42 | 25 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 16 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 59 | 33 | https://github.com/riiid |
 | 버즈빌 | 48 | 12 | https://github.com/Buzzvil |
-| 카카오 | 55 | 314 | https://github.com/kakao |
+| 카카오 | 55 | 315 | https://github.com/kakao |
 | 네이버클라우드 | 45 | 52 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 41 | 417 | https://github.com/kakaobrain |
+| 카카오브레인 | 41 | 418 | https://github.com/kakaobrain |
 | 그린랩스 | 36 | 54 | https://github.com/green-labs |
 | 직방 | 28 | 27 | https://github.com/zigbang |
 | 우아한형제들 | 21 | 80 | https://github.com/woowabros |
