@@ -25,7 +25,7 @@
       {
         "followers": 27,
         "organization_id": "hamonikr",
-        "public_repos": 171
+        "public_repos": 172
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 591,
+        "followers": 593,
         "organization_id": "Samsung",
         "public_repos": 159
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 136,
+        "followers": 135,
         "organization_id": "ridi",
         "public_repos": 114
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 553,
+        "followers": 554,
         "organization_id": "daangn",
         "public_repos": 107
       }
@@ -153,7 +153,7 @@
     "name": "버즈빌",
     "organizations": [
       {
-        "followers": 12,
+        "followers": 13,
         "organization_id": "Buzzvil",
         "public_repos": 48
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 315,
+        "followers": 316,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 418,
+        "followers": 419,
         "organization_id": "kakaobrain",
         "public_repos": 41
       }
@@ -193,7 +193,7 @@
     "name": "그린랩스",
     "organizations": [
       {
-        "followers": 54,
+        "followers": 53,
         "organization_id": "green-labs",
         "public_repos": 36
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 80,
+        "followers": 79,
         "organization_id": "woowabros",
         "public_repos": 21
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 85,
+        "followers": 86,
         "organization_id": "ncsoft",
         "public_repos": 33
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 57,
+        "followers": 58,
         "organization_id": "thefarmersfront",
         "public_repos": 9
       }
@@ -433,14 +433,14 @@
     "name": "현대자동차",
     "organizations": [
       {
-        "followers": 30,
+        "followers": 31,
         "organization_id": "hkmc-airlab",
         "public_repos": 4
       },
       {
         "followers": 22,
         "organization_id": "42dot",
-        "public_repos": 3
+        "public_repos": 4
       }
     ]
   },
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 72,
+        "followers": 74,
         "organization_id": "musinsa",
         "public_repos": 1
       }
