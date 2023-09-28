@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 679,
+        "followers": 681,
         "organization_id": "line",
         "public_repos": 111
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 556,
+        "followers": 558,
         "organization_id": "daangn",
         "public_repos": 107
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 317,
+        "followers": 319,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 418,
+        "followers": 419,
         "organization_id": "kakaobrain",
         "public_repos": 41
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 44,
+        "followers": 45,
         "organization_id": "LGE-OSS",
         "public_repos": 19
       }
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 24,
+        "followers": 25,
         "organization_id": "42dot",
         "public_repos": 4
       }
@@ -478,7 +478,7 @@
     "name": "힐링페이퍼",
     "organizations": [
       {
-        "followers": 9,
+        "followers": 10,
         "organization_id": "healingpaper",
         "public_repos": 5
       }
@@ -488,9 +488,9 @@
     "name": "11번가",
     "organizations": [
       {
-        "followers": 12,
+        "followers": 13,
         "organization_id": "11st-corp",
-        "public_repos": 8
+        "public_repos": 9
       }
     ]
   },
@@ -595,7 +595,7 @@
       {
         "followers": 108,
         "organization_id": "planetarium",
-        "public_repos": 119
+        "public_repos": 120
       }
     ]
   },

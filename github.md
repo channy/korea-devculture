@@ -12,17 +12,17 @@
 | 센드버드 | 147 | 202 | https://github.com/sendbird |
 | 데브시스터즈 | 165 | 136 | https://github.com/devsisters |
 | 리디 | 114 | 135 | https://github.com/ridi |
-| 라인 | 111 | 679 | https://github.com/line |
-| 당근마켓 | 107 | 556 | https://github.com/daangn |
+| 라인 | 111 | 681 | https://github.com/line |
+| 당근마켓 | 107 | 558 | https://github.com/daangn |
 | NHN | 105 | 473 | https://github.com/nhn |
 | 래블업 | 117 | 60 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 25 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 16 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 59 | 33 | https://github.com/riiid |
 | 버즈빌 | 48 | 13 | https://github.com/Buzzvil |
-| 카카오 | 55 | 317 | https://github.com/kakao |
+| 카카오 | 55 | 319 | https://github.com/kakao |
 | 네이버클라우드 | 45 | 52 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 41 | 418 | https://github.com/kakaobrain |
+| 카카오브레인 | 41 | 419 | https://github.com/kakaobrain |
 | 그린랩스 | 36 | 53 | https://github.com/green-labs |
 | 직방 | 28 | 27 | https://github.com/zigbang |
 | 우아한형제들 | 21 | 79 | https://github.com/woowabros |
@@ -33,7 +33,7 @@
 | 비바리퍼블리카 | 26 | 410 | https://github.com/toss |
 | 마이리얼트립 | 22 | 19 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 21 | https://github.com/coupang |
-| LG전자 | 19 | 44 | https://github.com/LGE-OSS |
+| LG전자 | 19 | 45 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 22 | 12 | https://github.com/dramancompany |
 | 야놀자 | 8 | 9 | https://github.com/yanolja |
 | VCNC | 16 | 12 | https://github.com/VCNC |
@@ -47,12 +47,12 @@
 | 컬리 | 9 | 58 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 1 | https://github.com/megazone-devops |
-| 현대자동차 | 8 | 55 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (4) |
+| 현대자동차 | 8 | 56 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (4) |
 | 포스코ICT | 9 | 5 | https://github.com/poscoict-glueframework |
 | 요기요 | 8 | 68 | https://github.com/yogiyo |
 | 가비아 | 5 | 2 | https://github.com/gabia |
-| 힐링페이퍼 | 5 | 9 | https://github.com/healingpaper |
-| 11번가 | 8 | 12 | https://github.com/11st-corp |
+| 힐링페이퍼 | 5 | 10 | https://github.com/healingpaper |
+| 11번가 | 9 | 13 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 6 | https://github.com/zuminternet |
 | 네이버랩스 | 3 | 16 | https://github.com/naverlabs |
 | 무신사 | 1 | 74 | https://github.com/musinsa |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 0 | https://github.com/Krafton |
 | 카카오뱅크 | 0 | 8 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 119 | 108 | https://github.com/planetarium |
+| 플라네타리움 | 120 | 108 | https://github.com/planetarium |
 | 큐브리드 | 40 | 15 | https://github.com/CUBRID |
 | 코클 | 7 | 11 | https://github.com/cochlearai |
 | 스켈터랩스 | 10 | 8 | https://github.com/SkelterLabsInc |
