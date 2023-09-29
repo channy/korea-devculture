@@ -10,10 +10,10 @@
 | 인베슘 | 172 | 27 | https://github.com/hamonikr |
 | 삼성전자 | 159 | 594 | https://github.com/Samsung |
 | 센드버드 | 147 | 202 | https://github.com/sendbird |
-| 데브시스터즈 | 165 | 136 | https://github.com/devsisters |
+| 데브시스터즈 | 165 | 137 | https://github.com/devsisters |
 | 리디 | 114 | 135 | https://github.com/ridi |
-| 라인 | 111 | 681 | https://github.com/line |
-| 당근마켓 | 107 | 558 | https://github.com/daangn |
+| 라인 | 111 | 685 | https://github.com/line |
+| 당근마켓 | 107 | 557 | https://github.com/daangn |
 | NHN | 105 | 473 | https://github.com/nhn |
 | 래블업 | 117 | 60 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 25 | https://github.com/hyperconnect |
