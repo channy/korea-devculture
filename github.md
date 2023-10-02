@@ -13,8 +13,8 @@
 | 데브시스터즈 | 165 | 137 | https://github.com/devsisters |
 | 리디 | 114 | 135 | https://github.com/ridi |
 | 라인 | 111 | 687 | https://github.com/line |
-| 당근마켓 | 107 | 559 | https://github.com/daangn |
-| NHN | 105 | 473 | https://github.com/nhn |
+| 당근마켓 | 107 | 560 | https://github.com/daangn |
+| NHN | 105 | 472 | https://github.com/nhn |
 | 래블업 | 117 | 60 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 25 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 16 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 7 | https://github.com/hancom-io |
 | 엔씨소프트 | 33 | 86 | https://github.com/ncsoft |
 | 버켓플레이스 | 24 | 63 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 26 | 410 | https://github.com/toss |
+| 비바리퍼블리카 | 26 | 411 | https://github.com/toss |
 | 마이리얼트립 | 22 | 19 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 21 | https://github.com/coupang |
 | LG전자 | 19 | 45 | https://github.com/LGE-OSS |
