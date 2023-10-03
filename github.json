@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1043,
+        "followers": 1044,
         "organization_id": "naver",
         "public_repos": 232
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 135,
+        "followers": 136,
         "organization_id": "ridi",
         "public_repos": 114
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 472,
+        "followers": 471,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 321,
+        "followers": 322,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -195,7 +195,7 @@
       {
         "followers": 53,
         "organization_id": "green-labs",
-        "public_repos": 36
+        "public_repos": 38
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 411,
+        "followers": 412,
         "organization_id": "toss",
         "public_repos": 26
       }
