@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1048,
+        "followers": 1049,
         "organization_id": "naver",
         "public_repos": 232
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 598,
+        "followers": 599,
         "organization_id": "Samsung",
         "public_repos": 159
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 204,
+        "followers": 205,
         "organization_id": "sendbird",
         "public_repos": 147
       }
@@ -55,7 +55,7 @@
       {
         "followers": 137,
         "organization_id": "devsisters",
-        "public_repos": 165
+        "public_repos": 166
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 688,
+        "followers": 694,
         "organization_id": "line",
         "public_repos": 111
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 562,
+        "followers": 564,
         "organization_id": "daangn",
         "public_repos": 107
       }
@@ -143,7 +143,7 @@
     "name": "뤼이드",
     "organizations": [
       {
-        "followers": 33,
+        "followers": 34,
         "organization_id": "riiid",
         "public_repos": 59
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 52,
+        "followers": 53,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 45
       }
@@ -603,7 +603,7 @@
     "name": "큐브리드",
     "organizations": [
       {
-        "followers": 16,
+        "followers": 17,
         "organization_id": "CUBRID",
         "public_repos": 40
       }
