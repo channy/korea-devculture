@@ -5,7 +5,7 @@
       {
         "followers": 35,
         "organization_id": "tmax-cloud",
-        "public_repos": 260
+        "public_repos": 261
       }
     ]
   },
@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1063,
+        "followers": 1064,
         "organization_id": "naver",
         "public_repos": 232
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 607,
+        "followers": 609,
         "organization_id": "Samsung",
         "public_repos": 159
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 205,
+        "followers": 204,
         "organization_id": "sendbird",
         "public_repos": 148
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 138,
+        "followers": 139,
         "organization_id": "ridi",
         "public_repos": 114
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 698,
+        "followers": 699,
         "organization_id": "line",
         "public_repos": 111
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 575,
+        "followers": 578,
         "organization_id": "daangn",
         "public_repos": 106
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 60,
+        "followers": 62,
         "organization_id": "lablup",
         "public_repos": 117
       }
@@ -193,7 +193,7 @@
     "name": "그린랩스",
     "organizations": [
       {
-        "followers": 53,
+        "followers": 54,
         "organization_id": "green-labs",
         "public_repos": 38
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 86,
+        "followers": 85,
         "organization_id": "ncsoft",
         "public_repos": 33
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 415,
+        "followers": 416,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -508,7 +508,7 @@
     "name": "네이버랩스",
     "organizations": [
       {
-        "followers": 16,
+        "followers": 17,
         "organization_id": "naverlabs",
         "public_repos": 3
       }
