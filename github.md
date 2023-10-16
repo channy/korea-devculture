@@ -6,23 +6,23 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 261 | 35 | https://github.com/tmax-cloud |
-| 네이버 | 232 | 1064 | https://github.com/naver |
+| 네이버 | 232 | 1068 | https://github.com/naver |
 | 인베슘 | 172 | 27 | https://github.com/hamonikr |
-| 삼성전자 | 159 | 608 | https://github.com/Samsung |
+| 삼성전자 | 159 | 612 | https://github.com/Samsung |
 | 센드버드 | 148 | 204 | https://github.com/sendbird |
-| 데브시스터즈 | 166 | 137 | https://github.com/devsisters |
+| 데브시스터즈 | 166 | 138 | https://github.com/devsisters |
 | 리디 | 114 | 139 | https://github.com/ridi |
-| 라인 | 111 | 698 | https://github.com/line |
-| 당근마켓 | 106 | 580 | https://github.com/daangn |
-| NHN | 105 | 475 | https://github.com/nhn |
+| 라인 | 111 | 699 | https://github.com/line |
+| 당근마켓 | 106 | 583 | https://github.com/daangn |
+| NHN | 105 | 477 | https://github.com/nhn |
 | 래블업 | 117 | 62 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 25 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 16 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 59 | 35 | https://github.com/riiid |
 | 버즈빌 | 48 | 13 | https://github.com/Buzzvil |
-| 카카오 | 55 | 326 | https://github.com/kakao |
+| 카카오 | 55 | 330 | https://github.com/kakao |
 | 네이버클라우드 | 46 | 53 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 41 | 423 | https://github.com/kakaobrain |
+| 카카오브레인 | 41 | 424 | https://github.com/kakaobrain |
 | 그린랩스 | 38 | 54 | https://github.com/green-labs |
 | 직방 | 28 | 28 | https://github.com/zigbang |
 | 우아한형제들 | 21 | 79 | https://github.com/woowabros |
@@ -30,9 +30,9 @@
 | 한글과컴퓨터 | 31 | 7 | https://github.com/hancom-io |
 | 엔씨소프트 | 33 | 85 | https://github.com/ncsoft |
 | 버켓플레이스 | 24 | 63 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 26 | 417 | https://github.com/toss |
+| 비바리퍼블리카 | 26 | 418 | https://github.com/toss |
 | 마이리얼트립 | 22 | 19 | https://github.com/myrealtrip |
-| 쿠팡 | 18 | 22 | https://github.com/coupang |
+| 쿠팡 | 18 | 23 | https://github.com/coupang |
 | LG전자 | 19 | 46 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 22 | 12 | https://github.com/dramancompany |
 | 야놀자 | 8 | 9 | https://github.com/yanolja |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 0 | https://github.com/Krafton |
 | 카카오뱅크 | 0 | 8 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 120 | 107 | https://github.com/planetarium |
+| 플라네타리움 | 119 | 107 | https://github.com/planetarium |
 | 큐브리드 | 40 | 17 | https://github.com/CUBRID |
 | 코클 | 7 | 11 | https://github.com/cochlearai |
 | 스켈터랩스 | 10 | 8 | https://github.com/SkelterLabsInc |
