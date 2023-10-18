@@ -6,26 +6,26 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 261 | 35 | https://github.com/tmax-cloud |
-| 네이버 | 232 | 1071 | https://github.com/naver |
+| 네이버 | 232 | 1073 | https://github.com/naver |
 | 인베슘 | 172 | 27 | https://github.com/hamonikr |
-| 삼성전자 | 159 | 612 | https://github.com/Samsung |
+| 삼성전자 | 159 | 613 | https://github.com/Samsung |
 | 센드버드 | 148 | 204 | https://github.com/sendbird |
 | 데브시스터즈 | 167 | 138 | https://github.com/devsisters |
 | 리디 | 114 | 139 | https://github.com/ridi |
 | 라인 | 111 | 700 | https://github.com/line |
 | 당근마켓 | 106 | 584 | https://github.com/daangn |
-| NHN | 105 | 478 | https://github.com/nhn |
+| NHN | 105 | 480 | https://github.com/nhn |
 | 래블업 | 117 | 62 | https://github.com/lablup |
-| 하이퍼커넥트 | 42 | 25 | https://github.com/hyperconnect |
+| 하이퍼커넥트 | 41 | 25 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 16 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 59 | 35 | https://github.com/riiid |
 | 버즈빌 | 48 | 13 | https://github.com/Buzzvil |
 | 카카오 | 55 | 330 | https://github.com/kakao |
 | 네이버클라우드 | 46 | 53 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 41 | 424 | https://github.com/kakaobrain |
+| 카카오브레인 | 41 | 425 | https://github.com/kakaobrain |
 | 그린랩스 | 38 | 54 | https://github.com/green-labs |
 | 직방 | 28 | 28 | https://github.com/zigbang |
-| 우아한형제들 | 21 | 79 | https://github.com/woowabros |
+| 우아한형제들 | 21 | 80 | https://github.com/woowabros |
 | 쏘카 | 26 | 42 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 7 | https://github.com/hancom-io |
 | 엔씨소프트 | 33 | 85 | https://github.com/ncsoft |
@@ -43,7 +43,7 @@
 | 딜리셔스 | 17 | 21 | https://github.com/dealicious-inc |
 | 몰로코 | 15 | 71 | https://github.com/moloco |
 | 네이버제트 | 10 | 48 | https://github.com/naverz |
-| SK텔레콤 | 4 | 18 | https://github.com/sktelecom |
+| SK텔레콤 | 4 | 17 | https://github.com/sktelecom |
 | 컬리 | 9 | 58 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 1 | https://github.com/megazone-devops |
