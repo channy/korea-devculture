@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 204,
+        "followers": 205,
         "organization_id": "sendbird",
         "public_repos": 148
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 701,
+        "followers": 702,
         "organization_id": "line",
         "public_repos": 111
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 480,
+        "followers": 481,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 330,
+        "followers": 331,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 53,
+        "followers": 54,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 46
       }
@@ -458,9 +458,9 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 69,
+        "followers": 70,
         "organization_id": "yogiyo",
-        "public_repos": 8
+        "public_repos": 9
       }
     ]
   },
