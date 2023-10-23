@@ -5,15 +5,15 @@
 
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
-| 티맥스클라우드 | 261 | 36 | https://github.com/tmax-cloud |
+| 티맥스클라우드 | 261 | 37 | https://github.com/tmax-cloud |
 | 네이버 | 232 | 1078 | https://github.com/naver |
 | 인베슘 | 172 | 27 | https://github.com/hamonikr |
 | 삼성전자 | 159 | 616 | https://github.com/Samsung |
 | 센드버드 | 148 | 205 | https://github.com/sendbird |
-| 데브시스터즈 | 167 | 139 | https://github.com/devsisters |
+| 데브시스터즈 | 167 | 141 | https://github.com/devsisters |
 | 리디 | 114 | 139 | https://github.com/ridi |
 | 라인 | 113 | 704 | https://github.com/line |
-| 당근마켓 | 106 | 586 | https://github.com/daangn |
+| 당근마켓 | 106 | 588 | https://github.com/daangn |
 | NHN | 105 | 481 | https://github.com/nhn |
 | 래블업 | 117 | 62 | https://github.com/lablup |
 | 하이퍼커넥트 | 41 | 26 | https://github.com/hyperconnect |
@@ -22,7 +22,7 @@
 | 버즈빌 | 48 | 13 | https://github.com/Buzzvil |
 | 카카오 | 55 | 331 | https://github.com/kakao |
 | 네이버클라우드 | 46 | 54 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 41 | 425 | https://github.com/kakaobrain |
+| 카카오브레인 | 41 | 426 | https://github.com/kakaobrain |
 | 그린랩스 | 38 | 54 | https://github.com/green-labs |
 | 직방 | 28 | 28 | https://github.com/zigbang |
 | 우아한형제들 | 21 | 80 | https://github.com/woowabros |
@@ -34,7 +34,7 @@
 | 마이리얼트립 | 22 | 19 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 23 | https://github.com/coupang |
 | LG전자 | 19 | 46 | https://github.com/LGE-OSS |
-| 드라마앤컴퍼니 | 22 | 12 | https://github.com/dramancompany |
+| 드라마앤컴퍼니 | 23 | 12 | https://github.com/dramancompany |
 | 야놀자 | 8 | 9 | https://github.com/yanolja |
 | VCNC | 16 | 12 | https://github.com/VCNC |
 | 다나와 | 1 | 5 | https://github.com/danawalab |
@@ -44,7 +44,7 @@
 | 몰로코 | 15 | 71 | https://github.com/moloco |
 | 네이버제트 | 10 | 48 | https://github.com/naverz |
 | SK텔레콤 | 4 | 17 | https://github.com/sktelecom |
-| 컬리 | 9 | 58 | https://github.com/thefarmersfront |
+| 컬리 | 9 | 59 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 1 | https://github.com/megazone-devops |
 | 현대자동차 | 8 | 56 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (4) |
