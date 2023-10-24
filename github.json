@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1078,
+        "followers": 1082,
         "organization_id": "naver",
         "public_repos": 232
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 616,
+        "followers": 617,
         "organization_id": "Samsung",
         "public_repos": 159
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 588,
+        "followers": 592,
         "organization_id": "daangn",
         "public_repos": 106
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 331,
+        "followers": 333,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 80,
+        "followers": 81,
         "organization_id": "woowabros",
         "public_repos": 21
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 63,
+        "followers": 64,
         "organization_id": "bucketplace",
         "public_repos": 24
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 19,
+        "followers": 20,
         "organization_id": "myrealtrip",
         "public_repos": 22
       }
@@ -293,9 +293,9 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 46,
+        "followers": 47,
         "organization_id": "LGE-OSS",
-        "public_repos": 19
+        "public_repos": 20
       }
     ]
   },
@@ -478,7 +478,7 @@
     "name": "힐링페이퍼",
     "organizations": [
       {
-        "followers": 10,
+        "followers": 11,
         "organization_id": "healingpaper",
         "public_repos": 5
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 109,
+        "followers": 110,
         "organization_id": "planetarium",
         "public_repos": 121
       }
