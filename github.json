@@ -3,9 +3,9 @@
     "name": "티맥스클라우드",
     "organizations": [
       {
-        "followers": 37,
+        "followers": 38,
         "organization_id": "tmax-cloud",
-        "public_repos": 262
+        "public_repos": 261
       }
     ]
   },
@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1088,
+        "followers": 1090,
         "organization_id": "naver",
         "public_repos": 232
       }
@@ -33,9 +33,9 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 619,
+        "followers": 620,
         "organization_id": "Samsung",
-        "public_repos": 159
+        "public_repos": 160
       }
     ]
   },
@@ -55,7 +55,7 @@
       {
         "followers": 142,
         "organization_id": "devsisters",
-        "public_repos": 167
+        "public_repos": 168
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 708,
+        "followers": 710,
         "organization_id": "line",
         "public_repos": 113
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 481,
+        "followers": 482,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 63,
+        "followers": 65,
         "organization_id": "lablup",
         "public_repos": 117
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 333,
+        "followers": 332,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 420,
+        "followers": 422,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -363,7 +363,7 @@
     "name": "딜리셔스",
     "organizations": [
       {
-        "followers": 21,
+        "followers": 22,
         "organization_id": "dealicious-inc",
         "public_repos": 17
       }
@@ -613,7 +613,7 @@
     "name": "코클",
     "organizations": [
       {
-        "followers": 11,
+        "followers": 10,
         "organization_id": "cochlearai",
         "public_repos": 7
       }
