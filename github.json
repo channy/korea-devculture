@@ -25,7 +25,7 @@
       {
         "followers": 27,
         "organization_id": "hamonikr",
-        "public_repos": 175
+        "public_repos": 176
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 622,
+        "followers": 623,
         "organization_id": "Samsung",
         "public_repos": 160
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 333,
+        "followers": 334,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 427,
+        "followers": 429,
         "organization_id": "kakaobrain",
         "public_repos": 41
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 423,
+        "followers": 425,
         "organization_id": "toss",
         "public_repos": 26
       }
