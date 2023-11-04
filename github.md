@@ -6,7 +6,7 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 262 | 38 | https://github.com/tmax-cloud |
-| 네이버 | 235 | 1099 | https://github.com/naver |
+| 네이버 | 235 | 1100 | https://github.com/naver |
 | 인베슘 | 176 | 27 | https://github.com/hamonikr |
 | 삼성전자 | 160 | 626 | https://github.com/Samsung |
 | 센드버드 | 149 | 208 | https://github.com/sendbird |
@@ -22,10 +22,10 @@
 | 버즈빌 | 48 | 13 | https://github.com/Buzzvil |
 | 카카오 | 55 | 337 | https://github.com/kakao |
 | 네이버클라우드 | 46 | 55 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 42 | 430 | https://github.com/kakaobrain |
+| 카카오브레인 | 42 | 431 | https://github.com/kakaobrain |
 | 그린랩스 | 38 | 54 | https://github.com/green-labs |
 | 직방 | 29 | 28 | https://github.com/zigbang |
-| 우아한형제들 | 21 | 82 | https://github.com/woowabros |
+| 우아한형제들 | 21 | 83 | https://github.com/woowabros |
 | 쏘카 | 26 | 43 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 7 | https://github.com/hancom-io |
 | 엔씨소프트 | 33 | 88 | https://github.com/ncsoft |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 0 | https://github.com/Krafton |
 | 카카오뱅크 | 0 | 9 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 122 | 111 | https://github.com/planetarium |
+| 플라네타리움 | 122 | 112 | https://github.com/planetarium |
 | 큐브리드 | 40 | 17 | https://github.com/CUBRID |
 | 코클 | 7 | 11 | https://github.com/cochlearai |
 | 스켈터랩스 | 10 | 8 | https://github.com/SkelterLabsInc |

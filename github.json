@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1099,
+        "followers": 1100,
         "organization_id": "naver",
         "public_repos": 235
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 430,
+        "followers": 431,
         "organization_id": "kakaobrain",
         "public_repos": 42
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 82,
+        "followers": 83,
         "organization_id": "woowabros",
         "public_repos": 21
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 111,
+        "followers": 112,
         "organization_id": "planetarium",
         "public_repos": 122
       }
