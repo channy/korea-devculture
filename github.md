@@ -6,15 +6,15 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 262 | 38 | https://github.com/tmax-cloud |
-| 네이버 | 235 | 1100 | https://github.com/naver |
+| 네이버 | 235 | 1101 | https://github.com/naver |
 | 인베슘 | 176 | 27 | https://github.com/hamonikr |
-| 삼성전자 | 160 | 626 | https://github.com/Samsung |
+| 삼성전자 | 160 | 627 | https://github.com/Samsung |
 | 센드버드 | 149 | 208 | https://github.com/sendbird |
 | 데브시스터즈 | 168 | 142 | https://github.com/devsisters |
 | 리디 | 114 | 138 | https://github.com/ridi |
-| 라인 | 113 | 723 | https://github.com/line |
+| 라인 | 113 | 724 | https://github.com/line |
 | 당근마켓 | 106 | 600 | https://github.com/daangn |
-| NHN | 106 | 490 | https://github.com/nhn |
+| NHN | 106 | 491 | https://github.com/nhn |
 | 래블업 | 118 | 65 | https://github.com/lablup |
 | 하이퍼커넥트 | 41 | 26 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 16 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -47,7 +47,7 @@
 | 컬리 | 9 | 58 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 1 | https://github.com/megazone-devops |
-| 현대자동차 | 8 | 57 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (4) |
+| 현대자동차 | 8 | 58 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (4) |
 | 포스코ICT | 9 | 5 | https://github.com/poscoict-glueframework |
 | 요기요 | 9 | 71 | https://github.com/yogiyo |
 | 가비아 | 5 | 2 | https://github.com/gabia |
