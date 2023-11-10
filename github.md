@@ -6,21 +6,21 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 262 | 38 | https://github.com/tmax-cloud |
-| 네이버 | 237 | 1103 | https://github.com/naver |
-| 인베슘 | 176 | 27 | https://github.com/hamonikr |
+| 네이버 | 238 | 1105 | https://github.com/naver |
+| 인베슘 | 177 | 27 | https://github.com/hamonikr |
 | 삼성전자 | 161 | 631 | https://github.com/Samsung |
 | 센드버드 | 151 | 209 | https://github.com/sendbird |
-| 데브시스터즈 | 168 | 142 | https://github.com/devsisters |
+| 데브시스터즈 | 168 | 141 | https://github.com/devsisters |
 | 리디 | 114 | 139 | https://github.com/ridi |
 | 라인 | 113 | 727 | https://github.com/line |
-| 당근마켓 | 106 | 608 | https://github.com/daangn |
+| 당근마켓 | 106 | 610 | https://github.com/daangn |
 | NHN | 106 | 494 | https://github.com/nhn |
 | 래블업 | 118 | 65 | https://github.com/lablup |
 | 하이퍼커넥트 | 41 | 26 | https://github.com/hyperconnect |
 | 삼성SDS | 84 | 16 | https://github.com/samsung-cnct (70)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 59 | 35 | https://github.com/riiid |
 | 버즈빌 | 48 | 13 | https://github.com/Buzzvil |
-| 카카오 | 55 | 339 | https://github.com/kakao |
+| 카카오 | 55 | 338 | https://github.com/kakao |
 | 네이버클라우드 | 46 | 55 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 42 | 431 | https://github.com/kakaobrain |
 | 그린랩스 | 38 | 54 | https://github.com/green-labs |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 7 | https://github.com/hancom-io |
 | 엔씨소프트 | 33 | 88 | https://github.com/ncsoft |
 | 버켓플레이스 | 24 | 64 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 26 | 433 | https://github.com/toss |
+| 비바리퍼블리카 | 26 | 434 | https://github.com/toss |
 | 마이리얼트립 | 22 | 20 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 23 | https://github.com/coupang |
 | LG전자 | 20 | 48 | https://github.com/LGE-OSS |
@@ -46,7 +46,7 @@
 | SK텔레콤 | 4 | 17 | https://github.com/sktelecom |
 | 컬리 | 9 | 58 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
-| 메가존클라우드 | 8 | 1 | https://github.com/megazone-devops |
+| 메가존클라우드 | 8 | 2 | https://github.com/megazone-devops |
 | 현대자동차 | 8 | 59 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (4) |
 | 포스코ICT | 9 | 5 | https://github.com/poscoict-glueframework |
 | 요기요 | 9 | 71 | https://github.com/yogiyo |
