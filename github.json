@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 632,
+        "followers": 634,
         "organization_id": "Samsung",
         "public_repos": 161
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 65,
+        "followers": 64,
         "organization_id": "lablup",
         "public_repos": 118
       }
@@ -393,7 +393,7 @@
     "name": "SK텔레콤",
     "organizations": [
       {
-        "followers": 17,
+        "followers": 18,
         "organization_id": "sktelecom",
         "public_repos": 4
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 116,
+        "followers": 115,
         "organization_id": "planetarium",
         "public_repos": 123
       }
