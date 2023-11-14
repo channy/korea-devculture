@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1106,
+        "followers": 1111,
         "organization_id": "naver",
         "public_repos": 238
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 634,
+        "followers": 638,
         "organization_id": "Samsung",
         "public_repos": 161
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 209,
+        "followers": 210,
         "organization_id": "sendbird",
         "public_repos": 151
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 730,
+        "followers": 731,
         "organization_id": "line",
         "public_repos": 113
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 613,
+        "followers": 615,
         "organization_id": "daangn",
         "public_repos": 106
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 495,
+        "followers": 496,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 338,
+        "followers": 339,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 432,
+        "followers": 433,
         "organization_id": "kakaobrain",
         "public_repos": 42
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 43,
+        "followers": 44,
         "organization_id": "socar-inc",
         "public_repos": 26
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 64,
+        "followers": 65,
         "organization_id": "bucketplace",
         "public_repos": 24
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 434,
+        "followers": 435,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -275,7 +275,7 @@
       {
         "followers": 20,
         "organization_id": "myrealtrip",
-        "public_repos": 22
+        "public_repos": 23
       }
     ]
   },
