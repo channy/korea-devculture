@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1111,
+        "followers": 1114,
         "organization_id": "naver",
         "public_repos": 238
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 638,
+        "followers": 643,
         "organization_id": "Samsung",
         "public_repos": 161
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 615,
+        "followers": 618,
         "organization_id": "daangn",
         "public_repos": 106
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 496,
+        "followers": 498,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 339,
+        "followers": 340,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 433,
+        "followers": 434,
         "organization_id": "kakaobrain",
         "public_repos": 42
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 84,
+        "followers": 85,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 435,
+        "followers": 438,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 24,
+        "followers": 25,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 48,
+        "followers": 49,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -313,7 +313,7 @@
     "name": "야놀자",
     "organizations": [
       {
-        "followers": 9,
+        "followers": 10,
         "organization_id": "yanolja",
         "public_repos": 8
       }
@@ -535,7 +535,7 @@
       {
         "followers": 1,
         "organization_id": "cloudsvcdev",
-        "public_repos": 3
+        "public_repos": 4
       }
     ]
   },
@@ -603,7 +603,7 @@
     "name": "큐브리드",
     "organizations": [
       {
-        "followers": 17,
+        "followers": 18,
         "organization_id": "CUBRID",
         "public_repos": 40
       }
@@ -615,7 +615,7 @@
       {
         "followers": 11,
         "organization_id": "cochlearai",
-        "public_repos": 7
+        "public_repos": 8
       }
     ]
   },
