@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1124,
+        "followers": 1126,
         "organization_id": "naver",
         "public_repos": 238
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 211,
+        "followers": 212,
         "organization_id": "sendbird",
         "public_repos": 151
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 142,
+        "followers": 143,
         "organization_id": "devsisters",
         "public_repos": 168
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 734,
+        "followers": 735,
         "organization_id": "line",
         "public_repos": 113
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 618,
+        "followers": 619,
         "organization_id": "daangn",
         "public_repos": 106
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 342,
+        "followers": 344,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 434,
+        "followers": 435,
         "organization_id": "kakaobrain",
         "public_repos": 42
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 88,
+        "followers": 89,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 442,
+        "followers": 444,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -303,7 +303,7 @@
     "name": "드라마앤컴퍼니",
     "organizations": [
       {
-        "followers": 12,
+        "followers": 13,
         "organization_id": "dramancompany",
         "public_repos": 23
       }
@@ -468,7 +468,7 @@
     "name": "가비아",
     "organizations": [
       {
-        "followers": 2,
+        "followers": 1,
         "organization_id": "gabia",
         "public_repos": 5
       }
@@ -595,7 +595,7 @@
       {
         "followers": 115,
         "organization_id": "planetarium",
-        "public_repos": 123
+        "public_repos": 124
       }
     ]
   },
