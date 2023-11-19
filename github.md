@@ -22,7 +22,7 @@
 | 버즈빌 | 48 | 13 | https://github.com/Buzzvil |
 | 카카오 | 55 | 345 | https://github.com/kakao |
 | 네이버클라우드 | 48 | 55 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 42 | 435 | https://github.com/kakaobrain |
+| 카카오브레인 | 42 | 436 | https://github.com/kakaobrain |
 | 그린랩스 | 38 | 54 | https://github.com/green-labs |
 | 직방 | 29 | 28 | https://github.com/zigbang |
 | 우아한형제들 | 22 | 89 | https://github.com/woowabros |
@@ -40,16 +40,16 @@
 | 다나와 | 1 | 5 | https://github.com/danawalab |
 | 뱅크샐러드 | 16 | 67 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 16 | 55 | https://github.com/kakaoenterprise |
-| 딜리셔스 | 18 | 22 | https://github.com/dealicious-inc |
+| 딜리셔스 | 17 | 22 | https://github.com/dealicious-inc |
 | 몰로코 | 15 | 72 | https://github.com/moloco |
 | 네이버제트 | 10 | 49 | https://github.com/naverz |
 | SK텔레콤 | 4 | 18 | https://github.com/sktelecom |
 | 컬리 | 9 | 58 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 2 | https://github.com/megazone-devops |
-| 현대자동차 | 8 | 62 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (4) |
+| 현대자동차 | 8 | 63 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (4) |
 | 포스코ICT | 9 | 5 | https://github.com/poscoict-glueframework |
-| 요기요 | 9 | 71 | https://github.com/yogiyo |
+| 요기요 | 12 | 71 | https://github.com/yogiyo |
 | 가비아 | 5 | 1 | https://github.com/gabia |
 | 힐링페이퍼 | 5 | 12 | https://github.com/healingpaper |
 | 11번가 | 9 | 13 | https://github.com/11st-corp |

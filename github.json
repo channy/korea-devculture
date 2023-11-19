@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 435,
+        "followers": 436,
         "organization_id": "kakaobrain",
         "public_repos": 42
       }
@@ -365,7 +365,7 @@
       {
         "followers": 22,
         "organization_id": "dealicious-inc",
-        "public_repos": 18
+        "public_repos": 17
       }
     ]
   },
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 30,
+        "followers": 31,
         "organization_id": "42dot",
         "public_repos": 4
       }
@@ -460,7 +460,7 @@
       {
         "followers": 71,
         "organization_id": "yogiyo",
-        "public_repos": 9
+        "public_repos": 12
       }
     ]
   },
