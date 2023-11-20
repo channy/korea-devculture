@@ -13,9 +13,9 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1129,
+        "followers": 1131,
         "organization_id": "naver",
-        "public_repos": 238
+        "public_repos": 237
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 643,
+        "followers": 644,
         "organization_id": "Samsung",
         "public_repos": 161
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 138,
+        "followers": 139,
         "organization_id": "ridi",
         "public_repos": 114
       }
@@ -83,9 +83,9 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 620,
+        "followers": 621,
         "organization_id": "daangn",
-        "public_repos": 106
+        "public_repos": 107
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 345,
+        "followers": 346,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 436,
+        "followers": 435,
         "organization_id": "kakaobrain",
         "public_repos": 42
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 44,
+        "followers": 45,
         "organization_id": "socar-inc",
         "public_repos": 26
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 444,
+        "followers": 445,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 25,
+        "followers": 26,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -393,7 +393,7 @@
     "name": "SK텔레콤",
     "organizations": [
       {
-        "followers": 18,
+        "followers": 19,
         "organization_id": "sktelecom",
         "public_repos": 4
       }
@@ -460,7 +460,7 @@
       {
         "followers": 71,
         "organization_id": "yogiyo",
-        "public_repos": 12
+        "public_repos": 13
       }
     ]
   },
@@ -498,7 +498,7 @@
     "name": "줌인터넷",
     "organizations": [
       {
-        "followers": 6,
+        "followers": 5,
         "organization_id": "zuminternet",
         "public_repos": 4
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 115,
+        "followers": 116,
         "organization_id": "planetarium",
         "public_repos": 124
       }
