@@ -6,14 +6,14 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 262 | 38 | https://github.com/tmax-cloud |
-| 네이버 | 237 | 1141 | https://github.com/naver |
+| 네이버 | 238 | 1143 | https://github.com/naver |
 | 인베슘 | 177 | 28 | https://github.com/hamonikr |
-| 삼성전자 | 163 | 644 | https://github.com/Samsung |
-| 센드버드 | 151 | 214 | https://github.com/sendbird |
+| 삼성전자 | 163 | 645 | https://github.com/Samsung |
+| 센드버드 | 151 | 215 | https://github.com/sendbird |
 | 데브시스터즈 | 168 | 144 | https://github.com/devsisters |
 | 리디 | 114 | 138 | https://github.com/ridi |
-| 라인 | 114 | 742 | https://github.com/line |
-| 당근마켓 | 107 | 628 | https://github.com/daangn |
+| 라인 | 114 | 744 | https://github.com/line |
+| 당근마켓 | 107 | 630 | https://github.com/daangn |
 | NHN | 106 | 503 | https://github.com/nhn |
 | 래블업 | 118 | 64 | https://github.com/lablup |
 | 하이퍼커넥트 | 41 | 26 | https://github.com/hyperconnect |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 7 | https://github.com/hancom-io |
 | 엔씨소프트 | 33 | 90 | https://github.com/ncsoft |
 | 버켓플레이스 | 24 | 66 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 26 | 449 | https://github.com/toss |
+| 비바리퍼블리카 | 26 | 450 | https://github.com/toss |
 | 마이리얼트립 | 27 | 21 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 26 | https://github.com/coupang |
 | LG전자 | 20 | 49 | https://github.com/LGE-OSS |
@@ -41,7 +41,7 @@
 | 뱅크샐러드 | 16 | 67 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 16 | 56 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 17 | 22 | https://github.com/dealicious-inc |
-| 몰로코 | 15 | 73 | https://github.com/moloco |
+| 몰로코 | 15 | 74 | https://github.com/moloco |
 | 네이버제트 | 10 | 51 | https://github.com/naverz |
 | SK텔레콤 | 4 | 19 | https://github.com/sktelecom |
 | 컬리 | 9 | 58 | https://github.com/thefarmersfront |
@@ -49,13 +49,13 @@
 | 메가존클라우드 | 8 | 2 | https://github.com/megazone-devops |
 | 현대자동차 | 8 | 63 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (4) |
 | 포스코ICT | 9 | 5 | https://github.com/poscoict-glueframework |
-| 요기요 | 11 | 71 | https://github.com/yogiyo |
+| 요기요 | 11 | 72 | https://github.com/yogiyo |
 | 가비아 | 5 | 1 | https://github.com/gabia |
 | 힐링페이퍼 | 5 | 12 | https://github.com/healingpaper |
 | 11번가 | 9 | 13 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 5 | https://github.com/zuminternet |
 | 네이버랩스 | 3 | 17 | https://github.com/naverlabs |
-| 무신사 | 1 | 81 | https://github.com/musinsa |
+| 무신사 | 1 | 82 | https://github.com/musinsa |
 | SK | 4 | 1 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (4) |
 | 카카오페이 | 2 | 12 | https://github.com/kakaopay |
 | 신한은행 | 1 | 7 | https://github.com/Shinhan-Bank |
