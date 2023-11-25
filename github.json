@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1143,
+        "followers": 1145,
         "organization_id": "naver",
         "public_repos": 238
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 138,
+        "followers": 137,
         "organization_id": "ridi",
         "public_repos": 114
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 630,
+        "followers": 631,
         "organization_id": "daangn",
         "public_repos": 107
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 503,
+        "followers": 504,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -143,7 +143,7 @@
     "name": "뤼이드",
     "organizations": [
       {
-        "followers": 35,
+        "followers": 36,
         "organization_id": "riiid",
         "public_repos": 60
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 347,
+        "followers": 349,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 435,
+        "followers": 434,
         "organization_id": "kakaobrain",
         "public_repos": 42
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 90,
+        "followers": 91,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 90,
+        "followers": 89,
         "organization_id": "ncsoft",
         "public_repos": 33
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 450,
+        "followers": 451,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -363,7 +363,7 @@
     "name": "딜리셔스",
     "organizations": [
       {
-        "followers": 22,
+        "followers": 21,
         "organization_id": "dealicious-inc",
         "public_repos": 17
       }
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 31,
+        "followers": 30,
         "organization_id": "42dot",
         "public_repos": 4
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 116,
+        "followers": 118,
         "organization_id": "planetarium",
         "public_repos": 124
       }
@@ -603,7 +603,7 @@
     "name": "큐브리드",
     "organizations": [
       {
-        "followers": 18,
+        "followers": 19,
         "organization_id": "CUBRID",
         "public_repos": 40
       }
