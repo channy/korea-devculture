@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1170,
+        "followers": 1175,
         "organization_id": "naver",
         "public_repos": 241
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 217,
+        "followers": 218,
         "organization_id": "sendbird",
         "public_repos": 150
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 762,
+        "followers": 763,
         "organization_id": "line",
         "public_repos": 114
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 651,
+        "followers": 652,
         "organization_id": "daangn",
         "public_repos": 107
       }
@@ -93,9 +93,9 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 508,
+        "followers": 509,
         "organization_id": "nhn",
-        "public_repos": 106
+        "public_repos": 108
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 356,
+        "followers": 359,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 435,
+        "followers": 436,
         "organization_id": "kakaobrain",
         "public_repos": 42
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 97,
+        "followers": 98,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 89,
+        "followers": 90,
         "organization_id": "ncsoft",
         "public_repos": 33
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 468,
+        "followers": 471,
         "organization_id": "toss",
         "public_repos": 26
       }
