@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1175,
+        "followers": 1179,
         "organization_id": "naver",
         "public_repos": 241
       }
@@ -25,7 +25,7 @@
       {
         "followers": 29,
         "organization_id": "hamonikr",
-        "public_repos": 177
+        "public_repos": 178
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 652,
+        "followers": 654,
         "organization_id": "Samsung",
         "public_repos": 163
       }
@@ -43,9 +43,9 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 218,
+        "followers": 219,
         "organization_id": "sendbird",
-        "public_repos": 150
+        "public_repos": 151
       }
     ]
   },
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 146,
+        "followers": 147,
         "organization_id": "devsisters",
         "public_repos": 168
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 509,
+        "followers": 511,
         "organization_id": "nhn",
         "public_repos": 108
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 65,
+        "followers": 66,
         "organization_id": "lablup",
         "public_repos": 118
       }
@@ -115,7 +115,7 @@
       {
         "followers": 26,
         "organization_id": "hyperconnect",
-        "public_repos": 41
+        "public_repos": 42
       }
     ]
   },
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 55,
+        "followers": 56,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 48
       }
@@ -185,7 +185,7 @@
       {
         "followers": 436,
         "organization_id": "kakaobrain",
-        "public_repos": 42
+        "public_repos": 43
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 471,
+        "followers": 472,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -303,7 +303,7 @@
     "name": "드라마앤컴퍼니",
     "organizations": [
       {
-        "followers": 13,
+        "followers": 14,
         "organization_id": "dramancompany",
         "public_repos": 23
       }
@@ -325,7 +325,7 @@
       {
         "followers": 12,
         "organization_id": "VCNC",
-        "public_repos": 17
+        "public_repos": 18
       }
     ]
   },
