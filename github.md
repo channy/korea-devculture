@@ -8,12 +8,12 @@
 | 티맥스클라우드 | 262 | 38 | https://github.com/tmax-cloud |
 | 네이버 | 241 | 1186 | https://github.com/naver |
 | 인베슘 | 178 | 29 | https://github.com/hamonikr |
-| 삼성전자 | 163 | 657 | https://github.com/Samsung |
+| 삼성전자 | 163 | 659 | https://github.com/Samsung |
 | 센드버드 | 151 | 219 | https://github.com/sendbird |
 | 데브시스터즈 | 168 | 147 | https://github.com/devsisters |
 | 리디 | 114 | 138 | https://github.com/ridi |
 | 라인 | 114 | 765 | https://github.com/line |
-| 당근마켓 | 107 | 654 | https://github.com/daangn |
+| 당근마켓 | 107 | 655 | https://github.com/daangn |
 | NHN | 108 | 513 | https://github.com/nhn |
 | 래블업 | 118 | 66 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 26 | https://github.com/hyperconnect |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 0 | https://github.com/Krafton |
 | 카카오뱅크 | 0 | 11 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 125 | 123 | https://github.com/planetarium |
+| 플라네타리움 | 125 | 124 | https://github.com/planetarium |
 | 큐브리드 | 40 | 19 | https://github.com/CUBRID |
 | 코클 | 9 | 11 | https://github.com/cochlearai |
 | 스켈터랩스 | 10 | 8 | https://github.com/SkelterLabsInc |
