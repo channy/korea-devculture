@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1186,
+        "followers": 1191,
         "organization_id": "naver",
         "public_repos": 241
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 659,
+        "followers": 660,
         "organization_id": "Samsung",
         "public_repos": 163
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 765,
+        "followers": 768,
         "organization_id": "line",
         "public_repos": 114
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 655,
+        "followers": 656,
         "organization_id": "daangn",
         "public_repos": 107
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 363,
+        "followers": 364,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 472,
+        "followers": 473,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -393,7 +393,7 @@
     "name": "SK텔레콤",
     "organizations": [
       {
-        "followers": 20,
+        "followers": 21,
         "organization_id": "sktelecom",
         "public_repos": 4
       }
@@ -583,7 +583,7 @@
     "name": "카카오헤어샵",
     "organizations": [
       {
-        "followers": 7,
+        "followers": 6,
         "organization_id": "kakaohairshop",
         "public_repos": 12
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 124,
+        "followers": 125,
         "organization_id": "planetarium",
         "public_repos": 125
       }
