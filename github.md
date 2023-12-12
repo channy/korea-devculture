@@ -5,24 +5,24 @@
 
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
-| 티맥스클라우드 | 262 | 38 | https://github.com/tmax-cloud |
-| 네이버 | 241 | 1191 | https://github.com/naver |
+| 티맥스클라우드 | 262 | 39 | https://github.com/tmax-cloud |
+| 네이버 | 241 | 1193 | https://github.com/naver |
 | 인베슘 | 178 | 29 | https://github.com/hamonikr |
-| 삼성전자 | 163 | 660 | https://github.com/Samsung |
+| 삼성전자 | 163 | 661 | https://github.com/Samsung |
 | 센드버드 | 151 | 219 | https://github.com/sendbird |
 | 데브시스터즈 | 168 | 147 | https://github.com/devsisters |
 | 리디 | 114 | 138 | https://github.com/ridi |
-| 라인 | 114 | 768 | https://github.com/line |
-| 당근마켓 | 107 | 656 | https://github.com/daangn |
+| 라인 | 114 | 769 | https://github.com/line |
+| 당근마켓 | 107 | 659 | https://github.com/daangn |
 | NHN | 108 | 513 | https://github.com/nhn |
 | 래블업 | 118 | 66 | https://github.com/lablup |
-| 하이퍼커넥트 | 42 | 26 | https://github.com/hyperconnect |
+| 하이퍼커넥트 | 42 | 25 | https://github.com/hyperconnect |
 | 삼성SDS | 85 | 18 | https://github.com/samsung-cnct (71)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 59 | 36 | https://github.com/riiid |
 | 버즈빌 | 49 | 13 | https://github.com/Buzzvil |
-| 카카오 | 55 | 364 | https://github.com/kakao |
-| 네이버클라우드 | 48 | 56 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 43 | 437 | https://github.com/kakaobrain |
+| 카카오 | 55 | 366 | https://github.com/kakao |
+| 네이버클라우드 | 48 | 55 | https://github.com/NaverCloudPlatform |
+| 카카오브레인 | 43 | 438 | https://github.com/kakaobrain |
 | 그린랩스 | 40 | 56 | https://github.com/green-labs |
 | 직방 | 29 | 28 | https://github.com/zigbang |
 | 우아한형제들 | 22 | 98 | https://github.com/woowabros |
@@ -65,6 +65,6 @@
 | 플라네타리움 | 125 | 125 | https://github.com/planetarium |
 | 큐브리드 | 40 | 19 | https://github.com/CUBRID |
 | 코클 | 9 | 11 | https://github.com/cochlearai |
-| 스켈터랩스 | 10 | 8 | https://github.com/SkelterLabsInc |
+| 스켈터랩스 | 10 | 9 | https://github.com/SkelterLabsInc |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->

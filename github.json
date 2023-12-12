@@ -3,7 +3,7 @@
     "name": "티맥스클라우드",
     "organizations": [
       {
-        "followers": 38,
+        "followers": 39,
         "organization_id": "tmax-cloud",
         "public_repos": 262
       }
@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1191,
+        "followers": 1193,
         "organization_id": "naver",
         "public_repos": 241
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 660,
+        "followers": 661,
         "organization_id": "Samsung",
         "public_repos": 163
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 768,
+        "followers": 769,
         "organization_id": "line",
         "public_repos": 114
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 656,
+        "followers": 659,
         "organization_id": "daangn",
         "public_repos": 107
       }
@@ -113,7 +113,7 @@
     "name": "하이퍼커넥트",
     "organizations": [
       {
-        "followers": 26,
+        "followers": 25,
         "organization_id": "hyperconnect",
         "public_repos": 42
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 364,
+        "followers": 366,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 56,
+        "followers": 55,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 48
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 437,
+        "followers": 438,
         "organization_id": "kakaobrain",
         "public_repos": 43
       }
@@ -623,7 +623,7 @@
     "name": "스켈터랩스",
     "organizations": [
       {
-        "followers": 8,
+        "followers": 9,
         "organization_id": "SkelterLabsInc",
         "public_repos": 10
       }
