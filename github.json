@@ -5,7 +5,7 @@
       {
         "followers": 39,
         "organization_id": "tmax-cloud",
-        "public_repos": 262
+        "public_repos": 263
       }
     ]
   },
@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1193,
+        "followers": 1197,
         "organization_id": "naver",
         "public_repos": 241
       }
@@ -45,7 +45,7 @@
       {
         "followers": 219,
         "organization_id": "sendbird",
-        "public_repos": 151
+        "public_repos": 152
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 769,
+        "followers": 768,
         "organization_id": "line",
         "public_repos": 114
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 513,
+        "followers": 512,
         "organization_id": "nhn",
         "public_repos": 108
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 366,
+        "followers": 367,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 438,
+        "followers": 439,
         "organization_id": "kakaobrain",
         "public_repos": 43
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 473,
+        "followers": 475,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -303,7 +303,7 @@
     "name": "드라마앤컴퍼니",
     "organizations": [
       {
-        "followers": 14,
+        "followers": 16,
         "organization_id": "dramancompany",
         "public_repos": 23
       }
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 74,
+        "followers": 77,
         "organization_id": "yogiyo",
         "public_repos": 11
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 86,
+        "followers": 88,
         "organization_id": "musinsa",
         "public_repos": 1
       }
