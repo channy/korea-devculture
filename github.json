@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1197,
+        "followers": 1199,
         "organization_id": "naver",
         "public_repos": 241
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 661,
+        "followers": 662,
         "organization_id": "Samsung",
         "public_repos": 163
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 768,
+        "followers": 769,
         "organization_id": "line",
         "public_repos": 114
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 66,
+        "followers": 67,
         "organization_id": "lablup",
         "public_repos": 118
       }
@@ -113,7 +113,7 @@
     "name": "하이퍼커넥트",
     "organizations": [
       {
-        "followers": 25,
+        "followers": 26,
         "organization_id": "hyperconnect",
         "public_repos": 42
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 475,
+        "followers": 477,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -508,7 +508,7 @@
     "name": "네이버랩스",
     "organizations": [
       {
-        "followers": 17,
+        "followers": 18,
         "organization_id": "naverlabs",
         "public_repos": 3
       }
@@ -573,9 +573,9 @@
     "name": "카카오뱅크",
     "organizations": [
       {
-        "followers": 11,
+        "followers": 18,
         "organization_id": "kakaobank",
-        "public_repos": 0
+        "public_repos": 2
       }
     ]
   },
@@ -613,7 +613,7 @@
     "name": "코클",
     "organizations": [
       {
-        "followers": 11,
+        "followers": 12,
         "organization_id": "cochlearai",
         "public_repos": 9
       }
