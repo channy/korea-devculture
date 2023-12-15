@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 662,
+        "followers": 663,
         "organization_id": "Samsung",
         "public_repos": 163
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 769,
+        "followers": 770,
         "organization_id": "line",
         "public_repos": 114
       }
@@ -125,7 +125,7 @@
       {
         "followers": 10,
         "organization_id": "samsung-cnct",
-        "public_repos": 71
+        "public_repos": 72
       },
       {
         "followers": 5,
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 51,
+        "followers": 52,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -353,7 +353,7 @@
     "name": "카카오엔터프라이즈",
     "organizations": [
       {
-        "followers": 56,
+        "followers": 57,
         "organization_id": "kakaoenterprise",
         "public_repos": 16
       }
@@ -490,7 +490,7 @@
       {
         "followers": 14,
         "organization_id": "11st-corp",
-        "public_repos": 9
+        "public_repos": 10
       }
     ]
   },
@@ -573,7 +573,7 @@
     "name": "카카오뱅크",
     "organizations": [
       {
-        "followers": 18,
+        "followers": 23,
         "organization_id": "kakaobank",
         "public_repos": 2
       }
