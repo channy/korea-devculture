@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1202,
+        "followers": 1205,
         "organization_id": "naver",
         "public_repos": 241
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 774,
+        "followers": 776,
         "organization_id": "line",
         "public_repos": 114
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 439,
+        "followers": 440,
         "organization_id": "kakaobrain",
         "public_repos": 43
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 90,
+        "followers": 91,
         "organization_id": "ncsoft",
         "public_repos": 33
       }
@@ -363,7 +363,7 @@
     "name": "딜리셔스",
     "organizations": [
       {
-        "followers": 21,
+        "followers": 22,
         "organization_id": "dealicious-inc",
         "public_repos": 17
       }
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 32,
+        "followers": 33,
         "organization_id": "42dot",
         "public_repos": 4
       }
@@ -593,9 +593,9 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 125,
+        "followers": 126,
         "organization_id": "planetarium",
-        "public_repos": 127
+        "public_repos": 128
       }
     ]
   },
