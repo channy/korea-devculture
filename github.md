@@ -11,10 +11,10 @@
 | 삼성전자 | 163 | 673 | https://github.com/Samsung |
 | 센드버드 | 153 | 219 | https://github.com/sendbird |
 | 데브시스터즈 | 168 | 146 | https://github.com/devsisters |
-| 리디 | 114 | 140 | https://github.com/ridi |
-| 라인 | 114 | 779 | https://github.com/line |
-| 당근마켓 | 107 | 665 | https://github.com/daangn |
-| NHN | 108 | 518 | https://github.com/nhn |
+| 리디 | 114 | 139 | https://github.com/ridi |
+| 라인 | 114 | 781 | https://github.com/line |
+| 당근마켓 | 107 | 664 | https://github.com/daangn |
+| NHN | 108 | 519 | https://github.com/nhn |
 | 래블업 | 118 | 67 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 26 | https://github.com/hyperconnect |
 | 삼성SDS | 86 | 20 | https://github.com/samsung-cnct (72)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -25,14 +25,14 @@
 | 카카오브레인 | 43 | 443 | https://github.com/kakaobrain |
 | 그린랩스 | 40 | 57 | https://github.com/green-labs |
 | 직방 | 29 | 29 | https://github.com/zigbang |
-| 우아한형제들 | 22 | 105 | https://github.com/woowabros |
+| 우아한형제들 | 22 | 106 | https://github.com/woowabros |
 | 쏘카 | 27 | 46 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 7 | https://github.com/hancom-io |
 | 엔씨소프트 | 33 | 93 | https://github.com/ncsoft |
 | 버켓플레이스 | 24 | 66 | https://github.com/bucketplace |
 | 비바리퍼블리카 | 26 | 486 | https://github.com/toss |
 | 마이리얼트립 | 27 | 21 | https://github.com/myrealtrip |
-| 쿠팡 | 18 | 30 | https://github.com/coupang |
+| 쿠팡 | 18 | 31 | https://github.com/coupang |
 | LG전자 | 20 | 53 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 23 | 16 | https://github.com/dramancompany |
 | 야놀자 | 8 | 10 | https://github.com/yanolja |

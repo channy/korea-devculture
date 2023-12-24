@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 140,
+        "followers": 139,
         "organization_id": "ridi",
         "public_repos": 114
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 779,
+        "followers": 781,
         "organization_id": "line",
         "public_repos": 114
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 665,
+        "followers": 664,
         "organization_id": "daangn",
         "public_repos": 107
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 518,
+        "followers": 519,
         "organization_id": "nhn",
         "public_repos": 108
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 105,
+        "followers": 106,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 30,
+        "followers": 31,
         "organization_id": "coupang",
         "public_repos": 18
       }

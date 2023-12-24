@@ -21,7 +21,7 @@
 | 센드버드 | 153 | 219 | https://github.com/sendbird |
 | 플라네타리움 | 128 | 128 | https://github.com/planetarium |
 | 래블업 | 118 | 67 | https://github.com/lablup |
-| 리디 | 114 | 140 | https://github.com/ridi |
-| 라인 | 114 | 779 | https://github.com/line |
+| 리디 | 114 | 139 | https://github.com/ridi |
+| 라인 | 114 | 781 | https://github.com/line |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->
