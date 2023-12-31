@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1219,
+        "followers": 1222,
         "organization_id": "naver",
         "public_repos": 241
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 684,
+        "followers": 685,
         "organization_id": "Samsung",
         "public_repos": 163
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 669,
+        "followers": 670,
         "organization_id": "daangn",
         "public_repos": 107
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 376,
+        "followers": 377,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 93,
+        "followers": 94,
         "organization_id": "ncsoft",
         "public_repos": 33
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 491,
+        "followers": 492,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 89,
+        "followers": 88,
         "organization_id": "musinsa",
         "public_repos": 1
       }
@@ -623,7 +623,7 @@
     "name": "스켈터랩스",
     "organizations": [
       {
-        "followers": 9,
+        "followers": 10,
         "organization_id": "SkelterLabsInc",
         "public_repos": 10
       }
