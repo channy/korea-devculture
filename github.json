@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1222,
+        "followers": 1223,
         "organization_id": "naver",
         "public_repos": 241
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 784,
+        "followers": 785,
         "organization_id": "line",
         "public_repos": 114
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 129,
+        "followers": 130,
         "organization_id": "planetarium",
         "public_repos": 129
       }
