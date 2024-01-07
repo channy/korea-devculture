@@ -6,7 +6,7 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 263 | 39 | https://github.com/tmax-cloud |
-| 네이버 | 241 | 1235 | https://github.com/naver |
+| 네이버 | 241 | 1237 | https://github.com/naver |
 | 인베슘 | 178 | 31 | https://github.com/hamonikr |
 | 삼성전자 | 163 | 693 | https://github.com/Samsung |
 | 센드버드 | 153 | 225 | https://github.com/sendbird |
@@ -23,7 +23,7 @@
 | 카카오 | 55 | 384 | https://github.com/kakao |
 | 네이버클라우드 | 48 | 57 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 43 | 445 | https://github.com/kakaobrain |
-| 그린랩스 | 41 | 57 | https://github.com/green-labs |
+| 그린랩스 | 41 | 58 | https://github.com/green-labs |
 | 직방 | 29 | 30 | https://github.com/zigbang |
 | 우아한형제들 | 22 | 122 | https://github.com/woowabros |
 | 쏘카 | 27 | 48 | https://github.com/socar-inc |
