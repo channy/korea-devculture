@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1241,
+        "followers": 1242,
         "organization_id": "naver",
         "public_repos": 241
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 695,
+        "followers": 696,
         "organization_id": "Samsung",
         "public_repos": 163
       }
@@ -43,9 +43,9 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 227,
+        "followers": 228,
         "organization_id": "sendbird",
-        "public_repos": 153
+        "public_repos": 154
       }
     ]
   },
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 140,
+        "followers": 141,
         "organization_id": "ridi",
         "public_repos": 114
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 792,
+        "followers": 793,
         "organization_id": "line",
         "public_repos": 116
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 529,
+        "followers": 528,
         "organization_id": "nhn",
         "public_repos": 108
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 503,
+        "followers": 504,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -393,7 +393,7 @@
     "name": "SK텔레콤",
     "organizations": [
       {
-        "followers": 23,
+        "followers": 24,
         "organization_id": "sktelecom",
         "public_repos": 4
       }
@@ -573,7 +573,7 @@
     "name": "카카오뱅크",
     "organizations": [
       {
-        "followers": 33,
+        "followers": 34,
         "organization_id": "kakaobank",
         "public_repos": 2
       }
