@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1243,
+        "followers": 1248,
         "organization_id": "naver",
         "public_repos": 241
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 698,
+        "followers": 700,
         "organization_id": "Samsung",
         "public_repos": 160
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 794,
+        "followers": 793,
         "organization_id": "line",
         "public_repos": 117
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 528,
+        "followers": 529,
         "organization_id": "nhn",
         "public_repos": 108
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 124,
+        "followers": 125,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 95,
+        "followers": 96,
         "organization_id": "ncsoft",
         "public_repos": 33
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 506,
+        "followers": 507,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 75,
+        "followers": 76,
         "organization_id": "moloco",
         "public_repos": 15
       }
@@ -433,7 +433,7 @@
     "name": "현대자동차",
     "organizations": [
       {
-        "followers": 34,
+        "followers": 35,
         "organization_id": "hkmc-airlab",
         "public_repos": 4
       },
