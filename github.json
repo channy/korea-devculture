@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1250,
+        "followers": 1251,
         "organization_id": "naver",
         "public_repos": 241
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 700,
+        "followers": 701,
         "organization_id": "Samsung",
         "public_repos": 160
       }
@@ -45,7 +45,7 @@
       {
         "followers": 231,
         "organization_id": "sendbird",
-        "public_repos": 154
+        "public_repos": 155
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 795,
+        "followers": 794,
         "organization_id": "line",
         "public_repos": 117
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 694,
+        "followers": 696,
         "organization_id": "daangn",
         "public_repos": 107
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 529,
+        "followers": 528,
         "organization_id": "nhn",
         "public_repos": 108
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 69,
+        "followers": 68,
         "organization_id": "lablup",
         "public_repos": 118
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 383,
+        "followers": 382,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -275,7 +275,7 @@
       {
         "followers": 21,
         "organization_id": "myrealtrip",
-        "public_repos": 27
+        "public_repos": 28
       }
     ]
   },
@@ -535,7 +535,7 @@
       {
         "followers": 2,
         "organization_id": "cloudsvcdev",
-        "public_repos": 3
+        "public_repos": 2
       }
     ]
   },
@@ -595,7 +595,7 @@
       {
         "followers": 131,
         "organization_id": "planetarium",
-        "public_repos": 130
+        "public_repos": 131
       }
     ]
   },
