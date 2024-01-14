@@ -6,16 +6,16 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 263 | 39 | https://github.com/tmax-cloud |
-| 네이버 | 241 | 1251 | https://github.com/naver |
+| 네이버 | 241 | 1254 | https://github.com/naver |
 | 인베슘 | 178 | 31 | https://github.com/hamonikr |
-| 삼성전자 | 160 | 701 | https://github.com/Samsung |
+| 삼성전자 | 160 | 702 | https://github.com/Samsung |
 | 센드버드 | 155 | 231 | https://github.com/sendbird |
-| 데브시스터즈 | 168 | 149 | https://github.com/devsisters |
+| 데브시스터즈 | 168 | 150 | https://github.com/devsisters |
 | 리디 | 114 | 141 | https://github.com/ridi |
-| 라인 | 117 | 794 | https://github.com/line |
-| 당근마켓 | 107 | 696 | https://github.com/daangn |
+| 라인 | 117 | 795 | https://github.com/line |
+| 당근마켓 | 107 | 698 | https://github.com/daangn |
 | NHN | 108 | 528 | https://github.com/nhn |
-| 래블업 | 118 | 68 | https://github.com/lablup |
+| 래블업 | 118 | 69 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 28 | https://github.com/hyperconnect |
 | 삼성SDS | 86 | 22 | https://github.com/samsung-cnct (72)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 59 | 37 | https://github.com/riiid |
@@ -25,7 +25,7 @@
 | 카카오브레인 | 43 | 445 | https://github.com/kakaobrain |
 | 그린랩스 | 41 | 58 | https://github.com/green-labs |
 | 직방 | 29 | 31 | https://github.com/zigbang |
-| 우아한형제들 | 22 | 125 | https://github.com/woowabros |
+| 우아한형제들 | 22 | 126 | https://github.com/woowabros |
 | 쏘카 | 27 | 48 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 7 | https://github.com/hancom-io |
 | 엔씨소프트 | 33 | 96 | https://github.com/ncsoft |
@@ -39,7 +39,7 @@
 | VCNC | 18 | 12 | https://github.com/VCNC |
 | 다나와 | 1 | 6 | https://github.com/danawalab |
 | 뱅크샐러드 | 16 | 72 | https://github.com/banksalad |
-| 카카오엔터프라이즈 | 16 | 58 | https://github.com/kakaoenterprise |
+| 카카오엔터프라이즈 | 16 | 59 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 17 | 22 | https://github.com/dealicious-inc |
 | 몰로코 | 15 | 76 | https://github.com/moloco |
 | 네이버제트 | 10 | 52 | https://github.com/naverz |
