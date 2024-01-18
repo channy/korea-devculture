@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1261,
+        "followers": 1264,
         "organization_id": "naver",
         "public_repos": 243
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 702,
+        "followers": 704,
         "organization_id": "Samsung",
         "public_repos": 160
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 531,
+        "followers": 533,
         "organization_id": "nhn",
         "public_repos": 108
       }
@@ -183,9 +183,9 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 446,
+        "followers": 447,
         "organization_id": "kakaobrain",
-        "public_repos": 44
+        "public_repos": 45
       }
     ]
   },
@@ -305,7 +305,7 @@
       {
         "followers": 18,
         "organization_id": "dramancompany",
-        "public_repos": 23
+        "public_repos": 22
       }
     ]
   },
@@ -383,7 +383,7 @@
     "name": "네이버제트",
     "organizations": [
       {
-        "followers": 52,
+        "followers": 53,
         "organization_id": "naverz",
         "public_repos": 10
       }
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 41,
+        "followers": 42,
         "organization_id": "42dot",
         "public_repos": 4
       }
@@ -508,7 +508,7 @@
     "name": "네이버랩스",
     "organizations": [
       {
-        "followers": 19,
+        "followers": 20,
         "organization_id": "naverlabs",
         "public_repos": 3
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 90,
+        "followers": 91,
         "organization_id": "musinsa",
         "public_repos": 1
       }
