@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1269,
+        "followers": 1271,
         "organization_id": "naver",
         "public_repos": 243
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 702,
+        "followers": 701,
         "organization_id": "daangn",
         "public_repos": 107
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 387,
+        "followers": 388,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 130,
+        "followers": 131,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 97,
+        "followers": 98,
         "organization_id": "ncsoft",
         "public_repos": 34
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 68,
+        "followers": 69,
         "organization_id": "bucketplace",
         "public_repos": 24
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 517,
+        "followers": 518,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 21,
+        "followers": 22,
         "organization_id": "myrealtrip",
         "public_repos": 28
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 33,
+        "followers": 34,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -323,7 +323,7 @@
     "name": "VCNC",
     "organizations": [
       {
-        "followers": 12,
+        "followers": 13,
         "organization_id": "VCNC",
         "public_repos": 18
       }
@@ -355,7 +355,7 @@
       {
         "followers": 61,
         "organization_id": "kakaoenterprise",
-        "public_repos": 16
+        "public_repos": 17
       }
     ]
   },
@@ -375,7 +375,7 @@
       {
         "followers": 76,
         "organization_id": "moloco",
-        "public_repos": 15
+        "public_repos": 16
       }
     ]
   },
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 134,
+        "followers": 135,
         "organization_id": "planetarium",
         "public_repos": 132
       }
