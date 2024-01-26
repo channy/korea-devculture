@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1277,
+        "followers": 1282,
         "organization_id": "naver",
         "public_repos": 243
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 235,
+        "followers": 236,
         "organization_id": "sendbird",
         "public_repos": 155
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 152,
+        "followers": 153,
         "organization_id": "devsisters",
         "public_repos": 168
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 701,
+        "followers": 702,
         "organization_id": "daangn",
         "public_repos": 107
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 388,
+        "followers": 389,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 454,
+        "followers": 455,
         "organization_id": "kakaobrain",
         "public_repos": 45
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 34,
+        "followers": 35,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -303,7 +303,7 @@
     "name": "드라마앤컴퍼니",
     "organizations": [
       {
-        "followers": 18,
+        "followers": 19,
         "organization_id": "dramancompany",
         "public_repos": 22
       }
@@ -595,7 +595,7 @@
       {
         "followers": 135,
         "organization_id": "planetarium",
-        "public_repos": 132
+        "public_repos": 133
       }
     ]
   },
