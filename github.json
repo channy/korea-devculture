@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1289,
+        "followers": 1291,
         "organization_id": "naver",
         "public_repos": 243
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 807,
+        "followers": 812,
         "organization_id": "line",
         "public_repos": 119
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 702,
+        "followers": 703,
         "organization_id": "daangn",
         "public_repos": 107
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 536,
+        "followers": 540,
         "organization_id": "nhn",
         "public_repos": 108
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 61,
+        "followers": 62,
         "organization_id": "thefarmersfront",
         "public_repos": 9
       }
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 42,
+        "followers": 46,
         "organization_id": "42dot",
         "public_repos": 4
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 136,
+        "followers": 137,
         "organization_id": "planetarium",
         "public_repos": 134
       }
