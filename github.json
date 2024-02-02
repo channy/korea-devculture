@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1291,
+        "followers": 1292,
         "organization_id": "naver",
         "public_repos": 243
       }
@@ -23,7 +23,7 @@
     "name": "인베슘",
     "organizations": [
       {
-        "followers": 32,
+        "followers": 33,
         "organization_id": "hamonikr",
         "public_repos": 178
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 152,
+        "followers": 153,
         "organization_id": "devsisters",
         "public_repos": 168
       }
@@ -93,9 +93,9 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 540,
+        "followers": 541,
         "organization_id": "nhn",
-        "public_repos": 108
+        "public_repos": 106
       }
     ]
   },
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 457,
+        "followers": 458,
         "organization_id": "kakaobrain",
         "public_repos": 45
       }
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 46,
+        "followers": 50,
         "organization_id": "42dot",
         "public_repos": 4
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 137,
+        "followers": 138,
         "organization_id": "planetarium",
         "public_repos": 134
       }
