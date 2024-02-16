@@ -13,9 +13,9 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1314,
+        "followers": 1316,
         "organization_id": "naver",
-        "public_repos": 243
+        "public_repos": 244
       }
     ]
   },
@@ -45,7 +45,7 @@
       {
         "followers": 240,
         "organization_id": "sendbird",
-        "public_repos": 155
+        "public_repos": 156
       }
     ]
   },
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 548,
+        "followers": 549,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 393,
+        "followers": 395,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -195,7 +195,7 @@
       {
         "followers": 58,
         "organization_id": "green-labs",
-        "public_repos": 42
+        "public_repos": 41
       }
     ]
   },
@@ -303,7 +303,7 @@
     "name": "드라마앤컴퍼니",
     "organizations": [
       {
-        "followers": 19,
+        "followers": 21,
         "organization_id": "dramancompany",
         "public_repos": 22
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 78,
+        "followers": 79,
         "organization_id": "moloco",
         "public_repos": 17
       }
@@ -433,7 +433,7 @@
     "name": "현대자동차",
     "organizations": [
       {
-        "followers": 35,
+        "followers": 36,
         "organization_id": "hkmc-airlab",
         "public_repos": 4
       },
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 84,
+        "followers": 85,
         "organization_id": "yogiyo",
         "public_repos": 13
       }
@@ -488,7 +488,7 @@
     "name": "11번가",
     "organizations": [
       {
-        "followers": 14,
+        "followers": 15,
         "organization_id": "11st-corp",
         "public_repos": 10
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 95,
+        "followers": 94,
         "organization_id": "musinsa",
         "public_repos": 1
       }
