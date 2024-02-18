@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1317,
+        "followers": 1319,
         "organization_id": "naver",
         "public_repos": 244
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 736,
+        "followers": 738,
         "organization_id": "Samsung",
         "public_repos": 161
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 240,
+        "followers": 239,
         "organization_id": "sendbird",
         "public_repos": 156
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 154,
+        "followers": 155,
         "organization_id": "devsisters",
         "public_repos": 168
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 823,
+        "followers": 822,
         "organization_id": "line",
         "public_repos": 119
       }
@@ -105,7 +105,7 @@
       {
         "followers": 69,
         "organization_id": "lablup",
-        "public_repos": 120
+        "public_repos": 121
       }
     ]
   },
@@ -203,7 +203,7 @@
     "name": "직방",
     "organizations": [
       {
-        "followers": 31,
+        "followers": 30,
         "organization_id": "zigbang",
         "public_repos": 29
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 135,
+        "followers": 136,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 539,
+        "followers": 540,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 85,
+        "followers": 86,
         "organization_id": "yogiyo",
         "public_repos": 13
       }
@@ -488,7 +488,7 @@
     "name": "11번가",
     "organizations": [
       {
-        "followers": 15,
+        "followers": 16,
         "organization_id": "11st-corp",
         "public_repos": 10
       }
