@@ -6,13 +6,13 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 264 | 42 | https://github.com/tmax-cloud |
-| 네이버 | 245 | 1332 | https://github.com/naver |
+| 네이버 | 245 | 1333 | https://github.com/naver |
 | 인베슘 | 178 | 36 | https://github.com/hamonikr |
-| 삼성전자 | 161 | 744 | https://github.com/Samsung |
+| 삼성전자 | 161 | 745 | https://github.com/Samsung |
 | 센드버드 | 156 | 239 | https://github.com/sendbird |
 | 데브시스터즈 | 168 | 155 | https://github.com/devsisters |
 | 리디 | 114 | 141 | https://github.com/ridi |
-| 라인 | 119 | 825 | https://github.com/line |
+| 라인 | 119 | 828 | https://github.com/line |
 | 당근마켓 | 109 | 717 | https://github.com/daangn |
 | NHN | 106 | 554 | https://github.com/nhn |
 | 래블업 | 120 | 70 | https://github.com/lablup |
@@ -22,7 +22,7 @@
 | 버즈빌 | 49 | 13 | https://github.com/Buzzvil |
 | 카카오 | 55 | 395 | https://github.com/kakao |
 | 네이버클라우드 | 48 | 60 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 45 | 470 | https://github.com/kakaobrain |
+| 카카오브레인 | 45 | 472 | https://github.com/kakaobrain |
 | 그린랩스 | 41 | 58 | https://github.com/green-labs |
 | 직방 | 29 | 30 | https://github.com/zigbang |
 | 우아한형제들 | 22 | 136 | https://github.com/woowabros |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 8 | https://github.com/hancom-io |
 | 엔씨소프트 | 36 | 99 | https://github.com/ncsoft |
 | 버켓플레이스 | 24 | 69 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 26 | 544 | https://github.com/toss |
+| 비바리퍼블리카 | 26 | 546 | https://github.com/toss |
 | 마이리얼트립 | 28 | 22 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 35 | https://github.com/coupang |
 | LG전자 | 20 | 56 | https://github.com/LGE-OSS |
