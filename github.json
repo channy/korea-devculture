@@ -5,7 +5,7 @@
       {
         "followers": 42,
         "organization_id": "tmax-cloud",
-        "public_repos": 264
+        "public_repos": 265
       }
     ]
   },
@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1334,
+        "followers": 1338,
         "organization_id": "naver",
         "public_repos": 245
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 747,
+        "followers": 748,
         "organization_id": "Samsung",
         "public_repos": 161
       }
@@ -43,9 +43,9 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 239,
+        "followers": 238,
         "organization_id": "sendbird",
-        "public_repos": 156
+        "public_repos": 157
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 829,
+        "followers": 830,
         "organization_id": "line",
         "public_repos": 119
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 718,
+        "followers": 719,
         "organization_id": "daangn",
         "public_repos": 109
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 546,
+        "followers": 547,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 56,
+        "followers": 57,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
