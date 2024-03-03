@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1353,
+        "followers": 1356,
         "organization_id": "naver",
         "public_repos": 247
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 752,
+        "followers": 753,
         "organization_id": "Samsung",
         "public_repos": 161
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 239,
+        "followers": 240,
         "organization_id": "sendbird",
         "public_repos": 157
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 71,
+        "followers": 72,
         "organization_id": "lablup",
         "public_repos": 120
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 60,
+        "followers": 61,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 48
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 149,
+        "followers": 154,
         "organization_id": "planetarium",
         "public_repos": 135
       }
