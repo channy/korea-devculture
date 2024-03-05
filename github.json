@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1374,
+        "followers": 1404,
         "organization_id": "naver",
         "public_repos": 247
       }
@@ -45,7 +45,7 @@
       {
         "followers": 240,
         "organization_id": "sendbird",
-        "public_repos": 157
+        "public_repos": 158
       }
     ]
   },
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 727,
+        "followers": 729,
         "organization_id": "daangn",
         "public_repos": 109
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 559,
+        "followers": 560,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -105,7 +105,7 @@
       {
         "followers": 72,
         "organization_id": "lablup",
-        "public_repos": 120
+        "public_repos": 121
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 397,
+        "followers": 398,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 138,
+        "followers": 140,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 546,
+        "followers": 545,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -353,7 +353,7 @@
     "name": "카카오엔터프라이즈",
     "organizations": [
       {
-        "followers": 62,
+        "followers": 63,
         "organization_id": "kakaoenterprise",
         "public_repos": 17
       }
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 57,
+        "followers": 58,
         "organization_id": "42dot",
         "public_repos": 4
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 155,
+        "followers": 156,
         "organization_id": "planetarium",
         "public_repos": 135
       }
