@@ -6,13 +6,13 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 265 | 43 | https://github.com/tmax-cloud |
-| 네이버 | 247 | 1433 | https://github.com/naver |
+| 네이버 | 247 | 1434 | https://github.com/naver |
 | 인베슘 | 178 | 38 | https://github.com/hamonikr |
 | 삼성전자 | 161 | 758 | https://github.com/Samsung |
-| 센드버드 | 158 | 241 | https://github.com/sendbird |
-| 데브시스터즈 | 169 | 157 | https://github.com/devsisters |
+| 센드버드 | 158 | 243 | https://github.com/sendbird |
+| 데브시스터즈 | 169 | 158 | https://github.com/devsisters |
 | 리디 | 114 | 142 | https://github.com/ridi |
-| 라인 | 119 | 842 | https://github.com/line |
+| 라인 | 119 | 843 | https://github.com/line |
 | 당근마켓 | 109 | 732 | https://github.com/daangn |
 | NHN | 106 | 563 | https://github.com/nhn |
 | 래블업 | 121 | 73 | https://github.com/lablup |
@@ -30,8 +30,8 @@
 | 한글과컴퓨터 | 31 | 9 | https://github.com/hancom-io |
 | 엔씨소프트 | 36 | 100 | https://github.com/ncsoft |
 | 버켓플레이스 | 24 | 70 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 26 | 548 | https://github.com/toss |
-| 마이리얼트립 | 28 | 23 | https://github.com/myrealtrip |
+| 비바리퍼블리카 | 26 | 549 | https://github.com/toss |
+| 마이리얼트립 | 28 | 24 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 36 | https://github.com/coupang |
 | LG전자 | 20 | 58 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 22 | 23 | https://github.com/dramancompany |
@@ -41,10 +41,10 @@
 | 뱅크샐러드 | 16 | 75 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 18 | 63 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 17 | 23 | https://github.com/dealicious-inc |
-| 몰로코 | 17 | 82 | https://github.com/moloco |
+| 몰로코 | 16 | 82 | https://github.com/moloco |
 | 네이버제트 | 10 | 53 | https://github.com/naverz |
 | SK텔레콤 | 4 | 27 | https://github.com/sktelecom |
-| 컬리 | 9 | 64 | https://github.com/thefarmersfront |
+| 컬리 | 9 | 66 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 2 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 3 | https://github.com/megazone-devops |
 | 현대자동차 | 8 | 96 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (4) |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 1 | https://github.com/Krafton |
 | 카카오뱅크 | 2 | 38 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 137 | 161 | https://github.com/planetarium |
+| 플라네타리움 | 138 | 163 | https://github.com/planetarium |
 | 큐브리드 | 40 | 19 | https://github.com/CUBRID |
 | 코클 | 9 | 14 | https://github.com/cochlearai |
 | 스켈터랩스 | 10 | 11 | https://github.com/SkelterLabsInc |
