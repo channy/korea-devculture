@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1435,
+        "followers": 1441,
         "organization_id": "naver",
         "public_repos": 247
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 759,
+        "followers": 760,
         "organization_id": "Samsung",
         "public_repos": 161
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 141,
+        "followers": 142,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 100,
+        "followers": 101,
         "organization_id": "ncsoft",
         "public_repos": 36
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 70,
+        "followers": 71,
         "organization_id": "bucketplace",
         "public_repos": 24
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 550,
+        "followers": 552,
         "organization_id": "toss",
         "public_repos": 26
       }
