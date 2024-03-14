@@ -13,9 +13,9 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1451,
+        "followers": 1456,
         "organization_id": "naver",
-        "public_repos": 247
+        "public_repos": 249
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 760,
+        "followers": 762,
         "organization_id": "Samsung",
         "public_repos": 161
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 243,
+        "followers": 244,
         "organization_id": "sendbird",
         "public_repos": 158
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 847,
+        "followers": 849,
         "organization_id": "line",
         "public_repos": 119
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 731,
+        "followers": 733,
         "organization_id": "daangn",
         "public_repos": 109
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 564,
+        "followers": 565,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -113,7 +113,7 @@
     "name": "하이퍼커넥트",
     "organizations": [
       {
-        "followers": 29,
+        "followers": 30,
         "organization_id": "hyperconnect",
         "public_repos": 42
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 402,
+        "followers": 403,
         "organization_id": "kakao",
         "public_repos": 55
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 478,
+        "followers": 479,
         "organization_id": "kakaobrain",
         "public_repos": 45
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 554,
+        "followers": 558,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -393,7 +393,7 @@
     "name": "SK텔레콤",
     "organizations": [
       {
-        "followers": 27,
+        "followers": 28,
         "organization_id": "sktelecom",
         "public_repos": 4
       }
@@ -605,7 +605,7 @@
       {
         "followers": 19,
         "organization_id": "CUBRID",
-        "public_repos": 40
+        "public_repos": 41
       }
     ]
   },
