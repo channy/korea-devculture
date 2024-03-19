@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1463,
+        "followers": 1467,
         "organization_id": "naver",
         "public_repos": 249
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 765,
+        "followers": 766,
         "organization_id": "Samsung",
         "public_repos": 161
       }
@@ -55,7 +55,7 @@
       {
         "followers": 159,
         "organization_id": "devsisters",
-        "public_repos": 169
+        "public_repos": 168
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 853,
+        "followers": 855,
         "organization_id": "line",
         "public_repos": 119
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 733,
+        "followers": 735,
         "organization_id": "daangn",
         "public_repos": 109
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 568,
+        "followers": 569,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 478,
+        "followers": 479,
         "organization_id": "kakaobrain",
         "public_repos": 45
       }
@@ -195,7 +195,7 @@
       {
         "followers": 58,
         "organization_id": "green-labs",
-        "public_repos": 41
+        "public_repos": 42
       }
     ]
   },
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 144,
+        "followers": 145,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -265,7 +265,7 @@
       {
         "followers": 558,
         "organization_id": "toss",
-        "public_repos": 20
+        "public_repos": 18
       }
     ]
   },
@@ -275,7 +275,7 @@
       {
         "followers": 24,
         "organization_id": "myrealtrip",
-        "public_repos": 28
+        "public_repos": 29
       }
     ]
   },
@@ -508,7 +508,7 @@
     "name": "네이버랩스",
     "organizations": [
       {
-        "followers": 24,
+        "followers": 25,
         "organization_id": "naverlabs",
         "public_repos": 3
       }
