@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1482,
+        "followers": 1483,
         "organization_id": "naver",
         "public_repos": 250
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 768,
+        "followers": 767,
         "organization_id": "Samsung",
         "public_repos": 161
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 858,
+        "followers": 860,
         "organization_id": "line",
         "public_repos": 120
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 568,
+        "followers": 569,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 406,
+        "followers": 407,
         "organization_id": "kakao",
         "public_repos": 55
       }
