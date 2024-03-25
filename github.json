@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 767,
+        "followers": 768,
         "organization_id": "Samsung",
         "public_repos": 161
       }
@@ -43,9 +43,9 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 245,
+        "followers": 244,
         "organization_id": "sendbird",
-        "public_repos": 158
+        "public_repos": 159
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 860,
+        "followers": 859,
         "organization_id": "line",
         "public_repos": 120
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 741,
+        "followers": 740,
         "organization_id": "daangn",
         "public_repos": 109
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 407,
+        "followers": 408,
         "organization_id": "kakao",
         "public_repos": 55
       }
