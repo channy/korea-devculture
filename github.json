@@ -35,7 +35,7 @@
       {
         "followers": 771,
         "organization_id": "Samsung",
-        "public_repos": 162
+        "public_repos": 163
       }
     ]
   },
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 741,
+        "followers": 742,
         "organization_id": "daangn",
         "public_repos": 109
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 570,
+        "followers": 571,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 146,
+        "followers": 145,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 168,
+        "followers": 169,
         "organization_id": "planetarium",
         "public_repos": 139
       }
