@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 771,
+        "followers": 773,
         "organization_id": "Samsung",
         "public_repos": 163
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 161,
+        "followers": 162,
         "organization_id": "devsisters",
         "public_repos": 168
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 865,
+        "followers": 866,
         "organization_id": "line",
         "public_repos": 120
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 744,
+        "followers": 746,
         "organization_id": "daangn",
         "public_repos": 109
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 146,
+        "followers": 147,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 566,
+        "followers": 567,
         "organization_id": "toss",
         "public_repos": 18
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 169,
+        "followers": 170,
         "organization_id": "planetarium",
         "public_repos": 139
       }
