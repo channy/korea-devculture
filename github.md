@@ -5,16 +5,16 @@
 
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
-| 티맥스클라우드 | 265 | 45 | https://github.com/tmax-cloud |
+| 티맥스클라우드 | 265 | 46 | https://github.com/tmax-cloud |
 | 네이버 | 250 | 1488 | https://github.com/naver |
 | 인베슘 | 178 | 38 | https://github.com/hamonikr |
-| 삼성전자 | 163 | 773 | https://github.com/Samsung |
+| 삼성전자 | 163 | 774 | https://github.com/Samsung |
 | 센드버드 | 159 | 245 | https://github.com/sendbird |
 | 데브시스터즈 | 168 | 162 | https://github.com/devsisters |
 | 리디 | 114 | 144 | https://github.com/ridi |
-| 라인 | 120 | 866 | https://github.com/line |
+| 라인 | 120 | 867 | https://github.com/line |
 | 당근마켓 | 109 | 746 | https://github.com/daangn |
-| NHN | 106 | 572 | https://github.com/nhn |
+| NHN | 106 | 571 | https://github.com/nhn |
 | 래블업 | 120 | 74 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 31 | https://github.com/hyperconnect |
 | 삼성SDS | 86 | 26 | https://github.com/samsung-cnct (72)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -44,7 +44,7 @@
 | 몰로코 | 16 | 82 | https://github.com/moloco |
 | 네이버제트 | 10 | 53 | https://github.com/naverz |
 | SK텔레콤 | 4 | 28 | https://github.com/sktelecom |
-| 컬리 | 9 | 67 | https://github.com/thefarmersfront |
+| 컬리 | 9 | 69 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 2 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 3 | https://github.com/megazone-devops |
 | 현대자동차 | 8 | 98 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (4) |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 1 | https://github.com/Krafton |
 | 카카오뱅크 | 2 | 39 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 139 | 170 | https://github.com/planetarium |
+| 플라네타리움 | 139 | 171 | https://github.com/planetarium |
 | 큐브리드 | 41 | 19 | https://github.com/CUBRID |
 | 코클 | 10 | 14 | https://github.com/cochlearai |
 | 스켈터랩스 | 10 | 11 | https://github.com/SkelterLabsInc |
