@@ -6,13 +6,13 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 265 | 47 | https://github.com/tmax-cloud |
-| 네이버 | 250 | 1501 | https://github.com/naver |
+| 네이버 | 250 | 1503 | https://github.com/naver |
 | 인베슘 | 178 | 38 | https://github.com/hamonikr |
-| 삼성전자 | 163 | 781 | https://github.com/Samsung |
+| 삼성전자 | 163 | 782 | https://github.com/Samsung |
 | 센드버드 | 159 | 248 | https://github.com/sendbird |
 | 데브시스터즈 | 168 | 162 | https://github.com/devsisters |
 | 리디 | 114 | 144 | https://github.com/ridi |
-| 라인 | 120 | 872 | https://github.com/line |
+| 라인 | 120 | 873 | https://github.com/line |
 | 당근마켓 | 109 | 751 | https://github.com/daangn |
 | NHN | 106 | 574 | https://github.com/nhn |
 | 래블업 | 120 | 74 | https://github.com/lablup |
@@ -20,7 +20,7 @@
 | 삼성SDS | 86 | 26 | https://github.com/samsung-cnct (72)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 61 | 42 | https://github.com/riiid |
 | 버즈빌 | 49 | 15 | https://github.com/Buzzvil |
-| 카카오 | 55 | 412 | https://github.com/kakao |
+| 카카오 | 55 | 414 | https://github.com/kakao |
 | 네이버클라우드 | 48 | 65 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 45 | 484 | https://github.com/kakaobrain |
 | 그린랩스 | 42 | 58 | https://github.com/green-labs |
@@ -32,7 +32,7 @@
 | 버켓플레이스 | 24 | 73 | https://github.com/bucketplace |
 | 비바리퍼블리카 | 18 | 569 | https://github.com/toss |
 | 마이리얼트립 | 29 | 24 | https://github.com/myrealtrip |
-| 쿠팡 | 18 | 40 | https://github.com/coupang |
+| 쿠팡 | 18 | 41 | https://github.com/coupang |
 | LG전자 | 20 | 58 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 22 | 24 | https://github.com/dramancompany |
 | 야놀자 | 7 | 14 | https://github.com/yanolja |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 1 | https://github.com/Krafton |
 | 카카오뱅크 | 2 | 39 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 139 | 171 | https://github.com/planetarium |
+| 플라네타리움 | 139 | 172 | https://github.com/planetarium |
 | 큐브리드 | 41 | 20 | https://github.com/CUBRID |
 | 코클 | 10 | 14 | https://github.com/cochlearai |
 | 스켈터랩스 | 10 | 11 | https://github.com/SkelterLabsInc |
