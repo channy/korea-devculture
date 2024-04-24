@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1544,
+        "followers": 1546,
         "organization_id": "naver",
         "public_repos": 250
       }
@@ -23,7 +23,7 @@
     "name": "인베슘",
     "organizations": [
       {
-        "followers": 39,
+        "followers": 40,
         "organization_id": "hamonikr",
         "public_repos": 178
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 251,
+        "followers": 250,
         "organization_id": "sendbird",
         "public_repos": 159
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 766,
+        "followers": 767,
         "organization_id": "daangn",
         "public_repos": 111
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 584,
+        "followers": 587,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 416,
+        "followers": 417,
         "organization_id": "kakao",
         "public_repos": 57
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 485,
+        "followers": 486,
         "organization_id": "kakaobrain",
         "public_repos": 45
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 152,
+        "followers": 153,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 605,
+        "followers": 606,
         "organization_id": "toss",
         "public_repos": 19
       }
@@ -573,7 +573,7 @@
     "name": "카카오뱅크",
     "organizations": [
       {
-        "followers": 39,
+        "followers": 40,
         "organization_id": "kakaobank",
         "public_repos": 2
       }
@@ -613,7 +613,7 @@
     "name": "코클",
     "organizations": [
       {
-        "followers": 14,
+        "followers": 15,
         "organization_id": "cochlearai",
         "public_repos": 10
       }
