@@ -5,7 +5,7 @@
       {
         "followers": 47,
         "organization_id": "tmax-cloud",
-        "public_repos": 265
+        "public_repos": 266
       }
     ]
   },
@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1546,
+        "followers": 1549,
         "organization_id": "naver",
         "public_repos": 250
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 806,
+        "followers": 808,
         "organization_id": "Samsung",
         "public_repos": 164
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 250,
+        "followers": 252,
         "organization_id": "sendbird",
         "public_repos": 159
       }
@@ -55,7 +55,7 @@
       {
         "followers": 165,
         "organization_id": "devsisters",
-        "public_repos": 169
+        "public_repos": 170
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 886,
+        "followers": 887,
         "organization_id": "line",
         "public_repos": 122
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 587,
+        "followers": 588,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 417,
+        "followers": 418,
         "organization_id": "kakao",
         "public_repos": 57
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 153,
+        "followers": 154,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 606,
+        "followers": 607,
         "organization_id": "toss",
         "public_repos": 19
       }
@@ -275,7 +275,7 @@
       {
         "followers": 24,
         "organization_id": "myrealtrip",
-        "public_repos": 29
+        "public_repos": 30
       }
     ]
   },
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 64,
+        "followers": 65,
         "organization_id": "42dot",
         "public_repos": 4
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 170,
+        "followers": 172,
         "organization_id": "planetarium",
         "public_repos": 142
       }
