@@ -13,8 +13,8 @@
 | 데브시스터즈 | 170 | 165 | https://github.com/devsisters |
 | 리디 | 114 | 145 | https://github.com/ridi |
 | 라인 | 122 | 887 | https://github.com/line |
-| 당근마켓 | 111 | 767 | https://github.com/daangn |
-| NHN | 106 | 588 | https://github.com/nhn |
+| 당근마켓 | 111 | 768 | https://github.com/daangn |
+| NHN | 106 | 589 | https://github.com/nhn |
 | 래블업 | 120 | 75 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 31 | https://github.com/hyperconnect |
 | 삼성SDS | 86 | 26 | https://github.com/samsung-cnct (72)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -53,7 +53,7 @@
 | 가비아 | 5 | 2 | https://github.com/gabia |
 | 힐링페이퍼 | 5 | 13 | https://github.com/healingpaper |
 | 11번가 | 10 | 18 | https://github.com/11st-corp |
-| 줌인터넷 | 4 | 6 | https://github.com/zuminternet |
+| 줌인터넷 | 4 | 7 | https://github.com/zuminternet |
 | 네이버랩스 | 3 | 26 | https://github.com/naverlabs |
 | 무신사 | 1 | 98 | https://github.com/musinsa |
 | SK | 2 | 4 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (2) |
