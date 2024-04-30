@@ -14,7 +14,7 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 266 | 47 | https://github.com/tmax-cloud |
-| 네이버 | 250 | 1556 | https://github.com/naver |
+| 네이버 | 250 | 1557 | https://github.com/naver |
 | 인베슘 | 178 | 40 | https://github.com/hamonikr |
 | 데브시스터즈 | 171 | 165 | https://github.com/devsisters |
 | 삼성전자 | 164 | 810 | https://github.com/Samsung |

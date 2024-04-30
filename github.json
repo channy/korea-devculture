@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1556,
+        "followers": 1557,
         "organization_id": "naver",
         "public_repos": 250
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 772,
+        "followers": 773,
         "organization_id": "daangn",
         "public_repos": 111
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 419,
+        "followers": 420,
         "organization_id": "kakao",
         "public_repos": 57
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 74,
+        "followers": 75,
         "organization_id": "bucketplace",
         "public_repos": 24
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 612,
+        "followers": 617,
         "organization_id": "toss",
         "public_repos": 19
       }
@@ -313,7 +313,7 @@
     "name": "야놀자",
     "organizations": [
       {
-        "followers": 18,
+        "followers": 17,
         "organization_id": "yanolja",
         "public_repos": 7
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 82,
+        "followers": 83,
         "organization_id": "moloco",
         "public_repos": 16
       }
@@ -433,7 +433,7 @@
     "name": "현대자동차",
     "organizations": [
       {
-        "followers": 37,
+        "followers": 38,
         "organization_id": "hkmc-airlab",
         "public_repos": 4
       },
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 98,
+        "followers": 97,
         "organization_id": "musinsa",
         "public_repos": 1
       }
