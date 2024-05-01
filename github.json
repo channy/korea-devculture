@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1557,
+        "followers": 1559,
         "organization_id": "naver",
         "public_repos": 250
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 165,
+        "followers": 166,
         "organization_id": "devsisters",
         "public_repos": 171
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 145,
+        "followers": 146,
         "organization_id": "ridi",
         "public_repos": 114
       }
@@ -113,7 +113,7 @@
     "name": "하이퍼커넥트",
     "organizations": [
       {
-        "followers": 31,
+        "followers": 32,
         "organization_id": "hyperconnect",
         "public_repos": 42
       }
@@ -125,7 +125,7 @@
       {
         "followers": 16,
         "organization_id": "samsung-cnct",
-        "public_repos": 72
+        "public_repos": 73
       },
       {
         "followers": 7,
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 486,
+        "followers": 487,
         "organization_id": "kakaobrain",
         "public_repos": 45
       }
@@ -233,7 +233,7 @@
     "name": "한글과컴퓨터",
     "organizations": [
       {
-        "followers": 9,
+        "followers": 10,
         "organization_id": "hancom-io",
         "public_repos": 31
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 102,
+        "followers": 103,
         "organization_id": "ncsoft",
         "public_repos": 37
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 24,
+        "followers": 25,
         "organization_id": "myrealtrip",
         "public_repos": 30
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 43,
+        "followers": 44,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -393,7 +393,7 @@
     "name": "SK텔레콤",
     "organizations": [
       {
-        "followers": 28,
+        "followers": 29,
         "organization_id": "sktelecom",
         "public_repos": 4
       }
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 65,
+        "followers": 66,
         "organization_id": "42dot",
         "public_repos": 4
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 172,
+        "followers": 173,
         "organization_id": "planetarium",
         "public_repos": 142
       }
