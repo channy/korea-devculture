@@ -17,7 +17,7 @@
 | 네이버 | 250 | 1563 | https://github.com/naver |
 | 인베슘 | 178 | 41 | https://github.com/hamonikr |
 | 데브시스터즈 | 171 | 167 | https://github.com/devsisters |
-| 삼성전자 | 164 | 812 | https://github.com/Samsung |
+| 삼성전자 | 164 | 811 | https://github.com/Samsung |
 | 센드버드 | 159 | 253 | https://github.com/sendbird |
 | 플라네타리움 | 142 | 174 | https://github.com/planetarium |
 | 라인 | 122 | 897 | https://github.com/line |
