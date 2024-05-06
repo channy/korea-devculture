@@ -13,7 +13,7 @@
 | 데브시스터즈 | 171 | 167 | https://github.com/devsisters |
 | 리디 | 114 | 145 | https://github.com/ridi |
 | 라인 | 122 | 897 | https://github.com/line |
-| 당근마켓 | 111 | 773 | https://github.com/daangn |
+| 당근마켓 | 111 | 772 | https://github.com/daangn |
 | NHN | 106 | 592 | https://github.com/nhn |
 | 래블업 | 120 | 75 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 32 | https://github.com/hyperconnect |
@@ -25,11 +25,11 @@
 | 카카오브레인 | 45 | 487 | https://github.com/kakaobrain |
 | 그린랩스 | 42 | 59 | https://github.com/green-labs |
 | 직방 | 30 | 31 | https://github.com/zigbang |
-| 우아한형제들 | 22 | 155 | https://github.com/woowabros |
+| 우아한형제들 | 22 | 154 | https://github.com/woowabros |
 | 쏘카 | 27 | 56 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 10 | https://github.com/hancom-io |
 | 엔씨소프트 | 37 | 102 | https://github.com/ncsoft |
-| 버켓플레이스 | 24 | 76 | https://github.com/bucketplace |
+| 버켓플레이스 | 24 | 75 | https://github.com/bucketplace |
 | 비바리퍼블리카 | 19 | 623 | https://github.com/toss |
 | 마이리얼트립 | 30 | 25 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 44 | https://github.com/coupang |
@@ -44,7 +44,7 @@
 | 몰로코 | 16 | 83 | https://github.com/moloco |
 | 네이버제트 | 10 | 53 | https://github.com/naverz |
 | SK텔레콤 | 4 | 29 | https://github.com/sktelecom |
-| 컬리 | 9 | 70 | https://github.com/thefarmersfront |
+| 컬리 | 9 | 69 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 2 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 3 | https://github.com/megazone-devops |
 | 현대자동차 | 8 | 104 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (4) |
