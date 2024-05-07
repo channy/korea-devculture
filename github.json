@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 811,
+        "followers": 812,
         "organization_id": "Samsung",
         "public_repos": 164
       }
@@ -43,9 +43,9 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 253,
+        "followers": 254,
         "organization_id": "sendbird",
-        "public_repos": 159
+        "public_repos": 160
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 897,
+        "followers": 899,
         "organization_id": "line",
         "public_repos": 122
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 592,
+        "followers": 593,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -125,7 +125,7 @@
       {
         "followers": 16,
         "organization_id": "samsung-cnct",
-        "public_repos": 73
+        "public_repos": 75
       },
       {
         "followers": 7,
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 487,
+        "followers": 488,
         "organization_id": "kakaobrain",
         "public_repos": 45
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 102,
+        "followers": 103,
         "organization_id": "ncsoft",
         "public_repos": 37
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 623,
+        "followers": 624,
         "organization_id": "toss",
         "public_repos": 19
       }
@@ -353,7 +353,7 @@
     "name": "카카오엔터프라이즈",
     "organizations": [
       {
-        "followers": 65,
+        "followers": 66,
         "organization_id": "kakaoenterprise",
         "public_repos": 18
       }
@@ -573,7 +573,7 @@
     "name": "카카오뱅크",
     "organizations": [
       {
-        "followers": 40,
+        "followers": 41,
         "organization_id": "kakaobank",
         "public_repos": 2
       }
@@ -583,7 +583,7 @@
     "name": "카카오헤어샵",
     "organizations": [
       {
-        "followers": 7,
+        "followers": 8,
         "organization_id": "kakaohairshop",
         "public_repos": 12
       }
