@@ -6,14 +6,14 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 266 | 47 | https://github.com/tmax-cloud |
-| 네이버 | 250 | 1568 | https://github.com/naver |
+| 네이버 | 250 | 1572 | https://github.com/naver |
 | 인베슘 | 178 | 43 | https://github.com/hamonikr |
-| 삼성전자 | 164 | 816 | https://github.com/Samsung |
+| 삼성전자 | 164 | 817 | https://github.com/Samsung |
 | 센드버드 | 161 | 253 | https://github.com/sendbird |
 | 데브시스터즈 | 171 | 166 | https://github.com/devsisters |
 | 리디 | 114 | 145 | https://github.com/ridi |
-| 라인 | 122 | 899 | https://github.com/line |
-| 당근마켓 | 111 | 771 | https://github.com/daangn |
+| 라인 | 122 | 900 | https://github.com/line |
+| 당근마켓 | 111 | 773 | https://github.com/daangn |
 | NHN | 106 | 593 | https://github.com/nhn |
 | 래블업 | 120 | 75 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 32 | https://github.com/hyperconnect |
@@ -21,7 +21,7 @@
 | 뤼이드 | 61 | 44 | https://github.com/riiid |
 | 버즈빌 | 49 | 15 | https://github.com/Buzzvil |
 | 카카오 | 57 | 421 | https://github.com/kakao |
-| 네이버클라우드 | 48 | 68 | https://github.com/NaverCloudPlatform |
+| 네이버클라우드 | 48 | 67 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 45 | 487 | https://github.com/kakaobrain |
 | 그린랩스 | 42 | 59 | https://github.com/green-labs |
 | 직방 | 30 | 31 | https://github.com/zigbang |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 10 | https://github.com/hancom-io |
 | 엔씨소프트 | 37 | 103 | https://github.com/ncsoft |
 | 버켓플레이스 | 24 | 76 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 19 | 633 | https://github.com/toss |
+| 비바리퍼블리카 | 19 | 636 | https://github.com/toss |
 | 마이리얼트립 | 30 | 26 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 46 | https://github.com/coupang |
 | LG전자 | 20 | 64 | https://github.com/LGE-OSS |
@@ -42,7 +42,7 @@
 | 카카오엔터프라이즈 | 18 | 67 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 19 | 24 | https://github.com/dealicious-inc |
 | 몰로코 | 16 | 84 | https://github.com/moloco |
-| 네이버제트 | 10 | 54 | https://github.com/naverz |
+| 네이버제트 | 10 | 55 | https://github.com/naverz |
 | SK텔레콤 | 4 | 30 | https://github.com/sktelecom |
 | 컬리 | 9 | 70 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 3 | https://github.com/tmoncorp |
