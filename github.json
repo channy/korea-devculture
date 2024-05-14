@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1575,
+        "followers": 1578,
         "organization_id": "naver",
         "public_repos": 250
       }
@@ -45,7 +45,7 @@
       {
         "followers": 254,
         "organization_id": "sendbird",
-        "public_repos": 161
+        "public_repos": 162
       }
     ]
   },
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 167,
+        "followers": 168,
         "organization_id": "devsisters",
         "public_repos": 171
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 901,
+        "followers": 904,
         "organization_id": "line",
         "public_repos": 122
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 777,
+        "followers": 780,
         "organization_id": "daangn",
         "public_repos": 111
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 593,
+        "followers": 594,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 75,
+        "followers": 76,
         "organization_id": "lablup",
         "public_repos": 120
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 421,
+        "followers": 422,
         "organization_id": "kakao",
         "public_repos": 57
       }
@@ -195,7 +195,7 @@
       {
         "followers": 59,
         "organization_id": "green-labs",
-        "public_repos": 42
+        "public_repos": 41
       }
     ]
   },
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 154,
+        "followers": 156,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 641,
+        "followers": 644,
         "organization_id": "toss",
         "public_repos": 19
       }
@@ -573,7 +573,7 @@
     "name": "카카오뱅크",
     "organizations": [
       {
-        "followers": 42,
+        "followers": 43,
         "organization_id": "kakaobank",
         "public_repos": 2
       }
@@ -603,7 +603,7 @@
     "name": "큐브리드",
     "organizations": [
       {
-        "followers": 21,
+        "followers": 22,
         "organization_id": "CUBRID",
         "public_repos": 41
       }
