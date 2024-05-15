@@ -6,14 +6,14 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 266 | 47 | https://github.com/tmax-cloud |
-| 네이버 | 250 | 1578 | https://github.com/naver |
+| 네이버 | 250 | 1580 | https://github.com/naver |
 | 인베슘 | 178 | 44 | https://github.com/hamonikr |
-| 삼성전자 | 164 | 817 | https://github.com/Samsung |
-| 센드버드 | 162 | 254 | https://github.com/sendbird |
+| 삼성전자 | 164 | 818 | https://github.com/Samsung |
+| 센드버드 | 163 | 254 | https://github.com/sendbird |
 | 데브시스터즈 | 171 | 168 | https://github.com/devsisters |
 | 리디 | 114 | 145 | https://github.com/ridi |
 | 라인 | 122 | 904 | https://github.com/line |
-| 당근마켓 | 111 | 780 | https://github.com/daangn |
+| 당근마켓 | 111 | 779 | https://github.com/daangn |
 | NHN | 106 | 594 | https://github.com/nhn |
 | 래블업 | 120 | 76 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 32 | https://github.com/hyperconnect |
@@ -25,12 +25,12 @@
 | 카카오브레인 | 45 | 487 | https://github.com/kakaobrain |
 | 그린랩스 | 41 | 59 | https://github.com/green-labs |
 | 직방 | 30 | 31 | https://github.com/zigbang |
-| 우아한형제들 | 22 | 156 | https://github.com/woowabros |
+| 우아한형제들 | 22 | 157 | https://github.com/woowabros |
 | 쏘카 | 27 | 56 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 10 | https://github.com/hancom-io |
 | 엔씨소프트 | 37 | 103 | https://github.com/ncsoft |
 | 버켓플레이스 | 24 | 76 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 19 | 644 | https://github.com/toss |
+| 비바리퍼블리카 | 19 | 645 | https://github.com/toss |
 | 마이리얼트립 | 30 | 26 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 46 | https://github.com/coupang |
 | LG전자 | 20 | 64 | https://github.com/LGE-OSS |
@@ -38,7 +38,7 @@
 | 야놀자 | 7 | 18 | https://github.com/yanolja |
 | VCNC | 18 | 15 | https://github.com/VCNC |
 | 다나와 | 1 | 9 | https://github.com/danawalab |
-| 뱅크샐러드 | 16 | 79 | https://github.com/banksalad |
+| 뱅크샐러드 | 16 | 80 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 18 | 67 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 19 | 24 | https://github.com/dealicious-inc |
 | 몰로코 | 16 | 84 | https://github.com/moloco |
@@ -51,7 +51,7 @@
 | 포스코ICT | 9 | 7 | https://github.com/poscoict-glueframework |
 | 요기요 | 13 | 94 | https://github.com/yogiyo |
 | 가비아 | 5 | 3 | https://github.com/gabia |
-| 힐링페이퍼 | 5 | 13 | https://github.com/healingpaper |
+| 힐링페이퍼 | 5 | 14 | https://github.com/healingpaper |
 | 11번가 | 10 | 19 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 8 | https://github.com/zuminternet |
 | 네이버랩스 | 3 | 28 | https://github.com/naverlabs |
