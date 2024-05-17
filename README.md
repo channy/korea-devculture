@@ -20,7 +20,7 @@
 | 삼성전자 | 164 | 817 | https://github.com/Samsung |
 | 센드버드 | 163 | 254 | https://github.com/sendbird |
 | 플라네타리움 | 143 | 177 | https://github.com/planetarium |
-| 라인 | 122 | 906 | https://github.com/line |
+| 라인 | 122 | 905 | https://github.com/line |
 | 래블업 | 120 | 76 | https://github.com/lablup |
 | 리디 | 114 | 145 | https://github.com/ridi |
 
