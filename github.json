@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1586,
+        "followers": 1588,
         "organization_id": "naver",
         "public_repos": 251
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 822,
+        "followers": 824,
         "organization_id": "Samsung",
         "public_repos": 164
       }
@@ -73,9 +73,9 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 904,
+        "followers": 905,
         "organization_id": "line",
-        "public_repos": 122
+        "public_repos": 123
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 422,
+        "followers": 423,
         "organization_id": "kakao",
         "public_repos": 58
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 489,
+        "followers": 490,
         "organization_id": "kakaobrain",
         "public_repos": 45
       }
@@ -255,7 +255,7 @@
       {
         "followers": 77,
         "organization_id": "bucketplace",
-        "public_repos": 24
+        "public_repos": 23
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 649,
+        "followers": 656,
         "organization_id": "toss",
         "public_repos": 20
       }
@@ -275,7 +275,7 @@
       {
         "followers": 26,
         "organization_id": "myrealtrip",
-        "public_repos": 30
+        "public_repos": 32
       }
     ]
   },
@@ -303,7 +303,7 @@
     "name": "드라마앤컴퍼니",
     "organizations": [
       {
-        "followers": 24,
+        "followers": 25,
         "organization_id": "dramancompany",
         "public_repos": 22
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 84,
+        "followers": 87,
         "organization_id": "moloco",
         "public_repos": 16
       }
