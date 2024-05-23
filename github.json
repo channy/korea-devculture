@@ -5,7 +5,7 @@
       {
         "followers": 47,
         "organization_id": "tmax-cloud",
-        "public_repos": 266
+        "public_repos": 267
       }
     ]
   },
@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1588,
+        "followers": 1592,
         "organization_id": "naver",
         "public_repos": 251
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 824,
+        "followers": 827,
         "organization_id": "Samsung",
         "public_repos": 164
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 905,
+        "followers": 907,
         "organization_id": "line",
         "public_repos": 123
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 423,
+        "followers": 424,
         "organization_id": "kakao",
         "public_repos": 58
       }
@@ -255,7 +255,7 @@
       {
         "followers": 77,
         "organization_id": "bucketplace",
-        "public_repos": 23
+        "public_repos": 22
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 656,
+        "followers": 675,
         "organization_id": "toss",
         "public_repos": 20
       }
@@ -315,7 +315,7 @@
       {
         "followers": 18,
         "organization_id": "yanolja",
-        "public_repos": 7
+        "public_repos": 5
       }
     ]
   },
@@ -365,7 +365,7 @@
       {
         "followers": 24,
         "organization_id": "dealicious-inc",
-        "public_repos": 19
+        "public_repos": 18
       }
     ]
   },
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 94,
+        "followers": 95,
         "organization_id": "yogiyo",
         "public_repos": 13
       }
