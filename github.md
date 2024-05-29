@@ -6,31 +6,31 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 267 | 46 | https://github.com/tmax-cloud |
-| 네이버 | 251 | 1605 | https://github.com/naver |
+| 네이버 | 251 | 1607 | https://github.com/naver |
 | 인베슘 | 178 | 45 | https://github.com/hamonikr |
 | 삼성전자 | 164 | 833 | https://github.com/Samsung |
-| 센드버드 | 166 | 254 | https://github.com/sendbird |
+| 센드버드 | 166 | 255 | https://github.com/sendbird |
 | 데브시스터즈 | 171 | 170 | https://github.com/devsisters |
 | 리디 | 114 | 144 | https://github.com/ridi |
-| 라인 | 123 | 910 | https://github.com/line |
+| 라인 | 123 | 912 | https://github.com/line |
 | 당근마켓 | 111 | 792 | https://github.com/daangn |
-| NHN | 106 | 596 | https://github.com/nhn |
-| 래블업 | 120 | 75 | https://github.com/lablup |
+| NHN | 106 | 597 | https://github.com/nhn |
+| 래블업 | 120 | 76 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 31 | https://github.com/hyperconnect |
 | 삼성SDS | 88 | 24 | https://github.com/samsung-cnct (74)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
-| 뤼이드 | 61 | 44 | https://github.com/riiid |
+| 뤼이드 | 61 | 45 | https://github.com/riiid |
 | 버즈빌 | 49 | 14 | https://github.com/Buzzvil |
-| 카카오 | 58 | 425 | https://github.com/kakao |
+| 카카오 | 58 | 426 | https://github.com/kakao |
 | 네이버클라우드 | 48 | 69 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 45 | 490 | https://github.com/kakaobrain |
 | 그린랩스 | 41 | 58 | https://github.com/green-labs |
-| 직방 | 30 | 30 | https://github.com/zigbang |
+| 직방 | 31 | 30 | https://github.com/zigbang |
 | 우아한형제들 | 22 | 158 | https://github.com/woowabros |
-| 쏘카 | 27 | 55 | https://github.com/socar-inc |
+| 쏘카 | 27 | 56 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 9 | https://github.com/hancom-io |
 | 엔씨소프트 | 37 | 102 | https://github.com/ncsoft |
 | 버켓플레이스 | 22 | 76 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 20 | 688 | https://github.com/toss |
+| 비바리퍼블리카 | 20 | 691 | https://github.com/toss |
 | 마이리얼트립 | 32 | 25 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 45 | https://github.com/coupang |
 | LG전자 | 20 | 65 | https://github.com/LGE-OSS |
