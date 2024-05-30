@@ -5,7 +5,7 @@
       {
         "followers": 46,
         "organization_id": "tmax-cloud",
-        "public_repos": 267
+        "public_repos": 268
       }
     ]
   },
@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1607,
+        "followers": 1609,
         "organization_id": "naver",
         "public_repos": 251
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 833,
+        "followers": 836,
         "organization_id": "Samsung",
         "public_repos": 164
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 255,
+        "followers": 256,
         "organization_id": "sendbird",
         "public_repos": 166
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 45,
+        "followers": 46,
         "organization_id": "coupang",
         "public_repos": 18
       }
