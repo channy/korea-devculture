@@ -8,13 +8,13 @@
 | 티맥스클라우드 | 268 | 46 | https://github.com/tmax-cloud |
 | 네이버 | 251 | 1625 | https://github.com/naver |
 | 인베슘 | 179 | 45 | https://github.com/hamonikr |
-| 삼성전자 | 164 | 845 | https://github.com/Samsung |
-| 센드버드 | 167 | 261 | https://github.com/sendbird |
+| 삼성전자 | 164 | 847 | https://github.com/Samsung |
+| 센드버드 | 167 | 262 | https://github.com/sendbird |
 | 데브시스터즈 | 171 | 171 | https://github.com/devsisters |
 | 리디 | 114 | 144 | https://github.com/ridi |
 | 라인 | 123 | 918 | https://github.com/line |
 | 당근마켓 | 111 | 798 | https://github.com/daangn |
-| NHN | 106 | 599 | https://github.com/nhn |
+| NHN | 106 | 600 | https://github.com/nhn |
 | 래블업 | 120 | 76 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 31 | https://github.com/hyperconnect |
 | 삼성SDS | 88 | 24 | https://github.com/samsung-cnct (74)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -49,8 +49,8 @@
 | 메가존클라우드 | 8 | 3 | https://github.com/megazone-devops |
 | 현대자동차 | 8 | 107 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (4) |
 | 포스코ICT | 9 | 6 | https://github.com/poscoict-glueframework |
-| 요기요 | 37 | 95 | https://github.com/yogiyo |
-| 가비아 | 5 | 2 | https://github.com/gabia |
+| 요기요 | 38 | 95 | https://github.com/yogiyo |
+| 가비아 | 5 | 4 | https://github.com/gabia |
 | 힐링페이퍼 | 5 | 14 | https://github.com/healingpaper |
 | 11번가 | 10 | 18 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 7 | https://github.com/zuminternet |

@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 845,
+        "followers": 847,
         "organization_id": "Samsung",
         "public_repos": 164
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 261,
+        "followers": 262,
         "organization_id": "sendbird",
         "public_repos": 167
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 599,
+        "followers": 600,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -460,7 +460,7 @@
       {
         "followers": 95,
         "organization_id": "yogiyo",
-        "public_repos": 37
+        "public_repos": 38
       }
     ]
   },
@@ -468,7 +468,7 @@
     "name": "가비아",
     "organizations": [
       {
-        "followers": 2,
+        "followers": 4,
         "organization_id": "gabia",
         "public_repos": 5
       }
