@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1632,
+        "followers": 1634,
         "organization_id": "naver",
         "public_repos": 251
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 851,
+        "followers": 853,
         "organization_id": "Samsung",
         "public_repos": 164
       }
@@ -45,7 +45,7 @@
       {
         "followers": 264,
         "organization_id": "sendbird",
-        "public_repos": 168
+        "public_repos": 169
       }
     ]
   },
@@ -73,9 +73,9 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 920,
+        "followers": 921,
         "organization_id": "line",
-        "public_repos": 124
+        "public_repos": 125
       }
     ]
   },
@@ -83,9 +83,9 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 805,
+        "followers": 806,
         "organization_id": "daangn",
-        "public_repos": 111
+        "public_repos": 110
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 721,
+        "followers": 727,
         "organization_id": "toss",
         "public_repos": 22
       }
@@ -343,7 +343,7 @@
     "name": "뱅크샐러드",
     "organizations": [
       {
-        "followers": 80,
+        "followers": 81,
         "organization_id": "banksalad",
         "public_repos": 16
       }
@@ -433,12 +433,12 @@
     "name": "현대자동차",
     "organizations": [
       {
-        "followers": 38,
+        "followers": 39,
         "organization_id": "hkmc-airlab",
         "public_repos": 4
       },
       {
-        "followers": 69,
+        "followers": 70,
         "organization_id": "42dot",
         "public_repos": 4
       }
@@ -508,7 +508,7 @@
     "name": "네이버랩스",
     "organizations": [
       {
-        "followers": 27,
+        "followers": 26,
         "organization_id": "naverlabs",
         "public_repos": 3
       }
