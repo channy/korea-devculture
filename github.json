@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1635,
+        "followers": 1636,
         "organization_id": "naver",
         "public_repos": 251
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 145,
+        "followers": 144,
         "organization_id": "ridi",
         "public_repos": 114
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 806,
+        "followers": 807,
         "organization_id": "daangn",
         "public_repos": 110
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 491,
+        "followers": 490,
         "organization_id": "kakaobrain",
         "public_repos": 45
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 733,
+        "followers": 739,
         "organization_id": "toss",
         "public_repos": 22
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 67,
+        "followers": 68,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -393,7 +393,7 @@
     "name": "SK텔레콤",
     "organizations": [
       {
-        "followers": 29,
+        "followers": 30,
         "organization_id": "sktelecom",
         "public_repos": 4
       }
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 95,
+        "followers": 96,
         "organization_id": "yogiyo",
         "public_repos": 37
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 181,
+        "followers": 182,
         "organization_id": "planetarium",
         "public_repos": 144
       }
@@ -613,7 +613,7 @@
     "name": "코클",
     "organizations": [
       {
-        "followers": 14,
+        "followers": 13,
         "organization_id": "cochlearai",
         "public_repos": 10
       }
