@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1636,
+        "followers": 1640,
         "organization_id": "naver",
         "public_repos": 251
       }
@@ -25,7 +25,7 @@
       {
         "followers": 46,
         "organization_id": "hamonikr",
-        "public_repos": 179
+        "public_repos": 180
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 856,
+        "followers": 858,
         "organization_id": "Samsung",
         "public_repos": 164
       }
@@ -75,7 +75,7 @@
       {
         "followers": 924,
         "organization_id": "line",
-        "public_repos": 126
+        "public_repos": 127
       }
     ]
   },
@@ -153,7 +153,7 @@
     "name": "버즈빌",
     "organizations": [
       {
-        "followers": 15,
+        "followers": 16,
         "organization_id": "Buzzvil",
         "public_repos": 49
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 739,
+        "followers": 740,
         "organization_id": "toss",
         "public_repos": 22
       }
@@ -353,7 +353,7 @@
     "name": "카카오엔터프라이즈",
     "organizations": [
       {
-        "followers": 66,
+        "followers": 67,
         "organization_id": "kakaoenterprise",
         "public_repos": 18
       }
@@ -433,14 +433,14 @@
     "name": "현대자동차",
     "organizations": [
       {
-        "followers": 39,
+        "followers": 40,
         "organization_id": "hkmc-airlab",
         "public_repos": 4
       },
       {
         "followers": 70,
         "organization_id": "42dot",
-        "public_repos": 4
+        "public_repos": 5
       }
     ]
   },
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 98,
+        "followers": 99,
         "organization_id": "musinsa",
         "public_repos": 1
       }
@@ -613,7 +613,7 @@
     "name": "코클",
     "organizations": [
       {
-        "followers": 13,
+        "followers": 14,
         "organization_id": "cochlearai",
         "public_repos": 10
       }
