@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1648,
+        "followers": 1651,
         "organization_id": "naver",
         "public_repos": 252
       }
@@ -43,9 +43,9 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 265,
+        "followers": 266,
         "organization_id": "sendbird",
-        "public_repos": 171
+        "public_repos": 172
       }
     ]
   },
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 145,
+        "followers": 146,
         "organization_id": "ridi",
         "public_repos": 114
       }
@@ -83,9 +83,9 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 811,
+        "followers": 812,
         "organization_id": "daangn",
-        "public_repos": 110
+        "public_repos": 111
       }
     ]
   },
@@ -113,7 +113,7 @@
     "name": "하이퍼커넥트",
     "organizations": [
       {
-        "followers": 31,
+        "followers": 32,
         "organization_id": "hyperconnect",
         "public_repos": 42
       }
@@ -125,7 +125,7 @@
       {
         "followers": 15,
         "organization_id": "samsung-cnct",
-        "public_repos": 74
+        "public_repos": 75
       },
       {
         "followers": 6,
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 745,
+        "followers": 747,
         "organization_id": "toss",
         "public_repos": 22
       }
@@ -613,7 +613,7 @@
     "name": "코클",
     "organizations": [
       {
-        "followers": 14,
+        "followers": 15,
         "organization_id": "cochlearai",
         "public_repos": 10
       }
