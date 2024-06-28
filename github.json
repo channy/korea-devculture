@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1661,
+        "followers": 1663,
         "organization_id": "naver",
         "public_repos": 253
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 870,
+        "followers": 871,
         "organization_id": "Samsung",
         "public_repos": 165
       }
@@ -43,9 +43,9 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 266,
+        "followers": 267,
         "organization_id": "sendbird",
-        "public_repos": 172
+        "public_repos": 171
       }
     ]
   },
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 173,
+        "followers": 172,
         "organization_id": "devsisters",
         "public_repos": 171
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 930,
+        "followers": 931,
         "organization_id": "line",
         "public_repos": 127
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 491,
+        "followers": 492,
         "organization_id": "kakaobrain",
         "public_repos": 45
       }
@@ -263,9 +263,9 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 754,
+        "followers": 757,
         "organization_id": "toss",
-        "public_repos": 22
+        "public_repos": 23
       }
     ]
   },
@@ -325,7 +325,7 @@
       {
         "followers": 15,
         "organization_id": "VCNC",
-        "public_repos": 18
+        "public_repos": 19
       }
     ]
   },
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 70,
+        "followers": 71,
         "organization_id": "42dot",
         "public_repos": 5
       }
