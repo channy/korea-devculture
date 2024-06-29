@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 816,
+        "followers": 817,
         "organization_id": "daangn",
         "public_repos": 111
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 608,
+        "followers": 607,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 437,
+        "followers": 438,
         "organization_id": "kakao",
         "public_repos": 58
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 75,
+        "followers": 76,
         "organization_id": "bucketplace",
         "public_repos": 20
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 757,
+        "followers": 764,
         "organization_id": "toss",
         "public_repos": 23
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 102,
+        "followers": 103,
         "organization_id": "musinsa",
         "public_repos": 1
       }
