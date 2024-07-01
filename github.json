@@ -13,9 +13,9 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1663,
+        "followers": 1666,
         "organization_id": "naver",
-        "public_repos": 253
+        "public_repos": 254
       }
     ]
   },
@@ -25,7 +25,7 @@
       {
         "followers": 46,
         "organization_id": "hamonikr",
-        "public_repos": 180
+        "public_repos": 181
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 874,
+        "followers": 876,
         "organization_id": "Samsung",
         "public_repos": 165
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 172,
+        "followers": 173,
         "organization_id": "devsisters",
         "public_repos": 171
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 932,
+        "followers": 931,
         "organization_id": "line",
         "public_repos": 127
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 817,
+        "followers": 818,
         "organization_id": "daangn",
         "public_repos": 111
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 438,
+        "followers": 439,
         "organization_id": "kakao",
         "public_repos": 58
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 492,
+        "followers": 491,
         "organization_id": "kakaobrain",
         "public_repos": 45
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 57,
+        "followers": 58,
         "organization_id": "socar-inc",
         "public_repos": 27
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 765,
+        "followers": 772,
         "organization_id": "toss",
         "public_repos": 23
       }
@@ -303,7 +303,7 @@
     "name": "드라마앤컴퍼니",
     "organizations": [
       {
-        "followers": 27,
+        "followers": 28,
         "organization_id": "dramancompany",
         "public_repos": 22
       }
