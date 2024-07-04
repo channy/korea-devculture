@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1677,
+        "followers": 1680,
         "organization_id": "naver",
         "public_repos": 254
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 880,
+        "followers": 881,
         "organization_id": "Samsung",
         "public_repos": 165
       }
@@ -43,9 +43,9 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 266,
+        "followers": 267,
         "organization_id": "sendbird",
-        "public_repos": 175
+        "public_repos": 178
       }
     ]
   },
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 173,
+        "followers": 174,
         "organization_id": "devsisters",
         "public_repos": 171
       }
@@ -73,9 +73,9 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 932,
+        "followers": 933,
         "organization_id": "line",
-        "public_repos": 127
+        "public_repos": 128
       }
     ]
   },
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 81,
+        "followers": 83,
         "organization_id": "lablup",
         "public_repos": 120
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 60,
+        "followers": 61,
         "organization_id": "socar-inc",
         "public_repos": 27
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 786,
+        "followers": 789,
         "organization_id": "toss",
         "public_repos": 23
       }
@@ -303,7 +303,7 @@
     "name": "드라마앤컴퍼니",
     "organizations": [
       {
-        "followers": 28,
+        "followers": 29,
         "organization_id": "dramancompany",
         "public_repos": 22
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 73,
+        "followers": 74,
         "organization_id": "thefarmersfront",
         "public_repos": 9
       }
@@ -613,7 +613,7 @@
     "name": "코클",
     "organizations": [
       {
-        "followers": 15,
+        "followers": 16,
         "organization_id": "cochlearai",
         "public_repos": 10
       }
