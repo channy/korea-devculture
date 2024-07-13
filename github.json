@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 837,
+        "followers": 839,
         "organization_id": "daangn",
         "public_repos": 111
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 612,
+        "followers": 613,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 446,
+        "followers": 447,
         "organization_id": "kakao",
         "public_repos": 58
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 74,
+        "followers": 75,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 49
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 810,
+        "followers": 823,
         "organization_id": "toss",
         "public_repos": 23
       }
@@ -353,7 +353,7 @@
     "name": "카카오엔터프라이즈",
     "organizations": [
       {
-        "followers": 67,
+        "followers": 68,
         "organization_id": "kakaoenterprise",
         "public_repos": 18
       }
@@ -405,7 +405,7 @@
       {
         "followers": 74,
         "organization_id": "thefarmersfront",
-        "public_repos": 9
+        "public_repos": 10
       }
     ]
   },
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 71,
+        "followers": 72,
         "organization_id": "42dot",
         "public_repos": 5
       }
