@@ -23,7 +23,7 @@
     "name": "인베슘",
     "organizations": [
       {
-        "followers": 46,
+        "followers": 47,
         "organization_id": "hamonikr",
         "public_repos": 183
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 895,
+        "followers": 898,
         "organization_id": "Samsung",
         "public_repos": 165
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 269,
+        "followers": 270,
         "organization_id": "sendbird",
         "public_repos": 176
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 840,
+        "followers": 841,
         "organization_id": "daangn",
         "public_repos": 111
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 613,
+        "followers": 614,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 836,
+        "followers": 840,
         "organization_id": "toss",
         "public_repos": 23
       }
