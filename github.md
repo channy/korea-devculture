@@ -6,24 +6,24 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 268 | 46 | https://github.com/tmax-cloud |
-| 네이버 | 255 | 1705 | https://github.com/naver |
-| 인베슘 | 183 | 48 | https://github.com/hamonikr |
-| 삼성전자 | 165 | 898 | https://github.com/Samsung |
+| 네이버 | 255 | 1711 | https://github.com/naver |
+| 인베슘 | 185 | 49 | https://github.com/hamonikr |
+| 삼성전자 | 166 | 899 | https://github.com/Samsung |
 | 센드버드 | 176 | 270 | https://github.com/sendbird |
 | 데브시스터즈 | 171 | 176 | https://github.com/devsisters |
 | 리디 | 114 | 147 | https://github.com/ridi |
-| 라인 | 128 | 945 | https://github.com/line |
+| 라인 | 128 | 950 | https://github.com/line |
 | 당근마켓 | 111 | 844 | https://github.com/daangn |
 | NHN | 106 | 616 | https://github.com/nhn |
 | 래블업 | 120 | 85 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 32 | https://github.com/hyperconnect |
 | 삼성SDS | 89 | 24 | https://github.com/samsung-cnct (75)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
-| 뤼이드 | 61 | 48 | https://github.com/riiid |
+| 뤼이드 | 61 | 49 | https://github.com/riiid |
 | 버즈빌 | 49 | 16 | https://github.com/Buzzvil |
-| 카카오 | 58 | 448 | https://github.com/kakao |
+| 카카오 | 58 | 449 | https://github.com/kakao |
 | 네이버클라우드 | 49 | 75 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 45 | 491 | https://github.com/kakaobrain |
-| 그린랩스 | 41 | 58 | https://github.com/green-labs |
+| 그린랩스 | 41 | 59 | https://github.com/green-labs |
 | 직방 | 31 | 31 | https://github.com/zigbang |
 | 우아한형제들 | 22 | 165 | https://github.com/woowabros |
 | 쏘카 | 27 | 61 | https://github.com/socar-inc |
@@ -40,7 +40,7 @@
 | 다나와 | 1 | 7 | https://github.com/danawalab |
 | 뱅크샐러드 | 16 | 84 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 18 | 68 | https://github.com/kakaoenterprise |
-| 딜리셔스 | 19 | 23 | https://github.com/dealicious-inc |
+| 딜리셔스 | 20 | 23 | https://github.com/dealicious-inc |
 | 몰로코 | 16 | 90 | https://github.com/moloco |
 | 네이버제트 | 10 | 55 | https://github.com/naverz |
 | SK텔레콤 | 4 | 30 | https://github.com/sktelecom |
