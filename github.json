@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1711,
+        "followers": 1714,
         "organization_id": "naver",
         "public_repos": 255
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 899,
+        "followers": 900,
         "organization_id": "Samsung",
         "public_repos": 166
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 950,
+        "followers": 952,
         "organization_id": "line",
         "public_repos": 128
       }
@@ -143,7 +143,7 @@
     "name": "뤼이드",
     "organizations": [
       {
-        "followers": 49,
+        "followers": 48,
         "organization_id": "riiid",
         "public_repos": 61
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 449,
+        "followers": 451,
         "organization_id": "kakao",
         "public_repos": 58
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 491,
+        "followers": 492,
         "organization_id": "kakaobrain",
         "public_repos": 45
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 842,
+        "followers": 846,
         "organization_id": "toss",
         "public_repos": 23
       }
@@ -275,7 +275,7 @@
       {
         "followers": 25,
         "organization_id": "myrealtrip",
-        "public_repos": 32
+        "public_repos": 33
       }
     ]
   },
