@@ -6,15 +6,15 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 268 | 46 | https://github.com/tmax-cloud |
-| 네이버 | 255 | 1718 | https://github.com/naver |
+| 네이버 | 255 | 1722 | https://github.com/naver |
 | 인베슘 | 185 | 49 | https://github.com/hamonikr |
-| 삼성전자 | 166 | 900 | https://github.com/Samsung |
-| 센드버드 | 176 | 270 | https://github.com/sendbird |
+| 삼성전자 | 166 | 901 | https://github.com/Samsung |
+| 센드버드 | 176 | 271 | https://github.com/sendbird |
 | 데브시스터즈 | 171 | 175 | https://github.com/devsisters |
 | 리디 | 114 | 147 | https://github.com/ridi |
 | 라인 | 129 | 953 | https://github.com/line |
-| 당근마켓 | 111 | 845 | https://github.com/daangn |
-| NHN | 106 | 619 | https://github.com/nhn |
+| 당근마켓 | 111 | 846 | https://github.com/daangn |
+| NHN | 106 | 620 | https://github.com/nhn |
 | 래블업 | 120 | 85 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 32 | https://github.com/hyperconnect |
 | 삼성SDS | 89 | 24 | https://github.com/samsung-cnct (75)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -34,14 +34,14 @@
 | 마이리얼트립 | 33 | 25 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 49 | https://github.com/coupang |
 | LG전자 | 20 | 71 | https://github.com/LGE-OSS |
-| 드라마앤컴퍼니 | 21 | 29 | https://github.com/dramancompany |
+| 드라마앤컴퍼니 | 22 | 29 | https://github.com/dramancompany |
 | 야놀자 | 1 | 17 | https://github.com/yanolja |
 | VCNC | 19 | 15 | https://github.com/VCNC |
 | 다나와 | 1 | 7 | https://github.com/danawalab |
 | 뱅크샐러드 | 16 | 84 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 18 | 68 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 20 | 23 | https://github.com/dealicious-inc |
-| 몰로코 | 16 | 91 | https://github.com/moloco |
+| 몰로코 | 16 | 92 | https://github.com/moloco |
 | 네이버제트 | 10 | 55 | https://github.com/naverz |
 | SK텔레콤 | 4 | 30 | https://github.com/sktelecom |
 | 컬리 | 10 | 74 | https://github.com/thefarmersfront |
