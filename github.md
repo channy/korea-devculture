@@ -6,21 +6,21 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 268 | 46 | https://github.com/tmax-cloud |
-| 네이버 | 255 | 1722 | https://github.com/naver |
-| 인베슘 | 185 | 49 | https://github.com/hamonikr |
+| 네이버 | 255 | 1727 | https://github.com/naver |
+| 인베슘 | 186 | 49 | https://github.com/hamonikr |
 | 삼성전자 | 166 | 901 | https://github.com/Samsung |
 | 센드버드 | 176 | 271 | https://github.com/sendbird |
 | 데브시스터즈 | 171 | 175 | https://github.com/devsisters |
 | 리디 | 114 | 147 | https://github.com/ridi |
-| 라인 | 129 | 953 | https://github.com/line |
-| 당근마켓 | 111 | 846 | https://github.com/daangn |
+| 라인 | 129 | 954 | https://github.com/line |
+| 당근마켓 | 111 | 847 | https://github.com/daangn |
 | NHN | 106 | 620 | https://github.com/nhn |
 | 래블업 | 120 | 85 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 32 | https://github.com/hyperconnect |
 | 삼성SDS | 89 | 24 | https://github.com/samsung-cnct (75)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 61 | 48 | https://github.com/riiid |
 | 버즈빌 | 49 | 16 | https://github.com/Buzzvil |
-| 카카오 | 58 | 450 | https://github.com/kakao |
+| 카카오 | 58 | 451 | https://github.com/kakao |
 | 네이버클라우드 | 49 | 76 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 45 | 492 | https://github.com/kakaobrain |
 | 그린랩스 | 41 | 59 | https://github.com/green-labs |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 10 | https://github.com/hancom-io |
 | 엔씨소프트 | 37 | 108 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 76 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 23 | 845 | https://github.com/toss |
+| 비바리퍼블리카 | 23 | 847 | https://github.com/toss |
 | 마이리얼트립 | 33 | 25 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 49 | https://github.com/coupang |
 | LG전자 | 20 | 71 | https://github.com/LGE-OSS |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 0 | https://github.com/Krafton |
 | 카카오뱅크 | 2 | 42 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 8 | https://github.com/kakaohairshop |
-| 플라네타리움 | 145 | 185 | https://github.com/planetarium |
+| 플라네타리움 | 145 | 186 | https://github.com/planetarium |
 | 큐브리드 | 41 | 20 | https://github.com/CUBRID |
 | 코클 | 10 | 16 | https://github.com/cochlearai |
 | 스켈터랩스 | 10 | 11 | https://github.com/SkelterLabsInc |
