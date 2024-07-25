@@ -15,7 +15,7 @@
       {
         "followers": 1730,
         "organization_id": "naver",
-        "public_repos": 255
+        "public_repos": 256
       }
     ]
   },
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 175,
+        "followers": 176,
         "organization_id": "devsisters",
         "public_repos": 171
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 957,
+        "followers": 958,
         "organization_id": "line",
         "public_repos": 129
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 85,
+        "followers": 86,
         "organization_id": "lablup",
         "public_repos": 121
       }
@@ -183,9 +183,9 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 494,
+        "followers": 495,
         "organization_id": "kakaobrain",
-        "public_repos": 45
+        "public_repos": 42
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 850,
+        "followers": 852,
         "organization_id": "toss",
         "public_repos": 23
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 71,
+        "followers": 70,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
