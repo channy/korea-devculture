@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1737,
+        "followers": 1741,
         "organization_id": "naver",
         "public_repos": 256
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 905,
+        "followers": 908,
         "organization_id": "Samsung",
         "public_repos": 167
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 272,
+        "followers": 273,
         "organization_id": "sendbird",
         "public_repos": 176
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 176,
+        "followers": 175,
         "organization_id": "devsisters",
         "public_repos": 171
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 850,
+        "followers": 852,
         "organization_id": "daangn",
         "public_repos": 110
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 626,
+        "followers": 627,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 495,
+        "followers": 494,
         "organization_id": "kakaobrain",
         "public_repos": 42
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 61,
+        "followers": 62,
         "organization_id": "socar-inc",
         "public_repos": 28
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 109,
+        "followers": 108,
         "organization_id": "ncsoft",
         "public_repos": 38
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 75,
+        "followers": 76,
         "organization_id": "bucketplace",
         "public_repos": 10
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 856,
+        "followers": 858,
         "organization_id": "toss",
         "public_repos": 23
       }

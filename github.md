@@ -6,15 +6,15 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 268 | 46 | https://github.com/tmax-cloud |
-| 네이버 | 256 | 1737 | https://github.com/naver |
+| 네이버 | 256 | 1741 | https://github.com/naver |
 | 인베슘 | 187 | 50 | https://github.com/hamonikr |
-| 삼성전자 | 167 | 905 | https://github.com/Samsung |
-| 센드버드 | 176 | 272 | https://github.com/sendbird |
-| 데브시스터즈 | 171 | 176 | https://github.com/devsisters |
+| 삼성전자 | 167 | 908 | https://github.com/Samsung |
+| 센드버드 | 176 | 273 | https://github.com/sendbird |
+| 데브시스터즈 | 171 | 175 | https://github.com/devsisters |
 | 리디 | 114 | 147 | https://github.com/ridi |
 | 라인 | 129 | 961 | https://github.com/line |
-| 당근마켓 | 110 | 850 | https://github.com/daangn |
-| NHN | 106 | 626 | https://github.com/nhn |
+| 당근마켓 | 110 | 852 | https://github.com/daangn |
+| NHN | 106 | 627 | https://github.com/nhn |
 | 래블업 | 121 | 88 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 32 | https://github.com/hyperconnect |
 | 삼성SDS | 89 | 24 | https://github.com/samsung-cnct (75)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -22,15 +22,15 @@
 | 버즈빌 | 49 | 16 | https://github.com/Buzzvil |
 | 카카오 | 58 | 454 | https://github.com/kakao |
 | 네이버클라우드 | 49 | 76 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 42 | 495 | https://github.com/kakaobrain |
+| 카카오브레인 | 42 | 494 | https://github.com/kakaobrain |
 | 그린랩스 | 41 | 59 | https://github.com/green-labs |
 | 직방 | 31 | 31 | https://github.com/zigbang |
 | 우아한형제들 | 22 | 165 | https://github.com/woowabros |
-| 쏘카 | 28 | 61 | https://github.com/socar-inc |
+| 쏘카 | 28 | 62 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 10 | https://github.com/hancom-io |
-| 엔씨소프트 | 38 | 109 | https://github.com/ncsoft |
-| 버켓플레이스 | 10 | 75 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 23 | 856 | https://github.com/toss |
+| 엔씨소프트 | 38 | 108 | https://github.com/ncsoft |
+| 버켓플레이스 | 10 | 76 | https://github.com/bucketplace |
+| 비바리퍼블리카 | 23 | 858 | https://github.com/toss |
 | 마이리얼트립 | 33 | 25 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 48 | https://github.com/coupang |
 | LG전자 | 20 | 70 | https://github.com/LGE-OSS |
