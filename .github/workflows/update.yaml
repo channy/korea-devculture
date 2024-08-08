@@ -21,14 +21,14 @@ jobs:
           fetch-depth: 0
 
       - name: Set up Python ${{ matrix.python-version }}
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python-version }}
+          cache: pip
 
-      - name: Install dependencies (`aiohttp`)
+      - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install aiohttp
+          python -m pip install -r requirements.txt
 
       - name: Run script
         run: |
