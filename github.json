@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1774,
+        "followers": 1776,
         "organization_id": "naver",
         "public_repos": 257
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 978,
+        "followers": 977,
         "organization_id": "line",
         "public_repos": 130
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 867,
+        "followers": 870,
         "organization_id": "daangn",
         "public_repos": 110
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 635,
+        "followers": 636,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 883,
+        "followers": 884,
         "organization_id": "toss",
         "public_repos": 23
       }
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 96,
+        "followers": 97,
         "organization_id": "yogiyo",
         "public_repos": 37
       }
