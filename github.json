@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1782,
+        "followers": 1785,
         "organization_id": "naver",
         "public_repos": 257
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 922,
+        "followers": 923,
         "organization_id": "Samsung",
         "public_repos": 167
       }
@@ -73,9 +73,9 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 981,
+        "followers": 982,
         "organization_id": "line",
-        "public_repos": 130
+        "public_repos": 134
       }
     ]
   },
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 870,
+        "followers": 868,
         "organization_id": "daangn",
         "public_repos": 109
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 639,
+        "followers": 640,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 456,
+        "followers": 455,
         "organization_id": "kakao",
         "public_repos": 58
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 75,
+        "followers": 76,
         "organization_id": "bucketplace",
         "public_repos": 10
       }
@@ -263,9 +263,9 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 889,
+        "followers": 894,
         "organization_id": "toss",
-        "public_repos": 23
+        "public_repos": 24
       }
     ]
   },
@@ -365,7 +365,7 @@
       {
         "followers": 22,
         "organization_id": "dealicious-inc",
-        "public_repos": 21
+        "public_repos": 20
       }
     ]
   },
@@ -478,7 +478,7 @@
     "name": "힐링페이퍼",
     "organizations": [
       {
-        "followers": 14,
+        "followers": 15,
         "organization_id": "healingpaper",
         "public_repos": 5
       }
