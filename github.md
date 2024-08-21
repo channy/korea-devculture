@@ -6,15 +6,15 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 268 | 46 | https://github.com/tmax-cloud |
-| 네이버 | 257 | 1785 | https://github.com/naver |
+| 네이버 | 257 | 1787 | https://github.com/naver |
 | 인베슘 | 189 | 53 | https://github.com/hamonikr |
-| 삼성전자 | 167 | 923 | https://github.com/Samsung |
-| 센드버드 | 178 | 276 | https://github.com/sendbird |
+| 삼성전자 | 167 | 925 | https://github.com/Samsung |
+| 센드버드 | 178 | 277 | https://github.com/sendbird |
 | 데브시스터즈 | 171 | 178 | https://github.com/devsisters |
 | 리디 | 114 | 146 | https://github.com/ridi |
-| 라인 | 134 | 982 | https://github.com/line |
-| 당근마켓 | 109 | 868 | https://github.com/daangn |
-| NHN | 106 | 640 | https://github.com/nhn |
+| 라인 | 135 | 982 | https://github.com/line |
+| 당근마켓 | 109 | 869 | https://github.com/daangn |
+| NHN | 106 | 638 | https://github.com/nhn |
 | 래블업 | 123 | 90 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 32 | https://github.com/hyperconnect |
 | 삼성SDS | 89 | 24 | https://github.com/samsung-cnct (75)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -25,12 +25,12 @@
 | 카카오브레인 | 42 | 495 | https://github.com/kakaobrain |
 | 그린랩스 | 40 | 59 | https://github.com/green-labs |
 | 직방 | 31 | 31 | https://github.com/zigbang |
-| 우아한형제들 | 22 | 170 | https://github.com/woowabros |
+| 우아한형제들 | 22 | 171 | https://github.com/woowabros |
 | 쏘카 | 28 | 63 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 11 | https://github.com/hancom-io |
 | 엔씨소프트 | 38 | 109 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 76 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 24 | 894 | https://github.com/toss |
+| 비바리퍼블리카 | 24 | 897 | https://github.com/toss |
 | 마이리얼트립 | 33 | 26 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 50 | https://github.com/coupang |
 | LG전자 | 20 | 71 | https://github.com/LGE-OSS |
@@ -41,7 +41,7 @@
 | 뱅크샐러드 | 16 | 82 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 18 | 69 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 20 | 22 | https://github.com/dealicious-inc |
-| 몰로코 | 16 | 92 | https://github.com/moloco |
+| 몰로코 | 16 | 93 | https://github.com/moloco |
 | 네이버제트 | 10 | 54 | https://github.com/naverz |
 | SK텔레콤 | 4 | 29 | https://github.com/sktelecom |
 | 컬리 | 10 | 73 | https://github.com/thefarmersfront |
