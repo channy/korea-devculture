@@ -23,9 +23,9 @@
     "name": "인베슘",
     "organizations": [
       {
-        "followers": 53,
+        "followers": 51,
         "organization_id": "hamonikr",
-        "public_repos": 189
+        "public_repos": 190
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 931,
+        "followers": 933,
         "organization_id": "Samsung",
         "public_repos": 167
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 277,
+        "followers": 278,
         "organization_id": "sendbird",
         "public_repos": 178
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 989,
+        "followers": 991,
         "organization_id": "line",
         "public_repos": 135
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 872,
+        "followers": 873,
         "organization_id": "daangn",
         "public_repos": 109
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 640,
+        "followers": 639,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -113,7 +113,7 @@
     "name": "하이퍼커넥트",
     "organizations": [
       {
-        "followers": 32,
+        "followers": 33,
         "organization_id": "hyperconnect",
         "public_repos": 42
       }
@@ -123,7 +123,7 @@
     "name": "삼성SDS",
     "organizations": [
       {
-        "followers": 15,
+        "followers": 16,
         "organization_id": "samsung-cnct",
         "public_repos": 75
       },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 927,
+        "followers": 926,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 50,
+        "followers": 49,
         "organization_id": "coupang",
         "public_repos": 18
       }
