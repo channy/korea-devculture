@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1800,
+        "followers": 1802,
         "organization_id": "naver",
         "public_repos": 257
       }
@@ -45,7 +45,7 @@
       {
         "followers": 278,
         "organization_id": "sendbird",
-        "public_repos": 178
+        "public_repos": 179
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 457,
+        "followers": 458,
         "organization_id": "kakao",
         "public_repos": 59
       }
@@ -595,7 +595,7 @@
       {
         "followers": 188,
         "organization_id": "planetarium",
-        "public_repos": 149
+        "public_repos": 150
       }
     ]
   },
