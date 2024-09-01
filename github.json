@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 641,
+        "followers": 642,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 78,
+        "followers": 81,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 50
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 928,
+        "followers": 927,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -498,7 +498,7 @@
     "name": "줌인터넷",
     "organizations": [
       {
-        "followers": 6,
+        "followers": 7,
         "organization_id": "zuminternet",
         "public_repos": 4
       }

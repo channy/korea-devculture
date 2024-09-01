@@ -14,14 +14,14 @@
 | 리디 | 114 | 146 | https://github.com/ridi |
 | 라인 | 135 | 994 | https://github.com/line |
 | 당근마켓 | 109 | 875 | https://github.com/daangn |
-| NHN | 106 | 641 | https://github.com/nhn |
+| NHN | 106 | 642 | https://github.com/nhn |
 | 래블업 | 123 | 90 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 33 | https://github.com/hyperconnect |
 | 삼성SDS | 89 | 25 | https://github.com/samsung-cnct (75)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 43 | 48 | https://github.com/riiid |
 | 버즈빌 | 49 | 16 | https://github.com/Buzzvil |
 | 카카오 | 59 | 458 | https://github.com/kakao |
-| 네이버클라우드 | 50 | 78 | https://github.com/NaverCloudPlatform |
+| 네이버클라우드 | 50 | 81 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 42 | 495 | https://github.com/kakaobrain |
 | 그린랩스 | 40 | 59 | https://github.com/green-labs |
 | 직방 | 31 | 31 | https://github.com/zigbang |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 11 | https://github.com/hancom-io |
 | 엔씨소프트 | 38 | 109 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 76 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 24 | 928 | https://github.com/toss |
+| 비바리퍼블리카 | 24 | 927 | https://github.com/toss |
 | 마이리얼트립 | 33 | 26 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 49 | https://github.com/coupang |
 | LG전자 | 20 | 71 | https://github.com/LGE-OSS |
@@ -53,7 +53,7 @@
 | 가비아 | 5 | 3 | https://github.com/gabia |
 | 힐링페이퍼 | 5 | 15 | https://github.com/healingpaper |
 | 11번가 | 10 | 18 | https://github.com/11st-corp |
-| 줌인터넷 | 4 | 6 | https://github.com/zuminternet |
+| 줌인터넷 | 4 | 7 | https://github.com/zuminternet |
 | 네이버랩스 | 3 | 25 | https://github.com/naverlabs |
 | 무신사 | 1 | 108 | https://github.com/musinsa |
 | SK | 2 | 2 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (2) |
