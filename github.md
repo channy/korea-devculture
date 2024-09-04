@@ -6,15 +6,15 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 270 | 46 | https://github.com/tmax-cloud |
-| 네이버 | 257 | 1802 | https://github.com/naver |
+| 네이버 | 257 | 1805 | https://github.com/naver |
 | 인베슘 | 190 | 50 | https://github.com/hamonikr |
-| 삼성전자 | 167 | 938 | https://github.com/Samsung |
+| 삼성전자 | 167 | 940 | https://github.com/Samsung |
 | 센드버드 | 179 | 279 | https://github.com/sendbird |
 | 데브시스터즈 | 171 | 177 | https://github.com/devsisters |
 | 리디 | 114 | 146 | https://github.com/ridi |
 | 라인 | 135 | 994 | https://github.com/line |
 | 당근마켓 | 109 | 877 | https://github.com/daangn |
-| NHN | 106 | 642 | https://github.com/nhn |
+| NHN | 106 | 643 | https://github.com/nhn |
 | 래블업 | 123 | 92 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 33 | https://github.com/hyperconnect |
 | 삼성SDS | 89 | 25 | https://github.com/samsung-cnct (75)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -30,8 +30,8 @@
 | 한글과컴퓨터 | 31 | 11 | https://github.com/hancom-io |
 | 엔씨소프트 | 38 | 109 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 76 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 24 | 927 | https://github.com/toss |
-| 마이리얼트립 | 33 | 26 | https://github.com/myrealtrip |
+| 비바리퍼블리카 | 24 | 929 | https://github.com/toss |
+| 마이리얼트립 | 33 | 27 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 49 | https://github.com/coupang |
 | LG전자 | 20 | 71 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 22 | 28 | https://github.com/dramancompany |
