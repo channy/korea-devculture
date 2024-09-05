@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1805,
+        "followers": 1806,
         "organization_id": "naver",
         "public_repos": 257
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 877,
+        "followers": 878,
         "organization_id": "daangn",
         "public_repos": 109
       }
@@ -105,7 +105,7 @@
       {
         "followers": 92,
         "organization_id": "lablup",
-        "public_repos": 123
+        "public_repos": 124
       }
     ]
   },
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 173,
+        "followers": 174,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 929,
+        "followers": 931,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -365,7 +365,7 @@
       {
         "followers": 22,
         "organization_id": "dealicious-inc",
-        "public_repos": 19
+        "public_repos": 18
       }
     ]
   },
@@ -478,7 +478,7 @@
     "name": "힐링페이퍼",
     "organizations": [
       {
-        "followers": 15,
+        "followers": 16,
         "organization_id": "healingpaper",
         "public_repos": 5
       }
