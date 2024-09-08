@@ -6,7 +6,7 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 270 | 46 | https://github.com/tmax-cloud |
-| 네이버 | 257 | 1811 | https://github.com/naver |
+| 네이버 | 257 | 1812 | https://github.com/naver |
 | 인베슘 | 190 | 50 | https://github.com/hamonikr |
 | 삼성전자 | 167 | 942 | https://github.com/Samsung |
 | 센드버드 | 180 | 281 | https://github.com/sendbird |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 12 | https://github.com/hancom-io |
 | 엔씨소프트 | 38 | 110 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 77 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 24 | 937 | https://github.com/toss |
+| 비바리퍼블리카 | 24 | 939 | https://github.com/toss |
 | 마이리얼트립 | 33 | 27 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 50 | https://github.com/coupang |
 | LG전자 | 20 | 72 | https://github.com/LGE-OSS |
