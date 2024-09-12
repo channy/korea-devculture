@@ -6,14 +6,14 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 270 | 47 | https://github.com/tmax-cloud |
-| 네이버 | 257 | 1820 | https://github.com/naver |
+| 네이버 | 257 | 1821 | https://github.com/naver |
 | 인베슘 | 190 | 50 | https://github.com/hamonikr |
-| 삼성전자 | 167 | 946 | https://github.com/Samsung |
-| 센드버드 | 182 | 281 | https://github.com/sendbird |
-| 데브시스터즈 | 171 | 178 | https://github.com/devsisters |
+| 삼성전자 | 167 | 947 | https://github.com/Samsung |
+| 센드버드 | 182 | 282 | https://github.com/sendbird |
+| 데브시스터즈 | 171 | 179 | https://github.com/devsisters |
 | 리디 | 114 | 146 | https://github.com/ridi |
 | 라인 | 135 | 1000 | https://github.com/line |
-| 당근마켓 | 109 | 888 | https://github.com/daangn |
+| 당근마켓 | 109 | 889 | https://github.com/daangn |
 | NHN | 106 | 645 | https://github.com/nhn |
 | 래블업 | 124 | 92 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 33 | https://github.com/hyperconnect |
@@ -28,10 +28,10 @@
 | 우아한형제들 | 22 | 177 | https://github.com/woowabros |
 | 쏘카 | 28 | 64 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 13 | https://github.com/hancom-io |
-| 엔씨소프트 | 38 | 111 | https://github.com/ncsoft |
+| 엔씨소프트 | 38 | 112 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 77 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 24 | 948 | https://github.com/toss |
-| 마이리얼트립 | 33 | 28 | https://github.com/myrealtrip |
+| 비바리퍼블리카 | 24 | 951 | https://github.com/toss |
+| 마이리얼트립 | 32 | 28 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 49 | https://github.com/coupang |
 | LG전자 | 20 | 72 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 22 | 28 | https://github.com/dramancompany |
@@ -55,7 +55,7 @@
 | 11번가 | 10 | 18 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 7 | https://github.com/zuminternet |
 | 네이버랩스 | 3 | 26 | https://github.com/naverlabs |
-| 무신사 | 1 | 108 | https://github.com/musinsa |
+| 무신사 | 1 | 109 | https://github.com/musinsa |
 | SK | 2 | 2 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (2) |
 | 카카오페이 | 1 | 13 | https://github.com/kakaopay |
 | 신한은행 | 1 | 7 | https://github.com/Shinhan-Bank |
