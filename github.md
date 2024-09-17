@@ -6,13 +6,13 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 270 | 47 | https://github.com/tmax-cloud |
-| 네이버 | 257 | 1824 | https://github.com/naver |
+| 네이버 | 257 | 1830 | https://github.com/naver |
 | 인베슘 | 190 | 50 | https://github.com/hamonikr |
 | 삼성전자 | 167 | 952 | https://github.com/Samsung |
 | 센드버드 | 182 | 282 | https://github.com/sendbird |
 | 데브시스터즈 | 171 | 180 | https://github.com/devsisters |
-| 리디 | 114 | 146 | https://github.com/ridi |
-| 라인 | 139 | 999 | https://github.com/line |
+| 리디 | 114 | 144 | https://github.com/ridi |
+| 라인 | 139 | 1000 | https://github.com/line |
 | 당근마켓 | 109 | 888 | https://github.com/daangn |
 | NHN | 106 | 647 | https://github.com/nhn |
 | 래블업 | 124 | 92 | https://github.com/lablup |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 13 | https://github.com/hancom-io |
 | 엔씨소프트 | 38 | 113 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 77 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 24 | 953 | https://github.com/toss |
+| 비바리퍼블리카 | 24 | 954 | https://github.com/toss |
 | 마이리얼트립 | 32 | 28 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 49 | https://github.com/coupang |
 | LG전자 | 20 | 71 | https://github.com/LGE-OSS |
@@ -41,7 +41,7 @@
 | 뱅크샐러드 | 17 | 83 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 18 | 71 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 18 | 22 | https://github.com/dealicious-inc |
-| 몰로코 | 16 | 95 | https://github.com/moloco |
+| 몰로코 | 16 | 96 | https://github.com/moloco |
 | 네이버제트 | 10 | 54 | https://github.com/naverz |
 | SK텔레콤 | 4 | 29 | https://github.com/sktelecom |
 | 컬리 | 10 | 73 | https://github.com/thefarmersfront |
