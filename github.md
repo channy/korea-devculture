@@ -12,8 +12,8 @@
 | 센드버드 | 182 | 283 | https://github.com/sendbird |
 | 데브시스터즈 | 171 | 180 | https://github.com/devsisters |
 | 리디 | 114 | 144 | https://github.com/ridi |
-| 라인 | 139 | 1000 | https://github.com/line |
-| 당근마켓 | 109 | 890 | https://github.com/daangn |
+| 라인 | 139 | 1001 | https://github.com/line |
+| 당근마켓 | 109 | 889 | https://github.com/daangn |
 | NHN | 106 | 647 | https://github.com/nhn |
 | 래블업 | 124 | 92 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 33 | https://github.com/hyperconnect |
@@ -30,11 +30,11 @@
 | 한글과컴퓨터 | 31 | 13 | https://github.com/hancom-io |
 | 엔씨소프트 | 38 | 113 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 77 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 24 | 956 | https://github.com/toss |
+| 비바리퍼블리카 | 24 | 958 | https://github.com/toss |
 | 마이리얼트립 | 32 | 28 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 49 | https://github.com/coupang |
 | LG전자 | 20 | 71 | https://github.com/LGE-OSS |
-| 드라마앤컴퍼니 | 22 | 29 | https://github.com/dramancompany |
+| 드라마앤컴퍼니 | 23 | 29 | https://github.com/dramancompany |
 | 야놀자 | 1 | 17 | https://github.com/yanolja |
 | VCNC | 19 | 14 | https://github.com/VCNC |
 | 다나와 | 1 | 7 | https://github.com/danawalab |
@@ -44,7 +44,7 @@
 | 몰로코 | 16 | 96 | https://github.com/moloco |
 | 네이버제트 | 10 | 54 | https://github.com/naverz |
 | SK텔레콤 | 4 | 29 | https://github.com/sktelecom |
-| 컬리 | 10 | 73 | https://github.com/thefarmersfront |
+| 컬리 | 10 | 74 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 2 | https://github.com/megazone-devops |
 | 현대자동차 | 9 | 115 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (5) |
@@ -63,7 +63,7 @@
 | 카카오뱅크 | 2 | 47 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
 | 플라네타리움 | 150 | 189 | https://github.com/planetarium |
-| 큐브리드 | 41 | 19 | https://github.com/CUBRID |
+| 큐브리드 | 41 | 20 | https://github.com/CUBRID |
 | 코클 | 10 | 17 | https://github.com/cochlearai |
 | 스켈터랩스 | 10 | 10 | https://github.com/SkelterLabsInc |
 

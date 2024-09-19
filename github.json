@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1000,
+        "followers": 1001,
         "organization_id": "line",
         "public_repos": 139
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 890,
+        "followers": 889,
         "organization_id": "daangn",
         "public_repos": 109
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 956,
+        "followers": 958,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -305,7 +305,7 @@
       {
         "followers": 29,
         "organization_id": "dramancompany",
-        "public_repos": 22
+        "public_repos": 23
       }
     ]
   },
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 73,
+        "followers": 74,
         "organization_id": "thefarmersfront",
         "public_repos": 10
       }
@@ -603,7 +603,7 @@
     "name": "큐브리드",
     "organizations": [
       {
-        "followers": 19,
+        "followers": 20,
         "organization_id": "CUBRID",
         "public_repos": 41
       }
