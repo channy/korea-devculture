@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1837,
+        "followers": 1839,
         "organization_id": "naver",
         "public_repos": 257
       }
@@ -25,7 +25,7 @@
       {
         "followers": 50,
         "organization_id": "hamonikr",
-        "public_repos": 190
+        "public_repos": 191
       }
     ]
   },
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 283,
+        "followers": 284,
         "organization_id": "sendbird",
         "public_repos": 182
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 180,
+        "followers": 181,
         "organization_id": "devsisters",
         "public_repos": 172
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1006,
+        "followers": 1007,
         "organization_id": "line",
         "public_repos": 139
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 91,
+        "followers": 92,
         "organization_id": "lablup",
         "public_repos": 124
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 969,
+        "followers": 971,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 49,
+        "followers": 50,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 113,
+        "followers": 117,
         "organization_id": "musinsa",
         "public_repos": 1
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 189,
+        "followers": 190,
         "organization_id": "planetarium",
         "public_repos": 153
       }
