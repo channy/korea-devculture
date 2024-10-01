@@ -23,7 +23,7 @@
     "name": "인베슘",
     "organizations": [
       {
-        "followers": 50,
+        "followers": 51,
         "organization_id": "hamonikr",
         "public_repos": 192
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1009,
+        "followers": 1008,
         "organization_id": "line",
         "public_repos": 139
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 894,
+        "followers": 897,
         "organization_id": "daangn",
         "public_repos": 110
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 650,
+        "followers": 651,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 465,
+        "followers": 464,
         "organization_id": "kakao",
         "public_repos": 61
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 980,
+        "followers": 981,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 96,
+        "followers": 98,
         "organization_id": "moloco",
         "public_repos": 16
       }
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 76,
+        "followers": 75,
         "organization_id": "42dot",
         "public_repos": 5
       }
@@ -603,7 +603,7 @@
     "name": "큐브리드",
     "organizations": [
       {
-        "followers": 22,
+        "followers": 23,
         "organization_id": "CUBRID",
         "public_repos": 41
       }
