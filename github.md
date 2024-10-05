@@ -8,12 +8,12 @@
 | 티맥스클라우드 | 270 | 47 | https://github.com/tmax-cloud |
 | 네이버 | 257 | 1851 | https://github.com/naver |
 | 인베슘 | 192 | 51 | https://github.com/hamonikr |
-| 삼성전자 | 167 | 971 | https://github.com/Samsung |
+| 삼성전자 | 167 | 973 | https://github.com/Samsung |
 | 센드버드 | 183 | 285 | https://github.com/sendbird |
 | 데브시스터즈 | 172 | 181 | https://github.com/devsisters |
 | 리디 | 115 | 147 | https://github.com/ridi |
 | 라인 | 139 | 1009 | https://github.com/line |
-| 당근마켓 | 110 | 898 | https://github.com/daangn |
+| 당근마켓 | 110 | 896 | https://github.com/daangn |
 | NHN | 106 | 652 | https://github.com/nhn |
 | 래블업 | 124 | 92 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 34 | https://github.com/hyperconnect |
@@ -44,7 +44,7 @@
 | 몰로코 | 16 | 98 | https://github.com/moloco |
 | 네이버제트 | 10 | 54 | https://github.com/naverz |
 | SK텔레콤 | 4 | 29 | https://github.com/sktelecom |
-| 컬리 | 10 | 75 | https://github.com/thefarmersfront |
+| 컬리 | 10 | 76 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 2 | https://github.com/megazone-devops |
 | 현대자동차 | 9 | 116 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (5) |
