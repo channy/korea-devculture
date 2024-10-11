@@ -6,37 +6,37 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 270 | 47 | https://github.com/tmax-cloud |
-| 네이버 | 257 | 1860 | https://github.com/naver |
+| 네이버 | 257 | 1864 | https://github.com/naver |
 | 인베슘 | 192 | 52 | https://github.com/hamonikr |
-| 삼성전자 | 167 | 986 | https://github.com/Samsung |
+| 삼성전자 | 167 | 983 | https://github.com/Samsung |
 | 센드버드 | 183 | 285 | https://github.com/sendbird |
 | 데브시스터즈 | 172 | 181 | https://github.com/devsisters |
 | 리디 | 115 | 147 | https://github.com/ridi |
 | 라인 | 139 | 1013 | https://github.com/line |
-| 당근마켓 | 110 | 903 | https://github.com/daangn |
+| 당근마켓 | 110 | 905 | https://github.com/daangn |
 | NHN | 106 | 655 | https://github.com/nhn |
 | 래블업 | 124 | 92 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 34 | https://github.com/hyperconnect |
 | 삼성SDS | 89 | 25 | https://github.com/samsung-cnct (75)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 43 | 48 | https://github.com/riiid |
 | 버즈빌 | 49 | 16 | https://github.com/Buzzvil |
-| 카카오 | 61 | 465 | https://github.com/kakao |
-| 네이버클라우드 | 51 | 82 | https://github.com/NaverCloudPlatform |
+| 카카오 | 61 | 466 | https://github.com/kakao |
+| 네이버클라우드 | 52 | 82 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 42 | 496 | https://github.com/kakaobrain |
 | 그린랩스 | 40 | 60 | https://github.com/green-labs |
 | 직방 | 32 | 32 | https://github.com/zigbang |
-| 우아한형제들 | 22 | 180 | https://github.com/woowabros |
+| 우아한형제들 | 22 | 181 | https://github.com/woowabros |
 | 쏘카 | 28 | 64 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 13 | https://github.com/hancom-io |
 | 엔씨소프트 | 38 | 115 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 77 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 24 | 990 | https://github.com/toss |
+| 비바리퍼블리카 | 24 | 991 | https://github.com/toss |
 | 마이리얼트립 | 32 | 29 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 50 | https://github.com/coupang |
 | LG전자 | 20 | 71 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 23 | 30 | https://github.com/dramancompany |
 | 야놀자 | 2 | 17 | https://github.com/yanolja |
-| VCNC | 19 | 14 | https://github.com/VCNC |
+| VCNC | 20 | 14 | https://github.com/VCNC |
 | 다나와 | 1 | 7 | https://github.com/danawalab |
 | 뱅크샐러드 | 17 | 84 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 18 | 71 | https://github.com/kakaoenterprise |
