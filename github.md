@@ -6,16 +6,16 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 270 | 47 | https://github.com/tmax-cloud |
-| 네이버 | 257 | 1870 | https://github.com/naver |
+| 네이버 | 258 | 1871 | https://github.com/naver |
 | 인베슘 | 193 | 53 | https://github.com/hamonikr |
-| 삼성전자 | 167 | 989 | https://github.com/Samsung |
-| 센드버드 | 183 | 285 | https://github.com/sendbird |
+| 삼성전자 | 168 | 988 | https://github.com/Samsung |
+| 센드버드 | 183 | 286 | https://github.com/sendbird |
 | 데브시스터즈 | 172 | 181 | https://github.com/devsisters |
 | 리디 | 115 | 147 | https://github.com/ridi |
-| 라인 | 140 | 1022 | https://github.com/line |
+| 라인 | 140 | 1024 | https://github.com/line |
 | 당근마켓 | 110 | 907 | https://github.com/daangn |
 | NHN | 106 | 655 | https://github.com/nhn |
-| 래블업 | 124 | 92 | https://github.com/lablup |
+| 래블업 | 123 | 92 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 34 | https://github.com/hyperconnect |
 | 삼성SDS | 89 | 25 | https://github.com/samsung-cnct (75)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 43 | 49 | https://github.com/riiid |
