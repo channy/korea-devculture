@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1872,
+        "followers": 1873,
         "organization_id": "naver",
         "public_repos": 258
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 991,
+        "followers": 995,
         "organization_id": "Samsung",
         "public_repos": 168
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1027,
+        "followers": 1028,
         "organization_id": "line",
         "public_repos": 140
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 92,
+        "followers": 91,
         "organization_id": "lablup",
         "public_repos": 123
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 467,
+        "followers": 468,
         "organization_id": "kakao",
         "public_repos": 61
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 496,
+        "followers": 497,
         "organization_id": "kakaobrain",
         "public_repos": 42
       }
@@ -303,7 +303,7 @@
     "name": "드라마앤컴퍼니",
     "organizations": [
       {
-        "followers": 30,
+        "followers": 29,
         "organization_id": "dramancompany",
         "public_repos": 23
       }
@@ -478,7 +478,7 @@
     "name": "힐링페이퍼",
     "organizations": [
       {
-        "followers": 16,
+        "followers": 17,
         "organization_id": "healingpaper",
         "public_repos": 5
       }
@@ -563,7 +563,7 @@
     "name": "크레프톤",
     "organizations": [
       {
-        "followers": 1,
+        "followers": 2,
         "organization_id": "Krafton",
         "public_repos": 0
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 189,
+        "followers": 190,
         "organization_id": "planetarium",
         "public_repos": 154
       }
