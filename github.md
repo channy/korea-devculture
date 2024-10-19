@@ -6,23 +6,23 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 270 | 47 | https://github.com/tmax-cloud |
-| 네이버 | 258 | 1873 | https://github.com/naver |
+| 네이버 | 258 | 1874 | https://github.com/naver |
 | 인베슘 | 193 | 53 | https://github.com/hamonikr |
 | 삼성전자 | 168 | 995 | https://github.com/Samsung |
 | 센드버드 | 183 | 286 | https://github.com/sendbird |
 | 데브시스터즈 | 172 | 181 | https://github.com/devsisters |
 | 리디 | 115 | 147 | https://github.com/ridi |
-| 라인 | 140 | 1028 | https://github.com/line |
-| 당근마켓 | 110 | 907 | https://github.com/daangn |
+| 라인 | 140 | 1029 | https://github.com/line |
+| 당근마켓 | 110 | 908 | https://github.com/daangn |
 | NHN | 106 | 656 | https://github.com/nhn |
 | 래블업 | 123 | 91 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 34 | https://github.com/hyperconnect |
 | 삼성SDS | 89 | 25 | https://github.com/samsung-cnct (75)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 43 | 49 | https://github.com/riiid |
 | 버즈빌 | 49 | 16 | https://github.com/Buzzvil |
-| 카카오 | 61 | 468 | https://github.com/kakao |
-| 네이버클라우드 | 52 | 82 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 42 | 497 | https://github.com/kakaobrain |
+| 카카오 | 61 | 469 | https://github.com/kakao |
+| 네이버클라우드 | 53 | 82 | https://github.com/NaverCloudPlatform |
+| 카카오브레인 | 42 | 498 | https://github.com/kakaobrain |
 | 그린랩스 | 40 | 60 | https://github.com/green-labs |
 | 직방 | 32 | 32 | https://github.com/zigbang |
 | 우아한형제들 | 22 | 181 | https://github.com/woowabros |
@@ -30,9 +30,9 @@
 | 한글과컴퓨터 | 31 | 13 | https://github.com/hancom-io |
 | 엔씨소프트 | 38 | 114 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 77 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 24 | 1000 | https://github.com/toss |
+| 비바리퍼블리카 | 24 | 1002 | https://github.com/toss |
 | 마이리얼트립 | 32 | 29 | https://github.com/myrealtrip |
-| 쿠팡 | 18 | 50 | https://github.com/coupang |
+| 쿠팡 | 18 | 51 | https://github.com/coupang |
 | LG전자 | 20 | 71 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 23 | 29 | https://github.com/dramancompany |
 | 야놀자 | 2 | 17 | https://github.com/yanolja |
