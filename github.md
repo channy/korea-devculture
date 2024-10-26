@@ -6,15 +6,15 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 270 | 47 | https://github.com/tmax-cloud |
-| 네이버 | 258 | 1879 | https://github.com/naver |
+| 네이버 | 258 | 1881 | https://github.com/naver |
 | 인베슘 | 193 | 53 | https://github.com/hamonikr |
 | 삼성전자 | 168 | 997 | https://github.com/Samsung |
 | 센드버드 | 183 | 286 | https://github.com/sendbird |
 | 데브시스터즈 | 172 | 182 | https://github.com/devsisters |
 | 리디 | 115 | 148 | https://github.com/ridi |
-| 라인 | 140 | 1031 | https://github.com/line |
-| 당근마켓 | 110 | 913 | https://github.com/daangn |
-| NHN | 106 | 657 | https://github.com/nhn |
+| 라인 | 140 | 1033 | https://github.com/line |
+| 당근마켓 | 110 | 914 | https://github.com/daangn |
+| NHN | 106 | 656 | https://github.com/nhn |
 | 래블업 | 123 | 92 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 34 | https://github.com/hyperconnect |
 | 삼성SDS | 89 | 25 | https://github.com/samsung-cnct (75)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 13 | https://github.com/hancom-io |
 | 엔씨소프트 | 38 | 114 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 77 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 24 | 1009 | https://github.com/toss |
+| 비바리퍼블리카 | 24 | 1008 | https://github.com/toss |
 | 마이리얼트립 | 32 | 29 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 51 | https://github.com/coupang |
 | LG전자 | 20 | 71 | https://github.com/LGE-OSS |
@@ -41,7 +41,7 @@
 | 뱅크샐러드 | 17 | 84 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 18 | 71 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 18 | 22 | https://github.com/dealicious-inc |
-| 몰로코 | 16 | 103 | https://github.com/moloco |
+| 몰로코 | 16 | 104 | https://github.com/moloco |
 | 네이버제트 | 10 | 54 | https://github.com/naverz |
 | SK텔레콤 | 4 | 29 | https://github.com/sktelecom |
 | 컬리 | 10 | 77 | https://github.com/thefarmersfront |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 2 | https://github.com/Krafton |
 | 카카오뱅크 | 2 | 48 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 156 | 190 | https://github.com/planetarium |
+| 플라네타리움 | 157 | 191 | https://github.com/planetarium |
 | 큐브리드 | 41 | 23 | https://github.com/CUBRID |
 | 코클 | 10 | 17 | https://github.com/cochlearai |
 | 스켈터랩스 | 10 | 11 | https://github.com/SkelterLabsInc |
