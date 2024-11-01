@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1892,
+        "followers": 1895,
         "organization_id": "naver",
         "public_repos": 258
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 916,
+        "followers": 917,
         "organization_id": "daangn",
         "public_repos": 110
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 498,
+        "followers": 499,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 181,
+        "followers": 182,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 64,
+        "followers": 65,
         "organization_id": "socar-inc",
         "public_repos": 29
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1011,
+        "followers": 1013,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -433,7 +433,7 @@
     "name": "현대자동차",
     "organizations": [
       {
-        "followers": 42,
+        "followers": 43,
         "organization_id": "hkmc-airlab",
         "public_repos": 4
       },
@@ -573,7 +573,7 @@
     "name": "카카오뱅크",
     "organizations": [
       {
-        "followers": 48,
+        "followers": 49,
         "organization_id": "kakaobank",
         "public_repos": 2
       }
