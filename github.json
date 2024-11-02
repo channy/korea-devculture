@@ -3,7 +3,7 @@
     "name": "티맥스클라우드",
     "organizations": [
       {
-        "followers": 48,
+        "followers": 49,
         "organization_id": "tmax-cloud",
         "public_repos": 270
       }
@@ -73,9 +73,9 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1039,
+        "followers": 1041,
         "organization_id": "line",
-        "public_repos": 140
+        "public_repos": 141
       }
     ]
   },
@@ -95,7 +95,7 @@
       {
         "followers": 659,
         "organization_id": "nhn",
-        "public_repos": 106
+        "public_repos": 105
       }
     ]
   },
