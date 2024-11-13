@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1907,
+        "followers": 1911,
         "organization_id": "naver",
         "public_repos": 260
       }
@@ -23,7 +23,7 @@
     "name": "인베슘",
     "organizations": [
       {
-        "followers": 54,
+        "followers": 55,
         "organization_id": "hamonikr",
         "public_repos": 193
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1017,
+        "followers": 1021,
         "organization_id": "Samsung",
         "public_repos": 170
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 923,
+        "followers": 924,
         "organization_id": "daangn",
         "public_repos": 110
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 661,
+        "followers": 662,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 473,
+        "followers": 474,
         "organization_id": "kakao",
         "public_repos": 61
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 498,
+        "followers": 497,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 65,
+        "followers": 66,
         "organization_id": "socar-inc",
         "public_repos": 29
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 104,
+        "followers": 105,
         "organization_id": "moloco",
         "public_repos": 16
       }
@@ -488,7 +488,7 @@
     "name": "11번가",
     "organizations": [
       {
-        "followers": 19,
+        "followers": 18,
         "organization_id": "11st-corp",
         "public_repos": 10
       }
@@ -595,7 +595,7 @@
       {
         "followers": 191,
         "organization_id": "planetarium",
-        "public_repos": 160
+        "public_repos": 162
       }
     ]
   },
