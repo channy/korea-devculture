@@ -12,8 +12,8 @@
 | 센드버드 | 183 | 285 | https://github.com/sendbird |
 | 데브시스터즈 | 173 | 185 | https://github.com/devsisters |
 | 리디 | 115 | 148 | https://github.com/ridi |
-| 라인 | 141 | 1058 | https://github.com/line |
-| 당근마켓 | 111 | 938 | https://github.com/daangn |
+| 라인 | 141 | 1059 | https://github.com/line |
+| 당근마켓 | 111 | 940 | https://github.com/daangn |
 | NHN | 105 | 669 | https://github.com/nhn |
 | 래블업 | 123 | 93 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 35 | https://github.com/hyperconnect |
