@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1938,
+        "followers": 1937,
         "organization_id": "naver",
         "public_repos": 261
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 499,
+        "followers": 498,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1043,
+        "followers": 1045,
         "organization_id": "toss",
         "public_repos": 24
       }
