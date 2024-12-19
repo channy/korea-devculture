@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1953,
+        "followers": 1957,
         "organization_id": "naver",
         "public_repos": 261
       }
@@ -35,7 +35,7 @@
       {
         "followers": 1056,
         "organization_id": "Samsung",
-        "public_repos": 171
+        "public_repos": 172
       }
     ]
   },
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 962,
+        "followers": 963,
         "organization_id": "daangn",
         "public_repos": 112
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 677,
+        "followers": 678,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 105,
+        "followers": 106,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 54
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 499,
+        "followers": 500,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1069,
+        "followers": 1070,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 29,
+        "followers": 30,
         "organization_id": "myrealtrip",
         "public_repos": 33
       }
@@ -615,7 +615,7 @@
       {
         "followers": 18,
         "organization_id": "cochlearai",
-        "public_repos": 10
+        "public_repos": 11
       }
     ]
   },
