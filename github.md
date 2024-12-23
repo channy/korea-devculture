@@ -6,14 +6,14 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 270 | 50 | https://github.com/tmax-cloud |
-| 네이버 | 261 | 1959 | https://github.com/naver |
+| 네이버 | 261 | 1960 | https://github.com/naver |
 | 인베슘 | 193 | 58 | https://github.com/hamonikr |
-| 삼성전자 | 172 | 1060 | https://github.com/Samsung |
+| 삼성전자 | 172 | 1061 | https://github.com/Samsung |
 | 센드버드 | 183 | 288 | https://github.com/sendbird |
-| 데브시스터즈 | 173 | 187 | https://github.com/devsisters |
+| 데브시스터즈 | 173 | 188 | https://github.com/devsisters |
 | 리디 | 115 | 149 | https://github.com/ridi |
 | 라인 | 146 | 1076 | https://github.com/line |
-| 당근마켓 | 112 | 965 | https://github.com/daangn |
+| 당근마켓 | 112 | 966 | https://github.com/daangn |
 | NHN | 105 | 679 | https://github.com/nhn |
 | 래블업 | 123 | 94 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 36 | https://github.com/hyperconnect |
@@ -21,7 +21,7 @@
 | 뤼이드 | 43 | 50 | https://github.com/riiid |
 | 버즈빌 | 49 | 16 | https://github.com/Buzzvil |
 | 카카오 | 61 | 489 | https://github.com/kakao |
-| 네이버클라우드 | 54 | 107 | https://github.com/NaverCloudPlatform |
+| 네이버클라우드 | 54 | 108 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 501 | https://github.com/kakaobrain |
 | 그린랩스 | 42 | 61 | https://github.com/green-labs |
 | 직방 | 33 | 35 | https://github.com/zigbang |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 14 | https://github.com/hancom-io |
 | 엔씨소프트 | 38 | 120 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 78 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 24 | 1074 | https://github.com/toss |
+| 비바리퍼블리카 | 24 | 1075 | https://github.com/toss |
 | 마이리얼트립 | 33 | 30 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 55 | https://github.com/coupang |
 | LG전자 | 20 | 74 | https://github.com/LGE-OSS |
