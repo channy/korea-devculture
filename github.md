@@ -6,22 +6,22 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 270 | 50 | https://github.com/tmax-cloud |
-| 네이버 | 261 | 1961 | https://github.com/naver |
-| 인베슘 | 193 | 58 | https://github.com/hamonikr |
-| 삼성전자 | 172 | 1061 | https://github.com/Samsung |
-| 센드버드 | 183 | 288 | https://github.com/sendbird |
+| 네이버 | 261 | 1965 | https://github.com/naver |
+| 인베슘 | 193 | 59 | https://github.com/hamonikr |
+| 삼성전자 | 172 | 1062 | https://github.com/Samsung |
+| 센드버드 | 183 | 289 | https://github.com/sendbird |
 | 데브시스터즈 | 173 | 188 | https://github.com/devsisters |
 | 리디 | 115 | 149 | https://github.com/ridi |
-| 라인 | 146 | 1076 | https://github.com/line |
+| 라인 | 146 | 1077 | https://github.com/line |
 | 당근마켓 | 112 | 969 | https://github.com/daangn |
-| NHN | 105 | 679 | https://github.com/nhn |
-| 래블업 | 123 | 94 | https://github.com/lablup |
-| 하이퍼커넥트 | 42 | 36 | https://github.com/hyperconnect |
+| NHN | 105 | 681 | https://github.com/nhn |
+| 래블업 | 123 | 95 | https://github.com/lablup |
+| 하이퍼커넥트 | 42 | 37 | https://github.com/hyperconnect |
 | 삼성SDS | 89 | 27 | https://github.com/samsung-cnct (75)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 43 | 50 | https://github.com/riiid |
 | 버즈빌 | 49 | 16 | https://github.com/Buzzvil |
-| 카카오 | 61 | 489 | https://github.com/kakao |
-| 네이버클라우드 | 54 | 108 | https://github.com/NaverCloudPlatform |
+| 카카오 | 61 | 490 | https://github.com/kakao |
+| 네이버클라우드 | 54 | 109 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 502 | https://github.com/kakaobrain |
 | 그린랩스 | 42 | 61 | https://github.com/green-labs |
 | 직방 | 33 | 35 | https://github.com/zigbang |
@@ -32,17 +32,17 @@
 | 버켓플레이스 | 10 | 78 | https://github.com/bucketplace |
 | 비바리퍼블리카 | 24 | 1076 | https://github.com/toss |
 | 마이리얼트립 | 33 | 30 | https://github.com/myrealtrip |
-| 쿠팡 | 18 | 55 | https://github.com/coupang |
+| 쿠팡 | 18 | 57 | https://github.com/coupang |
 | LG전자 | 20 | 74 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 24 | 30 | https://github.com/dramancompany |
 | 야놀자 | 2 | 19 | https://github.com/yanolja |
 | VCNC | 20 | 14 | https://github.com/VCNC |
 | 다나와 | 1 | 7 | https://github.com/danawalab |
 | 뱅크샐러드 | 17 | 85 | https://github.com/banksalad |
-| 카카오엔터프라이즈 | 18 | 72 | https://github.com/kakaoenterprise |
+| 카카오엔터프라이즈 | 18 | 73 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 18 | 22 | https://github.com/dealicious-inc |
 | 몰로코 | 17 | 106 | https://github.com/moloco |
-| 네이버제트 | 10 | 54 | https://github.com/naverz |
+| 네이버제트 | 10 | 55 | https://github.com/naverz |
 | SK텔레콤 | 4 | 30 | https://github.com/sktelecom |
 | 컬리 | 10 | 78 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
@@ -54,13 +54,13 @@
 | 힐링페이퍼 | 4 | 17 | https://github.com/healingpaper |
 | 11번가 | 10 | 19 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 7 | https://github.com/zuminternet |
-| 네이버랩스 | 3 | 26 | https://github.com/naverlabs |
+| 네이버랩스 | 3 | 27 | https://github.com/naverlabs |
 | 무신사 | 1 | 133 | https://github.com/musinsa |
 | SK | 2 | 2 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (2) |
-| 카카오페이 | 1 | 14 | https://github.com/kakaopay |
+| 카카오페이 | 1 | 15 | https://github.com/kakaopay |
 | 신한은행 | 1 | 7 | https://github.com/Shinhan-Bank |
 | 크레프톤 | 0 | 2 | https://github.com/Krafton |
-| 카카오뱅크 | 2 | 51 | https://github.com/kakaobank |
+| 카카오뱅크 | 2 | 52 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
 | 플라네타리움 | 168 | 196 | https://github.com/planetarium |
 | 큐브리드 | 42 | 26 | https://github.com/CUBRID |
