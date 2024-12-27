@@ -193,7 +193,7 @@
     "name": "그린랩스",
     "organizations": [
       {
-        "followers": 61,
+        "followers": 62,
         "organization_id": "green-labs",
         "public_repos": 42
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 120,
+        "followers": 122,
         "organization_id": "ncsoft",
         "public_repos": 39
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 74,
+        "followers": 75,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -595,7 +595,7 @@
       {
         "followers": 196,
         "organization_id": "planetarium",
-        "public_repos": 168
+        "public_repos": 169
       }
     ]
   },
