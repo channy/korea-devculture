@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1966,
+        "followers": 1967,
         "organization_id": "naver",
         "public_repos": 261
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1063,
+        "followers": 1064,
         "organization_id": "Samsung",
         "public_repos": 172
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 196,
+        "followers": 197,
         "organization_id": "planetarium",
         "public_repos": 169
       }

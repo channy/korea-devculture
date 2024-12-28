@@ -6,9 +6,9 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 270 | 50 | https://github.com/tmax-cloud |
-| 네이버 | 261 | 1966 | https://github.com/naver |
+| 네이버 | 261 | 1967 | https://github.com/naver |
 | 인베슘 | 193 | 59 | https://github.com/hamonikr |
-| 삼성전자 | 172 | 1063 | https://github.com/Samsung |
+| 삼성전자 | 172 | 1064 | https://github.com/Samsung |
 | 센드버드 | 183 | 289 | https://github.com/sendbird |
 | 데브시스터즈 | 173 | 188 | https://github.com/devsisters |
 | 리디 | 115 | 149 | https://github.com/ridi |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 2 | https://github.com/Krafton |
 | 카카오뱅크 | 2 | 52 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 169 | 196 | https://github.com/planetarium |
+| 플라네타리움 | 169 | 197 | https://github.com/planetarium |
 | 큐브리드 | 42 | 26 | https://github.com/CUBRID |
 | 코클 | 11 | 18 | https://github.com/cochlearai |
 | 스켈터랩스 | 10 | 11 | https://github.com/SkelterLabsInc |
