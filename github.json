@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1062,
+        "followers": 1061,
         "organization_id": "Samsung",
         "public_repos": 172
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1087,
+        "followers": 1088,
         "organization_id": "line",
         "public_repos": 146
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 972,
+        "followers": 974,
         "organization_id": "daangn",
         "public_repos": 112
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 683,
+        "followers": 682,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -113,7 +113,7 @@
     "name": "하이퍼커넥트",
     "organizations": [
       {
-        "followers": 36,
+        "followers": 37,
         "organization_id": "hyperconnect",
         "public_repos": 42
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 503,
+        "followers": 502,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 122,
+        "followers": 123,
         "organization_id": "ncsoft",
         "public_repos": 39
       }
@@ -353,7 +353,7 @@
     "name": "카카오엔터프라이즈",
     "organizations": [
       {
-        "followers": 73,
+        "followers": 74,
         "organization_id": "kakaoenterprise",
         "public_repos": 18
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 78,
+        "followers": 79,
         "organization_id": "thefarmersfront",
         "public_repos": 10
       }
