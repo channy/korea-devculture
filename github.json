@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1065,
+        "followers": 1067,
         "organization_id": "Samsung",
         "public_repos": 172
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1090,
+        "followers": 1091,
         "organization_id": "line",
         "public_repos": 147
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 977,
+        "followers": 978,
         "organization_id": "daangn",
         "public_repos": 112
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 682,
+        "followers": 683,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 123,
+        "followers": 122,
         "organization_id": "ncsoft",
         "public_repos": 39
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1078,
+        "followers": 1079,
         "organization_id": "toss",
         "public_repos": 24
       }
@@ -480,7 +480,7 @@
       {
         "followers": 17,
         "organization_id": "healingpaper",
-        "public_repos": 4
+        "public_repos": 3
       }
     ]
   },
