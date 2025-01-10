@@ -6,13 +6,13 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 270 | 51 | https://github.com/tmax-cloud |
-| 네이버 | 261 | 1982 | https://github.com/naver |
+| 네이버 | 261 | 1984 | https://github.com/naver |
 | 인베슘 | 194 | 58 | https://github.com/hamonikr |
 | 삼성전자 | 172 | 1073 | https://github.com/Samsung |
 | 센드버드 | 183 | 287 | https://github.com/sendbird |
-| 데브시스터즈 | 173 | 190 | https://github.com/devsisters |
+| 데브시스터즈 | 174 | 190 | https://github.com/devsisters |
 | 리디 | 115 | 149 | https://github.com/ridi |
-| 라인 | 148 | 1091 | https://github.com/line |
+| 라인 | 148 | 1090 | https://github.com/line |
 | 당근마켓 | 112 | 983 | https://github.com/daangn |
 | NHN | 105 | 685 | https://github.com/nhn |
 | 래블업 | 123 | 95 | https://github.com/lablup |
@@ -20,7 +20,7 @@
 | 삼성SDS | 89 | 27 | https://github.com/samsung-cnct (75)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 43 | 51 | https://github.com/riiid |
 | 버즈빌 | 49 | 16 | https://github.com/Buzzvil |
-| 카카오 | 61 | 494 | https://github.com/kakao |
+| 카카오 | 61 | 495 | https://github.com/kakao |
 | 네이버클라우드 | 54 | 109 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 503 | https://github.com/kakaobrain |
 | 그린랩스 | 42 | 62 | https://github.com/green-labs |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 14 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 122 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 78 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 24 | 1085 | https://github.com/toss |
+| 비바리퍼블리카 | 24 | 1084 | https://github.com/toss |
 | 마이리얼트립 | 33 | 30 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 58 | https://github.com/coupang |
 | LG전자 | 20 | 76 | https://github.com/LGE-OSS |
@@ -41,7 +41,7 @@
 | 뱅크샐러드 | 17 | 86 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 18 | 74 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 18 | 22 | https://github.com/dealicious-inc |
-| 몰로코 | 17 | 108 | https://github.com/moloco |
+| 몰로코 | 17 | 110 | https://github.com/moloco |
 | 네이버제트 | 10 | 55 | https://github.com/naverz |
 | SK텔레콤 | 4 | 30 | https://github.com/sktelecom |
 | 컬리 | 10 | 79 | https://github.com/thefarmersfront |
