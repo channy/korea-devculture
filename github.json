@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1989,
+        "followers": 1992,
         "organization_id": "naver",
         "public_repos": 261
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1077,
+        "followers": 1079,
         "organization_id": "Samsung",
         "public_repos": 172
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 289,
+        "followers": 291,
         "organization_id": "sendbird",
         "public_repos": 183
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1093,
+        "followers": 1095,
         "organization_id": "line",
         "public_repos": 148
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 987,
+        "followers": 989,
         "organization_id": "daangn",
         "public_repos": 112
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 496,
+        "followers": 498,
         "organization_id": "kakao",
         "public_repos": 61
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 188,
+        "followers": 189,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1113,
+        "followers": 1128,
         "organization_id": "toss",
         "public_repos": 25
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 77,
+        "followers": 78,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 81,
+        "followers": 82,
         "organization_id": "42dot",
         "public_repos": 6
       }
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 96,
+        "followers": 97,
         "organization_id": "yogiyo",
         "public_repos": 39
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 139,
+        "followers": 142,
         "organization_id": "musinsa",
         "public_repos": 1
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 199,
+        "followers": 200,
         "organization_id": "planetarium",
         "public_repos": 172
       }
