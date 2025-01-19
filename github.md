@@ -12,8 +12,8 @@
 | 센드버드 | 183 | 292 | https://github.com/sendbird |
 | 데브시스터즈 | 174 | 190 | https://github.com/devsisters |
 | 리디 | 115 | 149 | https://github.com/ridi |
-| 라인 | 149 | 1096 | https://github.com/line |
-| 당근마켓 | 112 | 992 | https://github.com/daangn |
+| 라인 | 148 | 1096 | https://github.com/line |
+| 당근마켓 | 112 | 991 | https://github.com/daangn |
 | NHN | 105 | 686 | https://github.com/nhn |
 | 래블업 | 123 | 95 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 37 | https://github.com/hyperconnect |
@@ -28,9 +28,9 @@
 | 우아한형제들 | 22 | 189 | https://github.com/woowabros |
 | 쏘카 | 29 | 69 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 14 | https://github.com/hancom-io |
-| 엔씨소프트 | 40 | 125 | https://github.com/ncsoft |
+| 엔씨소프트 | 40 | 126 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 79 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 25 | 1137 | https://github.com/toss |
+| 비바리퍼블리카 | 25 | 1139 | https://github.com/toss |
 | 마이리얼트립 | 33 | 30 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 58 | https://github.com/coupang |
 | LG전자 | 20 | 79 | https://github.com/LGE-OSS |
@@ -47,7 +47,7 @@
 | 컬리 | 10 | 79 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 2 | https://github.com/megazone-devops |
-| 현대자동차 | 10 | 125 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (6) |
+| 현대자동차 | 10 | 126 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (6) |
 | 포스코ICT | 9 | 6 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 97 | https://github.com/yogiyo |
 | 가비아 | 5 | 4 | https://github.com/gabia |

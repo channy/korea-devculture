@@ -75,7 +75,7 @@
       {
         "followers": 1096,
         "organization_id": "line",
-        "public_repos": 149
+        "public_repos": 148
       }
     ]
   },
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 992,
+        "followers": 991,
         "organization_id": "daangn",
         "public_repos": 112
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 125,
+        "followers": 126,
         "organization_id": "ncsoft",
         "public_repos": 40
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1137,
+        "followers": 1139,
         "organization_id": "toss",
         "public_repos": 25
       }
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 82,
+        "followers": 83,
         "organization_id": "42dot",
         "public_repos": 6
       }
