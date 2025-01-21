@@ -73,9 +73,9 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1096,
+        "followers": 1097,
         "organization_id": "line",
-        "public_repos": 148
+        "public_repos": 149
       }
     ]
   },
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 503,
+        "followers": 505,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 127,
+        "followers": 129,
         "organization_id": "ncsoft",
         "public_repos": 40
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1141,
+        "followers": 1144,
         "organization_id": "toss",
         "public_repos": 25
       }
@@ -343,7 +343,7 @@
     "name": "뱅크샐러드",
     "organizations": [
       {
-        "followers": 87,
+        "followers": 88,
         "organization_id": "banksalad",
         "public_repos": 17
       }
