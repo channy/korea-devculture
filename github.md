@@ -6,15 +6,15 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 270 | 51 | https://github.com/tmax-cloud |
-| 네이버 | 261 | 1996 | https://github.com/naver |
-| 인베슘 | 195 | 58 | https://github.com/hamonikr |
-| 삼성전자 | 172 | 1080 | https://github.com/Samsung |
+| 네이버 | 261 | 1997 | https://github.com/naver |
+| 인베슘 | 194 | 58 | https://github.com/hamonikr |
+| 삼성전자 | 172 | 1082 | https://github.com/Samsung |
 | 센드버드 | 183 | 292 | https://github.com/sendbird |
 | 데브시스터즈 | 174 | 190 | https://github.com/devsisters |
 | 리디 | 115 | 149 | https://github.com/ridi |
-| 라인 | 149 | 1097 | https://github.com/line |
-| 당근마켓 | 112 | 992 | https://github.com/daangn |
-| NHN | 105 | 686 | https://github.com/nhn |
+| 라인 | 149 | 1096 | https://github.com/line |
+| 당근마켓 | 112 | 989 | https://github.com/daangn |
+| NHN | 105 | 687 | https://github.com/nhn |
 | 래블업 | 123 | 95 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 37 | https://github.com/hyperconnect |
 | 삼성SDS | 89 | 27 | https://github.com/samsung-cnct (75)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -28,9 +28,9 @@
 | 우아한형제들 | 22 | 189 | https://github.com/woowabros |
 | 쏘카 | 29 | 69 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 14 | https://github.com/hancom-io |
-| 엔씨소프트 | 40 | 129 | https://github.com/ncsoft |
+| 엔씨소프트 | 40 | 130 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 79 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 25 | 1144 | https://github.com/toss |
+| 비바리퍼블리카 | 25 | 1146 | https://github.com/toss |
 | 마이리얼트립 | 33 | 30 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 58 | https://github.com/coupang |
 | LG전자 | 20 | 79 | https://github.com/LGE-OSS |
@@ -62,9 +62,9 @@
 | 크레프톤 | 0 | 2 | https://github.com/Krafton |
 | 카카오뱅크 | 2 | 53 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 175 | 201 | https://github.com/planetarium |
+| 플라네타리움 | 176 | 201 | https://github.com/planetarium |
 | 큐브리드 | 42 | 26 | https://github.com/CUBRID |
-| 코클 | 12 | 18 | https://github.com/cochlearai |
+| 코클 | 12 | 19 | https://github.com/cochlearai |
 | 스켈터랩스 | 10 | 11 | https://github.com/SkelterLabsInc |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->
