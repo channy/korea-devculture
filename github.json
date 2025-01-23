@@ -3,7 +3,7 @@
     "name": "티맥스클라우드",
     "organizations": [
       {
-        "followers": 51,
+        "followers": 52,
         "organization_id": "tmax-cloud",
         "public_repos": 270
       }
@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 1997,
+        "followers": 1998,
         "organization_id": "naver",
         "public_repos": 261
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1082,
+        "followers": 1083,
         "organization_id": "Samsung",
         "public_repos": 172
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1096,
+        "followers": 1098,
         "organization_id": "line",
         "public_repos": 149
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 989,
+        "followers": 990,
         "organization_id": "daangn",
         "public_repos": 112
       }
@@ -143,7 +143,7 @@
     "name": "뤼이드",
     "organizations": [
       {
-        "followers": 51,
+        "followers": 52,
         "organization_id": "riiid",
         "public_repos": 43
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 189,
+        "followers": 190,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -233,7 +233,7 @@
     "name": "한글과컴퓨터",
     "organizations": [
       {
-        "followers": 14,
+        "followers": 13,
         "organization_id": "hancom-io",
         "public_repos": 31
       }
