@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1083,
+        "followers": 1084,
         "organization_id": "Samsung",
         "public_repos": 173
       }
@@ -43,9 +43,9 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 292,
+        "followers": 294,
         "organization_id": "sendbird",
-        "public_repos": 183
+        "public_repos": 184
       }
     ]
   },
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 190,
+        "followers": 191,
         "organization_id": "devsisters",
         "public_repos": 174
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 687,
+        "followers": 688,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -143,7 +143,7 @@
     "name": "뤼이드",
     "organizations": [
       {
-        "followers": 52,
+        "followers": 53,
         "organization_id": "riiid",
         "public_repos": 43
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 500,
+        "followers": 501,
         "organization_id": "kakao",
         "public_repos": 62
       }
@@ -233,7 +233,7 @@
     "name": "한글과컴퓨터",
     "organizations": [
       {
-        "followers": 13,
+        "followers": 14,
         "organization_id": "hancom-io",
         "public_repos": 31
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 130,
+        "followers": 132,
         "organization_id": "ncsoft",
         "public_repos": 40
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1148,
+        "followers": 1150,
         "organization_id": "toss",
         "public_repos": 25
       }
@@ -383,7 +383,7 @@
     "name": "네이버제트",
     "organizations": [
       {
-        "followers": 55,
+        "followers": 56,
         "organization_id": "naverz",
         "public_repos": 10
       }
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 83,
+        "followers": 84,
         "organization_id": "42dot",
         "public_repos": 6
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 145,
+        "followers": 146,
         "organization_id": "musinsa",
         "public_repos": 1
       }
@@ -563,7 +563,7 @@
     "name": "크레프톤",
     "organizations": [
       {
-        "followers": 2,
+        "followers": 3,
         "organization_id": "Krafton",
         "public_repos": 0
       }
