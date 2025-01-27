@@ -9,18 +9,18 @@
 | 네이버 | 261 | 2001 | https://github.com/naver |
 | 인베슘 | 194 | 58 | https://github.com/hamonikr |
 | 삼성전자 | 173 | 1086 | https://github.com/Samsung |
-| 센드버드 | 184 | 294 | https://github.com/sendbird |
+| 센드버드 | 184 | 295 | https://github.com/sendbird |
 | 데브시스터즈 | 174 | 192 | https://github.com/devsisters |
 | 리디 | 115 | 149 | https://github.com/ridi |
 | 라인 | 150 | 1099 | https://github.com/line |
-| 당근마켓 | 112 | 992 | https://github.com/daangn |
-| NHN | 105 | 689 | https://github.com/nhn |
+| 당근마켓 | 112 | 993 | https://github.com/daangn |
+| NHN | 105 | 690 | https://github.com/nhn |
 | 래블업 | 123 | 95 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 37 | https://github.com/hyperconnect |
 | 삼성SDS | 89 | 27 | https://github.com/samsung-cnct (75)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 43 | 53 | https://github.com/riiid |
 | 버즈빌 | 49 | 16 | https://github.com/Buzzvil |
-| 카카오 | 62 | 503 | https://github.com/kakao |
+| 카카오 | 62 | 504 | https://github.com/kakao |
 | 네이버클라우드 | 54 | 110 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 506 | https://github.com/kakaobrain |
 | 그린랩스 | 42 | 62 | https://github.com/green-labs |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 14 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 132 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 79 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 25 | 1150 | https://github.com/toss |
+| 비바리퍼블리카 | 25 | 1153 | https://github.com/toss |
 | 마이리얼트립 | 33 | 30 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 58 | https://github.com/coupang |
 | LG전자 | 20 | 80 | https://github.com/LGE-OSS |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 3 | https://github.com/Krafton |
 | 카카오뱅크 | 2 | 53 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 176 | 201 | https://github.com/planetarium |
+| 플라네타리움 | 176 | 202 | https://github.com/planetarium |
 | 큐브리드 | 42 | 26 | https://github.com/CUBRID |
 | 코클 | 12 | 19 | https://github.com/cochlearai |
 | 스켈터랩스 | 10 | 11 | https://github.com/SkelterLabsInc |
