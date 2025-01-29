@@ -21,7 +21,7 @@
 | 데브시스터즈 | 174 | 192 | https://github.com/devsisters |
 | 삼성전자 | 173 | 1088 | https://github.com/Samsung |
 | 라인 | 150 | 1099 | https://github.com/line |
-| 래블업 | 123 | 95 | https://github.com/lablup |
+| 래블업 | 123 | 96 | https://github.com/lablup |
 | 리디 | 115 | 149 | https://github.com/ridi |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->

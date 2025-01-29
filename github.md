@@ -15,7 +15,7 @@
 | 라인 | 150 | 1099 | https://github.com/line |
 | 당근마켓 | 112 | 995 | https://github.com/daangn |
 | NHN | 105 | 691 | https://github.com/nhn |
-| 래블업 | 123 | 95 | https://github.com/lablup |
+| 래블업 | 123 | 96 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 37 | https://github.com/hyperconnect |
 | 삼성SDS | 89 | 27 | https://github.com/samsung-cnct (75)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 43 | 53 | https://github.com/riiid |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 14 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 132 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 79 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 25 | 1156 | https://github.com/toss |
+| 비바리퍼블리카 | 25 | 1159 | https://github.com/toss |
 | 마이리얼트립 | 33 | 30 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 58 | https://github.com/coupang |
 | LG전자 | 20 | 80 | https://github.com/LGE-OSS |
