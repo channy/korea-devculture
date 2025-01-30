@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2001,
+        "followers": 2003,
         "organization_id": "naver",
         "public_repos": 261
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1099,
+        "followers": 1100,
         "organization_id": "line",
         "public_repos": 150
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 995,
+        "followers": 996,
         "organization_id": "daangn",
         "public_repos": 112
       }
@@ -113,7 +113,7 @@
     "name": "하이퍼커넥트",
     "organizations": [
       {
-        "followers": 37,
+        "followers": 38,
         "organization_id": "hyperconnect",
         "public_repos": 42
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 110,
+        "followers": 109,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 54
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 190,
+        "followers": 191,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 79,
+        "followers": 80,
         "organization_id": "bucketplace",
         "public_repos": 10
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1159,
+        "followers": 1162,
         "organization_id": "toss",
         "public_repos": 25
       }
