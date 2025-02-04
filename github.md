@@ -6,14 +6,14 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 270 | 52 | https://github.com/tmax-cloud |
-| 네이버 | 262 | 2004 | https://github.com/naver |
+| 네이버 | 262 | 2006 | https://github.com/naver |
 | 인베슘 | 194 | 61 | https://github.com/hamonikr |
-| 삼성전자 | 173 | 1095 | https://github.com/Samsung |
+| 삼성전자 | 173 | 1096 | https://github.com/Samsung |
 | 센드버드 | 184 | 296 | https://github.com/sendbird |
-| 데브시스터즈 | 176 | 193 | https://github.com/devsisters |
+| 데브시스터즈 | 175 | 193 | https://github.com/devsisters |
 | 리디 | 115 | 150 | https://github.com/ridi |
-| 라인 | 150 | 1107 | https://github.com/line |
-| 당근마켓 | 112 | 1003 | https://github.com/daangn |
+| 라인 | 151 | 1111 | https://github.com/line |
+| 당근마켓 | 112 | 1005 | https://github.com/daangn |
 | NHN | 105 | 691 | https://github.com/nhn |
 | 래블업 | 123 | 96 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 39 | https://github.com/hyperconnect |
@@ -51,7 +51,7 @@
 | 포스코ICT | 9 | 6 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 97 | https://github.com/yogiyo |
 | 가비아 | 5 | 4 | https://github.com/gabia |
-| 힐링페이퍼 | 3 | 18 | https://github.com/healingpaper |
+| 힐링페이퍼 | 3 | 19 | https://github.com/healingpaper |
 | 11번가 | 10 | 20 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 7 | https://github.com/zuminternet |
 | 네이버랩스 | 3 | 27 | https://github.com/naverlabs |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 3 | https://github.com/Krafton |
 | 카카오뱅크 | 2 | 53 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 176 | 202 | https://github.com/planetarium |
+| 플라네타리움 | 177 | 203 | https://github.com/planetarium |
 | 큐브리드 | 42 | 25 | https://github.com/CUBRID |
 | 코클 | 12 | 19 | https://github.com/cochlearai |
 | 스켈터랩스 | 10 | 11 | https://github.com/SkelterLabsInc |
