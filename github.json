@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2008,
+        "followers": 2010,
         "organization_id": "naver",
         "public_repos": 262
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1098,
+        "followers": 1099,
         "organization_id": "Samsung",
         "public_repos": 173
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 297,
+        "followers": 298,
         "organization_id": "sendbird",
         "public_repos": 184
       }
@@ -193,7 +193,7 @@
     "name": "그린랩스",
     "organizations": [
       {
-        "followers": 62,
+        "followers": 63,
         "organization_id": "green-labs",
         "public_repos": 42
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1170,
+        "followers": 1175,
         "organization_id": "toss",
         "public_repos": 25
       }
