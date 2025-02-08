@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2011,
+        "followers": 2012,
         "organization_id": "naver",
         "public_repos": 262
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1098,
+        "followers": 1099,
         "organization_id": "Samsung",
         "public_repos": 173
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1113,
+        "followers": 1114,
         "organization_id": "line",
         "public_repos": 151
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 509,
+        "followers": 508,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 71,
+        "followers": 72,
         "organization_id": "socar-inc",
         "public_repos": 29
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1177,
+        "followers": 1179,
         "organization_id": "toss",
         "public_repos": 25
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 81,
+        "followers": 82,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -353,7 +353,7 @@
     "name": "카카오엔터프라이즈",
     "organizations": [
       {
-        "followers": 75,
+        "followers": 74,
         "organization_id": "kakaoenterprise",
         "public_repos": 18
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 146,
+        "followers": 147,
         "organization_id": "musinsa",
         "public_repos": 1
       }
