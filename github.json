@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2015,
+        "followers": 2014,
         "organization_id": "naver",
         "public_repos": 262
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1100,
+        "followers": 1101,
         "organization_id": "Samsung",
         "public_repos": 173
       }
@@ -43,9 +43,9 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 300,
+        "followers": 301,
         "organization_id": "sendbird",
-        "public_repos": 184
+        "public_repos": 185
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1115,
+        "followers": 1116,
         "organization_id": "line",
         "public_repos": 151
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1009,
+        "followers": 1010,
         "organization_id": "daangn",
         "public_repos": 112
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 96,
+        "followers": 97,
         "organization_id": "lablup",
         "public_repos": 123
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 507,
+        "followers": 508,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -203,7 +203,7 @@
     "name": "직방",
     "organizations": [
       {
-        "followers": 36,
+        "followers": 37,
         "organization_id": "zigbang",
         "public_repos": 33
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 191,
+        "followers": 192,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 80,
+        "followers": 82,
         "organization_id": "bucketplace",
         "public_repos": 10
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1183,
+        "followers": 1192,
         "organization_id": "toss",
         "public_repos": 25
       }
