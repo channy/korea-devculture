@@ -6,13 +6,13 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 270 | 53 | https://github.com/tmax-cloud |
-| 네이버 | 263 | 2018 | https://github.com/naver |
+| 네이버 | 263 | 2020 | https://github.com/naver |
 | 인베슘 | 194 | 62 | https://github.com/hamonikr |
 | 삼성전자 | 174 | 1102 | https://github.com/Samsung |
 | 센드버드 | 184 | 301 | https://github.com/sendbird |
 | 데브시스터즈 | 176 | 196 | https://github.com/devsisters |
 | 리디 | 115 | 152 | https://github.com/ridi |
-| 라인 | 152 | 1116 | https://github.com/line |
+| 라인 | 152 | 1117 | https://github.com/line |
 | 당근마켓 | 112 | 1010 | https://github.com/daangn |
 | NHN | 105 | 692 | https://github.com/nhn |
 | 래블업 | 123 | 97 | https://github.com/lablup |
@@ -20,7 +20,7 @@
 | 삼성SDS | 89 | 27 | https://github.com/samsung-cnct (75)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 44 | 53 | https://github.com/riiid |
 | 버즈빌 | 49 | 16 | https://github.com/Buzzvil |
-| 카카오 | 62 | 506 | https://github.com/kakao |
+| 카카오 | 62 | 507 | https://github.com/kakao |
 | 네이버클라우드 | 54 | 109 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 508 | https://github.com/kakaobrain |
 | 그린랩스 | 42 | 64 | https://github.com/green-labs |
@@ -28,7 +28,7 @@
 | 우아한형제들 | 22 | 192 | https://github.com/woowabros |
 | 쏘카 | 29 | 72 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 14 | https://github.com/hancom-io |
-| 엔씨소프트 | 40 | 133 | https://github.com/ncsoft |
+| 엔씨소프트 | 40 | 134 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 82 | https://github.com/bucketplace |
 | 비바리퍼블리카 | 25 | 1196 | https://github.com/toss |
 | 마이리얼트립 | 33 | 30 | https://github.com/myrealtrip |
@@ -54,7 +54,7 @@
 | 힐링페이퍼 | 3 | 19 | https://github.com/healingpaper |
 | 11번가 | 10 | 20 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 7 | https://github.com/zuminternet |
-| 네이버랩스 | 3 | 27 | https://github.com/naverlabs |
+| 네이버랩스 | 3 | 28 | https://github.com/naverlabs |
 | 무신사 | 1 | 147 | https://github.com/musinsa |
 | SK | 2 | 2 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (2) |
 | 카카오페이 | 1 | 16 | https://github.com/kakaopay |

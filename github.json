@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2018,
+        "followers": 2020,
         "organization_id": "naver",
         "public_repos": 263
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1116,
+        "followers": 1117,
         "organization_id": "line",
         "public_repos": 152
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 506,
+        "followers": 507,
         "organization_id": "kakao",
         "public_repos": 62
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 133,
+        "followers": 134,
         "organization_id": "ncsoft",
         "public_repos": 40
       }
@@ -508,7 +508,7 @@
     "name": "네이버랩스",
     "organizations": [
       {
-        "followers": 27,
+        "followers": 28,
         "organization_id": "naverlabs",
         "public_repos": 3
       }
