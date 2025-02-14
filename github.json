@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2020,
+        "followers": 2024,
         "organization_id": "naver",
         "public_repos": 263
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1102,
+        "followers": 1104,
         "organization_id": "Samsung",
         "public_repos": 174
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 196,
+        "followers": 197,
         "organization_id": "devsisters",
         "public_repos": 176
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1010,
+        "followers": 1011,
         "organization_id": "daangn",
         "public_repos": 112
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 507,
+        "followers": 508,
         "organization_id": "kakao",
         "public_repos": 62
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 109,
+        "followers": 110,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 54
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 82,
+        "followers": 81,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -353,7 +353,7 @@
     "name": "카카오엔터프라이즈",
     "organizations": [
       {
-        "followers": 75,
+        "followers": 76,
         "organization_id": "kakaoenterprise",
         "public_repos": 18
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 147,
+        "followers": 148,
         "organization_id": "musinsa",
         "public_repos": 1
       }
