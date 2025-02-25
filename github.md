@@ -6,14 +6,14 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 270 | 53 | https://github.com/tmax-cloud |
-| 네이버 | 263 | 2041 | https://github.com/naver |
+| 네이버 | 263 | 2045 | https://github.com/naver |
 | 인베슘 | 194 | 62 | https://github.com/hamonikr |
-| 삼성전자 | 174 | 1111 | https://github.com/Samsung |
-| 센드버드 | 184 | 301 | https://github.com/sendbird |
-| 데브시스터즈 | 176 | 200 | https://github.com/devsisters |
+| 삼성전자 | 174 | 1113 | https://github.com/Samsung |
+| 센드버드 | 184 | 300 | https://github.com/sendbird |
+| 데브시스터즈 | 175 | 200 | https://github.com/devsisters |
 | 리디 | 115 | 152 | https://github.com/ridi |
-| 라인 | 152 | 1128 | https://github.com/line |
-| 당근마켓 | 112 | 1018 | https://github.com/daangn |
+| 라인 | 152 | 1131 | https://github.com/line |
+| 당근마켓 | 112 | 1025 | https://github.com/daangn |
 | NHN | 105 | 696 | https://github.com/nhn |
 | 래블업 | 123 | 98 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 39 | https://github.com/hyperconnect |
@@ -28,9 +28,9 @@
 | 우아한형제들 | 22 | 189 | https://github.com/woowabros |
 | 쏘카 | 28 | 72 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 15 | https://github.com/hancom-io |
-| 엔씨소프트 | 40 | 134 | https://github.com/ncsoft |
-| 버켓플레이스 | 10 | 82 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 25 | 1217 | https://github.com/toss |
+| 엔씨소프트 | 40 | 133 | https://github.com/ncsoft |
+| 버켓플레이스 | 10 | 83 | https://github.com/bucketplace |
+| 비바리퍼블리카 | 25 | 1219 | https://github.com/toss |
 | 마이리얼트립 | 33 | 30 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 61 | https://github.com/coupang |
 | LG전자 | 20 | 81 | https://github.com/LGE-OSS |
@@ -52,7 +52,7 @@
 | 요기요 | 39 | 99 | https://github.com/yogiyo |
 | 가비아 | 5 | 4 | https://github.com/gabia |
 | 힐링페이퍼 | 3 | 18 | https://github.com/healingpaper |
-| 11번가 | 10 | 20 | https://github.com/11st-corp |
+| 11번가 | 10 | 21 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 7 | https://github.com/zuminternet |
 | 네이버랩스 | 3 | 28 | https://github.com/naverlabs |
 | 무신사 | 1 | 147 | https://github.com/musinsa |
@@ -60,10 +60,10 @@
 | 카카오페이 | 1 | 16 | https://github.com/kakaopay |
 | 신한은행 | 1 | 7 | https://github.com/Shinhan-Bank |
 | 크레프톤 | 0 | 3 | https://github.com/Krafton |
-| 카카오뱅크 | 2 | 53 | https://github.com/kakaobank |
+| 카카오뱅크 | 2 | 54 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
 | 플라네타리움 | 177 | 205 | https://github.com/planetarium |
-| 큐브리드 | 42 | 25 | https://github.com/CUBRID |
+| 큐브리드 | 42 | 26 | https://github.com/CUBRID |
 | 코클 | 12 | 19 | https://github.com/cochlearai |
 | 스켈터랩스 | 10 | 11 | https://github.com/SkelterLabsInc |
 
