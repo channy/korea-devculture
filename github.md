@@ -8,19 +8,19 @@
 | 티맥스클라우드 | 270 | 53 | https://github.com/tmax-cloud |
 | 네이버 | 263 | 2052 | https://github.com/naver |
 | 인베슘 | 194 | 62 | https://github.com/hamonikr |
-| 삼성전자 | 174 | 1115 | https://github.com/Samsung |
-| 센드버드 | 184 | 302 | https://github.com/sendbird |
+| 삼성전자 | 174 | 1116 | https://github.com/Samsung |
+| 센드버드 | 184 | 303 | https://github.com/sendbird |
 | 데브시스터즈 | 175 | 203 | https://github.com/devsisters |
 | 리디 | 115 | 154 | https://github.com/ridi |
-| 라인 | 152 | 1134 | https://github.com/line |
-| 당근마켓 | 112 | 1025 | https://github.com/daangn |
+| 라인 | 152 | 1135 | https://github.com/line |
+| 당근마켓 | 112 | 1026 | https://github.com/daangn |
 | NHN | 105 | 699 | https://github.com/nhn |
 | 래블업 | 124 | 99 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 39 | https://github.com/hyperconnect |
 | 삼성SDS | 90 | 27 | https://github.com/samsung-cnct (76)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 45 | 53 | https://github.com/riiid |
 | 버즈빌 | 49 | 16 | https://github.com/Buzzvil |
-| 카카오 | 63 | 519 | https://github.com/kakao |
+| 카카오 | 63 | 521 | https://github.com/kakao |
 | 네이버클라우드 | 54 | 113 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 512 | https://github.com/kakaobrain |
 | 그린랩스 | 42 | 66 | https://github.com/green-labs |
@@ -33,7 +33,7 @@
 | 비바리퍼블리카 | 25 | 1226 | https://github.com/toss |
 | 마이리얼트립 | 33 | 30 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 62 | https://github.com/coupang |
-| LG전자 | 20 | 81 | https://github.com/LGE-OSS |
+| LG전자 | 20 | 82 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 22 | 31 | https://github.com/dramancompany |
 | 야놀자 | 2 | 19 | https://github.com/yanolja |
 | VCNC | 21 | 14 | https://github.com/VCNC |
@@ -43,7 +43,7 @@
 | 딜리셔스 | 18 | 22 | https://github.com/dealicious-inc |
 | 몰로코 | 17 | 112 | https://github.com/moloco |
 | 네이버제트 | 10 | 55 | https://github.com/naverz |
-| SK텔레콤 | 4 | 30 | https://github.com/sktelecom |
+| SK텔레콤 | 4 | 31 | https://github.com/sktelecom |
 | 컬리 | 10 | 81 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 2 | https://github.com/megazone-devops |
