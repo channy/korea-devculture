@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2052,
+        "followers": 2053,
         "organization_id": "naver",
         "public_repos": 263
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 699,
+        "followers": 698,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 521,
+        "followers": 520,
         "organization_id": "kakao",
         "public_repos": 63
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 113,
+        "followers": 112,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 54
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 112,
+        "followers": 113,
         "organization_id": "moloco",
         "public_repos": 17
       }
@@ -433,7 +433,7 @@
     "name": "현대자동차",
     "organizations": [
       {
-        "followers": 44,
+        "followers": 45,
         "organization_id": "hkmc-airlab",
         "public_repos": 4
       },
@@ -573,7 +573,7 @@
     "name": "카카오뱅크",
     "organizations": [
       {
-        "followers": 54,
+        "followers": 53,
         "organization_id": "kakaobank",
         "public_repos": 2
       }
