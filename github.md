@@ -6,13 +6,13 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 270 | 53 | https://github.com/tmax-cloud |
-| 네이버 | 263 | 2053 | https://github.com/naver |
+| 네이버 | 263 | 2055 | https://github.com/naver |
 | 인베슘 | 194 | 62 | https://github.com/hamonikr |
 | 삼성전자 | 174 | 1116 | https://github.com/Samsung |
 | 센드버드 | 184 | 303 | https://github.com/sendbird |
 | 데브시스터즈 | 175 | 203 | https://github.com/devsisters |
 | 리디 | 115 | 154 | https://github.com/ridi |
-| 라인 | 152 | 1135 | https://github.com/line |
+| 라인 | 152 | 1137 | https://github.com/line |
 | 당근마켓 | 112 | 1026 | https://github.com/daangn |
 | NHN | 105 | 698 | https://github.com/nhn |
 | 래블업 | 124 | 99 | https://github.com/lablup |
@@ -30,9 +30,9 @@
 | 한글과컴퓨터 | 31 | 15 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 134 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 84 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 25 | 1226 | https://github.com/toss |
+| 비바리퍼블리카 | 25 | 1227 | https://github.com/toss |
 | 마이리얼트립 | 33 | 30 | https://github.com/myrealtrip |
-| 쿠팡 | 18 | 62 | https://github.com/coupang |
+| 쿠팡 | 18 | 61 | https://github.com/coupang |
 | LG전자 | 20 | 82 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 22 | 31 | https://github.com/dramancompany |
 | 야놀자 | 2 | 19 | https://github.com/yanolja |
@@ -47,7 +47,7 @@
 | 컬리 | 10 | 81 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 2 | https://github.com/megazone-devops |
-| 현대자동차 | 10 | 131 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (6) |
+| 현대자동차 | 10 | 130 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (6) |
 | 포스코ICT | 9 | 6 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 100 | https://github.com/yogiyo |
 | 가비아 | 5 | 4 | https://github.com/gabia |
@@ -64,7 +64,7 @@
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
 | 플라네타리움 | 177 | 205 | https://github.com/planetarium |
 | 큐브리드 | 42 | 26 | https://github.com/CUBRID |
-| 코클 | 12 | 19 | https://github.com/cochlearai |
+| 코클 | 12 | 20 | https://github.com/cochlearai |
 | 스켈터랩스 | 10 | 11 | https://github.com/SkelterLabsInc |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->
