@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2055,
+        "followers": 2057,
         "organization_id": "naver",
         "public_repos": 263
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1116,
+        "followers": 1121,
         "organization_id": "Samsung",
         "public_repos": 174
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 203,
+        "followers": 204,
         "organization_id": "devsisters",
         "public_repos": 175
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1137,
+        "followers": 1138,
         "organization_id": "line",
         "public_repos": 152
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1026,
+        "followers": 1027,
         "organization_id": "daangn",
         "public_repos": 112
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1227,
+        "followers": 1228,
         "organization_id": "toss",
         "public_repos": 25
       }
@@ -343,7 +343,7 @@
     "name": "뱅크샐러드",
     "organizations": [
       {
-        "followers": 89,
+        "followers": 91,
         "organization_id": "banksalad",
         "public_repos": 17
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 113,
+        "followers": 114,
         "organization_id": "moloco",
         "public_repos": 17
       }
@@ -433,7 +433,7 @@
     "name": "현대자동차",
     "organizations": [
       {
-        "followers": 45,
+        "followers": 46,
         "organization_id": "hkmc-airlab",
         "public_repos": 4
       },
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 100,
+        "followers": 99,
         "organization_id": "yogiyo",
         "public_repos": 39
       }
@@ -478,7 +478,7 @@
     "name": "힐링페이퍼",
     "organizations": [
       {
-        "followers": 18,
+        "followers": 19,
         "organization_id": "healingpaper",
         "public_repos": 3
       }
@@ -595,7 +595,7 @@
       {
         "followers": 205,
         "organization_id": "planetarium",
-        "public_repos": 177
+        "public_repos": 178
       }
     ]
   },
