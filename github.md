@@ -6,14 +6,14 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 270 | 53 | https://github.com/tmax-cloud |
-| 네이버 | 263 | 2069 | https://github.com/naver |
+| 네이버 | 263 | 2071 | https://github.com/naver |
 | 인베슘 | 194 | 62 | https://github.com/hamonikr |
 | 삼성전자 | 174 | 1122 | https://github.com/Samsung |
-| 센드버드 | 184 | 304 | https://github.com/sendbird |
+| 센드버드 | 185 | 303 | https://github.com/sendbird |
 | 데브시스터즈 | 175 | 205 | https://github.com/devsisters |
 | 리디 | 115 | 154 | https://github.com/ridi |
-| 라인 | 152 | 1140 | https://github.com/line |
-| 당근마켓 | 112 | 1028 | https://github.com/daangn |
+| 라인 | 152 | 1141 | https://github.com/line |
+| 당근마켓 | 112 | 1027 | https://github.com/daangn |
 | NHN | 105 | 698 | https://github.com/nhn |
 | 래블업 | 124 | 99 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 39 | https://github.com/hyperconnect |
@@ -47,7 +47,7 @@
 | 컬리 | 10 | 82 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 2 | https://github.com/megazone-devops |
-| 현대자동차 | 10 | 131 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (6) |
+| 현대자동차 | 10 | 132 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (6) |
 | 포스코ICT | 9 | 6 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 99 | https://github.com/yogiyo |
 | 가비아 | 5 | 4 | https://github.com/gabia |
