@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2087,
+        "followers": 2086,
         "organization_id": "naver",
         "public_repos": 263
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1244,
+        "followers": 1245,
         "organization_id": "toss",
         "public_repos": 25
       }
@@ -595,7 +595,7 @@
       {
         "followers": 205,
         "organization_id": "planetarium",
-        "public_repos": 180
+        "public_repos": 181
       }
     ]
   },
