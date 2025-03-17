@@ -8,7 +8,7 @@
 | 티맥스클라우드 | 270 | 53 | https://github.com/tmax-cloud |
 | 네이버 | 263 | 2088 | https://github.com/naver |
 | 인베슘 | 194 | 62 | https://github.com/hamonikr |
-| 삼성전자 | 174 | 1125 | https://github.com/Samsung |
+| 삼성전자 | 174 | 1126 | https://github.com/Samsung |
 | 센드버드 | 185 | 304 | https://github.com/sendbird |
 | 데브시스터즈 | 175 | 208 | https://github.com/devsisters |
 | 리디 | 115 | 154 | https://github.com/ridi |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 15 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 135 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 84 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 25 | 1245 | https://github.com/toss |
+| 비바리퍼블리카 | 25 | 1244 | https://github.com/toss |
 | 마이리얼트립 | 33 | 30 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 61 | https://github.com/coupang |
 | LG전자 | 20 | 82 | https://github.com/LGE-OSS |
@@ -41,7 +41,7 @@
 | 뱅크샐러드 | 18 | 90 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 18 | 76 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 19 | 22 | https://github.com/dealicious-inc |
-| 몰로코 | 17 | 114 | https://github.com/moloco |
+| 몰로코 | 17 | 115 | https://github.com/moloco |
 | 네이버제트 | 10 | 55 | https://github.com/naverz |
 | SK텔레콤 | 4 | 31 | https://github.com/sktelecom |
 | 컬리 | 10 | 82 | https://github.com/thefarmersfront |
