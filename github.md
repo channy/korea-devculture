@@ -8,12 +8,12 @@
 | 티맥스클라우드 | 270 | 53 | https://github.com/tmax-cloud |
 | 네이버 | 263 | 2088 | https://github.com/naver |
 | 인베슘 | 194 | 62 | https://github.com/hamonikr |
-| 삼성전자 | 174 | 1126 | https://github.com/Samsung |
+| 삼성전자 | 174 | 1127 | https://github.com/Samsung |
 | 센드버드 | 185 | 304 | https://github.com/sendbird |
 | 데브시스터즈 | 175 | 208 | https://github.com/devsisters |
 | 리디 | 115 | 154 | https://github.com/ridi |
-| 라인 | 153 | 1148 | https://github.com/line |
-| 당근마켓 | 112 | 1033 | https://github.com/daangn |
+| 라인 | 153 | 1149 | https://github.com/line |
+| 당근마켓 | 112 | 1034 | https://github.com/daangn |
 | NHN | 105 | 697 | https://github.com/nhn |
 | 래블업 | 124 | 100 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 39 | https://github.com/hyperconnect |
@@ -21,7 +21,7 @@
 | 뤼이드 | 45 | 53 | https://github.com/riiid |
 | 버즈빌 | 49 | 16 | https://github.com/Buzzvil |
 | 카카오 | 63 | 526 | https://github.com/kakao |
-| 네이버클라우드 | 54 | 113 | https://github.com/NaverCloudPlatform |
+| 네이버클라우드 | 53 | 113 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 513 | https://github.com/kakaobrain |
 | 그린랩스 | 43 | 65 | https://github.com/green-labs |
 | 직방 | 33 | 37 | https://github.com/zigbang |
@@ -34,7 +34,7 @@
 | 마이리얼트립 | 33 | 30 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 61 | https://github.com/coupang |
 | LG전자 | 20 | 82 | https://github.com/LGE-OSS |
-| 드라마앤컴퍼니 | 22 | 31 | https://github.com/dramancompany |
+| 드라마앤컴퍼니 | 22 | 32 | https://github.com/dramancompany |
 | 야놀자 | 2 | 19 | https://github.com/yanolja |
 | VCNC | 21 | 14 | https://github.com/VCNC |
 | 다나와 | 1 | 7 | https://github.com/danawalab |
