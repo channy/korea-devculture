@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2099,
+        "followers": 2101,
         "organization_id": "naver",
         "public_repos": 263
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1038,
+        "followers": 1039,
         "organization_id": "daangn",
         "public_repos": 112
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 698,
+        "followers": 699,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 101,
+        "followers": 100,
         "organization_id": "lablup",
         "public_repos": 124
       }
@@ -145,7 +145,7 @@
       {
         "followers": 53,
         "organization_id": "riiid",
-        "public_repos": 45
+        "public_repos": 46
       }
     ]
   },
@@ -175,7 +175,7 @@
       {
         "followers": 113,
         "organization_id": "NaverCloudPlatform",
-        "public_repos": 53
+        "public_repos": 54
       }
     ]
   },
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 513,
+        "followers": 512,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -195,7 +195,7 @@
       {
         "followers": 65,
         "organization_id": "green-labs",
-        "public_repos": 43
+        "public_repos": 42
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1252,
+        "followers": 1250,
         "organization_id": "toss",
         "public_repos": 25
       }
@@ -393,7 +393,7 @@
     "name": "SK텔레콤",
     "organizations": [
       {
-        "followers": 31,
+        "followers": 32,
         "organization_id": "sktelecom",
         "public_repos": 4
       }
