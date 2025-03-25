@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2105,
+        "followers": 2108,
         "organization_id": "naver",
         "public_repos": 263
       }
@@ -45,7 +45,7 @@
       {
         "followers": 304,
         "organization_id": "sendbird",
-        "public_repos": 186
+        "public_repos": 184
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1153,
+        "followers": 1156,
         "organization_id": "line",
         "public_repos": 153
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1041,
+        "followers": 1042,
         "organization_id": "daangn",
         "public_repos": 112
       }
@@ -175,7 +175,7 @@
       {
         "followers": 113,
         "organization_id": "NaverCloudPlatform",
-        "public_repos": 54
+        "public_repos": 55
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1254,
+        "followers": 1253,
         "organization_id": "toss",
         "public_repos": 25
       }
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 87,
+        "followers": 89,
         "organization_id": "42dot",
         "public_repos": 6
       }
@@ -543,7 +543,7 @@
     "name": "카카오페이",
     "organizations": [
       {
-        "followers": 16,
+        "followers": 17,
         "organization_id": "kakaopay",
         "public_repos": 1
       }
@@ -613,7 +613,7 @@
     "name": "코클",
     "organizations": [
       {
-        "followers": 20,
+        "followers": 21,
         "organization_id": "cochlearai",
         "public_repos": 12
       }
