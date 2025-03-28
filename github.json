@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2112,
+        "followers": 2113,
         "organization_id": "naver",
         "public_repos": 263
       }
@@ -35,7 +35,7 @@
       {
         "followers": 1130,
         "organization_id": "Samsung",
-        "public_repos": 174
+        "public_repos": 175
       }
     ]
   },
@@ -55,7 +55,7 @@
       {
         "followers": 208,
         "organization_id": "devsisters",
-        "public_repos": 175
+        "public_repos": 176
       }
     ]
   },
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 699,
+        "followers": 701,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1256,
+        "followers": 1267,
         "organization_id": "toss",
         "public_repos": 26
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 30,
+        "followers": 31,
         "organization_id": "myrealtrip",
         "public_repos": 33
       }
@@ -363,7 +363,7 @@
     "name": "딜리셔스",
     "organizations": [
       {
-        "followers": 22,
+        "followers": 23,
         "organization_id": "dealicious-inc",
         "public_repos": 19
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 82,
+        "followers": 83,
         "organization_id": "thefarmersfront",
         "public_repos": 10
       }
@@ -595,7 +595,7 @@
       {
         "followers": 206,
         "organization_id": "planetarium",
-        "public_repos": 181
+        "public_repos": 182
       }
     ]
   },
