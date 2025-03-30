@@ -6,9 +6,9 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 270 | 53 | https://github.com/tmax-cloud |
-| 네이버 | 264 | 2114 | https://github.com/naver |
+| 네이버 | 264 | 2118 | https://github.com/naver |
 | 인베슘 | 194 | 62 | https://github.com/hamonikr |
-| 삼성전자 | 175 | 1131 | https://github.com/Samsung |
+| 삼성전자 | 175 | 1133 | https://github.com/Samsung |
 | 센드버드 | 187 | 304 | https://github.com/sendbird |
 | 데브시스터즈 | 176 | 208 | https://github.com/devsisters |
 | 리디 | 115 | 155 | https://github.com/ridi |
@@ -16,9 +16,9 @@
 | 당근마켓 | 112 | 1042 | https://github.com/daangn |
 | NHN | 105 | 701 | https://github.com/nhn |
 | 래블업 | 124 | 100 | https://github.com/lablup |
-| 하이퍼커넥트 | 42 | 39 | https://github.com/hyperconnect |
+| 하이퍼커넥트 | 42 | 40 | https://github.com/hyperconnect |
 | 삼성SDS | 90 | 28 | https://github.com/samsung-cnct (76)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
-| 뤼이드 | 46 | 53 | https://github.com/riiid |
+| 뤼이드 | 46 | 54 | https://github.com/riiid |
 | 버즈빌 | 49 | 16 | https://github.com/Buzzvil |
 | 카카오 | 63 | 530 | https://github.com/kakao |
 | 네이버클라우드 | 55 | 113 | https://github.com/NaverCloudPlatform |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 15 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 135 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 84 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 26 | 1269 | https://github.com/toss |
+| 비바리퍼블리카 | 26 | 1268 | https://github.com/toss |
 | 마이리얼트립 | 33 | 31 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 63 | https://github.com/coupang |
 | LG전자 | 20 | 83 | https://github.com/LGE-OSS |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 3 | https://github.com/Krafton |
 | 카카오뱅크 | 2 | 53 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 182 | 206 | https://github.com/planetarium |
+| 플라네타리움 | 182 | 207 | https://github.com/planetarium |
 | 큐브리드 | 43 | 26 | https://github.com/CUBRID |
 | 코클 | 12 | 21 | https://github.com/cochlearai |
 | 스켈터랩스 | 10 | 11 | https://github.com/SkelterLabsInc |
