@@ -8,14 +8,14 @@
 | 티맥스클라우드 | 270 | 53 | https://github.com/tmax-cloud |
 | 네이버 | 264 | 2123 | https://github.com/naver |
 | 인베슘 | 194 | 62 | https://github.com/hamonikr |
-| 삼성전자 | 176 | 1141 | https://github.com/Samsung |
-| 센드버드 | 187 | 305 | https://github.com/sendbird |
+| 삼성전자 | 176 | 1142 | https://github.com/Samsung |
+| 센드버드 | 187 | 306 | https://github.com/sendbird |
 | 데브시스터즈 | 176 | 208 | https://github.com/devsisters |
 | 리디 | 115 | 155 | https://github.com/ridi |
 | 라인 | 153 | 1161 | https://github.com/line |
-| 당근마켓 | 112 | 1046 | https://github.com/daangn |
+| 당근마켓 | 112 | 1048 | https://github.com/daangn |
 | NHN | 105 | 704 | https://github.com/nhn |
-| 래블업 | 125 | 101 | https://github.com/lablup |
+| 래블업 | 124 | 101 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 40 | https://github.com/hyperconnect |
 | 삼성SDS | 90 | 28 | https://github.com/samsung-cnct (76)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 46 | 54 | https://github.com/riiid |
