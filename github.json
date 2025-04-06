@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2127,
+        "followers": 2128,
         "organization_id": "naver",
         "public_repos": 264
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1050,
+        "followers": 1051,
         "organization_id": "daangn",
         "public_repos": 112
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 101,
+        "followers": 102,
         "organization_id": "lablup",
         "public_repos": 124
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 65,
+        "followers": 64,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -343,7 +343,7 @@
     "name": "뱅크샐러드",
     "organizations": [
       {
-        "followers": 90,
+        "followers": 91,
         "organization_id": "banksalad",
         "public_repos": 18
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 207,
+        "followers": 208,
         "organization_id": "planetarium",
         "public_repos": 183
       }
