@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2137,
+        "followers": 2138,
         "organization_id": "naver",
         "public_repos": 264
       }
@@ -23,7 +23,7 @@
     "name": "인베슘",
     "organizations": [
       {
-        "followers": 62,
+        "followers": 63,
         "organization_id": "hamonikr",
         "public_repos": 194
       }
@@ -55,7 +55,7 @@
       {
         "followers": 209,
         "organization_id": "devsisters",
-        "public_repos": 176
+        "public_repos": 177
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1164,
+        "followers": 1165,
         "organization_id": "line",
         "public_repos": 153
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1051,
+        "followers": 1052,
         "organization_id": "daangn",
         "public_repos": 112
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 532,
+        "followers": 533,
         "organization_id": "kakao",
         "public_repos": 63
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 190,
+        "followers": 191,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -223,9 +223,9 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 72,
+        "followers": 73,
         "organization_id": "socar-inc",
-        "public_repos": 28
+        "public_repos": 29
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1279,
+        "followers": 1286,
         "organization_id": "toss",
         "public_repos": 27
       }
@@ -365,7 +365,7 @@
       {
         "followers": 23,
         "organization_id": "dealicious-inc",
-        "public_repos": 19
+        "public_repos": 20
       }
     ]
   },
@@ -508,7 +508,7 @@
     "name": "네이버랩스",
     "organizations": [
       {
-        "followers": 29,
+        "followers": 30,
         "organization_id": "naverlabs",
         "public_repos": 3
       }
@@ -543,7 +543,7 @@
     "name": "카카오페이",
     "organizations": [
       {
-        "followers": 16,
+        "followers": 15,
         "organization_id": "kakaopay",
         "public_repos": 1
       }
@@ -615,7 +615,7 @@
       {
         "followers": 21,
         "organization_id": "cochlearai",
-        "public_repos": 12
+        "public_repos": 13
       }
     ]
   },
