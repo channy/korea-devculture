@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2156,
+        "followers": 2158,
         "organization_id": "naver",
         "public_repos": 264
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 212,
+        "followers": 211,
         "organization_id": "devsisters",
         "public_repos": 177
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1176,
+        "followers": 1175,
         "organization_id": "line",
         "public_repos": 154
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1056,
+        "followers": 1058,
         "organization_id": "daangn",
         "public_repos": 112
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 135,
+        "followers": 134,
         "organization_id": "ncsoft",
         "public_repos": 40
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1316,
+        "followers": 1318,
         "organization_id": "toss",
         "public_repos": 28
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 85,
+        "followers": 84,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -603,7 +603,7 @@
     "name": "큐브리드",
     "organizations": [
       {
-        "followers": 26,
+        "followers": 27,
         "organization_id": "CUBRID",
         "public_repos": 43
       }
