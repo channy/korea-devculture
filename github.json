@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2161,
+        "followers": 2162,
         "organization_id": "naver",
         "public_repos": 264
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1167,
+        "followers": 1168,
         "organization_id": "Samsung",
         "public_repos": 176
       }
@@ -45,7 +45,7 @@
       {
         "followers": 310,
         "organization_id": "sendbird",
-        "public_repos": 187
+        "public_repos": 190
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1175,
+        "followers": 1176,
         "organization_id": "line",
         "public_repos": 154
       }
@@ -85,7 +85,7 @@
       {
         "followers": 1058,
         "organization_id": "daangn",
-        "public_repos": 112
+        "public_repos": 113
       }
     ]
   },
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 706,
+        "followers": 707,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 536,
+        "followers": 537,
         "organization_id": "kakao",
         "public_repos": 63
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 134,
+        "followers": 133,
         "organization_id": "ncsoft",
         "public_repos": 40
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1320,
+        "followers": 1322,
         "organization_id": "toss",
         "public_repos": 28
       }
@@ -613,7 +613,7 @@
     "name": "코클",
     "organizations": [
       {
-        "followers": 21,
+        "followers": 22,
         "organization_id": "cochlearai",
         "public_repos": 13
       }
