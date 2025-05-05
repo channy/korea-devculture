@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 16 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 134 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 83 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 29 | 1356 | https://github.com/toss |
+| 비바리퍼블리카 | 29 | 1360 | https://github.com/toss |
 | 마이리얼트립 | 33 | 31 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 66 | https://github.com/coupang |
 | LG전자 | 20 | 84 | https://github.com/LGE-OSS |
@@ -60,7 +60,7 @@
 | 카카오페이 | 1 | 15 | https://github.com/kakaopay |
 | 신한은행 | 1 | 7 | https://github.com/Shinhan-Bank |
 | 크레프톤 | 0 | 3 | https://github.com/Krafton |
-| 카카오뱅크 | 2 | 55 | https://github.com/kakaobank |
+| 카카오뱅크 | 2 | 56 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
 | 플라네타리움 | 187 | 208 | https://github.com/planetarium |
 | 큐브리드 | 43 | 27 | https://github.com/CUBRID |
