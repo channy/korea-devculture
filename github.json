@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1187,
+        "followers": 1188,
         "organization_id": "Samsung",
         "public_repos": 176
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 314,
+        "followers": 315,
         "organization_id": "sendbird",
         "public_repos": 190
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1189,
+        "followers": 1191,
         "organization_id": "line",
         "public_repos": 154
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1065,
+        "followers": 1066,
         "organization_id": "daangn",
         "public_repos": 113
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 105,
+        "followers": 106,
         "organization_id": "lablup",
         "public_repos": 124
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 540,
+        "followers": 542,
         "organization_id": "kakao",
         "public_repos": 63
       }
@@ -203,7 +203,7 @@
     "name": "직방",
     "organizations": [
       {
-        "followers": 37,
+        "followers": 38,
         "organization_id": "zigbang",
         "public_repos": 33
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 188,
+        "followers": 189,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1364,
+        "followers": 1366,
         "organization_id": "toss",
         "public_repos": 29
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 31,
+        "followers": 32,
         "organization_id": "myrealtrip",
         "public_repos": 33
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 66,
+        "followers": 67,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -313,7 +313,7 @@
     "name": "야놀자",
     "organizations": [
       {
-        "followers": 20,
+        "followers": 21,
         "organization_id": "yanolja",
         "public_repos": 2
       }
@@ -365,7 +365,7 @@
       {
         "followers": 23,
         "organization_id": "dealicious-inc",
-        "public_repos": 20
+        "public_repos": 21
       }
     ]
   },
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 162,
+        "followers": 163,
         "organization_id": "musinsa",
         "public_repos": 1
       }
