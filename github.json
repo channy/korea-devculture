@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2178,
+        "followers": 2181,
         "organization_id": "naver",
         "public_repos": 265
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 215,
+        "followers": 216,
         "organization_id": "devsisters",
         "public_repos": 177
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 716,
+        "followers": 715,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 189,
+        "followers": 190,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1369,
+        "followers": 1373,
         "organization_id": "toss",
         "public_repos": 29
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 84,
+        "followers": 85,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 95,
+        "followers": 96,
         "organization_id": "42dot",
         "public_repos": 6
       }
