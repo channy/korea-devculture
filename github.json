@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2186,
+        "followers": 2187,
         "organization_id": "naver",
         "public_repos": 265
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1197,
+        "followers": 1198,
         "organization_id": "line",
         "public_repos": 154
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1070,
+        "followers": 1069,
         "organization_id": "daangn",
         "public_repos": 114
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 190,
+        "followers": 191,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 134,
+        "followers": 135,
         "organization_id": "ncsoft",
         "public_repos": 40
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1388,
+        "followers": 1392,
         "organization_id": "toss",
         "public_repos": 29
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 32,
+        "followers": 33,
         "organization_id": "myrealtrip",
         "public_repos": 33
       }
@@ -303,7 +303,7 @@
     "name": "드라마앤컴퍼니",
     "organizations": [
       {
-        "followers": 34,
+        "followers": 35,
         "organization_id": "dramancompany",
         "public_repos": 13
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 87,
+        "followers": 88,
         "organization_id": "thefarmersfront",
         "public_repos": 10
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 208,
+        "followers": 209,
         "organization_id": "planetarium",
         "public_repos": 187
       }
