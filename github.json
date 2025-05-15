@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2187,
+        "followers": 2189,
         "organization_id": "naver",
         "public_repos": 265
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 216,
+        "followers": 217,
         "organization_id": "devsisters",
         "public_repos": 177
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1198,
+        "followers": 1199,
         "organization_id": "line",
         "public_repos": 154
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1069,
+        "followers": 1070,
         "organization_id": "daangn",
         "public_repos": 114
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 135,
+        "followers": 134,
         "organization_id": "ncsoft",
         "public_repos": 40
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1392,
+        "followers": 1394,
         "organization_id": "toss",
         "public_repos": 29
       }
@@ -303,7 +303,7 @@
     "name": "드라마앤컴퍼니",
     "organizations": [
       {
-        "followers": 35,
+        "followers": 36,
         "organization_id": "dramancompany",
         "public_repos": 13
       }
@@ -365,7 +365,7 @@
       {
         "followers": 23,
         "organization_id": "dealicious-inc",
-        "public_repos": 23
+        "public_repos": 21
       }
     ]
   },
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 164,
+        "followers": 166,
         "organization_id": "musinsa",
         "public_repos": 1
       }
