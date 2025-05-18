@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 718,
+        "followers": 719,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 543,
+        "followers": 542,
         "organization_id": "kakao",
         "public_repos": 64
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1400,
+        "followers": 1403,
         "organization_id": "toss",
         "public_repos": 29
       }
