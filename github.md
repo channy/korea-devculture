@@ -8,11 +8,11 @@
 | 티맥스클라우드 | 271 | 54 | https://github.com/tmax-cloud |
 | 네이버 | 265 | 2195 | https://github.com/naver |
 | 인베슘 | 194 | 64 | https://github.com/hamonikr |
-| 삼성전자 | 176 | 1197 | https://github.com/Samsung |
+| 삼성전자 | 176 | 1200 | https://github.com/Samsung |
 | 센드버드 | 190 | 317 | https://github.com/sendbird |
-| 데브시스터즈 | 177 | 218 | https://github.com/devsisters |
-| 리디 | 115 | 155 | https://github.com/ridi |
-| 라인 | 154 | 1203 | https://github.com/line |
+| 데브시스터즈 | 177 | 219 | https://github.com/devsisters |
+| 리디 | 115 | 156 | https://github.com/ridi |
+| 라인 | 154 | 1204 | https://github.com/line |
 | 당근마켓 | 114 | 1073 | https://github.com/daangn |
 | NHN | 105 | 721 | https://github.com/nhn |
 | 래블업 | 125 | 107 | https://github.com/lablup |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 16 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 134 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 83 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 29 | 1409 | https://github.com/toss |
+| 비바리퍼블리카 | 29 | 1412 | https://github.com/toss |
 | 마이리얼트립 | 33 | 34 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 67 | https://github.com/coupang |
 | LG전자 | 20 | 86 | https://github.com/LGE-OSS |
@@ -47,7 +47,7 @@
 | 컬리 | 10 | 88 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 2 | https://github.com/megazone-devops |
-| 현대자동차 | 10 | 143 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (6) |
+| 현대자동차 | 10 | 144 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (6) |
 | 포스코ICT | 9 | 6 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 99 | https://github.com/yogiyo |
 | 가비아 | 5 | 14 | https://github.com/gabia |
