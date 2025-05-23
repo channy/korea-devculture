@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2196,
+        "followers": 2200,
         "organization_id": "naver",
         "public_repos": 265
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1202,
+        "followers": 1203,
         "organization_id": "Samsung",
         "public_repos": 176
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 156,
+        "followers": 155,
         "organization_id": "ridi",
         "public_repos": 115
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1205,
+        "followers": 1207,
         "organization_id": "line",
         "public_repos": 155
       }
@@ -143,7 +143,7 @@
     "name": "뤼이드",
     "organizations": [
       {
-        "followers": 55,
+        "followers": 56,
         "organization_id": "riiid",
         "public_repos": 47
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 541,
+        "followers": 543,
         "organization_id": "kakao",
         "public_repos": 64
       }
@@ -175,7 +175,7 @@
       {
         "followers": 114,
         "organization_id": "NaverCloudPlatform",
-        "public_repos": 55
+        "public_repos": 56
       }
     ]
   },
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 507,
+        "followers": 506,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 134,
+        "followers": 135,
         "organization_id": "ncsoft",
         "public_repos": 40
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1416,
+        "followers": 1417,
         "organization_id": "toss",
         "public_repos": 29
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 86,
+        "followers": 87,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 118,
+        "followers": 119,
         "organization_id": "moloco",
         "public_repos": 17
       }
@@ -595,7 +595,7 @@
       {
         "followers": 209,
         "organization_id": "planetarium",
-        "public_repos": 187
+        "public_repos": 186
       }
     ]
   },
