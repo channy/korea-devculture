@@ -6,9 +6,9 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 54 | https://github.com/tmax-cloud |
-| 네이버 | 265 | 2200 | https://github.com/naver |
+| 네이버 | 266 | 2200 | https://github.com/naver |
 | 인베슘 | 194 | 64 | https://github.com/hamonikr |
-| 삼성전자 | 176 | 1203 | https://github.com/Samsung |
+| 삼성전자 | 176 | 1204 | https://github.com/Samsung |
 | 센드버드 | 190 | 317 | https://github.com/sendbird |
 | 데브시스터즈 | 177 | 219 | https://github.com/devsisters |
 | 리디 | 115 | 155 | https://github.com/ridi |
@@ -20,7 +20,7 @@
 | 삼성SDS | 90 | 29 | https://github.com/samsung-cnct (76)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 47 | 56 | https://github.com/riiid |
 | 버즈빌 | 49 | 17 | https://github.com/Buzzvil |
-| 카카오 | 64 | 543 | https://github.com/kakao |
+| 카카오 | 64 | 544 | https://github.com/kakao |
 | 네이버클라우드 | 56 | 114 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 506 | https://github.com/kakaobrain |
 | 그린랩스 | 44 | 66 | https://github.com/green-labs |
@@ -55,7 +55,7 @@
 | 11번가 | 10 | 20 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 7 | https://github.com/zuminternet |
 | 네이버랩스 | 4 | 31 | https://github.com/naverlabs |
-| 무신사 | 1 | 166 | https://github.com/musinsa |
+| 무신사 | 1 | 165 | https://github.com/musinsa |
 | SK | 2 | 2 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (2) |
 | 카카오페이 | 1 | 15 | https://github.com/kakaopay |
 | 신한은행 | 1 | 7 | https://github.com/Shinhan-Bank |
