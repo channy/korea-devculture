@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2206,
+        "followers": 2208,
         "organization_id": "naver",
         "public_repos": 266
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1207,
+        "followers": 1206,
         "organization_id": "Samsung",
         "public_repos": 177
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 219,
+        "followers": 220,
         "organization_id": "devsisters",
         "public_repos": 177
       }
@@ -75,7 +75,7 @@
       {
         "followers": 1208,
         "organization_id": "line",
-        "public_repos": 155
+        "public_repos": 156
       }
     ]
   },
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 107,
+        "followers": 108,
         "organization_id": "lablup",
         "public_repos": 125
       }
@@ -263,9 +263,9 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1425,
+        "followers": 1427,
         "organization_id": "toss",
-        "public_repos": 29
+        "public_repos": 30
       }
     ]
   },
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 165,
+        "followers": 166,
         "organization_id": "musinsa",
         "public_repos": 1
       }
@@ -573,7 +573,7 @@
     "name": "카카오뱅크",
     "organizations": [
       {
-        "followers": 56,
+        "followers": 57,
         "organization_id": "kakaobank",
         "public_repos": 2
       }
@@ -595,7 +595,7 @@
       {
         "followers": 210,
         "organization_id": "planetarium",
-        "public_repos": 186
+        "public_repos": 187
       }
     ]
   },
