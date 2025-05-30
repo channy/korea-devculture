@@ -14,14 +14,14 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 54 | https://github.com/tmax-cloud |
-| 네이버 | 266 | 2209 | https://github.com/naver |
-| 인베슘 | 194 | 64 | https://github.com/hamonikr |
-| 센드버드 | 190 | 317 | https://github.com/sendbird |
+| 네이버 | 266 | 2213 | https://github.com/naver |
+| 인베슘 | 194 | 65 | https://github.com/hamonikr |
+| 센드버드 | 191 | 318 | https://github.com/sendbird |
 | 플라네타리움 | 187 | 210 | https://github.com/planetarium |
-| 삼성전자 | 177 | 1209 | https://github.com/Samsung |
-| 데브시스터즈 | 177 | 220 | https://github.com/devsisters |
-| 라인 | 156 | 1211 | https://github.com/line |
-| 래블업 | 125 | 108 | https://github.com/lablup |
-| 리디 | 115 | 155 | https://github.com/ridi |
+| 삼성전자 | 177 | 1210 | https://github.com/Samsung |
+| 데브시스터즈 | 177 | 221 | https://github.com/devsisters |
+| 라인 | 156 | 1212 | https://github.com/line |
+| 래블업 | 126 | 108 | https://github.com/lablup |
+| 리디 | 115 | 156 | https://github.com/ridi |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->

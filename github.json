@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2209,
+        "followers": 2213,
         "organization_id": "naver",
         "public_repos": 266
       }
@@ -23,7 +23,7 @@
     "name": "인베슘",
     "organizations": [
       {
-        "followers": 64,
+        "followers": 65,
         "organization_id": "hamonikr",
         "public_repos": 194
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1209,
+        "followers": 1210,
         "organization_id": "Samsung",
         "public_repos": 177
       }
@@ -43,9 +43,9 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 317,
+        "followers": 318,
         "organization_id": "sendbird",
-        "public_repos": 190
+        "public_repos": 191
       }
     ]
   },
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 220,
+        "followers": 221,
         "organization_id": "devsisters",
         "public_repos": 177
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 155,
+        "followers": 156,
         "organization_id": "ridi",
         "public_repos": 115
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1211,
+        "followers": 1212,
         "organization_id": "line",
         "public_repos": 156
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1080,
+        "followers": 1082,
         "organization_id": "daangn",
         "public_repos": 114
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 723,
+        "followers": 724,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -105,7 +105,7 @@
       {
         "followers": 108,
         "organization_id": "lablup",
-        "public_repos": 125
+        "public_repos": 126
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1434,
+        "followers": 1436,
         "organization_id": "toss",
         "public_repos": 31
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 67,
+        "followers": 68,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 91,
+        "followers": 92,
         "organization_id": "thefarmersfront",
         "public_repos": 10
       }
