@@ -20,7 +20,7 @@
 | 플라네타리움 | 187 | 209 | https://github.com/planetarium |
 | 삼성전자 | 177 | 1212 | https://github.com/Samsung |
 | 데브시스터즈 | 177 | 221 | https://github.com/devsisters |
-| 라인 | 156 | 1213 | https://github.com/line |
+| 라인 | 156 | 1214 | https://github.com/line |
 | 래블업 | 125 | 111 | https://github.com/lablup |
 | 리디 | 115 | 156 | https://github.com/ridi |
 
