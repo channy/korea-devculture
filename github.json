@@ -25,7 +25,7 @@
       {
         "followers": 65,
         "organization_id": "hamonikr",
-        "public_repos": 194
+        "public_repos": 195
       }
     ]
   },
@@ -33,9 +33,9 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1217,
+        "followers": 1218,
         "organization_id": "Samsung",
-        "public_repos": 177
+        "public_repos": 178
       }
     ]
   },
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 321,
+        "followers": 322,
         "organization_id": "sendbird",
         "public_repos": 191
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 223,
+        "followers": 224,
         "organization_id": "devsisters",
         "public_repos": 177
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1220,
+        "followers": 1221,
         "organization_id": "line",
         "public_repos": 156
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1459,
+        "followers": 1463,
         "organization_id": "toss",
         "public_repos": 31
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 70,
+        "followers": 71,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 87,
+        "followers": 88,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 119,
+        "followers": 118,
         "organization_id": "moloco",
         "public_repos": 17
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 168,
+        "followers": 169,
         "organization_id": "musinsa",
         "public_repos": 1
       }
