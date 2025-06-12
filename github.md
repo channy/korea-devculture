@@ -6,13 +6,13 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 54 | https://github.com/tmax-cloud |
-| 네이버 | 266 | 2219 | https://github.com/naver |
+| 네이버 | 266 | 2220 | https://github.com/naver |
 | 인베슘 | 195 | 65 | https://github.com/hamonikr |
-| 삼성전자 | 178 | 1218 | https://github.com/Samsung |
+| 삼성전자 | 178 | 1222 | https://github.com/Samsung |
 | 센드버드 | 191 | 322 | https://github.com/sendbird |
-| 데브시스터즈 | 177 | 224 | https://github.com/devsisters |
+| 데브시스터즈 | 177 | 227 | https://github.com/devsisters |
 | 리디 | 115 | 157 | https://github.com/ridi |
-| 라인 | 156 | 1221 | https://github.com/line |
+| 라인 | 156 | 1222 | https://github.com/line |
 | 당근마켓 | 114 | 1088 | https://github.com/daangn |
 | NHN | 105 | 728 | https://github.com/nhn |
 | 래블업 | 125 | 111 | https://github.com/lablup |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 16 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 136 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 84 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 31 | 1463 | https://github.com/toss |
+| 비바리퍼블리카 | 31 | 1469 | https://github.com/toss |
 | 마이리얼트립 | 33 | 34 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 71 | https://github.com/coupang |
 | LG전자 | 20 | 88 | https://github.com/LGE-OSS |
@@ -55,14 +55,14 @@
 | 11번가 | 10 | 20 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 7 | https://github.com/zuminternet |
 | 네이버랩스 | 4 | 32 | https://github.com/naverlabs |
-| 무신사 | 1 | 169 | https://github.com/musinsa |
+| 무신사 | 1 | 170 | https://github.com/musinsa |
 | SK | 2 | 2 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (2) |
 | 카카오페이 | 1 | 15 | https://github.com/kakaopay |
 | 신한은행 | 1 | 7 | https://github.com/Shinhan-Bank |
 | 크레프톤 | 0 | 3 | https://github.com/Krafton |
 | 카카오뱅크 | 2 | 57 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 187 | 210 | https://github.com/planetarium |
+| 플라네타리움 | 187 | 211 | https://github.com/planetarium |
 | 큐브리드 | 43 | 27 | https://github.com/CUBRID |
 | 코클 | 14 | 22 | https://github.com/cochlearai |
 | 스켈터랩스 | 10 | 11 | https://github.com/SkelterLabsInc |
