@@ -7,14 +7,14 @@
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 54 | https://github.com/tmax-cloud |
 | 네이버 | 268 | 2224 | https://github.com/naver |
-| 인베슘 | 195 | 65 | https://github.com/hamonikr |
+| 인베슘 | 195 | 66 | https://github.com/hamonikr |
 | 삼성전자 | 178 | 1225 | https://github.com/Samsung |
 | 센드버드 | 191 | 322 | https://github.com/sendbird |
 | 데브시스터즈 | 177 | 226 | https://github.com/devsisters |
 | 리디 | 115 | 157 | https://github.com/ridi |
-| 라인 | 156 | 1224 | https://github.com/line |
+| 라인 | 156 | 1225 | https://github.com/line |
 | 당근마켓 | 113 | 1088 | https://github.com/daangn |
-| NHN | 105 | 729 | https://github.com/nhn |
+| NHN | 105 | 730 | https://github.com/nhn |
 | 래블업 | 125 | 111 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 40 | https://github.com/hyperconnect |
 | 삼성SDS | 91 | 30 | https://github.com/samsung-cnct (77)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -44,7 +44,7 @@
 | 몰로코 | 17 | 118 | https://github.com/moloco |
 | 네이버제트 | 10 | 56 | https://github.com/naverz |
 | SK텔레콤 | 4 | 32 | https://github.com/sktelecom |
-| 컬리 | 10 | 94 | https://github.com/thefarmersfront |
+| 컬리 | 10 | 95 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 2 | https://github.com/megazone-devops |
 | 현대자동차 | 10 | 145 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (6) |
