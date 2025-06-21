@@ -10,15 +10,15 @@
 | 인베슘 | 195 | 66 | https://github.com/hamonikr |
 | 삼성전자 | 178 | 1232 | https://github.com/Samsung |
 | 센드버드 | 191 | 322 | https://github.com/sendbird |
-| 데브시스터즈 | 179 | 231 | https://github.com/devsisters |
+| 데브시스터즈 | 179 | 232 | https://github.com/devsisters |
 | 리디 | 115 | 157 | https://github.com/ridi |
-| 라인 | 156 | 1224 | https://github.com/line |
-| 당근마켓 | 113 | 1088 | https://github.com/daangn |
+| 라인 | 156 | 1223 | https://github.com/line |
+| 당근마켓 | 113 | 1089 | https://github.com/daangn |
 | NHN | 105 | 733 | https://github.com/nhn |
 | 래블업 | 125 | 111 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 40 | https://github.com/hyperconnect |
 | 삼성SDS | 91 | 30 | https://github.com/samsung-cnct (77)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
-| 뤼이드 | 47 | 56 | https://github.com/riiid |
+| 뤼이드 | 47 | 57 | https://github.com/riiid |
 | 버즈빌 | 49 | 18 | https://github.com/Buzzvil |
 | 카카오 | 64 | 553 | https://github.com/kakao |
 | 네이버클라우드 | 56 | 116 | https://github.com/NaverCloudPlatform |
@@ -56,7 +56,7 @@
 | 줌인터넷 | 4 | 7 | https://github.com/zuminternet |
 | 네이버랩스 | 4 | 32 | https://github.com/naverlabs |
 | 무신사 | 1 | 171 | https://github.com/musinsa |
-| SK | 2 | 2 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (2) |
+| SK | 1 | 2 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (1) |
 | 카카오페이 | 1 | 15 | https://github.com/kakaopay |
 | 신한은행 | 1 | 7 | https://github.com/Shinhan-Bank |
 | 크레프톤 | 0 | 3 | https://github.com/Krafton |

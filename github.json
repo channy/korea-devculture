@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 231,
+        "followers": 232,
         "organization_id": "devsisters",
         "public_repos": 179
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1224,
+        "followers": 1223,
         "organization_id": "line",
         "public_repos": 156
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1088,
+        "followers": 1089,
         "organization_id": "daangn",
         "public_repos": 113
       }
@@ -143,7 +143,7 @@
     "name": "뤼이드",
     "organizations": [
       {
-        "followers": 56,
+        "followers": 57,
         "organization_id": "riiid",
         "public_repos": 47
       }
@@ -535,7 +535,7 @@
       {
         "followers": 2,
         "organization_id": "cloudsvcdev",
-        "public_repos": 2
+        "public_repos": 1
       }
     ]
   },
