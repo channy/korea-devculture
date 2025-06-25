@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1234,
+        "followers": 1237,
         "organization_id": "Samsung",
         "public_repos": 178
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 322,
+        "followers": 323,
         "organization_id": "sendbird",
         "public_repos": 191
       }
@@ -55,7 +55,7 @@
       {
         "followers": 232,
         "organization_id": "devsisters",
-        "public_repos": 178
+        "public_repos": 179
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1223,
+        "followers": 1225,
         "organization_id": "line",
         "public_repos": 156
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1091,
+        "followers": 1093,
         "organization_id": "daangn",
         "public_repos": 113
       }
@@ -143,7 +143,7 @@
     "name": "뤼이드",
     "organizations": [
       {
-        "followers": 57,
+        "followers": 56,
         "organization_id": "riiid",
         "public_repos": 47
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 552,
+        "followers": 553,
         "organization_id": "kakao",
         "public_repos": 64
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1491,
+        "followers": 1495,
         "organization_id": "toss",
         "public_repos": 32
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 90,
+        "followers": 91,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -343,7 +343,7 @@
     "name": "뱅크샐러드",
     "organizations": [
       {
-        "followers": 95,
+        "followers": 96,
         "organization_id": "banksalad",
         "public_repos": 19
       }
@@ -595,7 +595,7 @@
       {
         "followers": 211,
         "organization_id": "planetarium",
-        "public_repos": 188
+        "public_repos": 189
       }
     ]
   },
@@ -625,7 +625,7 @@
       {
         "followers": 11,
         "organization_id": "SkelterLabsInc",
-        "public_repos": 10
+        "public_repos": 11
       }
     ]
   }
