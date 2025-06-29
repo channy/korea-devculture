@@ -12,7 +12,7 @@
 | 센드버드 | 191 | 323 | https://github.com/sendbird |
 | 데브시스터즈 | 179 | 232 | https://github.com/devsisters |
 | 리디 | 115 | 157 | https://github.com/ridi |
-| 라인 | 156 | 1226 | https://github.com/line |
+| 라인 | 156 | 1228 | https://github.com/line |
 | 당근마켓 | 113 | 1094 | https://github.com/daangn |
 | NHN | 105 | 734 | https://github.com/nhn |
 | 래블업 | 125 | 112 | https://github.com/lablup |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 18 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 136 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 85 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 32 | 1503 | https://github.com/toss |
+| 비바리퍼블리카 | 32 | 1504 | https://github.com/toss |
 | 마이리얼트립 | 33 | 34 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 72 | https://github.com/coupang |
 | LG전자 | 20 | 91 | https://github.com/LGE-OSS |
