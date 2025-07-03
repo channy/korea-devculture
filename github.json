@@ -13,9 +13,9 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2257,
+        "followers": 2260,
         "organization_id": "naver",
-        "public_repos": 268
+        "public_repos": 269
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1242,
+        "followers": 1243,
         "organization_id": "Samsung",
         "public_repos": 178
       }
@@ -83,9 +83,9 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1095,
+        "followers": 1096,
         "organization_id": "daangn",
-        "public_repos": 113
+        "public_repos": 114
       }
     ]
   },
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 735,
+        "followers": 734,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 554,
+        "followers": 555,
         "organization_id": "kakao",
         "public_repos": 64
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 192,
+        "followers": 191,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1512,
+        "followers": 1514,
         "organization_id": "toss",
         "public_repos": 32
       }
@@ -275,7 +275,7 @@
       {
         "followers": 34,
         "organization_id": "myrealtrip",
-        "public_repos": 33
+        "public_repos": 34
       }
     ]
   },
@@ -343,7 +343,7 @@
     "name": "뱅크샐러드",
     "organizations": [
       {
-        "followers": 97,
+        "followers": 96,
         "organization_id": "banksalad",
         "public_repos": 19
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 95,
+        "followers": 96,
         "organization_id": "thefarmersfront",
         "public_repos": 10
       }
