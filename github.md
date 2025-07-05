@@ -6,15 +6,15 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 54 | https://github.com/tmax-cloud |
-| 네이버 | 269 | 2263 | https://github.com/naver |
+| 네이버 | 269 | 2266 | https://github.com/naver |
 | 인베슘 | 195 | 66 | https://github.com/hamonikr |
-| 삼성전자 | 178 | 1247 | https://github.com/Samsung |
+| 삼성전자 | 178 | 1248 | https://github.com/Samsung |
 | 센드버드 | 191 | 324 | https://github.com/sendbird |
 | 데브시스터즈 | 178 | 234 | https://github.com/devsisters |
 | 리디 | 114 | 157 | https://github.com/ridi |
-| 라인 | 156 | 1233 | https://github.com/line |
-| 당근마켓 | 114 | 1097 | https://github.com/daangn |
-| NHN | 105 | 734 | https://github.com/nhn |
+| 라인 | 156 | 1232 | https://github.com/line |
+| 당근마켓 | 114 | 1098 | https://github.com/daangn |
+| NHN | 105 | 736 | https://github.com/nhn |
 | 래블업 | 125 | 112 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 40 | https://github.com/hyperconnect |
 | 삼성SDS | 92 | 30 | https://github.com/samsung-cnct (78)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -28,9 +28,9 @@
 | 우아한형제들 | 22 | 194 | https://github.com/woowabros |
 | 쏘카 | 28 | 73 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 18 | https://github.com/hancom-io |
-| 엔씨소프트 | 40 | 136 | https://github.com/ncsoft |
+| 엔씨소프트 | 40 | 137 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 86 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 32 | 1520 | https://github.com/toss |
+| 비바리퍼블리카 | 32 | 1523 | https://github.com/toss |
 | 마이리얼트립 | 34 | 34 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 72 | https://github.com/coupang |
 | LG전자 | 20 | 92 | https://github.com/LGE-OSS |
