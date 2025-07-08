@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1251,
+        "followers": 1252,
         "organization_id": "Samsung",
         "public_repos": 178
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1100,
+        "followers": 1099,
         "organization_id": "daangn",
         "public_repos": 114
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 736,
+        "followers": 735,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 507,
+        "followers": 506,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1525,
+        "followers": 1526,
         "organization_id": "toss",
         "public_repos": 32
       }
@@ -343,7 +343,7 @@
     "name": "뱅크샐러드",
     "organizations": [
       {
-        "followers": 97,
+        "followers": 98,
         "organization_id": "banksalad",
         "public_repos": 19
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 119,
+        "followers": 120,
         "organization_id": "moloco",
         "public_repos": 17
       }
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 100,
+        "followers": 101,
         "organization_id": "yogiyo",
         "public_repos": 39
       }
