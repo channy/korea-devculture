@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 737,
+        "followers": 738,
         "organization_id": "nhn",
         "public_repos": 105
       }
@@ -105,7 +105,7 @@
       {
         "followers": 113,
         "organization_id": "lablup",
-        "public_repos": 125
+        "public_repos": 126
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1525,
+        "followers": 1527,
         "organization_id": "toss",
         "public_repos": 32
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 92,
+        "followers": 93,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -595,7 +595,7 @@
       {
         "followers": 211,
         "organization_id": "planetarium",
-        "public_repos": 190
+        "public_repos": 191
       }
     ]
   },

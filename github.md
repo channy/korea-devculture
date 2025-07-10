@@ -14,8 +14,8 @@
 | 리디 | 114 | 157 | https://github.com/ridi |
 | 라인 | 156 | 1236 | https://github.com/line |
 | 당근마켓 | 114 | 1099 | https://github.com/daangn |
-| NHN | 105 | 737 | https://github.com/nhn |
-| 래블업 | 125 | 113 | https://github.com/lablup |
+| NHN | 105 | 738 | https://github.com/nhn |
+| 래블업 | 126 | 113 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 40 | https://github.com/hyperconnect |
 | 삼성SDS | 92 | 30 | https://github.com/samsung-cnct (78)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 47 | 56 | https://github.com/riiid |
@@ -30,10 +30,10 @@
 | 한글과컴퓨터 | 31 | 18 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 137 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 86 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 32 | 1525 | https://github.com/toss |
+| 비바리퍼블리카 | 32 | 1527 | https://github.com/toss |
 | 마이리얼트립 | 34 | 34 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 72 | https://github.com/coupang |
-| LG전자 | 20 | 92 | https://github.com/LGE-OSS |
+| LG전자 | 20 | 93 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 13 | 36 | https://github.com/dramancompany |
 | 야놀자 | 2 | 21 | https://github.com/yanolja |
 | VCNC | 21 | 14 | https://github.com/VCNC |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 3 | https://github.com/Krafton |
 | 카카오뱅크 | 2 | 58 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 190 | 211 | https://github.com/planetarium |
+| 플라네타리움 | 191 | 211 | https://github.com/planetarium |
 | 큐브리드 | 43 | 27 | https://github.com/CUBRID |
 | 코클 | 14 | 22 | https://github.com/cochlearai |
 | 스켈터랩스 | 11 | 11 | https://github.com/SkelterLabsInc |
