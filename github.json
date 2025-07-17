@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2274,
+        "followers": 2276,
         "organization_id": "naver",
         "public_repos": 269
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1251,
+        "followers": 1252,
         "organization_id": "Samsung",
         "public_repos": 179
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 236,
+        "followers": 235,
         "organization_id": "devsisters",
         "public_repos": 178
       }
@@ -95,7 +95,7 @@
       {
         "followers": 741,
         "organization_id": "nhn",
-        "public_repos": 105
+        "public_repos": 106
       }
     ]
   },
@@ -105,7 +105,7 @@
       {
         "followers": 113,
         "organization_id": "lablup",
-        "public_repos": 126
+        "public_repos": 128
       }
     ]
   },
@@ -113,7 +113,7 @@
     "name": "하이퍼커넥트",
     "organizations": [
       {
-        "followers": 41,
+        "followers": 42,
         "organization_id": "hyperconnect",
         "public_repos": 42
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1536,
+        "followers": 1538,
         "organization_id": "toss",
         "public_repos": 32
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 95,
+        "followers": 96,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -365,7 +365,7 @@
       {
         "followers": 23,
         "organization_id": "dealicious-inc",
-        "public_repos": 20
+        "public_repos": 14
       }
     ]
   },
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 101,
+        "followers": 102,
         "organization_id": "42dot",
         "public_repos": 6
       }
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 101,
+        "followers": 102,
         "organization_id": "yogiyo",
         "public_repos": 39
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 173,
+        "followers": 174,
         "organization_id": "musinsa",
         "public_repos": 1
       }
