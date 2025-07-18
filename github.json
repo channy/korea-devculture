@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2276,
+        "followers": 2277,
         "organization_id": "naver",
         "public_repos": 269
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1252,
+        "followers": 1253,
         "organization_id": "Samsung",
         "public_repos": 179
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1239,
+        "followers": 1240,
         "organization_id": "line",
         "public_repos": 156
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 113,
+        "followers": 114,
         "organization_id": "lablup",
         "public_repos": 128
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 557,
+        "followers": 559,
         "organization_id": "kakao",
         "public_repos": 64
       }
@@ -225,7 +225,7 @@
       {
         "followers": 73,
         "organization_id": "socar-inc",
-        "public_repos": 28
+        "public_repos": 29
       }
     ]
   },
@@ -233,7 +233,7 @@
     "name": "한글과컴퓨터",
     "organizations": [
       {
-        "followers": 18,
+        "followers": 19,
         "organization_id": "hancom-io",
         "public_repos": 31
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 137,
+        "followers": 139,
         "organization_id": "ncsoft",
         "public_repos": 40
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1538,
+        "followers": 1542,
         "organization_id": "toss",
         "public_repos": 32
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 34,
+        "followers": 33,
         "organization_id": "myrealtrip",
         "public_repos": 34
       }
@@ -365,7 +365,7 @@
       {
         "followers": 23,
         "organization_id": "dealicious-inc",
-        "public_repos": 14
+        "public_repos": 13
       }
     ]
   },
