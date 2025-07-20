@@ -7,12 +7,12 @@
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 54 | https://github.com/tmax-cloud |
 | 네이버 | 269 | 2278 | https://github.com/naver |
-| 인베슘 | 195 | 68 | https://github.com/hamonikr |
+| 인베슘 | 195 | 69 | https://github.com/hamonikr |
 | 삼성전자 | 179 | 1254 | https://github.com/Samsung |
 | 센드버드 | 191 | 326 | https://github.com/sendbird |
 | 데브시스터즈 | 178 | 235 | https://github.com/devsisters |
 | 리디 | 114 | 157 | https://github.com/ridi |
-| 라인 | 156 | 1242 | https://github.com/line |
+| 라인 | 156 | 1243 | https://github.com/line |
 | 당근마켓 | 119 | 1101 | https://github.com/daangn |
 | NHN | 106 | 741 | https://github.com/nhn |
 | 래블업 | 128 | 114 | https://github.com/lablup |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 19 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 139 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 86 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 32 | 1544 | https://github.com/toss |
+| 비바리퍼블리카 | 32 | 1546 | https://github.com/toss |
 | 마이리얼트립 | 34 | 33 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 72 | https://github.com/coupang |
 | LG전자 | 20 | 96 | https://github.com/LGE-OSS |
@@ -60,7 +60,7 @@
 | 카카오페이 | 1 | 15 | https://github.com/kakaopay |
 | 신한은행 | 1 | 7 | https://github.com/Shinhan-Bank |
 | 크레프톤 | 0 | 3 | https://github.com/Krafton |
-| 카카오뱅크 | 2 | 58 | https://github.com/kakaobank |
+| 카카오뱅크 | 2 | 59 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
 | 플라네타리움 | 192 | 213 | https://github.com/planetarium |
 | 큐브리드 | 43 | 27 | https://github.com/CUBRID |
