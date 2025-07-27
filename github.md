@@ -9,7 +9,7 @@
 | 네이버 | 269 | 2288 | https://github.com/naver |
 | 인베슘 | 195 | 69 | https://github.com/hamonikr |
 | 삼성전자 | 179 | 1267 | https://github.com/Samsung |
-| 센드버드 | 192 | 327 | https://github.com/sendbird |
+| 센드버드 | 192 | 328 | https://github.com/sendbird |
 | 데브시스터즈 | 178 | 236 | https://github.com/devsisters |
 | 리디 | 114 | 157 | https://github.com/ridi |
 | 라인 | 157 | 1252 | https://github.com/line |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 19 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 139 | https://github.com/ncsoft |
 | 버켓플레이스 | 10 | 87 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 33 | 1560 | https://github.com/toss |
+| 비바리퍼블리카 | 33 | 1562 | https://github.com/toss |
 | 마이리얼트립 | 34 | 33 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 72 | https://github.com/coupang |
 | LG전자 | 20 | 96 | https://github.com/LGE-OSS |
