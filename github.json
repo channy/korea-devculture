@@ -25,7 +25,7 @@
       {
         "followers": 71,
         "organization_id": "hamonikr",
-        "public_repos": 194
+        "public_repos": 197
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1290,
+        "followers": 1289,
         "organization_id": "Samsung",
         "public_repos": 179
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 161,
+        "followers": 162,
         "organization_id": "ridi",
         "public_repos": 114
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1107,
+        "followers": 1108,
         "organization_id": "daangn",
         "public_repos": 119
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 746,
+        "followers": 748,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -113,7 +113,7 @@
     "name": "하이퍼커넥트",
     "organizations": [
       {
-        "followers": 46,
+        "followers": 47,
         "organization_id": "hyperconnect",
         "public_repos": 42
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1597,
+        "followers": 1598,
         "organization_id": "toss",
         "public_repos": 33
       }
@@ -345,7 +345,7 @@
       {
         "followers": 101,
         "organization_id": "banksalad",
-        "public_repos": 19
+        "public_repos": 20
       }
     ]
   },
