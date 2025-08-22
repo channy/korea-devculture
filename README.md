@@ -19,9 +19,9 @@
 | 센드버드 | 193 | 334 | https://github.com/sendbird |
 | 플라네타리움 | 193 | 213 | https://github.com/planetarium |
 | 삼성전자 | 179 | 1301 | https://github.com/Samsung |
-| 데브시스터즈 | 178 | 240 | https://github.com/devsisters |
+| 데브시스터즈 | 178 | 241 | https://github.com/devsisters |
 | 라인 | 157 | 1267 | https://github.com/line |
 | 래블업 | 129 | 115 | https://github.com/lablup |
-| 당근마켓 | 119 | 1122 | https://github.com/daangn |
+| 당근마켓 | 119 | 1123 | https://github.com/daangn |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->
