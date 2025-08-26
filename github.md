@@ -6,13 +6,13 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 58 | https://github.com/tmax-cloud |
-| 네이버 | 269 | 2327 | https://github.com/naver |
-| 인베슘 | 199 | 71 | https://github.com/hamonikr |
-| 삼성전자 | 179 | 1311 | https://github.com/Samsung |
-| 센드버드 | 194 | 334 | https://github.com/sendbird |
-| 데브시스터즈 | 178 | 243 | https://github.com/devsisters |
+| 네이버 | 269 | 2329 | https://github.com/naver |
+| 인베슘 | 199 | 70 | https://github.com/hamonikr |
+| 삼성전자 | 179 | 1313 | https://github.com/Samsung |
+| 센드버드 | 194 | 333 | https://github.com/sendbird |
+| 데브시스터즈 | 178 | 242 | https://github.com/devsisters |
 | 리디 | 114 | 165 | https://github.com/ridi |
-| 라인 | 157 | 1272 | https://github.com/line |
+| 라인 | 157 | 1274 | https://github.com/line |
 | 당근마켓 | 119 | 1126 | https://github.com/daangn |
 | NHN | 106 | 760 | https://github.com/nhn |
 | 래블업 | 130 | 117 | https://github.com/lablup |
@@ -22,10 +22,10 @@
 | 버즈빌 | 49 | 20 | https://github.com/Buzzvil |
 | 카카오 | 66 | 571 | https://github.com/kakao |
 | 네이버클라우드 | 56 | 122 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 40 | 508 | https://github.com/kakaobrain |
+| 카카오브레인 | 40 | 507 | https://github.com/kakaobrain |
 | 그린랩스 | 45 | 70 | https://github.com/green-labs |
 | 직방 | 33 | 44 | https://github.com/zigbang |
-| 우아한형제들 | 22 | 199 | https://github.com/woowabros |
+| 우아한형제들 | 22 | 198 | https://github.com/woowabros |
 | 쏘카 | 29 | 79 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 19 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 144 | https://github.com/ncsoft |
@@ -38,16 +38,16 @@
 | 야놀자 | 2 | 28 | https://github.com/yanolja |
 | VCNC | 21 | 14 | https://github.com/VCNC |
 | 다나와 | 1 | 9 | https://github.com/danawalab |
-| 뱅크샐러드 | 20 | 105 | https://github.com/banksalad |
+| 뱅크샐러드 | 20 | 104 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 18 | 86 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 10 | 24 | https://github.com/dealicious-inc |
-| 몰로코 | 17 | 124 | https://github.com/moloco |
+| 몰로코 | 17 | 125 | https://github.com/moloco |
 | 네이버제트 | 10 | 56 | https://github.com/naverz |
 | SK텔레콤 | 4 | 34 | https://github.com/sktelecom |
 | 컬리 | 10 | 104 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 3 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 3 | https://github.com/megazone-devops |
-| 현대자동차 | 10 | 156 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (6) |
+| 현대자동차 | 10 | 155 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (6) |
 | 포스코ICT | 9 | 7 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 110 | https://github.com/yogiyo |
 | 가비아 | 6 | 15 | https://github.com/gabia |
@@ -60,7 +60,7 @@
 | 카카오페이 | 1 | 16 | https://github.com/kakaopay |
 | 신한은행 | 1 | 10 | https://github.com/Shinhan-Bank |
 | 크레프톤 | 0 | 4 | https://github.com/Krafton |
-| 카카오뱅크 | 2 | 64 | https://github.com/kakaobank |
+| 카카오뱅크 | 2 | 63 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
 | 플라네타리움 | 193 | 213 | https://github.com/planetarium |
 | 큐브리드 | 44 | 30 | https://github.com/CUBRID |
