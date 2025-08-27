@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1313,
+        "followers": 1314,
         "organization_id": "Samsung",
         "public_repos": 179
       }
@@ -225,7 +225,7 @@
       {
         "followers": 79,
         "organization_id": "socar-inc",
-        "public_repos": 29
+        "public_repos": 30
       }
     ]
   },
@@ -448,7 +448,7 @@
     "name": "포스코ICT",
     "organizations": [
       {
-        "followers": 7,
+        "followers": 8,
         "organization_id": "poscoict-glueframework",
         "public_repos": 9
       }
@@ -595,7 +595,7 @@
       {
         "followers": 213,
         "organization_id": "planetarium",
-        "public_repos": 193
+        "public_repos": 194
       }
     ]
   },
