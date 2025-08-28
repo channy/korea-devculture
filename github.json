@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1314,
+        "followers": 1316,
         "organization_id": "Samsung",
         "public_repos": 179
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 333,
+        "followers": 334,
         "organization_id": "sendbird",
         "public_repos": 194
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1274,
+        "followers": 1273,
         "organization_id": "line",
         "public_repos": 157
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1126,
+        "followers": 1125,
         "organization_id": "daangn",
         "public_repos": 119
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 760,
+        "followers": 759,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -105,7 +105,7 @@
       {
         "followers": 117,
         "organization_id": "lablup",
-        "public_repos": 130
+        "public_repos": 131
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 571,
+        "followers": 570,
         "organization_id": "kakao",
         "public_repos": 66
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 507,
+        "followers": 506,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -203,7 +203,7 @@
     "name": "직방",
     "organizations": [
       {
-        "followers": 44,
+        "followers": 43,
         "organization_id": "zigbang",
         "public_repos": 33
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 198,
+        "followers": 197,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1628,
+        "followers": 1627,
         "organization_id": "toss",
         "public_repos": 33
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 38,
+        "followers": 37,
         "organization_id": "myrealtrip",
         "public_repos": 34
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 80,
+        "followers": 79,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -313,7 +313,7 @@
     "name": "야놀자",
     "organizations": [
       {
-        "followers": 28,
+        "followers": 27,
         "organization_id": "yanolja",
         "public_repos": 2
       }
@@ -393,7 +393,7 @@
     "name": "SK텔레콤",
     "organizations": [
       {
-        "followers": 34,
+        "followers": 35,
         "organization_id": "sktelecom",
         "public_repos": 4
       }
@@ -470,7 +470,7 @@
       {
         "followers": 15,
         "organization_id": "gabia",
-        "public_repos": 6
+        "public_repos": 7
       }
     ]
   },
