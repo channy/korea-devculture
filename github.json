@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1322,
+        "followers": 1323,
         "organization_id": "Samsung",
         "public_repos": 180
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 758,
+        "followers": 759,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1639,
+        "followers": 1642,
         "organization_id": "toss",
         "public_repos": 33
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 80,
+        "followers": 82,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -498,7 +498,7 @@
     "name": "줌인터넷",
     "organizations": [
       {
-        "followers": 8,
+        "followers": 9,
         "organization_id": "zuminternet",
         "public_repos": 4
       }

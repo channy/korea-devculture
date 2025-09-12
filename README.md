@@ -18,7 +18,7 @@
 | 인베슘 | 199 | 69 | https://github.com/hamonikr |
 | 플라네타리움 | 195 | 213 | https://github.com/planetarium |
 | 센드버드 | 194 | 336 | https://github.com/sendbird |
-| 삼성전자 | 180 | 1322 | https://github.com/Samsung |
+| 삼성전자 | 180 | 1323 | https://github.com/Samsung |
 | 데브시스터즈 | 178 | 242 | https://github.com/devsisters |
 | 라인 | 157 | 1286 | https://github.com/line |
 | 래블업 | 131 | 119 | https://github.com/lablup |
