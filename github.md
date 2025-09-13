@@ -6,14 +6,14 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
-| 네이버 | 269 | 2348 | https://github.com/naver |
+| 네이버 | 269 | 2349 | https://github.com/naver |
 | 인베슘 | 199 | 69 | https://github.com/hamonikr |
-| 삼성전자 | 180 | 1323 | https://github.com/Samsung |
+| 삼성전자 | 180 | 1326 | https://github.com/Samsung |
 | 센드버드 | 194 | 336 | https://github.com/sendbird |
 | 데브시스터즈 | 178 | 242 | https://github.com/devsisters |
 | 리디 | 114 | 166 | https://github.com/ridi |
 | 라인 | 157 | 1286 | https://github.com/line |
-| 당근마켓 | 120 | 1124 | https://github.com/daangn |
+| 당근마켓 | 120 | 1123 | https://github.com/daangn |
 | NHN | 106 | 759 | https://github.com/nhn |
 | 래블업 | 131 | 119 | https://github.com/lablup |
 | 하이퍼커넥트 | 42 | 49 | https://github.com/hyperconnect |
@@ -38,7 +38,7 @@
 | 야놀자 | 2 | 27 | https://github.com/yanolja |
 | VCNC | 21 | 14 | https://github.com/VCNC |
 | 다나와 | 1 | 9 | https://github.com/danawalab |
-| 뱅크샐러드 | 19 | 104 | https://github.com/banksalad |
+| 뱅크샐러드 | 19 | 105 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 18 | 85 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 10 | 24 | https://github.com/dealicious-inc |
 | 몰로코 | 17 | 124 | https://github.com/moloco |
