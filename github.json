@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1326,
+        "followers": 1325,
         "organization_id": "Samsung",
         "public_repos": 180
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1286,
+        "followers": 1284,
         "organization_id": "line",
         "public_repos": 157
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 119,
+        "followers": 120,
         "organization_id": "lablup",
         "public_repos": 131
       }
@@ -123,12 +123,12 @@
     "name": "삼성SDS",
     "organizations": [
       {
-        "followers": 24,
+        "followers": 23,
         "organization_id": "samsung-cnct",
         "public_repos": 80
       },
       {
-        "followers": 8,
+        "followers": 7,
         "organization_id": "SDSACT",
         "public_repos": 7
       },
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 123,
+        "followers": 122,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 56
       }
@@ -203,7 +203,7 @@
     "name": "직방",
     "organizations": [
       {
-        "followers": 42,
+        "followers": 41,
         "organization_id": "zigbang",
         "public_repos": 33
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 196,
+        "followers": 195,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1642,
+        "followers": 1641,
         "organization_id": "toss",
         "public_repos": 33
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 36,
+        "followers": 35,
         "organization_id": "myrealtrip",
         "public_repos": 35
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 82,
+        "followers": 81,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 103,
+        "followers": 102,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -313,7 +313,7 @@
     "name": "야놀자",
     "organizations": [
       {
-        "followers": 27,
+        "followers": 26,
         "organization_id": "yanolja",
         "public_repos": 2
       }
@@ -343,7 +343,7 @@
     "name": "뱅크샐러드",
     "organizations": [
       {
-        "followers": 104,
+        "followers": 103,
         "organization_id": "banksalad",
         "public_repos": 19
       }
@@ -353,7 +353,7 @@
     "name": "카카오엔터프라이즈",
     "organizations": [
       {
-        "followers": 85,
+        "followers": 84,
         "organization_id": "kakaoenterprise",
         "public_repos": 18
       }
@@ -393,7 +393,7 @@
     "name": "SK텔레콤",
     "organizations": [
       {
-        "followers": 35,
+        "followers": 34,
         "organization_id": "sktelecom",
         "public_repos": 4
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 103,
+        "followers": 102,
         "organization_id": "thefarmersfront",
         "public_repos": 10
       }
@@ -413,7 +413,7 @@
     "name": "티몬",
     "organizations": [
       {
-        "followers": 3,
+        "followers": 2,
         "organization_id": "tmoncorp",
         "public_repos": 8
       }
@@ -458,7 +458,7 @@
     "name": "요기요",
     "organizations": [
       {
-        "followers": 109,
+        "followers": 108,
         "organization_id": "yogiyo",
         "public_repos": 39
       }
@@ -508,7 +508,7 @@
     "name": "네이버랩스",
     "organizations": [
       {
-        "followers": 37,
+        "followers": 36,
         "organization_id": "naverlabs",
         "public_repos": 4
       }
@@ -553,7 +553,7 @@
     "name": "신한은행",
     "organizations": [
       {
-        "followers": 10,
+        "followers": 9,
         "organization_id": "Shinhan-Bank",
         "public_repos": 1
       }
@@ -573,7 +573,7 @@
     "name": "카카오뱅크",
     "organizations": [
       {
-        "followers": 62,
+        "followers": 61,
         "organization_id": "kakaobank",
         "public_repos": 2
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 213,
+        "followers": 214,
         "organization_id": "planetarium",
         "public_repos": 195
       }
