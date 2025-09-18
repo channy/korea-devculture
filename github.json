@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1325,
+        "followers": 1328,
         "organization_id": "Samsung",
         "public_repos": 180
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1124,
+        "followers": 1125,
         "organization_id": "daangn",
         "public_repos": 120
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 573,
+        "followers": 574,
         "organization_id": "kakao",
         "public_repos": 66
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 80,
+        "followers": 81,
         "organization_id": "socar-inc",
         "public_repos": 30
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1642,
+        "followers": 1645,
         "organization_id": "toss",
         "public_repos": 33
       }
@@ -573,7 +573,7 @@
     "name": "카카오뱅크",
     "organizations": [
       {
-        "followers": 61,
+        "followers": 62,
         "organization_id": "kakaobank",
         "public_repos": 2
       }
