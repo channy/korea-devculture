@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2355,
+        "followers": 2357,
         "organization_id": "naver",
         "public_repos": 269
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1330,
+        "followers": 1331,
         "organization_id": "Samsung",
         "public_repos": 180
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1288,
+        "followers": 1287,
         "organization_id": "line",
         "public_repos": 157
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 575,
+        "followers": 576,
         "organization_id": "kakao",
         "public_repos": 66
       }
@@ -233,7 +233,7 @@
     "name": "한글과컴퓨터",
     "organizations": [
       {
-        "followers": 20,
+        "followers": 21,
         "organization_id": "hancom-io",
         "public_repos": 31
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1646,
+        "followers": 1648,
         "organization_id": "toss",
         "public_repos": 33
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 102,
+        "followers": 103,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 103,
+        "followers": 104,
         "organization_id": "thefarmersfront",
         "public_repos": 10
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 182,
+        "followers": 183,
         "organization_id": "musinsa",
         "public_repos": 1
       }
@@ -563,7 +563,7 @@
     "name": "크레프톤",
     "organizations": [
       {
-        "followers": 4,
+        "followers": 5,
         "organization_id": "Krafton",
         "public_repos": 0
       }
