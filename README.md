@@ -20,8 +20,8 @@
 | 센드버드 | 194 | 337 | https://github.com/sendbird |
 | 삼성전자 | 180 | 1333 | https://github.com/Samsung |
 | 데브시스터즈 | 178 | 243 | https://github.com/devsisters |
-| 라인 | 157 | 1288 | https://github.com/line |
+| 라인 | 157 | 1289 | https://github.com/line |
 | 래블업 | 131 | 123 | https://github.com/lablup |
-| 당근마켓 | 120 | 1129 | https://github.com/daangn |
+| 당근마켓 | 120 | 1130 | https://github.com/daangn |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->
