@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2360,
+        "followers": 2359,
         "organization_id": "naver",
         "public_repos": 269
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1333,
+        "followers": 1335,
         "organization_id": "Samsung",
         "public_repos": 180
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 243,
+        "followers": 244,
         "organization_id": "devsisters",
         "public_repos": 178
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1289,
+        "followers": 1292,
         "organization_id": "line",
         "public_repos": 157
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1130,
+        "followers": 1132,
         "organization_id": "daangn",
         "public_repos": 120
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 123,
+        "followers": 124,
         "organization_id": "lablup",
         "public_repos": 131
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 578,
+        "followers": 580,
         "organization_id": "kakao",
         "public_repos": 66
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1654,
+        "followers": 1657,
         "organization_id": "toss",
         "public_repos": 33
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 104,
+        "followers": 105,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -355,7 +355,7 @@
       {
         "followers": 84,
         "organization_id": "kakaoenterprise",
-        "public_repos": 18
+        "public_repos": 19
       }
     ]
   },
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 104,
+        "followers": 105,
         "organization_id": "42dot",
         "public_repos": 6
       }
