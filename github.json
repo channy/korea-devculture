@@ -33,9 +33,9 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1335,
+        "followers": 1336,
         "organization_id": "Samsung",
-        "public_repos": 180
+        "public_repos": 181
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1292,
+        "followers": 1293,
         "organization_id": "line",
         "public_repos": 157
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1132,
+        "followers": 1133,
         "organization_id": "daangn",
         "public_repos": 120
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 580,
+        "followers": 581,
         "organization_id": "kakao",
         "public_repos": 66
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1657,
+        "followers": 1656,
         "organization_id": "toss",
         "public_repos": 33
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 35,
+        "followers": 36,
         "organization_id": "myrealtrip",
         "public_repos": 35
       }
@@ -303,7 +303,7 @@
     "name": "드라마앤컴퍼니",
     "organizations": [
       {
-        "followers": 36,
+        "followers": 37,
         "organization_id": "dramancompany",
         "public_repos": 13
       }
@@ -355,7 +355,7 @@
       {
         "followers": 84,
         "organization_id": "kakaoenterprise",
-        "public_repos": 19
+        "public_repos": 20
       }
     ]
   },
