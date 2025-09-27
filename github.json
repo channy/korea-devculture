@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2359,
+        "followers": 2360,
         "organization_id": "naver",
         "public_repos": 269
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1336,
+        "followers": 1339,
         "organization_id": "Samsung",
         "public_repos": 181
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 337,
+        "followers": 338,
         "organization_id": "sendbird",
         "public_repos": 194
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 244,
+        "followers": 245,
         "organization_id": "devsisters",
         "public_repos": 178
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1293,
+        "followers": 1294,
         "organization_id": "line",
         "public_repos": 157
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1133,
+        "followers": 1134,
         "organization_id": "daangn",
         "public_repos": 120
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 762,
+        "followers": 763,
         "organization_id": "nhn",
         "public_repos": 106
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 88,
+        "followers": 89,
         "organization_id": "bucketplace",
         "public_repos": 11
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1656,
+        "followers": 1655,
         "organization_id": "toss",
         "public_repos": 33
       }
@@ -353,7 +353,7 @@
     "name": "카카오엔터프라이즈",
     "organizations": [
       {
-        "followers": 84,
+        "followers": 85,
         "organization_id": "kakaoenterprise",
         "public_repos": 20
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 104,
+        "followers": 105,
         "organization_id": "thefarmersfront",
         "public_repos": 10
       }
@@ -573,7 +573,7 @@
     "name": "카카오뱅크",
     "organizations": [
       {
-        "followers": 62,
+        "followers": 63,
         "organization_id": "kakaobank",
         "public_repos": 2
       }
