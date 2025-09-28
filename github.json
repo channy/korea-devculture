@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2360,
+        "followers": 2361,
         "organization_id": "naver",
         "public_repos": 269
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 245,
+        "followers": 246,
         "organization_id": "devsisters",
         "public_repos": 178
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1655,
+        "followers": 1656,
         "organization_id": "toss",
         "public_repos": 33
       }

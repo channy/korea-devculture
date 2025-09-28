@@ -6,11 +6,11 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
-| 네이버 | 269 | 2360 | https://github.com/naver |
+| 네이버 | 269 | 2361 | https://github.com/naver |
 | 인베슘 | 199 | 69 | https://github.com/hamonikr |
 | 삼성전자 | 181 | 1339 | https://github.com/Samsung |
 | 센드버드 | 194 | 338 | https://github.com/sendbird |
-| 데브시스터즈 | 178 | 245 | https://github.com/devsisters |
+| 데브시스터즈 | 178 | 246 | https://github.com/devsisters |
 | 리디 | 114 | 167 | https://github.com/ridi |
 | 라인 | 157 | 1294 | https://github.com/line |
 | 당근마켓 | 120 | 1134 | https://github.com/daangn |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 21 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 144 | https://github.com/ncsoft |
 | 버켓플레이스 | 11 | 89 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 33 | 1655 | https://github.com/toss |
+| 비바리퍼블리카 | 33 | 1656 | https://github.com/toss |
 | 마이리얼트립 | 35 | 36 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 82 | https://github.com/coupang |
 | LG전자 | 20 | 105 | https://github.com/LGE-OSS |
