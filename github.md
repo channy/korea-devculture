@@ -9,10 +9,10 @@
 | 네이버 | 269 | 2364 | https://github.com/naver |
 | 인베슘 | 199 | 70 | https://github.com/hamonikr |
 | 삼성전자 | 182 | 1339 | https://github.com/Samsung |
-| 센드버드 | 194 | 340 | https://github.com/sendbird |
+| 센드버드 | 194 | 341 | https://github.com/sendbird |
 | 데브시스터즈 | 178 | 246 | https://github.com/devsisters |
 | 리디 | 114 | 166 | https://github.com/ridi |
-| 라인 | 157 | 1300 | https://github.com/line |
+| 라인 | 158 | 1301 | https://github.com/line |
 | 당근마켓 | 120 | 1136 | https://github.com/daangn |
 | NHN | 106 | 764 | https://github.com/nhn |
 | 래블업 | 131 | 123 | https://github.com/lablup |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 22 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 144 | https://github.com/ncsoft |
 | 버켓플레이스 | 11 | 89 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 35 | 1663 | https://github.com/toss |
+| 비바리퍼블리카 | 35 | 1666 | https://github.com/toss |
 | 마이리얼트립 | 35 | 36 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 82 | https://github.com/coupang |
 | LG전자 | 20 | 105 | https://github.com/LGE-OSS |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 5 | https://github.com/Krafton |
 | 카카오뱅크 | 2 | 63 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 195 | 215 | https://github.com/planetarium |
+| 플라네타리움 | 195 | 219 | https://github.com/planetarium |
 | 큐브리드 | 44 | 32 | https://github.com/CUBRID |
 | 코클 | 14 | 23 | https://github.com/cochlearai |
 | 스켈터랩스 | 11 | 12 | https://github.com/SkelterLabsInc |

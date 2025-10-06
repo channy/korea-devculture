@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 340,
+        "followers": 341,
         "organization_id": "sendbird",
         "public_repos": 194
       }
@@ -73,9 +73,9 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1300,
+        "followers": 1301,
         "organization_id": "line",
-        "public_repos": 157
+        "public_repos": 158
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1663,
+        "followers": 1666,
         "organization_id": "toss",
         "public_repos": 35
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 215,
+        "followers": 219,
         "organization_id": "planetarium",
         "public_repos": 195
       }
