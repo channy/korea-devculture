@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2366,
+        "followers": 2368,
         "organization_id": "naver",
         "public_repos": 269
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1341,
+        "followers": 1340,
         "organization_id": "Samsung",
         "public_repos": 182
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 341,
+        "followers": 340,
         "organization_id": "sendbird",
         "public_repos": 194
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 248,
+        "followers": 247,
         "organization_id": "devsisters",
         "public_repos": 178
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1300,
+        "followers": 1301,
         "organization_id": "line",
         "public_repos": 158
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 583,
+        "followers": 584,
         "organization_id": "kakao",
         "public_repos": 66
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 508,
+        "followers": 507,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -195,7 +195,7 @@
       {
         "followers": 71,
         "organization_id": "green-labs",
-        "public_repos": 45
+        "public_repos": 46
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1667,
+        "followers": 1669,
         "organization_id": "toss",
         "public_repos": 35
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 82,
+        "followers": 81,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -305,7 +305,7 @@
       {
         "followers": 37,
         "organization_id": "dramancompany",
-        "public_repos": 13
+        "public_repos": 11
       }
     ]
   },
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 108,
+        "followers": 109,
         "organization_id": "42dot",
         "public_repos": 6
       }
@@ -603,7 +603,7 @@
     "name": "큐브리드",
     "organizations": [
       {
-        "followers": 32,
+        "followers": 33,
         "organization_id": "CUBRID",
         "public_repos": 44
       }
