@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2377,
+        "followers": 2378,
         "organization_id": "naver",
         "public_repos": 269
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1342,
+        "followers": 1343,
         "organization_id": "Samsung",
         "public_repos": 182
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1143,
+        "followers": 1148,
         "organization_id": "daangn",
         "public_repos": 120
       }
@@ -165,7 +165,7 @@
       {
         "followers": 584,
         "organization_id": "kakao",
-        "public_repos": 66
+        "public_repos": 67
       }
     ]
   },
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 197,
+        "followers": 198,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1676,
+        "followers": 1681,
         "organization_id": "toss",
         "public_repos": 35
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 81,
+        "followers": 82,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -478,7 +478,7 @@
     "name": "힐링페이퍼",
     "organizations": [
       {
-        "followers": 19,
+        "followers": 20,
         "organization_id": "healingpaper",
         "public_repos": 3
       }
@@ -593,9 +593,9 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 217,
+        "followers": 216,
         "organization_id": "planetarium",
-        "public_repos": 196
+        "public_repos": 197
       }
     ]
   },
