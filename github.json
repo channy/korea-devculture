@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2393,
+        "followers": 2392,
         "organization_id": "naver",
         "public_repos": 270
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1309,
+        "followers": 1310,
         "organization_id": "line",
         "public_repos": 158
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 126,
+        "followers": 127,
         "organization_id": "lablup",
         "public_repos": 131
       }
@@ -275,7 +275,7 @@
       {
         "followers": 36,
         "organization_id": "myrealtrip",
-        "public_repos": 35
+        "public_repos": 36
       }
     ]
   },
@@ -353,7 +353,7 @@
     "name": "카카오엔터프라이즈",
     "organizations": [
       {
-        "followers": 86,
+        "followers": 88,
         "organization_id": "kakaoenterprise",
         "public_repos": 20
       }
@@ -375,7 +375,7 @@
       {
         "followers": 128,
         "organization_id": "moloco",
-        "public_repos": 17
+        "public_repos": 18
       }
     ]
   },

@@ -6,16 +6,16 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
-| 네이버 | 270 | 2393 | https://github.com/naver |
+| 네이버 | 270 | 2392 | https://github.com/naver |
 | 인베슘 | 199 | 70 | https://github.com/hamonikr |
 | 삼성전자 | 181 | 1354 | https://github.com/Samsung |
 | 센드버드 | 194 | 340 | https://github.com/sendbird |
 | 데브시스터즈 | 178 | 250 | https://github.com/devsisters |
 | 리디 | 114 | 167 | https://github.com/ridi |
-| 라인 | 158 | 1309 | https://github.com/line |
+| 라인 | 158 | 1310 | https://github.com/line |
 | 당근마켓 | 120 | 1149 | https://github.com/daangn |
 | NHN | 108 | 765 | https://github.com/nhn |
-| 래블업 | 131 | 126 | https://github.com/lablup |
+| 래블업 | 131 | 127 | https://github.com/lablup |
 | 하이퍼커넥트 | 41 | 51 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 34 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 47 | 58 | https://github.com/riiid |
@@ -31,7 +31,7 @@
 | 엔씨소프트 | 40 | 146 | https://github.com/ncsoft |
 | 버켓플레이스 | 11 | 88 | https://github.com/bucketplace |
 | 비바리퍼블리카 | 36 | 1699 | https://github.com/toss |
-| 마이리얼트립 | 35 | 36 | https://github.com/myrealtrip |
+| 마이리얼트립 | 36 | 36 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 82 | https://github.com/coupang |
 | LG전자 | 20 | 106 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 9 | 37 | https://github.com/dramancompany |
@@ -39,9 +39,9 @@
 | VCNC | 21 | 14 | https://github.com/VCNC |
 | 다나와 | 1 | 9 | https://github.com/danawalab |
 | 뱅크샐러드 | 19 | 103 | https://github.com/banksalad |
-| 카카오엔터프라이즈 | 20 | 86 | https://github.com/kakaoenterprise |
+| 카카오엔터프라이즈 | 20 | 88 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 10 | 24 | https://github.com/dealicious-inc |
-| 몰로코 | 17 | 128 | https://github.com/moloco |
+| 몰로코 | 18 | 128 | https://github.com/moloco |
 | 네이버제트 | 10 | 56 | https://github.com/naverz |
 | SK텔레콤 | 5 | 35 | https://github.com/sktelecom |
 | 컬리 | 10 | 108 | https://github.com/thefarmersfront |
