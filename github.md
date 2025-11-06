@@ -6,13 +6,13 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
-| 네이버 | 271 | 2393 | https://github.com/naver |
+| 네이버 | 271 | 2395 | https://github.com/naver |
 | 인베슘 | 199 | 70 | https://github.com/hamonikr |
 | 삼성전자 | 181 | 1368 | https://github.com/Samsung |
 | 센드버드 | 195 | 340 | https://github.com/sendbird |
 | 데브시스터즈 | 178 | 252 | https://github.com/devsisters |
 | 리디 | 114 | 167 | https://github.com/ridi |
-| 라인 | 158 | 1316 | https://github.com/line |
+| 라인 | 158 | 1317 | https://github.com/line |
 | 당근마켓 | 121 | 1149 | https://github.com/daangn |
 | NHN | 108 | 766 | https://github.com/nhn |
 | 래블업 | 131 | 127 | https://github.com/lablup |
@@ -20,7 +20,7 @@
 | 삼성SDS | 95 | 34 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 47 | 58 | https://github.com/riiid |
 | 버즈빌 | 50 | 20 | https://github.com/Buzzvil |
-| 카카오 | 67 | 591 | https://github.com/kakao |
+| 카카오 | 67 | 592 | https://github.com/kakao |
 | 네이버클라우드 | 56 | 123 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 507 | https://github.com/kakaobrain |
 | 그린랩스 | 46 | 70 | https://github.com/green-labs |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 23 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 146 | https://github.com/ncsoft |
 | 버켓플레이스 | 11 | 88 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 36 | 1704 | https://github.com/toss |
+| 비바리퍼블리카 | 36 | 1708 | https://github.com/toss |
 | 마이리얼트립 | 36 | 36 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 83 | https://github.com/coupang |
 | LG전자 | 20 | 106 | https://github.com/LGE-OSS |
@@ -41,7 +41,7 @@
 | 뱅크샐러드 | 19 | 103 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 20 | 88 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 10 | 24 | https://github.com/dealicious-inc |
-| 몰로코 | 17 | 128 | https://github.com/moloco |
+| 몰로코 | 18 | 128 | https://github.com/moloco |
 | 네이버제트 | 10 | 56 | https://github.com/naverz |
 | SK텔레콤 | 5 | 35 | https://github.com/sktelecom |
 | 컬리 | 10 | 108 | https://github.com/thefarmersfront |
