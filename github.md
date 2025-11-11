@@ -6,33 +6,33 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
-| 네이버 | 272 | 2401 | https://github.com/naver |
+| 네이버 | 272 | 2404 | https://github.com/naver |
 | 인베슘 | 199 | 70 | https://github.com/hamonikr |
 | 삼성전자 | 181 | 1373 | https://github.com/Samsung |
 | 센드버드 | 195 | 340 | https://github.com/sendbird |
 | 데브시스터즈 | 178 | 253 | https://github.com/devsisters |
 | 리디 | 114 | 167 | https://github.com/ridi |
-| 라인 | 158 | 1320 | https://github.com/line |
-| 당근마켓 | 121 | 1150 | https://github.com/daangn |
-| NHN | 108 | 765 | https://github.com/nhn |
+| 라인 | 158 | 1321 | https://github.com/line |
+| 당근마켓 | 121 | 1151 | https://github.com/daangn |
+| NHN | 108 | 766 | https://github.com/nhn |
 | 래블업 | 132 | 127 | https://github.com/lablup |
 | 하이퍼커넥트 | 41 | 52 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 34 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 47 | 58 | https://github.com/riiid |
 | 버즈빌 | 50 | 20 | https://github.com/Buzzvil |
 | 카카오 | 67 | 593 | https://github.com/kakao |
-| 네이버클라우드 | 56 | 123 | https://github.com/NaverCloudPlatform |
+| 네이버클라우드 | 56 | 124 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 507 | https://github.com/kakaobrain |
-| 그린랩스 | 46 | 73 | https://github.com/green-labs |
+| 그린랩스 | 46 | 74 | https://github.com/green-labs |
 | 직방 | 33 | 42 | https://github.com/zigbang |
 | 우아한형제들 | 22 | 197 | https://github.com/woowabros |
 | 쏘카 | 30 | 84 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 23 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 147 | https://github.com/ncsoft |
 | 버켓플레이스 | 11 | 88 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 36 | 1711 | https://github.com/toss |
+| 비바리퍼블리카 | 36 | 1712 | https://github.com/toss |
 | 마이리얼트립 | 36 | 36 | https://github.com/myrealtrip |
-| 쿠팡 | 18 | 83 | https://github.com/coupang |
+| 쿠팡 | 18 | 84 | https://github.com/coupang |
 | LG전자 | 20 | 107 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 9 | 37 | https://github.com/dramancompany |
 | 야놀자 | 2 | 27 | https://github.com/yanolja |
@@ -55,7 +55,7 @@
 | 11번가 | 10 | 20 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 9 | https://github.com/zuminternet |
 | 네이버랩스 | 4 | 35 | https://github.com/naverlabs |
-| 무신사 | 1 | 183 | https://github.com/musinsa |
+| 무신사 | 1 | 184 | https://github.com/musinsa |
 | SK | 1 | 2 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (1) |
 | 카카오페이 | 1 | 16 | https://github.com/kakaopay |
 | 신한은행 | 1 | 9 | https://github.com/Shinhan-Bank |

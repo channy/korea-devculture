@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2401,
+        "followers": 2404,
         "organization_id": "naver",
         "public_repos": 272
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1320,
+        "followers": 1321,
         "organization_id": "line",
         "public_repos": 158
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1150,
+        "followers": 1151,
         "organization_id": "daangn",
         "public_repos": 121
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 765,
+        "followers": 766,
         "organization_id": "nhn",
         "public_repos": 108
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 123,
+        "followers": 124,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 56
       }
@@ -193,7 +193,7 @@
     "name": "그린랩스",
     "organizations": [
       {
-        "followers": 73,
+        "followers": 74,
         "organization_id": "green-labs",
         "public_repos": 46
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1711,
+        "followers": 1712,
         "organization_id": "toss",
         "public_repos": 36
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 83,
+        "followers": 84,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 183,
+        "followers": 184,
         "organization_id": "musinsa",
         "public_repos": 1
       }
