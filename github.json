@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2413,
+        "followers": 2412,
         "organization_id": "naver",
         "public_repos": 272
       }
@@ -73,9 +73,9 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1327,
+        "followers": 1328,
         "organization_id": "line",
-        "public_repos": 158
+        "public_repos": 159
       }
     ]
   },
@@ -145,7 +145,7 @@
       {
         "followers": 59,
         "organization_id": "riiid",
-        "public_repos": 47
+        "public_repos": 48
       }
     ]
   },
@@ -543,7 +543,7 @@
     "name": "카카오페이",
     "organizations": [
       {
-        "followers": 16,
+        "followers": 17,
         "organization_id": "kakaopay",
         "public_repos": 1
       }
