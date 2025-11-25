@@ -35,7 +35,7 @@
       {
         "followers": 1385,
         "organization_id": "Samsung",
-        "public_repos": 181
+        "public_repos": 182
       }
     ]
   },
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 253,
+        "followers": 254,
         "organization_id": "devsisters",
         "public_repos": 178
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1328,
+        "followers": 1330,
         "organization_id": "line",
         "public_repos": 159
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1163,
+        "followers": 1165,
         "organization_id": "daangn",
         "public_repos": 122
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1720,
+        "followers": 1721,
         "organization_id": "toss",
         "public_repos": 36
       }
@@ -275,7 +275,7 @@
       {
         "followers": 36,
         "organization_id": "myrealtrip",
-        "public_repos": 36
+        "public_repos": 37
       }
     ]
   },
