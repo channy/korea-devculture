@@ -6,14 +6,14 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
-| 네이버 | 272 | 2443 | https://github.com/naver |
+| 네이버 | 272 | 2444 | https://github.com/naver |
 | 인베슘 | 199 | 70 | https://github.com/hamonikr |
-| 삼성전자 | 182 | 1395 | https://github.com/Samsung |
+| 삼성전자 | 182 | 1396 | https://github.com/Samsung |
 | 센드버드 | 197 | 346 | https://github.com/sendbird |
 | 데브시스터즈 | 178 | 254 | https://github.com/devsisters |
 | 리디 | 114 | 167 | https://github.com/ridi |
 | 라인 | 160 | 1334 | https://github.com/line |
-| 당근마켓 | 122 | 1176 | https://github.com/daangn |
+| 당근마켓 | 122 | 1177 | https://github.com/daangn |
 | NHN | 108 | 768 | https://github.com/nhn |
 | 래블업 | 133 | 127 | https://github.com/lablup |
 | 하이퍼커넥트 | 41 | 53 | https://github.com/hyperconnect |
@@ -25,7 +25,7 @@
 | 카카오브레인 | 40 | 506 | https://github.com/kakaobrain |
 | 그린랩스 | 46 | 74 | https://github.com/green-labs |
 | 직방 | 31 | 42 | https://github.com/zigbang |
-| 우아한형제들 | 22 | 197 | https://github.com/woowabros |
+| 우아한형제들 | 22 | 198 | https://github.com/woowabros |
 | 쏘카 | 31 | 84 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 24 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 147 | https://github.com/ncsoft |
@@ -47,7 +47,7 @@
 | 컬리 | 10 | 111 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 2 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 3 | https://github.com/megazone-devops |
-| 현대자동차 | 10 | 168 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (6) |
+| 현대자동차 | 10 | 169 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (6) |
 | 포스코ICT | 9 | 8 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 111 | https://github.com/yogiyo |
 | 가비아 | 7 | 15 | https://github.com/gabia |
