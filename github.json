@@ -3,7 +3,7 @@
     "name": "티맥스클라우드",
     "organizations": [
       {
-        "followers": 57,
+        "followers": 56,
         "organization_id": "tmax-cloud",
         "public_repos": 271
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1399,
+        "followers": 1400,
         "organization_id": "Samsung",
         "public_repos": 182
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1334,
+        "followers": 1336,
         "organization_id": "line",
         "public_repos": 160
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1180,
+        "followers": 1181,
         "organization_id": "daangn",
         "public_repos": 122
       }
@@ -163,9 +163,9 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 597,
+        "followers": 599,
         "organization_id": "kakao",
-        "public_repos": 67
+        "public_repos": 68
       }
     ]
   },
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 506,
+        "followers": 505,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1740,
+        "followers": 1742,
         "organization_id": "toss",
         "public_repos": 39
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 83,
+        "followers": 85,
         "organization_id": "coupang",
         "public_repos": 18
       }
