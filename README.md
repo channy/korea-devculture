@@ -22,6 +22,6 @@
 | 데브시스터즈 | 178 | 254 | https://github.com/devsisters |
 | 라인 | 160 | 1339 | https://github.com/line |
 | 래블업 | 133 | 127 | https://github.com/lablup |
-| 당근마켓 | 122 | 1182 | https://github.com/daangn |
+| 당근마켓 | 122 | 1183 | https://github.com/daangn |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->

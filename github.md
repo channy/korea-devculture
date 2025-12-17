@@ -13,7 +13,7 @@
 | 데브시스터즈 | 178 | 254 | https://github.com/devsisters |
 | 리디 | 114 | 167 | https://github.com/ridi |
 | 라인 | 160 | 1339 | https://github.com/line |
-| 당근마켓 | 122 | 1182 | https://github.com/daangn |
+| 당근마켓 | 122 | 1183 | https://github.com/daangn |
 | NHN | 107 | 770 | https://github.com/nhn |
 | 래블업 | 133 | 127 | https://github.com/lablup |
 | 하이퍼커넥트 | 41 | 53 | https://github.com/hyperconnect |
