@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2451,
+        "followers": 2455,
         "organization_id": "naver",
         "public_repos": 272
       }
@@ -203,7 +203,7 @@
     "name": "직방",
     "organizations": [
       {
-        "followers": 42,
+        "followers": 43,
         "organization_id": "zigbang",
         "public_repos": 31
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1743,
+        "followers": 1744,
         "organization_id": "toss",
         "public_repos": 42
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 111,
+        "followers": 112,
         "organization_id": "thefarmersfront",
         "public_repos": 10
       }
