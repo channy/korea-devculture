@@ -5,16 +5,16 @@
 
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
-| 티맥스클라우드 | 271 | 56 | https://github.com/tmax-cloud |
-| 네이버 | 272 | 2455 | https://github.com/naver |
+| 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
+| 네이버 | 272 | 2454 | https://github.com/naver |
 | 인베슘 | 199 | 70 | https://github.com/hamonikr |
-| 삼성전자 | 182 | 1404 | https://github.com/Samsung |
+| 삼성전자 | 182 | 1405 | https://github.com/Samsung |
 | 센드버드 | 197 | 347 | https://github.com/sendbird |
 | 데브시스터즈 | 178 | 254 | https://github.com/devsisters |
 | 리디 | 114 | 167 | https://github.com/ridi |
 | 라인 | 160 | 1339 | https://github.com/line |
 | 당근마켓 | 122 | 1183 | https://github.com/daangn |
-| NHN | 107 | 770 | https://github.com/nhn |
+| NHN | 107 | 771 | https://github.com/nhn |
 | 래블업 | 133 | 127 | https://github.com/lablup |
 | 하이퍼커넥트 | 41 | 53 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 34 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 24 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 147 | https://github.com/ncsoft |
 | 버켓플레이스 | 11 | 90 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 42 | 1744 | https://github.com/toss |
+| 비바리퍼블리카 | 42 | 1746 | https://github.com/toss |
 | 마이리얼트립 | 37 | 36 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 85 | https://github.com/coupang |
 | LG전자 | 20 | 108 | https://github.com/LGE-OSS |
@@ -43,7 +43,7 @@
 | 딜리셔스 | 10 | 24 | https://github.com/dealicious-inc |
 | 몰로코 | 19 | 127 | https://github.com/moloco |
 | 네이버제트 | 10 | 57 | https://github.com/naverz |
-| SK텔레콤 | 5 | 35 | https://github.com/sktelecom |
+| SK텔레콤 | 5 | 36 | https://github.com/sktelecom |
 | 컬리 | 10 | 112 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 2 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 3 | https://github.com/megazone-devops |
@@ -55,7 +55,7 @@
 | 11번가 | 10 | 20 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 9 | https://github.com/zuminternet |
 | 네이버랩스 | 4 | 36 | https://github.com/naverlabs |
-| 무신사 | 1 | 190 | https://github.com/musinsa |
+| 무신사 | 1 | 191 | https://github.com/musinsa |
 | SK | 1 | 2 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (1) |
 | 카카오페이 | 1 | 17 | https://github.com/kakaopay |
 | 신한은행 | 1 | 9 | https://github.com/Shinhan-Bank |
