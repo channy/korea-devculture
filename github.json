@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2454,
+        "followers": 2456,
         "organization_id": "naver",
         "public_repos": 272
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1407,
+        "followers": 1408,
         "organization_id": "Samsung",
         "public_repos": 182
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 36,
+        "followers": 37,
         "organization_id": "myrealtrip",
         "public_repos": 37
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 108,
+        "followers": 109,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }

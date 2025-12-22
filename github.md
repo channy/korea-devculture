@@ -6,9 +6,9 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
-| 네이버 | 272 | 2454 | https://github.com/naver |
+| 네이버 | 272 | 2456 | https://github.com/naver |
 | 인베슘 | 199 | 70 | https://github.com/hamonikr |
-| 삼성전자 | 182 | 1407 | https://github.com/Samsung |
+| 삼성전자 | 182 | 1408 | https://github.com/Samsung |
 | 센드버드 | 197 | 347 | https://github.com/sendbird |
 | 데브시스터즈 | 178 | 255 | https://github.com/devsisters |
 | 리디 | 114 | 167 | https://github.com/ridi |
@@ -31,9 +31,9 @@
 | 엔씨소프트 | 40 | 147 | https://github.com/ncsoft |
 | 버켓플레이스 | 11 | 90 | https://github.com/bucketplace |
 | 비바리퍼블리카 | 42 | 1746 | https://github.com/toss |
-| 마이리얼트립 | 37 | 36 | https://github.com/myrealtrip |
+| 마이리얼트립 | 37 | 37 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 84 | https://github.com/coupang |
-| LG전자 | 20 | 108 | https://github.com/LGE-OSS |
+| LG전자 | 20 | 109 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 9 | 38 | https://github.com/dramancompany |
 | 야놀자 | 2 | 27 | https://github.com/yanolja |
 | VCNC | 21 | 14 | https://github.com/VCNC |
