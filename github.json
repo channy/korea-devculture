@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2457,
+        "followers": 2459,
         "organization_id": "naver",
         "public_repos": 272
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1410,
+        "followers": 1411,
         "organization_id": "Samsung",
         "public_repos": 182
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1187,
+        "followers": 1188,
         "organization_id": "daangn",
         "public_repos": 122
       }
@@ -103,9 +103,9 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 128,
+        "followers": 129,
         "organization_id": "lablup",
-        "public_repos": 133
+        "public_repos": 134
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1750,
+        "followers": 1752,
         "organization_id": "toss",
         "public_repos": 43
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 109,
+        "followers": 110,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 112,
+        "followers": 113,
         "organization_id": "thefarmersfront",
         "public_repos": 10
       }
@@ -508,7 +508,7 @@
     "name": "네이버랩스",
     "organizations": [
       {
-        "followers": 36,
+        "followers": 37,
         "organization_id": "naverlabs",
         "public_repos": 4
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 190,
+        "followers": 189,
         "organization_id": "musinsa",
         "public_repos": 1
       }
