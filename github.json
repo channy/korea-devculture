@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1415,
+        "followers": 1416,
         "organization_id": "Samsung",
         "public_repos": 182
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 346,
+        "followers": 347,
         "organization_id": "sendbird",
         "public_repos": 197
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 168,
+        "followers": 169,
         "organization_id": "ridi",
         "public_repos": 114
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1192,
+        "followers": 1193,
         "organization_id": "daangn",
         "public_repos": 122
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 770,
+        "followers": 771,
         "organization_id": "nhn",
         "public_repos": 107
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 129,
+        "followers": 130,
         "organization_id": "lablup",
         "public_repos": 134
       }
@@ -123,12 +123,12 @@
     "name": "삼성SDS",
     "organizations": [
       {
-        "followers": 25,
+        "followers": 26,
         "organization_id": "samsung-cnct",
         "public_repos": 81
       },
       {
-        "followers": 7,
+        "followers": 8,
         "organization_id": "SDSACT",
         "public_repos": 7
       },
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 129,
+        "followers": 130,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 56
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 506,
+        "followers": 507,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1757,
+        "followers": 1759,
         "organization_id": "toss",
         "public_repos": 43
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 113,
+        "followers": 114,
         "organization_id": "thefarmersfront",
         "public_repos": 10
       }
