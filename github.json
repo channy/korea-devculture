@@ -23,7 +23,7 @@
     "name": "인베슘",
     "organizations": [
       {
-        "followers": 69,
+        "followers": 70,
         "organization_id": "hamonikr",
         "public_repos": 199
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1422,
+        "followers": 1424,
         "organization_id": "Samsung",
         "public_repos": 182
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1198,
+        "followers": 1199,
         "organization_id": "daangn",
         "public_repos": 123
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 772,
+        "followers": 773,
         "organization_id": "nhn",
         "public_repos": 107
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 598,
+        "followers": 599,
         "organization_id": "kakao",
         "public_repos": 69
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 508,
+        "followers": 510,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 198,
+        "followers": 199,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1772,
+        "followers": 1775,
         "organization_id": "toss",
         "public_repos": 44
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 111,
+        "followers": 110,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -403,9 +403,9 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 114,
+        "followers": 115,
         "organization_id": "thefarmersfront",
-        "public_repos": 10
+        "public_repos": 9
       }
     ]
   },
