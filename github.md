@@ -6,16 +6,16 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
-| 네이버 | 272 | 2477 | https://github.com/naver |
+| 네이버 | 272 | 2478 | https://github.com/naver |
 | 인베슘 | 199 | 71 | https://github.com/hamonikr |
-| 삼성전자 | 182 | 1426 | https://github.com/Samsung |
+| 삼성전자 | 182 | 1427 | https://github.com/Samsung |
 | 센드버드 | 197 | 350 | https://github.com/sendbird |
 | 데브시스터즈 | 178 | 255 | https://github.com/devsisters |
 | 리디 | 114 | 169 | https://github.com/ridi |
-| 라인 | 160 | 1345 | https://github.com/line |
+| 라인 | 160 | 1347 | https://github.com/line |
 | 당근마켓 | 123 | 1198 | https://github.com/daangn |
 | NHN | 107 | 772 | https://github.com/nhn |
-| 래블업 | 137 | 130 | https://github.com/lablup |
+| 래블업 | 138 | 130 | https://github.com/lablup |
 | 하이퍼커넥트 | 36 | 54 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 37 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 48 | 60 | https://github.com/riiid |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 24 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 149 | https://github.com/ncsoft |
 | 버켓플레이스 | 11 | 91 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 44 | 1778 | https://github.com/toss |
+| 비바리퍼블리카 | 44 | 1779 | https://github.com/toss |
 | 마이리얼트립 | 37 | 37 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 84 | https://github.com/coupang |
 | LG전자 | 20 | 109 | https://github.com/LGE-OSS |
@@ -64,7 +64,7 @@
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
 | 플라네타리움 | 198 | 214 | https://github.com/planetarium |
 | 큐브리드 | 45 | 34 | https://github.com/CUBRID |
-| 코클 | 14 | 23 | https://github.com/cochlearai |
+| 코클 | 15 | 23 | https://github.com/cochlearai |
 | 스켈터랩스 | 11 | 12 | https://github.com/SkelterLabsInc |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->
