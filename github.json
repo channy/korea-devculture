@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2479,
+        "followers": 2478,
         "organization_id": "naver",
         "public_repos": 272
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1427,
+        "followers": 1429,
         "organization_id": "Samsung",
         "public_repos": 182
       }
@@ -45,7 +45,7 @@
       {
         "followers": 350,
         "organization_id": "sendbird",
-        "public_repos": 197
+        "public_repos": 198
       }
     ]
   },
@@ -85,7 +85,7 @@
       {
         "followers": 1200,
         "organization_id": "daangn",
-        "public_repos": 123
+        "public_repos": 124
       }
     ]
   },
@@ -115,7 +115,7 @@
       {
         "followers": 54,
         "organization_id": "hyperconnect",
-        "public_repos": 36
+        "public_repos": 35
       }
     ]
   },
@@ -155,7 +155,7 @@
       {
         "followers": 20,
         "organization_id": "Buzzvil",
-        "public_repos": 51
+        "public_repos": 52
       }
     ]
   },
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 86,
+        "followers": 87,
         "organization_id": "socar-inc",
         "public_repos": 30
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 109,
+        "followers": 110,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 115,
+        "followers": 116,
         "organization_id": "thefarmersfront",
         "public_repos": 9
       }
