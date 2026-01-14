@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2478,
+        "followers": 2479,
         "organization_id": "naver",
         "public_repos": 272
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1429,
+        "followers": 1432,
         "organization_id": "Samsung",
         "public_repos": 182
       }
@@ -45,7 +45,7 @@
       {
         "followers": 350,
         "organization_id": "sendbird",
-        "public_repos": 198
+        "public_repos": 199
       }
     ]
   },
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 255,
+        "followers": 256,
         "organization_id": "devsisters",
         "public_repos": 178
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1349,
+        "followers": 1350,
         "organization_id": "line",
         "public_repos": 160
       }
@@ -105,7 +105,7 @@
       {
         "followers": 131,
         "organization_id": "lablup",
-        "public_repos": 138
+        "public_repos": 139
       }
     ]
   },
@@ -113,7 +113,7 @@
     "name": "하이퍼커넥트",
     "organizations": [
       {
-        "followers": 54,
+        "followers": 55,
         "organization_id": "hyperconnect",
         "public_repos": 35
       }
@@ -233,7 +233,7 @@
     "name": "한글과컴퓨터",
     "organizations": [
       {
-        "followers": 24,
+        "followers": 25,
         "organization_id": "hancom-io",
         "public_repos": 31
       }
@@ -275,7 +275,7 @@
       {
         "followers": 37,
         "organization_id": "myrealtrip",
-        "public_repos": 37
+        "public_repos": 38
       }
     ]
   },
@@ -438,7 +438,7 @@
         "public_repos": 4
       },
       {
-        "followers": 117,
+        "followers": 118,
         "organization_id": "42dot",
         "public_repos": 6
       }
