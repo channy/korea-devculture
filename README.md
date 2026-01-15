@@ -17,10 +17,10 @@
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
 | 인베슘 | 199 | 71 | https://github.com/hamonikr |
 | 센드버드 | 199 | 350 | https://github.com/sendbird |
-| 플라네타리움 | 198 | 214 | https://github.com/planetarium |
-| 삼성전자 | 182 | 1432 | https://github.com/Samsung |
+| 플라네타리움 | 197 | 214 | https://github.com/planetarium |
+| 삼성전자 | 182 | 1435 | https://github.com/Samsung |
 | 데브시스터즈 | 178 | 256 | https://github.com/devsisters |
-| 라인 | 160 | 1350 | https://github.com/line |
+| 라인 | 160 | 1349 | https://github.com/line |
 | 래블업 | 139 | 131 | https://github.com/lablup |
 | 당근마켓 | 124 | 1200 | https://github.com/daangn |
 
