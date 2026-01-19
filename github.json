@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2479,
+        "followers": 2480,
         "organization_id": "naver",
         "public_repos": 272
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1353,
+        "followers": 1354,
         "organization_id": "line",
         "public_repos": 160
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1788,
+        "followers": 1789,
         "organization_id": "toss",
         "public_repos": 44
       }
@@ -433,7 +433,7 @@
     "name": "현대자동차",
     "organizations": [
       {
-        "followers": 53,
+        "followers": 54,
         "organization_id": "hkmc-airlab",
         "public_repos": 4
       },
