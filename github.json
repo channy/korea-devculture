@@ -35,7 +35,7 @@
       {
         "followers": 1438,
         "organization_id": "Samsung",
-        "public_repos": 182
+        "public_repos": 181
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1354,
+        "followers": 1355,
         "organization_id": "line",
         "public_repos": 160
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1204,
+        "followers": 1205,
         "organization_id": "daangn",
         "public_repos": 123
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 131,
+        "followers": 132,
         "organization_id": "lablup",
         "public_repos": 139
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1790,
+        "followers": 1794,
         "organization_id": "toss",
         "public_repos": 44
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 110,
+        "followers": 111,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 116,
+        "followers": 117,
         "organization_id": "thefarmersfront",
         "public_repos": 9
       }
