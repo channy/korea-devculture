@@ -6,13 +6,13 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
-| 네이버 | 272 | 2482 | https://github.com/naver |
+| 네이버 | 272 | 2481 | https://github.com/naver |
 | 인베슘 | 199 | 71 | https://github.com/hamonikr |
-| 삼성전자 | 181 | 1438 | https://github.com/Samsung |
+| 삼성전자 | 181 | 1440 | https://github.com/Samsung |
 | 센드버드 | 199 | 352 | https://github.com/sendbird |
-| 데브시스터즈 | 179 | 257 | https://github.com/devsisters |
+| 데브시스터즈 | 179 | 258 | https://github.com/devsisters |
 | 리디 | 114 | 169 | https://github.com/ridi |
-| 라인 | 160 | 1355 | https://github.com/line |
+| 라인 | 160 | 1356 | https://github.com/line |
 | 당근마켓 | 123 | 1205 | https://github.com/daangn |
 | NHN | 107 | 773 | https://github.com/nhn |
 | 래블업 | 139 | 132 | https://github.com/lablup |
@@ -27,13 +27,13 @@
 | 직방 | 31 | 45 | https://github.com/zigbang |
 | 우아한형제들 | 22 | 199 | https://github.com/woowabros |
 | 쏘카 | 30 | 89 | https://github.com/socar-inc |
-| 한글과컴퓨터 | 31 | 25 | https://github.com/hancom-io |
+| 한글과컴퓨터 | 31 | 26 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 149 | https://github.com/ncsoft |
 | 버켓플레이스 | 11 | 91 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 44 | 1794 | https://github.com/toss |
+| 비바리퍼블리카 | 44 | 1795 | https://github.com/toss |
 | 마이리얼트립 | 38 | 37 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 84 | https://github.com/coupang |
-| LG전자 | 20 | 111 | https://github.com/LGE-OSS |
+| LG전자 | 20 | 112 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 9 | 39 | https://github.com/dramancompany |
 | 야놀자 | 2 | 27 | https://github.com/yanolja |
 | VCNC | 21 | 14 | https://github.com/VCNC |
