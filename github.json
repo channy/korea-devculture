@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1445,
+        "followers": 1447,
         "organization_id": "Samsung",
         "public_repos": 181
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1362,
+        "followers": 1363,
         "organization_id": "line",
         "public_repos": 160
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1797,
+        "followers": 1798,
         "organization_id": "toss",
         "public_repos": 44
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 37,
+        "followers": 38,
         "organization_id": "myrealtrip",
         "public_repos": 38
       }
@@ -345,7 +345,7 @@
       {
         "followers": 104,
         "organization_id": "banksalad",
-        "public_repos": 19
+        "public_repos": 20
       }
     ]
   },
