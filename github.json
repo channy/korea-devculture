@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2490,
+        "followers": 2491,
         "organization_id": "naver",
         "public_repos": 272
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1454,
+        "followers": 1453,
         "organization_id": "Samsung",
         "public_repos": 181
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 260,
+        "followers": 261,
         "organization_id": "devsisters",
         "public_repos": 181
       }
@@ -73,9 +73,9 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1366,
+        "followers": 1367,
         "organization_id": "line",
-        "public_repos": 160
+        "public_repos": 161
       }
     ]
   },
@@ -113,7 +113,7 @@
     "name": "하이퍼커넥트",
     "organizations": [
       {
-        "followers": 56,
+        "followers": 57,
         "organization_id": "hyperconnect",
         "public_repos": 33
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1806,
+        "followers": 1809,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -345,7 +345,7 @@
       {
         "followers": 104,
         "organization_id": "banksalad",
-        "public_repos": 20
+        "public_repos": 19
       }
     ]
   },
@@ -393,7 +393,7 @@
     "name": "SK텔레콤",
     "organizations": [
       {
-        "followers": 36,
+        "followers": 35,
         "organization_id": "sktelecom",
         "public_repos": 5
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 200,
+        "followers": 201,
         "organization_id": "musinsa",
         "public_repos": 1
       }

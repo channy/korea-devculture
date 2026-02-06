@@ -6,17 +6,17 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
-| 네이버 | 272 | 2490 | https://github.com/naver |
+| 네이버 | 272 | 2491 | https://github.com/naver |
 | 인베슘 | 199 | 71 | https://github.com/hamonikr |
-| 삼성전자 | 181 | 1454 | https://github.com/Samsung |
+| 삼성전자 | 181 | 1453 | https://github.com/Samsung |
 | 센드버드 | 200 | 354 | https://github.com/sendbird |
-| 데브시스터즈 | 181 | 260 | https://github.com/devsisters |
+| 데브시스터즈 | 181 | 261 | https://github.com/devsisters |
 | 리디 | 116 | 170 | https://github.com/ridi |
-| 라인 | 160 | 1366 | https://github.com/line |
+| 라인 | 161 | 1367 | https://github.com/line |
 | 당근마켓 | 124 | 1206 | https://github.com/daangn |
 | NHN | 107 | 774 | https://github.com/nhn |
 | 래블업 | 140 | 131 | https://github.com/lablup |
-| 하이퍼커넥트 | 33 | 56 | https://github.com/hyperconnect |
+| 하이퍼커넥트 | 33 | 57 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 39 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 48 | 62 | https://github.com/riiid |
 | 버즈빌 | 51 | 21 | https://github.com/Buzzvil |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 26 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 148 | https://github.com/ncsoft |
 | 버켓플레이스 | 11 | 92 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 45 | 1806 | https://github.com/toss |
+| 비바리퍼블리카 | 45 | 1809 | https://github.com/toss |
 | 마이리얼트립 | 38 | 38 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 88 | https://github.com/coupang |
 | LG전자 | 20 | 111 | https://github.com/LGE-OSS |
@@ -38,12 +38,12 @@
 | 야놀자 | 2 | 27 | https://github.com/yanolja |
 | VCNC | 21 | 14 | https://github.com/VCNC |
 | 다나와 | 1 | 9 | https://github.com/danawalab |
-| 뱅크샐러드 | 20 | 104 | https://github.com/banksalad |
+| 뱅크샐러드 | 19 | 104 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 20 | 88 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 10 | 24 | https://github.com/dealicious-inc |
 | 몰로코 | 20 | 129 | https://github.com/moloco |
 | 네이버제트 | 10 | 56 | https://github.com/naverz |
-| SK텔레콤 | 5 | 36 | https://github.com/sktelecom |
+| SK텔레콤 | 5 | 35 | https://github.com/sktelecom |
 | 컬리 | 9 | 118 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 2 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 4 | https://github.com/megazone-devops |
@@ -55,7 +55,7 @@
 | 11번가 | 10 | 20 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 9 | https://github.com/zuminternet |
 | 네이버랩스 | 4 | 36 | https://github.com/naverlabs |
-| 무신사 | 1 | 200 | https://github.com/musinsa |
+| 무신사 | 1 | 201 | https://github.com/musinsa |
 | SK | 1 | 2 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (1) |
 | 카카오페이 | 1 | 17 | https://github.com/kakaopay |
 | 신한은행 | 1 | 9 | https://github.com/Shinhan-Bank |
