@@ -6,7 +6,7 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
-| 네이버 | 272 | 2491 | https://github.com/naver |
+| 네이버 | 272 | 2492 | https://github.com/naver |
 | 인베슘 | 199 | 71 | https://github.com/hamonikr |
 | 삼성전자 | 181 | 1453 | https://github.com/Samsung |
 | 센드버드 | 200 | 354 | https://github.com/sendbird |
@@ -27,10 +27,10 @@
 | 직방 | 31 | 45 | https://github.com/zigbang |
 | 우아한형제들 | 22 | 202 | https://github.com/woowabros |
 | 쏘카 | 30 | 90 | https://github.com/socar-inc |
-| 한글과컴퓨터 | 31 | 26 | https://github.com/hancom-io |
+| 한글과컴퓨터 | 31 | 27 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 148 | https://github.com/ncsoft |
 | 버켓플레이스 | 11 | 92 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 45 | 1809 | https://github.com/toss |
+| 비바리퍼블리카 | 45 | 1810 | https://github.com/toss |
 | 마이리얼트립 | 38 | 38 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 88 | https://github.com/coupang |
 | LG전자 | 20 | 111 | https://github.com/LGE-OSS |
@@ -41,7 +41,7 @@
 | 뱅크샐러드 | 19 | 104 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 20 | 88 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 10 | 24 | https://github.com/dealicious-inc |
-| 몰로코 | 20 | 129 | https://github.com/moloco |
+| 몰로코 | 20 | 130 | https://github.com/moloco |
 | 네이버제트 | 10 | 56 | https://github.com/naverz |
 | SK텔레콤 | 5 | 35 | https://github.com/sktelecom |
 | 컬리 | 9 | 118 | https://github.com/thefarmersfront |
