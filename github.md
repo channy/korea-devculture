@@ -8,11 +8,11 @@
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
 | 네이버 | 272 | 2491 | https://github.com/naver |
 | 인베슘 | 199 | 71 | https://github.com/hamonikr |
-| 삼성전자 | 181 | 1455 | https://github.com/Samsung |
+| 삼성전자 | 181 | 1457 | https://github.com/Samsung |
 | 센드버드 | 200 | 354 | https://github.com/sendbird |
 | 데브시스터즈 | 181 | 261 | https://github.com/devsisters |
 | 리디 | 116 | 170 | https://github.com/ridi |
-| 라인 | 161 | 1367 | https://github.com/line |
+| 라인 | 161 | 1369 | https://github.com/line |
 | 당근마켓 | 124 | 1206 | https://github.com/daangn |
 | NHN | 107 | 774 | https://github.com/nhn |
 | 래블업 | 140 | 131 | https://github.com/lablup |
@@ -33,7 +33,7 @@
 | 비바리퍼블리카 | 45 | 1810 | https://github.com/toss |
 | 마이리얼트립 | 38 | 38 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 88 | https://github.com/coupang |
-| LG전자 | 20 | 111 | https://github.com/LGE-OSS |
+| LG전자 | 20 | 112 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 9 | 39 | https://github.com/dramancompany |
 | 야놀자 | 2 | 27 | https://github.com/yanolja |
 | VCNC | 21 | 14 | https://github.com/VCNC |
@@ -55,7 +55,7 @@
 | 11번가 | 10 | 20 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 9 | https://github.com/zuminternet |
 | 네이버랩스 | 4 | 36 | https://github.com/naverlabs |
-| 무신사 | 1 | 202 | https://github.com/musinsa |
+| 무신사 | 1 | 203 | https://github.com/musinsa |
 | SK | 1 | 2 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (1) |
 | 카카오페이 | 1 | 17 | https://github.com/kakaopay |
 | 신한은행 | 1 | 9 | https://github.com/Shinhan-Bank |
