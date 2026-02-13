@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2497,
+        "followers": 2500,
         "organization_id": "naver",
         "public_repos": 272
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1458,
+        "followers": 1460,
         "organization_id": "Samsung",
         "public_repos": 181
       }
@@ -53,9 +53,9 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 261,
+        "followers": 262,
         "organization_id": "devsisters",
-        "public_repos": 181
+        "public_repos": 182
       }
     ]
   },
@@ -113,7 +113,7 @@
     "name": "하이퍼커넥트",
     "organizations": [
       {
-        "followers": 57,
+        "followers": 58,
         "organization_id": "hyperconnect",
         "public_repos": 33
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 130,
+        "followers": 131,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 56
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 209,
+        "followers": 211,
         "organization_id": "musinsa",
         "public_repos": 1
       }
@@ -595,7 +595,7 @@
       {
         "followers": 214,
         "organization_id": "planetarium",
-        "public_repos": 198
+        "public_repos": 197
       }
     ]
   },
