@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1460,
+        "followers": 1461,
         "organization_id": "Samsung",
         "public_repos": 181
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 355,
+        "followers": 356,
         "organization_id": "sendbird",
         "public_repos": 198
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 171,
+        "followers": 172,
         "organization_id": "ridi",
         "public_repos": 116
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1368,
+        "followers": 1367,
         "organization_id": "line",
         "public_repos": 161
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1815,
+        "followers": 1816,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 38,
+        "followers": 39,
         "organization_id": "myrealtrip",
         "public_repos": 38
       }
@@ -283,7 +283,7 @@
     "name": "쿠팡",
     "organizations": [
       {
-        "followers": 89,
+        "followers": 90,
         "organization_id": "coupang",
         "public_repos": 18
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 112,
+        "followers": 113,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 118,
+        "followers": 119,
         "organization_id": "thefarmersfront",
         "public_repos": 9
       }
