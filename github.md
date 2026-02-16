@@ -7,8 +7,8 @@
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 58 | https://github.com/tmax-cloud |
 | 네이버 | 272 | 2502 | https://github.com/naver |
-| 인베슘 | 199 | 71 | https://github.com/hamonikr |
-| 삼성전자 | 181 | 1462 | https://github.com/Samsung |
+| 인베슘 | 199 | 72 | https://github.com/hamonikr |
+| 삼성전자 | 181 | 1463 | https://github.com/Samsung |
 | 센드버드 | 198 | 356 | https://github.com/sendbird |
 | 데브시스터즈 | 182 | 262 | https://github.com/devsisters |
 | 리디 | 116 | 172 | https://github.com/ridi |
