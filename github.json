@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2502,
+        "followers": 2504,
         "organization_id": "naver",
         "public_repos": 272
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1368,
+        "followers": 1371,
         "organization_id": "line",
         "public_repos": 161
       }
@@ -128,7 +128,7 @@
         "public_repos": 81
       },
       {
-        "followers": 9,
+        "followers": 8,
         "organization_id": "SDSACT",
         "public_repos": 7
       },
