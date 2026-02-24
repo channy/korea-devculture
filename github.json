@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2510,
+        "followers": 2511,
         "organization_id": "naver",
         "public_repos": 272
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 359,
+        "followers": 360,
         "organization_id": "sendbird",
         "public_repos": 198
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1374,
+        "followers": 1373,
         "organization_id": "line",
         "public_repos": 161
       }
@@ -103,9 +103,9 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 137,
+        "followers": 138,
         "organization_id": "lablup",
-        "public_repos": 140
+        "public_repos": 141
       }
     ]
   },
@@ -203,7 +203,7 @@
     "name": "직방",
     "organizations": [
       {
-        "followers": 46,
+        "followers": 47,
         "organization_id": "zigbang",
         "public_repos": 31
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1820,
+        "followers": 1822,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -343,7 +343,7 @@
     "name": "뱅크샐러드",
     "organizations": [
       {
-        "followers": 104,
+        "followers": 106,
         "organization_id": "banksalad",
         "public_repos": 19
       }
