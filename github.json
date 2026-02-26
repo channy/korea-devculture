@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2513,
+        "followers": 2512,
         "organization_id": "naver",
         "public_repos": 273
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 139,
+        "followers": 140,
         "organization_id": "lablup",
         "public_repos": 141
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 131,
+        "followers": 132,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 56
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1822,
+        "followers": 1821,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -615,7 +615,7 @@
       {
         "followers": 23,
         "organization_id": "cochlearai",
-        "public_repos": 15
+        "public_repos": 16
       }
     ]
   },

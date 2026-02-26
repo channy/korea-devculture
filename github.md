@@ -6,7 +6,7 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 59 | https://github.com/tmax-cloud |
-| 네이버 | 273 | 2513 | https://github.com/naver |
+| 네이버 | 273 | 2512 | https://github.com/naver |
 | 인베슘 | 199 | 73 | https://github.com/hamonikr |
 | 삼성전자 | 181 | 1471 | https://github.com/Samsung |
 | 센드버드 | 198 | 360 | https://github.com/sendbird |
@@ -15,13 +15,13 @@
 | 라인 | 161 | 1374 | https://github.com/line |
 | 당근마켓 | 124 | 1213 | https://github.com/daangn |
 | NHN | 107 | 774 | https://github.com/nhn |
-| 래블업 | 141 | 139 | https://github.com/lablup |
+| 래블업 | 141 | 140 | https://github.com/lablup |
 | 하이퍼커넥트 | 33 | 57 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 39 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 48 | 62 | https://github.com/riiid |
 | 버즈빌 | 51 | 21 | https://github.com/Buzzvil |
 | 카카오 | 71 | 611 | https://github.com/kakao |
-| 네이버클라우드 | 56 | 131 | https://github.com/NaverCloudPlatform |
+| 네이버클라우드 | 56 | 132 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 511 | https://github.com/kakaobrain |
 | 그린랩스 | 44 | 75 | https://github.com/green-labs |
 | 직방 | 31 | 47 | https://github.com/zigbang |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 27 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 148 | https://github.com/ncsoft |
 | 버켓플레이스 | 11 | 90 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 45 | 1822 | https://github.com/toss |
+| 비바리퍼블리카 | 45 | 1821 | https://github.com/toss |
 | 마이리얼트립 | 39 | 39 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 90 | https://github.com/coupang |
 | LG전자 | 20 | 114 | https://github.com/LGE-OSS |
@@ -64,7 +64,7 @@
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
 | 플라네타리움 | 198 | 215 | https://github.com/planetarium |
 | 큐브리드 | 45 | 34 | https://github.com/CUBRID |
-| 코클 | 15 | 23 | https://github.com/cochlearai |
+| 코클 | 16 | 23 | https://github.com/cochlearai |
 | 스켈터랩스 | 11 | 12 | https://github.com/SkelterLabsInc |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->
