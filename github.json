@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1471,
+        "followers": 1473,
         "organization_id": "Samsung",
         "public_repos": 181
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1374,
+        "followers": 1375,
         "organization_id": "line",
         "public_repos": 161
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1213,
+        "followers": 1212,
         "organization_id": "daangn",
         "public_repos": 124
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 140,
+        "followers": 139,
         "organization_id": "lablup",
         "public_repos": 141
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 511,
+        "followers": 512,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 201,
+        "followers": 202,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1821,
+        "followers": 1824,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 133,
+        "followers": 134,
         "organization_id": "moloco",
         "public_repos": 20
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 215,
+        "followers": 214,
         "organization_id": "planetarium",
         "public_repos": 198
       }
@@ -615,7 +615,7 @@
       {
         "followers": 23,
         "organization_id": "cochlearai",
-        "public_repos": 16
+        "public_repos": 15
       }
     ]
   },
