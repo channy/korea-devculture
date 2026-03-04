@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2510,
+        "followers": 2511,
         "organization_id": "naver",
         "public_repos": 273
       }
@@ -83,9 +83,9 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1211,
+        "followers": 1212,
         "organization_id": "daangn",
-        "public_repos": 124
+        "public_repos": 125
       }
     ]
   },
@@ -233,7 +233,7 @@
     "name": "한글과컴퓨터",
     "organizations": [
       {
-        "followers": 27,
+        "followers": 28,
         "organization_id": "hancom-io",
         "public_repos": 31
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1826,
+        "followers": 1825,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -393,7 +393,7 @@
     "name": "SK텔레콤",
     "organizations": [
       {
-        "followers": 35,
+        "followers": 36,
         "organization_id": "sktelecom",
         "public_repos": 6
       }
@@ -433,7 +433,7 @@
     "name": "현대자동차",
     "organizations": [
       {
-        "followers": 55,
+        "followers": 54,
         "organization_id": "hkmc-airlab",
         "public_repos": 4
       },
@@ -478,7 +478,7 @@
     "name": "힐링페이퍼",
     "organizations": [
       {
-        "followers": 23,
+        "followers": 24,
         "organization_id": "healingpaper",
         "public_repos": 3
       }
@@ -605,7 +605,7 @@
       {
         "followers": 35,
         "organization_id": "CUBRID",
-        "public_repos": 45
+        "public_repos": 47
       }
     ]
   },
