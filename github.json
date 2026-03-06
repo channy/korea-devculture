@@ -25,7 +25,7 @@
       {
         "followers": 73,
         "organization_id": "hamonikr",
-        "public_repos": 199
+        "public_repos": 202
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1474,
+        "followers": 1476,
         "organization_id": "Samsung",
         "public_repos": 181
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 359,
+        "followers": 360,
         "organization_id": "sendbird",
         "public_repos": 198
       }
@@ -53,9 +53,9 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 262,
+        "followers": 263,
         "organization_id": "devsisters",
-        "public_repos": 182
+        "public_repos": 183
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1378,
+        "followers": 1377,
         "organization_id": "line",
         "public_repos": 161
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1212,
+        "followers": 1213,
         "organization_id": "daangn",
         "public_repos": 126
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1827,
+        "followers": 1828,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -275,7 +275,7 @@
       {
         "followers": 40,
         "organization_id": "myrealtrip",
-        "public_repos": 39
+        "public_repos": 40
       }
     ]
   },
@@ -375,7 +375,7 @@
       {
         "followers": 135,
         "organization_id": "moloco",
-        "public_repos": 20
+        "public_repos": 19
       }
     ]
   },
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 212,
+        "followers": 213,
         "organization_id": "musinsa",
         "public_repos": 1
       }
@@ -595,7 +595,7 @@
       {
         "followers": 215,
         "organization_id": "planetarium",
-        "public_repos": 199
+        "public_repos": 201
       }
     ]
   },

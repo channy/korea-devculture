@@ -15,13 +15,13 @@
 |:---|---:|---:|:---|
 | 네이버 | 274 | 2513 | https://github.com/naver |
 | 티맥스클라우드 | 271 | 59 | https://github.com/tmax-cloud |
-| 인베슘 | 199 | 73 | https://github.com/hamonikr |
-| 플라네타리움 | 199 | 215 | https://github.com/planetarium |
-| 센드버드 | 198 | 359 | https://github.com/sendbird |
-| 데브시스터즈 | 182 | 262 | https://github.com/devsisters |
-| 삼성전자 | 181 | 1474 | https://github.com/Samsung |
-| 라인 | 161 | 1378 | https://github.com/line |
+| 인베슘 | 202 | 73 | https://github.com/hamonikr |
+| 플라네타리움 | 201 | 215 | https://github.com/planetarium |
+| 센드버드 | 198 | 360 | https://github.com/sendbird |
+| 데브시스터즈 | 183 | 263 | https://github.com/devsisters |
+| 삼성전자 | 181 | 1476 | https://github.com/Samsung |
+| 라인 | 161 | 1377 | https://github.com/line |
 | 래블업 | 141 | 138 | https://github.com/lablup |
-| 당근마켓 | 126 | 1212 | https://github.com/daangn |
+| 당근마켓 | 126 | 1213 | https://github.com/daangn |
 
 <!-- MARKDOWN_TABLE(GITHUB): END -->
