@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2514,
+        "followers": 2516,
         "organization_id": "naver",
         "public_repos": 274
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1479,
+        "followers": 1480,
         "organization_id": "Samsung",
         "public_repos": 181
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 360,
+        "followers": 361,
         "organization_id": "sendbird",
         "public_repos": 198
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1377,
+        "followers": 1379,
         "organization_id": "line",
         "public_repos": 161
       }
@@ -155,7 +155,7 @@
       {
         "followers": 21,
         "organization_id": "Buzzvil",
-        "public_repos": 51
+        "public_repos": 52
       }
     ]
   },
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 149,
+        "followers": 148,
         "organization_id": "ncsoft",
         "public_repos": 40
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1830,
+        "followers": 1828,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 114,
+        "followers": 115,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 215,
+        "followers": 216,
         "organization_id": "planetarium",
         "public_repos": 201
       }
