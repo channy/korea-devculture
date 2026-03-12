@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2520,
+        "followers": 2523,
         "organization_id": "naver",
         "public_repos": 274
       }
@@ -55,7 +55,7 @@
       {
         "followers": 263,
         "organization_id": "devsisters",
-        "public_repos": 183
+        "public_repos": 184
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1381,
+        "followers": 1382,
         "organization_id": "line",
         "public_repos": 161
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1212,
+        "followers": 1214,
         "organization_id": "daangn",
         "public_repos": 126
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 775,
+        "followers": 776,
         "organization_id": "nhn",
         "public_repos": 107
       }
@@ -155,7 +155,7 @@
       {
         "followers": 21,
         "organization_id": "Buzzvil",
-        "public_repos": 52
+        "public_repos": 51
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 612,
+        "followers": 613,
         "organization_id": "kakao",
         "public_repos": 71
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 147,
+        "followers": 148,
         "organization_id": "ncsoft",
         "public_repos": 40
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 92,
+        "followers": 93,
         "organization_id": "bucketplace",
         "public_repos": 11
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1831,
+        "followers": 1836,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -273,9 +273,9 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 41,
+        "followers": 44,
         "organization_id": "myrealtrip",
-        "public_repos": 40
+        "public_repos": 41
       }
     ]
   },
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 115,
+        "followers": 116,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -393,7 +393,7 @@
     "name": "SK텔레콤",
     "organizations": [
       {
-        "followers": 36,
+        "followers": 37,
         "organization_id": "sktelecom",
         "public_repos": 6
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 214,
+        "followers": 216,
         "organization_id": "musinsa",
         "public_repos": 1
       }
