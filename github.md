@@ -12,7 +12,7 @@
 | 센드버드 | 197 | 365 | https://github.com/sendbird |
 | 데브시스터즈 | 184 | 263 | https://github.com/devsisters |
 | 리디 | 116 | 171 | https://github.com/ridi |
-| 라인 | 161 | 1383 | https://github.com/line |
+| 라인 | 161 | 1385 | https://github.com/line |
 | 당근마켓 | 126 | 1214 | https://github.com/daangn |
 | NHN | 107 | 776 | https://github.com/nhn |
 | 래블업 | 141 | 138 | https://github.com/lablup |
@@ -21,7 +21,7 @@
 | 뤼이드 | 48 | 62 | https://github.com/riiid |
 | 버즈빌 | 51 | 22 | https://github.com/Buzzvil |
 | 카카오 | 71 | 613 | https://github.com/kakao |
-| 네이버클라우드 | 57 | 132 | https://github.com/NaverCloudPlatform |
+| 네이버클라우드 | 57 | 131 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 512 | https://github.com/kakaobrain |
 | 그린랩스 | 44 | 75 | https://github.com/green-labs |
 | 직방 | 31 | 47 | https://github.com/zigbang |
