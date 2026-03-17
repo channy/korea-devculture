@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2525,
+        "followers": 2527,
         "organization_id": "naver",
         "public_repos": 275
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1385,
+        "followers": 1386,
         "organization_id": "line",
         "public_repos": 161
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 138,
+        "followers": 139,
         "organization_id": "lablup",
         "public_repos": 141
       }
@@ -273,9 +273,9 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 44,
+        "followers": 45,
         "organization_id": "myrealtrip",
-        "public_repos": 43
+        "public_repos": 44
       }
     ]
   },
@@ -303,7 +303,7 @@
     "name": "드라마앤컴퍼니",
     "organizations": [
       {
-        "followers": 38,
+        "followers": 39,
         "organization_id": "dramancompany",
         "public_repos": 9
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 217,
+        "followers": 222,
         "organization_id": "musinsa",
         "public_repos": 1
       }
@@ -595,7 +595,7 @@
       {
         "followers": 216,
         "organization_id": "planetarium",
-        "public_repos": 200
+        "public_repos": 201
       }
     ]
   },
@@ -615,7 +615,7 @@
       {
         "followers": 23,
         "organization_id": "cochlearai",
-        "public_repos": 16
+        "public_repos": 14
       }
     ]
   },
