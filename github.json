@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2527,
+        "followers": 2528,
         "organization_id": "naver",
         "public_repos": 275
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 171,
+        "followers": 172,
         "organization_id": "ridi",
         "public_repos": 116
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1386,
+        "followers": 1387,
         "organization_id": "line",
         "public_repos": 161
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1215,
+        "followers": 1216,
         "organization_id": "daangn",
         "public_repos": 126
       }
@@ -113,7 +113,7 @@
     "name": "하이퍼커넥트",
     "organizations": [
       {
-        "followers": 58,
+        "followers": 59,
         "organization_id": "hyperconnect",
         "public_repos": 33
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 613,
+        "followers": 614,
         "organization_id": "kakao",
         "public_repos": 71
       }
@@ -225,7 +225,7 @@
       {
         "followers": 94,
         "organization_id": "socar-inc",
-        "public_repos": 31
+        "public_repos": 32
       }
     ]
   },
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 93,
+        "followers": 94,
         "organization_id": "bucketplace",
         "public_repos": 11
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1839,
+        "followers": 1840,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 45,
+        "followers": 47,
         "organization_id": "myrealtrip",
         "public_repos": 43
       }
