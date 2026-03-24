@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2534,
+        "followers": 2533,
         "organization_id": "naver",
         "public_repos": 275
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1493,
+        "followers": 1495,
         "organization_id": "Samsung",
         "public_repos": 181
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 778,
+        "followers": 779,
         "organization_id": "nhn",
         "public_repos": 107
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 131,
+        "followers": 132,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 57
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 94,
+        "followers": 95,
         "organization_id": "bucketplace",
         "public_repos": 11
       }
@@ -275,7 +275,7 @@
       {
         "followers": 47,
         "organization_id": "myrealtrip",
-        "public_repos": 43
+        "public_repos": 44
       }
     ]
   },
@@ -435,10 +435,10 @@
       {
         "followers": 54,
         "organization_id": "hkmc-airlab",
-        "public_repos": 4
+        "public_repos": 5
       },
       {
-        "followers": 120,
+        "followers": 121,
         "organization_id": "42dot",
         "public_repos": 7
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 227,
+        "followers": 228,
         "organization_id": "musinsa",
         "public_repos": 1
       }
@@ -595,7 +595,7 @@
       {
         "followers": 216,
         "organization_id": "planetarium",
-        "public_repos": 202
+        "public_repos": 203
       }
     ]
   },
