@@ -8,12 +8,12 @@
 | 티맥스클라우드 | 271 | 59 | https://github.com/tmax-cloud |
 | 네이버 | 275 | 2538 | https://github.com/naver |
 | 인베슘 | 202 | 73 | https://github.com/hamonikr |
-| 삼성전자 | 181 | 1502 | https://github.com/Samsung |
-| 센드버드 | 198 | 367 | https://github.com/sendbird |
+| 삼성전자 | 181 | 1505 | https://github.com/Samsung |
+| 센드버드 | 199 | 367 | https://github.com/sendbird |
 | 데브시스터즈 | 184 | 270 | https://github.com/devsisters |
 | 리디 | 116 | 172 | https://github.com/ridi |
-| 라인 | 161 | 1391 | https://github.com/line |
-| 당근마켓 | 126 | 1218 | https://github.com/daangn |
+| 라인 | 161 | 1393 | https://github.com/line |
+| 당근마켓 | 126 | 1217 | https://github.com/daangn |
 | NHN | 107 | 780 | https://github.com/nhn |
 | 래블업 | 142 | 142 | https://github.com/lablup |
 | 하이퍼커넥트 | 33 | 60 | https://github.com/hyperconnect |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 29 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 150 | https://github.com/ncsoft |
 | 버켓플레이스 | 11 | 97 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 45 | 1847 | https://github.com/toss |
+| 비바리퍼블리카 | 45 | 1849 | https://github.com/toss |
 | 마이리얼트립 | 45 | 48 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 91 | https://github.com/coupang |
 | LG전자 | 20 | 117 | https://github.com/LGE-OSS |
@@ -44,10 +44,10 @@
 | 몰로코 | 18 | 141 | https://github.com/moloco |
 | 네이버제트 | 10 | 56 | https://github.com/naverz |
 | SK텔레콤 | 6 | 37 | https://github.com/sktelecom |
-| 컬리 | 9 | 118 | https://github.com/thefarmersfront |
+| 컬리 | 8 | 118 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 2 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 4 | https://github.com/megazone-devops |
-| 현대자동차 | 12 | 175 | https://github.com/hkmc-airlab (5)<br />https://github.com/42dot (7) |
+| 현대자동차 | 13 | 175 | https://github.com/hkmc-airlab (6)<br />https://github.com/42dot (7) |
 | 포스코ICT | 9 | 8 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 110 | https://github.com/yogiyo |
 | 가비아 | 8 | 16 | https://github.com/gabia |
@@ -55,7 +55,7 @@
 | 11번가 | 10 | 22 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 9 | https://github.com/zuminternet |
 | 네이버랩스 | 4 | 36 | https://github.com/naverlabs |
-| 무신사 | 1 | 231 | https://github.com/musinsa |
+| 무신사 | 1 | 233 | https://github.com/musinsa |
 | SK | 1 | 2 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (1) |
 | 카카오페이 | 1 | 17 | https://github.com/kakaopay |
 | 신한은행 | 1 | 9 | https://github.com/Shinhan-Bank |
