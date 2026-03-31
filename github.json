@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2538,
+        "followers": 2540,
         "organization_id": "naver",
         "public_repos": 275
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1217,
+        "followers": 1220,
         "organization_id": "daangn",
         "public_repos": 126
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 780,
+        "followers": 781,
         "organization_id": "nhn",
         "public_repos": 107
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1849,
+        "followers": 1850,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 118,
+        "followers": 119,
         "organization_id": "thefarmersfront",
         "public_repos": 8
       }
@@ -433,9 +433,9 @@
     "name": "현대자동차",
     "organizations": [
       {
-        "followers": 54,
+        "followers": 55,
         "organization_id": "hkmc-airlab",
-        "public_repos": 6
+        "public_repos": 7
       },
       {
         "followers": 121,
@@ -478,7 +478,7 @@
     "name": "힐링페이퍼",
     "organizations": [
       {
-        "followers": 25,
+        "followers": 26,
         "organization_id": "healingpaper",
         "public_repos": 3
       }
@@ -593,9 +593,9 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 216,
+        "followers": 217,
         "organization_id": "planetarium",
-        "public_repos": 203
+        "public_repos": 205
       }
     ]
   },
