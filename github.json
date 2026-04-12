@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2544,
+        "followers": 2545,
         "organization_id": "naver",
         "public_repos": 276
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 364,
+        "followers": 365,
         "organization_id": "sendbird",
         "public_repos": 200
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1398,
+        "followers": 1399,
         "organization_id": "line",
         "public_repos": 162
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1215,
+        "followers": 1217,
         "organization_id": "daangn",
         "public_repos": 127
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 616,
+        "followers": 617,
         "organization_id": "kakao",
         "public_repos": 71
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 509,
+        "followers": 510,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 96,
+        "followers": 97,
         "organization_id": "bucketplace",
         "public_repos": 11
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1860,
+        "followers": 1862,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -343,7 +343,7 @@
     "name": "뱅크샐러드",
     "organizations": [
       {
-        "followers": 105,
+        "followers": 107,
         "organization_id": "banksalad",
         "public_repos": 19
       }
