@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2545,
+        "followers": 2547,
         "organization_id": "naver",
         "public_repos": 276
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1516,
+        "followers": 1517,
         "organization_id": "Samsung",
         "public_repos": 181
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 365,
+        "followers": 366,
         "organization_id": "sendbird",
         "public_repos": 200
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1217,
+        "followers": 1216,
         "organization_id": "daangn",
         "public_repos": 127
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 510,
+        "followers": 511,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 50,
+        "followers": 51,
         "organization_id": "myrealtrip",
         "public_repos": 5
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 116,
+        "followers": 117,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 143,
+        "followers": 144,
         "organization_id": "moloco",
         "public_repos": 18
       }
@@ -433,7 +433,7 @@
     "name": "현대자동차",
     "organizations": [
       {
-        "followers": 54,
+        "followers": 55,
         "organization_id": "hkmc-airlab",
         "public_repos": 6
       },
@@ -478,7 +478,7 @@
     "name": "힐링페이퍼",
     "organizations": [
       {
-        "followers": 26,
+        "followers": 27,
         "organization_id": "healingpaper",
         "public_repos": 3
       }
