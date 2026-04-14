@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2547,
+        "followers": 2548,
         "organization_id": "naver",
         "public_repos": 276
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1517,
+        "followers": 1518,
         "organization_id": "Samsung",
         "public_repos": 181
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 366,
+        "followers": 367,
         "organization_id": "sendbird",
         "public_repos": 200
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1399,
+        "followers": 1403,
         "organization_id": "line",
         "public_repos": 162
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1216,
+        "followers": 1218,
         "organization_id": "daangn",
         "public_repos": 127
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 781,
+        "followers": 780,
         "organization_id": "nhn",
         "public_repos": 107
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 97,
+        "followers": 98,
         "organization_id": "bucketplace",
         "public_repos": 11
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1862,
+        "followers": 1864,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -275,7 +275,7 @@
       {
         "followers": 51,
         "organization_id": "myrealtrip",
-        "public_repos": 5
+        "public_repos": 4
       }
     ]
   },
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 117,
+        "followers": 118,
         "organization_id": "LGE-OSS",
         "public_repos": 20
       }
@@ -435,7 +435,7 @@
       {
         "followers": 55,
         "organization_id": "hkmc-airlab",
-        "public_repos": 6
+        "public_repos": 5
       },
       {
         "followers": 122,
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 240,
+        "followers": 241,
         "organization_id": "musinsa",
         "public_repos": 1
       }
