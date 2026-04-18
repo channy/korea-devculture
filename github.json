@@ -23,7 +23,7 @@
     "name": "인베슘",
     "organizations": [
       {
-        "followers": 73,
+        "followers": 74,
         "organization_id": "hamonikr",
         "public_repos": 202
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1406,
+        "followers": 1407,
         "organization_id": "line",
         "public_repos": 162
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 132,
+        "followers": 133,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 57
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 511,
+        "followers": 512,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -595,7 +595,7 @@
       {
         "followers": 218,
         "organization_id": "planetarium",
-        "public_repos": 208
+        "public_repos": 209
       }
     ]
   },
