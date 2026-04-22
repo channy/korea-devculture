@@ -6,14 +6,14 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 58 | https://github.com/tmax-cloud |
-| 네이버 | 276 | 2552 | https://github.com/naver |
+| 네이버 | 276 | 2563 | https://github.com/naver |
 | 인베슘 | 202 | 76 | https://github.com/hamonikr |
-| 삼성전자 | 181 | 1523 | https://github.com/Samsung |
+| 삼성전자 | 181 | 1525 | https://github.com/Samsung |
 | 센드버드 | 201 | 366 | https://github.com/sendbird |
-| 데브시스터즈 | 184 | 272 | https://github.com/devsisters |
+| 데브시스터즈 | 184 | 273 | https://github.com/devsisters |
 | 리디 | 115 | 174 | https://github.com/ridi |
-| 라인 | 162 | 1409 | https://github.com/line |
-| 당근마켓 | 127 | 1217 | https://github.com/daangn |
+| 라인 | 162 | 1410 | https://github.com/line |
+| 당근마켓 | 127 | 1216 | https://github.com/daangn |
 | NHN | 107 | 779 | https://github.com/nhn |
 | 래블업 | 144 | 145 | https://github.com/lablup |
 | 하이퍼커넥트 | 33 | 59 | https://github.com/hyperconnect |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 28 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 150 | https://github.com/ncsoft |
 | 버켓플레이스 | 11 | 102 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 45 | 1872 | https://github.com/toss |
+| 비바리퍼블리카 | 45 | 1873 | https://github.com/toss |
 | 마이리얼트립 | 4 | 52 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 91 | https://github.com/coupang |
 | LG전자 | 21 | 118 | https://github.com/LGE-OSS |
@@ -41,13 +41,13 @@
 | 뱅크샐러드 | 19 | 107 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 20 | 89 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 10 | 24 | https://github.com/dealicious-inc |
-| 몰로코 | 18 | 144 | https://github.com/moloco |
+| 몰로코 | 19 | 144 | https://github.com/moloco |
 | 네이버제트 | 10 | 56 | https://github.com/naverz |
 | SK텔레콤 | 6 | 36 | https://github.com/sktelecom |
 | 컬리 | 6 | 118 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 3 | https://github.com/megazone-devops |
-| 현대자동차 | 12 | 178 | https://github.com/hkmc-airlab (5)<br />https://github.com/42dot (7) |
+| 현대자동차 | 13 | 178 | https://github.com/hkmc-airlab (6)<br />https://github.com/42dot (7) |
 | 포스코ICT | 9 | 8 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 110 | https://github.com/yogiyo |
 | 가비아 | 9 | 17 | https://github.com/gabia |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 5 | https://github.com/Krafton |
 | 카카오뱅크 | 2 | 61 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 209 | 218 | https://github.com/planetarium |
+| 플라네타리움 | 209 | 217 | https://github.com/planetarium |
 | 큐브리드 | 47 | 36 | https://github.com/CUBRID |
 | 코클 | 14 | 23 | https://github.com/cochlearai |
 | 스켈터랩스 | 11 | 12 | https://github.com/SkelterLabsInc |
