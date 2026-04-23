@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2563,
+        "followers": 2566,
         "organization_id": "naver",
         "public_repos": 276
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 366,
+        "followers": 367,
         "organization_id": "sendbird",
         "public_repos": 201
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 99,
+        "followers": 100,
         "organization_id": "socar-inc",
         "public_repos": 34
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 102,
+        "followers": 103,
         "organization_id": "bucketplace",
         "public_repos": 11
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1873,
+        "followers": 1872,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 52,
+        "followers": 53,
         "organization_id": "myrealtrip",
         "public_repos": 4
       }
@@ -373,9 +373,9 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 144,
+        "followers": 145,
         "organization_id": "moloco",
-        "public_repos": 19
+        "public_repos": 18
       }
     ]
   },
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 247,
+        "followers": 248,
         "organization_id": "musinsa",
         "public_repos": 1
       }
@@ -595,7 +595,7 @@
       {
         "followers": 217,
         "organization_id": "planetarium",
-        "public_repos": 209
+        "public_repos": 210
       }
     ]
   },
