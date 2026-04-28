@@ -6,13 +6,13 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 58 | https://github.com/tmax-cloud |
-| 네이버 | 276 | 2567 | https://github.com/naver |
-| 인베슘 | 202 | 76 | https://github.com/hamonikr |
-| 삼성전자 | 181 | 1530 | https://github.com/Samsung |
+| 네이버 | 276 | 2568 | https://github.com/naver |
+| 인베슘 | 202 | 77 | https://github.com/hamonikr |
+| 삼성전자 | 181 | 1534 | https://github.com/Samsung |
 | 센드버드 | 202 | 367 | https://github.com/sendbird |
 | 데브시스터즈 | 184 | 274 | https://github.com/devsisters |
 | 리디 | 115 | 174 | https://github.com/ridi |
-| 라인 | 162 | 1412 | https://github.com/line |
+| 라인 | 162 | 1413 | https://github.com/line |
 | 당근마켓 | 127 | 1218 | https://github.com/daangn |
 | NHN | 107 | 779 | https://github.com/nhn |
 | 래블업 | 144 | 148 | https://github.com/lablup |
@@ -26,8 +26,8 @@
 | 그린랩스 | 44 | 74 | https://github.com/green-labs |
 | 직방 | 31 | 46 | https://github.com/zigbang |
 | 우아한형제들 | 22 | 201 | https://github.com/woowabros |
-| 쏘카 | 34 | 100 | https://github.com/socar-inc |
-| 한글과컴퓨터 | 31 | 30 | https://github.com/hancom-io |
+| 쏘카 | 34 | 101 | https://github.com/socar-inc |
+| 한글과컴퓨터 | 31 | 32 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 150 | https://github.com/ncsoft |
 | 버켓플레이스 | 11 | 104 | https://github.com/bucketplace |
 | 비바리퍼블리카 | 45 | 1874 | https://github.com/toss |
@@ -41,10 +41,10 @@
 | 뱅크샐러드 | 19 | 107 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 20 | 89 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 10 | 24 | https://github.com/dealicious-inc |
-| 몰로코 | 18 | 145 | https://github.com/moloco |
+| 몰로코 | 18 | 146 | https://github.com/moloco |
 | 네이버제트 | 10 | 56 | https://github.com/naverz |
 | SK텔레콤 | 6 | 36 | https://github.com/sktelecom |
-| 컬리 | 6 | 118 | https://github.com/thefarmersfront |
+| 컬리 | 4 | 118 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 3 | https://github.com/megazone-devops |
 | 현대자동차 | 13 | 179 | https://github.com/hkmc-airlab (6)<br />https://github.com/42dot (7) |
