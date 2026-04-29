@@ -30,8 +30,8 @@
 | 한글과컴퓨터 | 31 | 32 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 150 | https://github.com/ncsoft |
 | 버켓플레이스 | 11 | 104 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 45 | 1874 | https://github.com/toss |
-| 마이리얼트립 | 4 | 53 | https://github.com/myrealtrip |
+| 비바리퍼블리카 | 45 | 1876 | https://github.com/toss |
+| 마이리얼트립 | 5 | 54 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 91 | https://github.com/coupang |
 | LG전자 | 21 | 118 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 9 | 38 | https://github.com/dramancompany |
@@ -50,7 +50,7 @@
 | 현대자동차 | 13 | 179 | https://github.com/hkmc-airlab (6)<br />https://github.com/42dot (7) |
 | 포스코ICT | 9 | 8 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 110 | https://github.com/yogiyo |
-| 가비아 | 9 | 17 | https://github.com/gabia |
+| 가비아 | 10 | 17 | https://github.com/gabia |
 | 힐링페이퍼 | 3 | 27 | https://github.com/healingpaper |
 | 11번가 | 10 | 21 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 8 | https://github.com/zuminternet |

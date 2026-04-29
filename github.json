@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1874,
+        "followers": 1876,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -273,9 +273,9 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 53,
+        "followers": 54,
         "organization_id": "myrealtrip",
-        "public_repos": 4
+        "public_repos": 5
       }
     ]
   },
@@ -470,7 +470,7 @@
       {
         "followers": 17,
         "organization_id": "gabia",
-        "public_repos": 9
+        "public_repos": 10
       }
     ]
   },
