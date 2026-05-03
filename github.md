@@ -12,7 +12,7 @@
 | 센드버드 | 202 | 366 | https://github.com/sendbird |
 | 데브시스터즈 | 184 | 275 | https://github.com/devsisters |
 | 리디 | 115 | 174 | https://github.com/ridi |
-| 라인 | 162 | 1415 | https://github.com/line |
+| 라인 | 162 | 1416 | https://github.com/line |
 | 당근마켓 | 127 | 1219 | https://github.com/daangn |
 | NHN | 107 | 780 | https://github.com/nhn |
 | 래블업 | 144 | 148 | https://github.com/lablup |
@@ -20,7 +20,7 @@
 | 삼성SDS | 95 | 38 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 48 | 65 | https://github.com/riiid |
 | 버즈빌 | 51 | 22 | https://github.com/Buzzvil |
-| 카카오 | 71 | 622 | https://github.com/kakao |
+| 카카오 | 71 | 624 | https://github.com/kakao |
 | 네이버클라우드 | 56 | 133 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 511 | https://github.com/kakaobrain |
 | 그린랩스 | 44 | 74 | https://github.com/green-labs |
@@ -43,11 +43,11 @@
 | 딜리셔스 | 10 | 24 | https://github.com/dealicious-inc |
 | 몰로코 | 18 | 146 | https://github.com/moloco |
 | 네이버제트 | 10 | 56 | https://github.com/naverz |
-| SK텔레콤 | 6 | 36 | https://github.com/sktelecom |
+| SK텔레콤 | 6 | 37 | https://github.com/sktelecom |
 | 컬리 | 4 | 118 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 3 | https://github.com/megazone-devops |
-| 현대자동차 | 13 | 179 | https://github.com/hkmc-airlab (6)<br />https://github.com/42dot (7) |
+| 현대자동차 | 13 | 178 | https://github.com/hkmc-airlab (6)<br />https://github.com/42dot (7) |
 | 포스코ICT | 9 | 8 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 110 | https://github.com/yogiyo |
 | 가비아 | 10 | 17 | https://github.com/gabia |
