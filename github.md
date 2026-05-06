@@ -13,7 +13,7 @@
 | 데브시스터즈 | 184 | 275 | https://github.com/devsisters |
 | 리디 | 115 | 174 | https://github.com/ridi |
 | 라인 | 162 | 1417 | https://github.com/line |
-| 당근마켓 | 127 | 1218 | https://github.com/daangn |
+| 당근마켓 | 127 | 1219 | https://github.com/daangn |
 | NHN | 107 | 780 | https://github.com/nhn |
 | 래블업 | 144 | 148 | https://github.com/lablup |
 | 하이퍼커넥트 | 33 | 59 | https://github.com/hyperconnect |
@@ -29,8 +29,8 @@
 | 쏘카 | 34 | 101 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 33 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 150 | https://github.com/ncsoft |
-| 버켓플레이스 | 11 | 105 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 45 | 1880 | https://github.com/toss |
+| 버켓플레이스 | 11 | 106 | https://github.com/bucketplace |
+| 비바리퍼블리카 | 45 | 1884 | https://github.com/toss |
 | 마이리얼트립 | 5 | 55 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 91 | https://github.com/coupang |
 | LG전자 | 21 | 118 | https://github.com/LGE-OSS |
@@ -41,7 +41,7 @@
 | 뱅크샐러드 | 19 | 107 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 20 | 89 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 10 | 24 | https://github.com/dealicious-inc |
-| 몰로코 | 18 | 146 | https://github.com/moloco |
+| 몰로코 | 18 | 147 | https://github.com/moloco |
 | 네이버제트 | 10 | 56 | https://github.com/naverz |
 | SK텔레콤 | 6 | 37 | https://github.com/sktelecom |
 | 컬리 | 4 | 118 | https://github.com/thefarmersfront |
