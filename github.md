@@ -6,13 +6,13 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 58 | https://github.com/tmax-cloud |
-| 네이버 | 276 | 2570 | https://github.com/naver |
+| 네이버 | 277 | 2572 | https://github.com/naver |
 | 인베슘 | 202 | 77 | https://github.com/hamonikr |
-| 삼성전자 | 181 | 1539 | https://github.com/Samsung |
-| 센드버드 | 202 | 366 | https://github.com/sendbird |
+| 삼성전자 | 181 | 1543 | https://github.com/Samsung |
+| 센드버드 | 202 | 367 | https://github.com/sendbird |
 | 데브시스터즈 | 184 | 275 | https://github.com/devsisters |
 | 리디 | 115 | 174 | https://github.com/ridi |
-| 라인 | 162 | 1417 | https://github.com/line |
+| 라인 | 162 | 1419 | https://github.com/line |
 | 당근마켓 | 127 | 1219 | https://github.com/daangn |
 | NHN | 107 | 780 | https://github.com/nhn |
 | 래블업 | 144 | 148 | https://github.com/lablup |
@@ -24,7 +24,7 @@
 | 네이버클라우드 | 56 | 133 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 512 | https://github.com/kakaobrain |
 | 그린랩스 | 44 | 74 | https://github.com/green-labs |
-| 직방 | 31 | 47 | https://github.com/zigbang |
+| 직방 | 31 | 48 | https://github.com/zigbang |
 | 우아한형제들 | 22 | 201 | https://github.com/woowabros |
 | 쏘카 | 34 | 101 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 33 | https://github.com/hancom-io |
@@ -36,13 +36,13 @@
 | LG전자 | 21 | 118 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 9 | 38 | https://github.com/dramancompany |
 | 야놀자 | 2 | 26 | https://github.com/yanolja |
-| VCNC | 21 | 14 | https://github.com/VCNC |
+| VCNC | 21 | 15 | https://github.com/VCNC |
 | 다나와 | 1 | 8 | https://github.com/danawalab |
 | 뱅크샐러드 | 19 | 107 | https://github.com/banksalad |
 | 카카오엔터프라이즈 | 20 | 89 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 10 | 24 | https://github.com/dealicious-inc |
 | 몰로코 | 18 | 147 | https://github.com/moloco |
-| 네이버제트 | 10 | 56 | https://github.com/naverz |
+| 네이버제트 | 10 | 57 | https://github.com/naverz |
 | SK텔레콤 | 6 | 37 | https://github.com/sktelecom |
 | 컬리 | 4 | 118 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
