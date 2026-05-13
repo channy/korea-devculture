@@ -6,21 +6,21 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 58 | https://github.com/tmax-cloud |
-| 네이버 | 277 | 2584 | https://github.com/naver |
+| 네이버 | 277 | 2586 | https://github.com/naver |
 | 인베슘 | 202 | 77 | https://github.com/hamonikr |
-| 삼성전자 | 181 | 1555 | https://github.com/Samsung |
-| 센드버드 | 202 | 367 | https://github.com/sendbird |
+| 삼성전자 | 181 | 1556 | https://github.com/Samsung |
+| 센드버드 | 201 | 367 | https://github.com/sendbird |
 | 데브시스터즈 | 184 | 276 | https://github.com/devsisters |
 | 리디 | 115 | 174 | https://github.com/ridi |
 | 라인 | 162 | 1424 | https://github.com/line |
-| 당근마켓 | 127 | 1221 | https://github.com/daangn |
+| 당근마켓 | 127 | 1222 | https://github.com/daangn |
 | NHN | 107 | 780 | https://github.com/nhn |
 | 래블업 | 144 | 149 | https://github.com/lablup |
 | 하이퍼커넥트 | 33 | 60 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 38 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 48 | 65 | https://github.com/riiid |
-| 버즈빌 | 52 | 22 | https://github.com/Buzzvil |
-| 카카오 | 71 | 627 | https://github.com/kakao |
+| 버즈빌 | 52 | 23 | https://github.com/Buzzvil |
+| 카카오 | 71 | 626 | https://github.com/kakao |
 | 네이버클라우드 | 56 | 133 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 511 | https://github.com/kakaobrain |
 | 그린랩스 | 44 | 74 | https://github.com/green-labs |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 33 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 151 | https://github.com/ncsoft |
 | 버켓플레이스 | 11 | 107 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 45 | 1887 | https://github.com/toss |
+| 비바리퍼블리카 | 45 | 1889 | https://github.com/toss |
 | 마이리얼트립 | 5 | 55 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 93 | https://github.com/coupang |
 | LG전자 | 21 | 118 | https://github.com/LGE-OSS |
@@ -47,7 +47,7 @@
 | 컬리 | 4 | 119 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 3 | https://github.com/megazone-devops |
-| 현대자동차 | 13 | 179 | https://github.com/hkmc-airlab (6)<br />https://github.com/42dot (7) |
+| 현대자동차 | 14 | 179 | https://github.com/hkmc-airlab (7)<br />https://github.com/42dot (7) |
 | 포스코ICT | 9 | 8 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 110 | https://github.com/yogiyo |
 | 가비아 | 10 | 17 | https://github.com/gabia |
@@ -55,7 +55,7 @@
 | 11번가 | 10 | 21 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 8 | https://github.com/zuminternet |
 | 네이버랩스 | 4 | 35 | https://github.com/naverlabs |
-| 무신사 | 3 | 253 | https://github.com/musinsa |
+| 무신사 | 3 | 255 | https://github.com/musinsa |
 | SK | 1 | 2 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (1) |
 | 카카오페이 | 1 | 16 | https://github.com/kakaopay |
 | 신한은행 | 1 | 8 | https://github.com/Shinhan-Bank |
