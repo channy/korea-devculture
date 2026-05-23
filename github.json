@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2604,
+        "followers": 2606,
         "organization_id": "naver",
         "public_repos": 278
       }
@@ -45,7 +45,7 @@
       {
         "followers": 368,
         "organization_id": "sendbird",
-        "public_repos": 201
+        "public_repos": 203
       }
     ]
   },
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 155,
+        "followers": 156,
         "organization_id": "lablup",
         "public_repos": 145
       }
@@ -508,7 +508,7 @@
     "name": "네이버랩스",
     "organizations": [
       {
-        "followers": 37,
+        "followers": 38,
         "organization_id": "naverlabs",
         "public_repos": 4
       }
