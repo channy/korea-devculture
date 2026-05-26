@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2607,
+        "followers": 2606,
         "organization_id": "naver",
         "public_repos": 278
       }
@@ -25,7 +25,7 @@
       {
         "followers": 77,
         "organization_id": "hamonikr",
-        "public_repos": 202
+        "public_repos": 203
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1566,
+        "followers": 1565,
         "organization_id": "Samsung",
         "public_repos": 182
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1433,
+        "followers": 1432,
         "organization_id": "line",
         "public_repos": 162
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1225,
+        "followers": 1226,
         "organization_id": "daangn",
         "public_repos": 128
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 784,
+        "followers": 785,
         "organization_id": "nhn",
         "public_repos": 107
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 156,
+        "followers": 157,
         "organization_id": "lablup",
         "public_repos": 145
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1899,
+        "followers": 1901,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -303,7 +303,7 @@
     "name": "드라마앤컴퍼니",
     "organizations": [
       {
-        "followers": 38,
+        "followers": 39,
         "organization_id": "dramancompany",
         "public_repos": 9
       }
