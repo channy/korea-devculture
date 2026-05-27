@@ -45,7 +45,7 @@
       {
         "followers": 368,
         "organization_id": "sendbird",
-        "public_repos": 203
+        "public_repos": 204
       }
     ]
   },
@@ -155,7 +155,7 @@
       {
         "followers": 23,
         "organization_id": "Buzzvil",
-        "public_repos": 51
+        "public_repos": 52
       }
     ]
   },
@@ -203,7 +203,7 @@
     "name": "직방",
     "organizations": [
       {
-        "followers": 48,
+        "followers": 50,
         "organization_id": "zigbang",
         "public_repos": 31
       }
@@ -275,7 +275,7 @@
       {
         "followers": 55,
         "organization_id": "myrealtrip",
-        "public_repos": 5
+        "public_repos": 6
       }
     ]
   },
@@ -313,7 +313,7 @@
     "name": "야놀자",
     "organizations": [
       {
-        "followers": 26,
+        "followers": 25,
         "organization_id": "yanolja",
         "public_repos": 2
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 148,
+        "followers": 149,
         "organization_id": "moloco",
         "public_repos": 17
       }
@@ -595,7 +595,7 @@
       {
         "followers": 219,
         "organization_id": "planetarium",
-        "public_repos": 212
+        "public_repos": 213
       }
     ]
   },
@@ -603,7 +603,7 @@
     "name": "큐브리드",
     "organizations": [
       {
-        "followers": 36,
+        "followers": 38,
         "organization_id": "CUBRID",
         "public_repos": 48
       }
