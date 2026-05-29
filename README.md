@@ -13,7 +13,7 @@
 
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
-| 네이버 | 278 | 2606 | https://github.com/naver |
+| 네이버 | 278 | 2610 | https://github.com/naver |
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
 | 플라네타리움 | 214 | 219 | https://github.com/planetarium |
 | 센드버드 | 204 | 368 | https://github.com/sendbird |

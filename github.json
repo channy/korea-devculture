@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2606,
+        "followers": 2610,
         "organization_id": "naver",
         "public_repos": 278
       }
@@ -155,7 +155,7 @@
       {
         "followers": 23,
         "organization_id": "Buzzvil",
-        "public_repos": 52
+        "public_repos": 50
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 630,
+        "followers": 631,
         "organization_id": "kakao",
         "public_repos": 71
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 101,
+        "followers": 102,
         "organization_id": "socar-inc",
         "public_repos": 30
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1901,
+        "followers": 1902,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 55,
+        "followers": 56,
         "organization_id": "myrealtrip",
         "public_repos": 6
       }
