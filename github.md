@@ -6,15 +6,15 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
-| 네이버 | 278 | 2610 | https://github.com/naver |
+| 네이버 | 278 | 2612 | https://github.com/naver |
 | 인베슘 | 203 | 77 | https://github.com/hamonikr |
-| 삼성전자 | 182 | 1566 | https://github.com/Samsung |
+| 삼성전자 | 182 | 1568 | https://github.com/Samsung |
 | 센드버드 | 204 | 368 | https://github.com/sendbird |
 | 데브시스터즈 | 184 | 277 | https://github.com/devsisters |
 | 리디 | 115 | 174 | https://github.com/ridi |
 | 라인 | 162 | 1432 | https://github.com/line |
-| 당근마켓 | 128 | 1226 | https://github.com/daangn |
-| NHN | 107 | 785 | https://github.com/nhn |
+| 당근마켓 | 128 | 1225 | https://github.com/daangn |
+| NHN | 107 | 784 | https://github.com/nhn |
 | 래블업 | 146 | 157 | https://github.com/lablup |
 | 하이퍼커넥트 | 33 | 60 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 38 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -24,7 +24,7 @@
 | 네이버클라우드 | 56 | 137 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 512 | https://github.com/kakaobrain |
 | 그린랩스 | 44 | 74 | https://github.com/green-labs |
-| 직방 | 31 | 50 | https://github.com/zigbang |
+| 직방 | 31 | 51 | https://github.com/zigbang |
 | 우아한형제들 | 22 | 203 | https://github.com/woowabros |
 | 쏘카 | 30 | 102 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 34 | https://github.com/hancom-io |
