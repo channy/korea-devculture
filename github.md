@@ -8,7 +8,7 @@
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
 | 네이버 | 278 | 2612 | https://github.com/naver |
 | 인베슘 | 203 | 77 | https://github.com/hamonikr |
-| 삼성전자 | 182 | 1568 | https://github.com/Samsung |
+| 삼성전자 | 182 | 1570 | https://github.com/Samsung |
 | 센드버드 | 204 | 368 | https://github.com/sendbird |
 | 데브시스터즈 | 184 | 277 | https://github.com/devsisters |
 | 리디 | 115 | 174 | https://github.com/ridi |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 34 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 151 | https://github.com/ncsoft |
 | 버켓플레이스 | 11 | 108 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 45 | 1902 | https://github.com/toss |
+| 비바리퍼블리카 | 45 | 1905 | https://github.com/toss |
 | 마이리얼트립 | 6 | 56 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 94 | https://github.com/coupang |
 | LG전자 | 21 | 118 | https://github.com/LGE-OSS |
@@ -57,7 +57,7 @@
 | 네이버랩스 | 4 | 38 | https://github.com/naverlabs |
 | 무신사 | 3 | 258 | https://github.com/musinsa |
 | SK | 1 | 2 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (1) |
-| 카카오페이 | 1 | 17 | https://github.com/kakaopay |
+| 카카오페이 | 1 | 18 | https://github.com/kakaopay |
 | 신한은행 | 1 | 8 | https://github.com/Shinhan-Bank |
 | 크레프톤 | 0 | 5 | https://github.com/Krafton |
 | 카카오뱅크 | 2 | 63 | https://github.com/kakaobank |
