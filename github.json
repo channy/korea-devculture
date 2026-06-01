@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 157,
+        "followers": 158,
         "organization_id": "lablup",
         "public_repos": 146
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 631,
+        "followers": 632,
         "organization_id": "kakao",
         "public_repos": 71
       }
@@ -255,7 +255,7 @@
       {
         "followers": 108,
         "organization_id": "bucketplace",
-        "public_repos": 11
+        "public_repos": 12
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1905,
+        "followers": 1904,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -393,7 +393,7 @@
     "name": "SK텔레콤",
     "organizations": [
       {
-        "followers": 39,
+        "followers": 40,
         "organization_id": "sktelecom",
         "public_repos": 6
       }
