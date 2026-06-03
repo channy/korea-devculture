@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2614,
+        "followers": 2617,
         "organization_id": "naver",
         "public_repos": 278
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1571,
+        "followers": 1570,
         "organization_id": "Samsung",
         "public_repos": 182
       }
@@ -65,7 +65,7 @@
       {
         "followers": 174,
         "organization_id": "ridi",
-        "public_repos": 115
+        "public_repos": 114
       }
     ]
   },
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1225,
+        "followers": 1227,
         "organization_id": "daangn",
         "public_repos": 128
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 784,
+        "followers": 785,
         "organization_id": "nhn",
         "public_repos": 107
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 158,
+        "followers": 159,
         "organization_id": "lablup",
         "public_repos": 146
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 632,
+        "followers": 633,
         "organization_id": "kakao",
         "public_repos": 71
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 203,
+        "followers": 202,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1906,
+        "followers": 1908,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 56,
+        "followers": 57,
         "organization_id": "myrealtrip",
         "public_repos": 6
       }
@@ -595,7 +595,7 @@
       {
         "followers": 219,
         "organization_id": "planetarium",
-        "public_repos": 215
+        "public_repos": 216
       }
     ]
   },
