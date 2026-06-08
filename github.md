@@ -6,21 +6,21 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
-| 네이버 | 279 | 2620 | https://github.com/naver |
+| 네이버 | 279 | 2622 | https://github.com/naver |
 | 인베슘 | 203 | 77 | https://github.com/hamonikr |
-| 삼성전자 | 182 | 1572 | https://github.com/Samsung |
-| 센드버드 | 204 | 369 | https://github.com/sendbird |
+| 삼성전자 | 182 | 1575 | https://github.com/Samsung |
+| 센드버드 | 204 | 370 | https://github.com/sendbird |
 | 데브시스터즈 | 185 | 277 | https://github.com/devsisters |
 | 리디 | 114 | 175 | https://github.com/ridi |
-| 라인 | 162 | 1434 | https://github.com/line |
-| 당근마켓 | 127 | 1227 | https://github.com/daangn |
+| 라인 | 162 | 1436 | https://github.com/line |
+| 당근마켓 | 127 | 1228 | https://github.com/daangn |
 | NHN | 107 | 786 | https://github.com/nhn |
 | 래블업 | 146 | 160 | https://github.com/lablup |
 | 하이퍼커넥트 | 33 | 60 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 38 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 49 | 65 | https://github.com/riiid |
 | 버즈빌 | 50 | 23 | https://github.com/Buzzvil |
-| 카카오 | 71 | 633 | https://github.com/kakao |
+| 카카오 | 71 | 634 | https://github.com/kakao |
 | 네이버클라우드 | 57 | 136 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 512 | https://github.com/kakaobrain |
 | 그린랩스 | 44 | 74 | https://github.com/green-labs |
@@ -30,12 +30,12 @@
 | 한글과컴퓨터 | 31 | 34 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 151 | https://github.com/ncsoft |
 | 버켓플레이스 | 12 | 109 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 45 | 1909 | https://github.com/toss |
+| 비바리퍼블리카 | 45 | 1910 | https://github.com/toss |
 | 마이리얼트립 | 6 | 58 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 94 | https://github.com/coupang |
 | LG전자 | 21 | 119 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 9 | 39 | https://github.com/dramancompany |
-| 야놀자 | 2 | 25 | https://github.com/yanolja |
+| 야놀자 | 2 | 26 | https://github.com/yanolja |
 | VCNC | 21 | 15 | https://github.com/VCNC |
 | 다나와 | 1 | 8 | https://github.com/danawalab |
 | 뱅크샐러드 | 19 | 108 | https://github.com/banksalad |
