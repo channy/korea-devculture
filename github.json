@@ -15,7 +15,7 @@
       {
         "followers": 2626,
         "organization_id": "naver",
-        "public_repos": 279
+        "public_repos": 278
       }
     ]
   },
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1230,
+        "followers": 1229,
         "organization_id": "daangn",
         "public_repos": 127
       }
@@ -155,7 +155,7 @@
       {
         "followers": 23,
         "organization_id": "Buzzvil",
-        "public_repos": 50
+        "public_repos": 33
       }
     ]
   },
@@ -205,7 +205,7 @@
       {
         "followers": 52,
         "organization_id": "zigbang",
-        "public_repos": 31
+        "public_repos": 35
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1911,
+        "followers": 1912,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -363,7 +363,7 @@
     "name": "딜리셔스",
     "organizations": [
       {
-        "followers": 24,
+        "followers": 25,
         "organization_id": "dealicious-inc",
         "public_repos": 10
       }
@@ -595,7 +595,7 @@
       {
         "followers": 220,
         "organization_id": "planetarium",
-        "public_repos": 216
+        "public_repos": 217
       }
     ]
   },
