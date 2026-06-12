@@ -7,13 +7,13 @@
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
 | 네이버 | 278 | 2626 | https://github.com/naver |
-| 인베슘 | 203 | 77 | https://github.com/hamonikr |
-| 삼성전자 | 182 | 1577 | https://github.com/Samsung |
+| 인베슘 | 203 | 78 | https://github.com/hamonikr |
+| 삼성전자 | 182 | 1580 | https://github.com/Samsung |
 | 센드버드 | 204 | 370 | https://github.com/sendbird |
 | 데브시스터즈 | 185 | 277 | https://github.com/devsisters |
 | 리디 | 114 | 175 | https://github.com/ridi |
-| 라인 | 162 | 1438 | https://github.com/line |
-| 당근마켓 | 127 | 1229 | https://github.com/daangn |
+| 라인 | 162 | 1439 | https://github.com/line |
+| 당근마켓 | 127 | 1230 | https://github.com/daangn |
 | NHN | 107 | 787 | https://github.com/nhn |
 | 래블업 | 146 | 161 | https://github.com/lablup |
 | 하이퍼커넥트 | 33 | 60 | https://github.com/hyperconnect |
@@ -24,7 +24,7 @@
 | 네이버클라우드 | 57 | 135 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 511 | https://github.com/kakaobrain |
 | 그린랩스 | 44 | 74 | https://github.com/green-labs |
-| 직방 | 35 | 52 | https://github.com/zigbang |
+| 직방 | 36 | 52 | https://github.com/zigbang |
 | 우아한형제들 | 22 | 205 | https://github.com/woowabros |
 | 쏘카 | 30 | 102 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 33 | https://github.com/hancom-io |
@@ -33,7 +33,7 @@
 | 비바리퍼블리카 | 45 | 1912 | https://github.com/toss |
 | 마이리얼트립 | 6 | 58 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 95 | https://github.com/coupang |
-| LG전자 | 21 | 119 | https://github.com/LGE-OSS |
+| LG전자 | 21 | 120 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 9 | 39 | https://github.com/dramancompany |
 | 야놀자 | 2 | 26 | https://github.com/yanolja |
 | VCNC | 21 | 15 | https://github.com/VCNC |
