@@ -15,7 +15,7 @@
       {
         "followers": 2626,
         "organization_id": "naver",
-        "public_repos": 278
+        "public_repos": 279
       }
     ]
   },
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1580,
+        "followers": 1582,
         "organization_id": "Samsung",
         "public_repos": 182
       }
@@ -155,7 +155,7 @@
       {
         "followers": 23,
         "organization_id": "Buzzvil",
-        "public_repos": 33
+        "public_repos": 34
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1912,
+        "followers": 1914,
         "organization_id": "toss",
         "public_repos": 45
       }
