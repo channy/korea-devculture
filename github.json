@@ -23,7 +23,7 @@
     "name": "인베슘",
     "organizations": [
       {
-        "followers": 78,
+        "followers": 77,
         "organization_id": "hamonikr",
         "public_repos": 203
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 372,
+        "followers": 374,
         "organization_id": "sendbird",
         "public_repos": 204
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1232,
+        "followers": 1233,
         "organization_id": "daangn",
         "public_repos": 127
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 58,
+        "followers": 59,
         "organization_id": "myrealtrip",
         "public_repos": 6
       }
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 149,
+        "followers": 151,
         "organization_id": "moloco",
         "public_repos": 17
       }
@@ -470,7 +470,7 @@
       {
         "followers": 17,
         "organization_id": "gabia",
-        "public_repos": 11
+        "public_repos": 12
       }
     ]
   },
