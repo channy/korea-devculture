@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1585,
+        "followers": 1587,
         "organization_id": "Samsung",
         "public_repos": 182
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1443,
+        "followers": 1445,
         "organization_id": "line",
         "public_repos": 162
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 162,
+        "followers": 163,
         "organization_id": "lablup",
         "public_repos": 146
       }
@@ -113,7 +113,7 @@
     "name": "하이퍼커넥트",
     "organizations": [
       {
-        "followers": 60,
+        "followers": 61,
         "organization_id": "hyperconnect",
         "public_repos": 33
       }
@@ -153,7 +153,7 @@
     "name": "버즈빌",
     "organizations": [
       {
-        "followers": 23,
+        "followers": 24,
         "organization_id": "Buzzvil",
         "public_repos": 34
       }
@@ -173,9 +173,9 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 135,
+        "followers": 136,
         "organization_id": "NaverCloudPlatform",
-        "public_repos": 57
+        "public_repos": 58
       }
     ]
   },
@@ -225,7 +225,7 @@
       {
         "followers": 102,
         "organization_id": "socar-inc",
-        "public_repos": 30
+        "public_repos": 31
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1913,
+        "followers": 1914,
         "organization_id": "toss",
         "public_repos": 45
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 120,
+        "followers": 119,
         "organization_id": "LGE-OSS",
         "public_repos": 21
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 258,
+        "followers": 259,
         "organization_id": "musinsa",
         "public_repos": 3
       }
