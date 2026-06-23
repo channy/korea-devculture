@@ -13,9 +13,9 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2632,
+        "followers": 2633,
         "organization_id": "naver",
-        "public_repos": 279
+        "public_repos": 280
       }
     ]
   },
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1232,
+        "followers": 1231,
         "organization_id": "daangn",
         "public_repos": 127
       }
@@ -153,7 +153,7 @@
     "name": "버즈빌",
     "organizations": [
       {
-        "followers": 24,
+        "followers": 25,
         "organization_id": "Buzzvil",
         "public_repos": 34
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1914,
+        "followers": 1915,
         "organization_id": "toss",
         "public_repos": 45
       }
