@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2637,
+        "followers": 2638,
         "organization_id": "naver",
         "public_repos": 280
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1591,
+        "followers": 1592,
         "organization_id": "Samsung",
         "public_repos": 183
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 166,
+        "followers": 167,
         "organization_id": "lablup",
         "public_repos": 146
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 137,
+        "followers": 138,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 58
       }
@@ -205,7 +205,7 @@
       {
         "followers": 54,
         "organization_id": "zigbang",
-        "public_repos": 36
+        "public_repos": 37
       }
     ]
   },
@@ -263,9 +263,9 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1919,
+        "followers": 1920,
         "organization_id": "toss",
-        "public_repos": 45
+        "public_repos": 46
       }
     ]
   },
@@ -375,7 +375,7 @@
       {
         "followers": 151,
         "organization_id": "moloco",
-        "public_repos": 17
+        "public_repos": 18
       }
     ]
   },
@@ -433,12 +433,12 @@
     "name": "현대자동차",
     "organizations": [
       {
-        "followers": 56,
+        "followers": 57,
         "organization_id": "hkmc-airlab",
         "public_repos": 7
       },
       {
-        "followers": 125,
+        "followers": 126,
         "organization_id": "42dot",
         "public_repos": 7
       }
