@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1444,
+        "followers": 1443,
         "organization_id": "line",
         "public_repos": 162
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1232,
+        "followers": 1231,
         "organization_id": "daangn",
         "public_repos": 127
       }
@@ -145,7 +145,7 @@
       {
         "followers": 66,
         "organization_id": "riiid",
-        "public_repos": 49
+        "public_repos": 50
       }
     ]
   },
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 151,
+        "followers": 152,
         "organization_id": "ncsoft",
         "public_repos": 40
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1922,
+        "followers": 1923,
         "organization_id": "toss",
         "public_repos": 46
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 120,
+        "followers": 121,
         "organization_id": "LGE-OSS",
         "public_repos": 21
       }
@@ -303,7 +303,7 @@
     "name": "드라마앤컴퍼니",
     "organizations": [
       {
-        "followers": 39,
+        "followers": 40,
         "organization_id": "dramancompany",
         "public_repos": 9
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 220,
+        "followers": 219,
         "organization_id": "planetarium",
         "public_repos": 217
       }

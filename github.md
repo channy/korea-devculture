@@ -12,13 +12,13 @@
 | 센드버드 | 204 | 374 | https://github.com/sendbird |
 | 데브시스터즈 | 185 | 278 | https://github.com/devsisters |
 | 리디 | 115 | 175 | https://github.com/ridi |
-| 라인 | 162 | 1444 | https://github.com/line |
-| 당근마켓 | 127 | 1232 | https://github.com/daangn |
+| 라인 | 162 | 1443 | https://github.com/line |
+| 당근마켓 | 127 | 1231 | https://github.com/daangn |
 | NHN | 107 | 788 | https://github.com/nhn |
 | 래블업 | 146 | 167 | https://github.com/lablup |
 | 하이퍼커넥트 | 33 | 61 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 38 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
-| 뤼이드 | 49 | 66 | https://github.com/riiid |
+| 뤼이드 | 50 | 66 | https://github.com/riiid |
 | 버즈빌 | 34 | 25 | https://github.com/Buzzvil |
 | 카카오 | 71 | 637 | https://github.com/kakao |
 | 네이버클라우드 | 58 | 138 | https://github.com/NaverCloudPlatform |
@@ -28,13 +28,13 @@
 | 우아한형제들 | 22 | 206 | https://github.com/woowabros |
 | 쏘카 | 30 | 102 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 33 | https://github.com/hancom-io |
-| 엔씨소프트 | 40 | 151 | https://github.com/ncsoft |
+| 엔씨소프트 | 40 | 152 | https://github.com/ncsoft |
 | 버켓플레이스 | 12 | 110 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 46 | 1922 | https://github.com/toss |
+| 비바리퍼블리카 | 46 | 1923 | https://github.com/toss |
 | 마이리얼트립 | 6 | 59 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 95 | https://github.com/coupang |
-| LG전자 | 21 | 120 | https://github.com/LGE-OSS |
-| 드라마앤컴퍼니 | 9 | 39 | https://github.com/dramancompany |
+| LG전자 | 21 | 121 | https://github.com/LGE-OSS |
+| 드라마앤컴퍼니 | 9 | 40 | https://github.com/dramancompany |
 | 야놀자 | 2 | 26 | https://github.com/yanolja |
 | VCNC | 21 | 15 | https://github.com/VCNC |
 | 다나와 | 1 | 8 | https://github.com/danawalab |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 5 | https://github.com/Krafton |
 | 카카오뱅크 | 4 | 64 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 217 | 220 | https://github.com/planetarium |
+| 플라네타리움 | 217 | 219 | https://github.com/planetarium |
 | 큐브리드 | 48 | 39 | https://github.com/CUBRID |
 | 코클 | 14 | 23 | https://github.com/cochlearai |
 | 스켈터랩스 | 11 | 13 | https://github.com/SkelterLabsInc |
