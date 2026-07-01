@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2641,
+        "followers": 2642,
         "organization_id": "naver",
         "public_repos": 280
       }
@@ -23,7 +23,7 @@
     "name": "인베슘",
     "organizations": [
       {
-        "followers": 77,
+        "followers": 78,
         "organization_id": "hamonikr",
         "public_repos": 203
       }
@@ -33,9 +33,9 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1596,
+        "followers": 1597,
         "organization_id": "Samsung",
-        "public_repos": 183
+        "public_repos": 184
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1442,
+        "followers": 1443,
         "organization_id": "line",
         "public_repos": 162
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 167,
+        "followers": 166,
         "organization_id": "lablup",
         "public_repos": 146
       }
@@ -113,7 +113,7 @@
     "name": "하이퍼커넥트",
     "organizations": [
       {
-        "followers": 61,
+        "followers": 62,
         "organization_id": "hyperconnect",
         "public_repos": 33
       }
@@ -143,7 +143,7 @@
     "name": "뤼이드",
     "organizations": [
       {
-        "followers": 66,
+        "followers": 67,
         "organization_id": "riiid",
         "public_repos": 50
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 637,
+        "followers": 638,
         "organization_id": "kakao",
         "public_repos": 71
       }
@@ -478,7 +478,7 @@
     "name": "힐링페이퍼",
     "organizations": [
       {
-        "followers": 31,
+        "followers": 32,
         "organization_id": "healingpaper",
         "public_repos": 3
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 258,
+        "followers": 259,
         "organization_id": "musinsa",
         "public_repos": 2
       }
