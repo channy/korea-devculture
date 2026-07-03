@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2643,
+        "followers": 2644,
         "organization_id": "naver",
         "public_repos": 280
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1597,
+        "followers": 1600,
         "organization_id": "Samsung",
         "public_repos": 184
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 374,
+        "followers": 373,
         "organization_id": "sendbird",
         "public_repos": 204
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 278,
+        "followers": 277,
         "organization_id": "devsisters",
         "public_repos": 185
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1231,
+        "followers": 1230,
         "organization_id": "daangn",
         "public_repos": 127
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 789,
+        "followers": 790,
         "organization_id": "nhn",
         "public_repos": 107
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 138,
+        "followers": 139,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 58
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 206,
+        "followers": 207,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 103,
+        "followers": 104,
         "organization_id": "socar-inc",
         "public_repos": 30
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 152,
+        "followers": 151,
         "organization_id": "ncsoft",
         "public_repos": 40
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 110,
+        "followers": 111,
         "organization_id": "bucketplace",
         "public_repos": 12
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1922,
+        "followers": 1925,
         "organization_id": "toss",
         "public_repos": 46
       }
@@ -275,7 +275,7 @@
       {
         "followers": 60,
         "organization_id": "myrealtrip",
-        "public_repos": 6
+        "public_repos": 5
       }
     ]
   },
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 121,
+        "followers": 123,
         "organization_id": "LGE-OSS",
         "public_repos": 21
       }
@@ -468,7 +468,7 @@
     "name": "가비아",
     "organizations": [
       {
-        "followers": 17,
+        "followers": 18,
         "organization_id": "gabia",
         "public_repos": 17
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 219,
+        "followers": 220,
         "organization_id": "planetarium",
         "public_repos": 217
       }
