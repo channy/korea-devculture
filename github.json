@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2645,
+        "followers": 2647,
         "organization_id": "naver",
         "public_repos": 280
       }
@@ -23,7 +23,7 @@
     "name": "인베슘",
     "organizations": [
       {
-        "followers": 78,
+        "followers": 79,
         "organization_id": "hamonikr",
         "public_repos": 203
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1600,
+        "followers": 1603,
         "organization_id": "Samsung",
         "public_repos": 184
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 374,
+        "followers": 376,
         "organization_id": "sendbird",
         "public_repos": 204
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 278,
+        "followers": 277,
         "organization_id": "devsisters",
         "public_repos": 185
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1233,
+        "followers": 1235,
         "organization_id": "daangn",
         "public_repos": 127
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 791,
+        "followers": 792,
         "organization_id": "nhn",
         "public_repos": 107
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 642,
+        "followers": 643,
         "organization_id": "kakao",
         "public_repos": 71
       }
@@ -203,7 +203,7 @@
     "name": "직방",
     "organizations": [
       {
-        "followers": 54,
+        "followers": 55,
         "organization_id": "zigbang",
         "public_repos": 36
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1928,
+        "followers": 1929,
         "organization_id": "toss",
         "public_repos": 46
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 125,
+        "followers": 126,
         "organization_id": "LGE-OSS",
         "public_repos": 21
       }
