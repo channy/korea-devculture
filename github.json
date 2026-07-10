@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2647,
+        "followers": 2651,
         "organization_id": "naver",
         "public_repos": 280
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1603,
+        "followers": 1604,
         "organization_id": "Samsung",
         "public_repos": 184
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1450,
+        "followers": 1451,
         "organization_id": "line",
         "public_repos": 162
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1235,
+        "followers": 1236,
         "organization_id": "daangn",
         "public_repos": 127
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1929,
+        "followers": 1930,
         "organization_id": "toss",
         "public_repos": 46
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 260,
+        "followers": 262,
         "organization_id": "musinsa",
         "public_repos": 2
       }
