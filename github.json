@@ -3,7 +3,7 @@
     "name": "티맥스클라우드",
     "organizations": [
       {
-        "followers": 58,
+        "followers": 57,
         "organization_id": "tmax-cloud",
         "public_repos": 271
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1604,
+        "followers": 1608,
         "organization_id": "Samsung",
         "public_repos": 184
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 792,
+        "followers": 791,
         "organization_id": "nhn",
         "public_repos": 107
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 643,
+        "followers": 644,
         "organization_id": "kakao",
         "public_repos": 71
       }
@@ -233,7 +233,7 @@
     "name": "한글과컴퓨터",
     "organizations": [
       {
-        "followers": 33,
+        "followers": 34,
         "organization_id": "hancom-io",
         "public_repos": 31
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 151,
+        "followers": 152,
         "organization_id": "ncsoft",
         "public_repos": 40
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 111,
+        "followers": 112,
         "organization_id": "bucketplace",
         "public_repos": 12
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1930,
+        "followers": 1931,
         "organization_id": "toss",
         "public_repos": 46
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 262,
+        "followers": 263,
         "organization_id": "musinsa",
         "public_repos": 2
       }
