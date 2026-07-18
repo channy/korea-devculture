@@ -6,9 +6,9 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
-| 네이버 | 281 | 2656 | https://github.com/naver |
+| 네이버 | 281 | 2657 | https://github.com/naver |
 | 인베슘 | 203 | 79 | https://github.com/hamonikr |
-| 삼성전자 | 184 | 1612 | https://github.com/Samsung |
+| 삼성전자 | 184 | 1615 | https://github.com/Samsung |
 | 센드버드 | 204 | 375 | https://github.com/sendbird |
 | 데브시스터즈 | 185 | 277 | https://github.com/devsisters |
 | 리디 | 115 | 175 | https://github.com/ridi |
@@ -22,7 +22,7 @@
 | 버즈빌 | 36 | 25 | https://github.com/Buzzvil |
 | 카카오 | 71 | 643 | https://github.com/kakao |
 | 네이버클라우드 | 58 | 139 | https://github.com/NaverCloudPlatform |
-| 카카오브레인 | 40 | 511 | https://github.com/kakaobrain |
+| 카카오브레인 | 40 | 510 | https://github.com/kakaobrain |
 | 그린랩스 | 44 | 74 | https://github.com/green-labs |
 | 직방 | 36 | 55 | https://github.com/zigbang |
 | 우아한형제들 | 22 | 207 | https://github.com/woowabros |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 35 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 152 | https://github.com/ncsoft |
 | 버켓플레이스 | 12 | 114 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 46 | 1937 | https://github.com/toss |
+| 비바리퍼블리카 | 46 | 1938 | https://github.com/toss |
 | 마이리얼트립 | 5 | 60 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 96 | https://github.com/coupang |
 | LG전자 | 21 | 126 | https://github.com/LGE-OSS |
