@@ -20,7 +20,7 @@
 | 인베슘 | 203 | 79 | https://github.com/hamonikr |
 | 데브시스터즈 | 185 | 277 | https://github.com/devsisters |
 | 삼성전자 | 184 | 1615 | https://github.com/Samsung |
-| 라인 | 162 | 1452 | https://github.com/line |
+| 라인 | 162 | 1455 | https://github.com/line |
 | 래블업 | 146 | 168 | https://github.com/lablup |
 | 당근마켓 | 127 | 1238 | https://github.com/daangn |
 
