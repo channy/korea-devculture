@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2657,
+        "followers": 2656,
         "organization_id": "naver",
         "public_repos": 281
       }
@@ -23,7 +23,7 @@
     "name": "인베슘",
     "organizations": [
       {
-        "followers": 79,
+        "followers": 78,
         "organization_id": "hamonikr",
         "public_repos": 203
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1455,
+        "followers": 1456,
         "organization_id": "line",
         "public_repos": 162
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 139,
+        "followers": 140,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 58
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 510,
+        "followers": 509,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 207,
+        "followers": 206,
         "organization_id": "woowabros",
         "public_repos": 22
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 104,
+        "followers": 105,
         "organization_id": "socar-inc",
         "public_repos": 29
       }
@@ -243,7 +243,7 @@
     "name": "엔씨소프트",
     "organizations": [
       {
-        "followers": 152,
+        "followers": 153,
         "organization_id": "ncsoft",
         "public_repos": 40
       }
