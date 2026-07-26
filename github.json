@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1616,
+        "followers": 1617,
         "organization_id": "Samsung",
         "public_repos": 184
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 376,
+        "followers": 377,
         "organization_id": "sendbird",
         "public_repos": 204
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1936,
+        "followers": 1935,
         "organization_id": "toss",
         "public_repos": 46
       }
@@ -395,7 +395,7 @@
       {
         "followers": 40,
         "organization_id": "sktelecom",
-        "public_repos": 6
+        "public_repos": 7
       }
     ]
   },
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 220,
+        "followers": 221,
         "organization_id": "planetarium",
         "public_repos": 217
       }
