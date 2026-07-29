@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2655,
+        "followers": 2657,
         "organization_id": "naver",
         "public_repos": 281
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1619,
+        "followers": 1617,
         "organization_id": "Samsung",
         "public_repos": 184
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 277,
+        "followers": 278,
         "organization_id": "devsisters",
         "public_repos": 185
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1464,
+        "followers": 1468,
         "organization_id": "line",
         "public_repos": 162
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1243,
+        "followers": 1245,
         "organization_id": "daangn",
         "public_repos": 127
       }
@@ -103,9 +103,9 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 169,
+        "followers": 170,
         "organization_id": "lablup",
-        "public_repos": 149
+        "public_repos": 148
       }
     ]
   },
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 509,
+        "followers": 508,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -213,9 +213,9 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 206,
+        "followers": 207,
         "organization_id": "woowabros",
-        "public_repos": 22
+        "public_repos": 23
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1939,
+        "followers": 1938,
         "organization_id": "toss",
         "public_repos": 46
       }
@@ -478,7 +478,7 @@
     "name": "힐링페이퍼",
     "organizations": [
       {
-        "followers": 32,
+        "followers": 33,
         "organization_id": "healingpaper",
         "public_repos": 3
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 261,
+        "followers": 260,
         "organization_id": "musinsa",
         "public_repos": 2
       }
