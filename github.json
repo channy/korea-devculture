@@ -23,7 +23,7 @@
     "name": "인베슘",
     "organizations": [
       {
-        "followers": 78,
+        "followers": 79,
         "organization_id": "hamonikr",
         "public_repos": 203
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1617,
+        "followers": 1616,
         "organization_id": "Samsung",
         "public_repos": 184
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 278,
+        "followers": 279,
         "organization_id": "devsisters",
         "public_repos": 185
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1468,
+        "followers": 1470,
         "organization_id": "line",
         "public_repos": 162
       }
@@ -103,9 +103,9 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 170,
+        "followers": 169,
         "organization_id": "lablup",
-        "public_repos": 148
+        "public_repos": 149
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 642,
+        "followers": 643,
         "organization_id": "kakao",
         "public_repos": 71
       }
@@ -393,7 +393,7 @@
     "name": "SK텔레콤",
     "organizations": [
       {
-        "followers": 40,
+        "followers": 41,
         "organization_id": "sktelecom",
         "public_repos": 7
       }
@@ -435,7 +435,7 @@
       {
         "followers": 60,
         "organization_id": "hkmc-airlab",
-        "public_repos": 8
+        "public_repos": 4
       },
       {
         "followers": 128,
