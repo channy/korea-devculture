@@ -8,14 +8,14 @@
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
 | 네이버 | 281 | 2658 | https://github.com/naver |
 | 인베슘 | 203 | 79 | https://github.com/hamonikr |
-| 삼성전자 | 184 | 1619 | https://github.com/Samsung |
+| 삼성전자 | 184 | 1621 | https://github.com/Samsung |
 | 센드버드 | 204 | 377 | https://github.com/sendbird |
 | 데브시스터즈 | 185 | 279 | https://github.com/devsisters |
 | 리디 | 115 | 177 | https://github.com/ridi |
-| 라인 | 162 | 1474 | https://github.com/line |
-| 당근마켓 | 127 | 1244 | https://github.com/daangn |
+| 라인 | 162 | 1476 | https://github.com/line |
+| 당근마켓 | 127 | 1243 | https://github.com/daangn |
 | NHN | 107 | 795 | https://github.com/nhn |
-| 래블업 | 149 | 171 | https://github.com/lablup |
+| 래블업 | 149 | 172 | https://github.com/lablup |
 | 하이퍼커넥트 | 34 | 62 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 38 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 50 | 69 | https://github.com/riiid |
@@ -47,7 +47,7 @@
 | 컬리 | 4 | 128 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 3 | https://github.com/megazone-devops |
-| 현대자동차 | 11 | 188 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (7) |
+| 현대자동차 | 11 | 189 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (7) |
 | 포스코ICT | 9 | 8 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 112 | https://github.com/yogiyo |
 | 가비아 | 17 | 18 | https://github.com/gabia |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 5 | https://github.com/Krafton |
 | 카카오뱅크 | 4 | 63 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 217 | 221 | https://github.com/planetarium |
+| 플라네타리움 | 217 | 222 | https://github.com/planetarium |
 | 큐브리드 | 48 | 39 | https://github.com/CUBRID |
 | 코클 | 15 | 23 | https://github.com/cochlearai |
 | 스켈터랩스 | 11 | 13 | https://github.com/SkelterLabsInc |
