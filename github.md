@@ -6,16 +6,16 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
-| 네이버 | 282 | 2669 | https://github.com/naver |
+| 네이버 | 282 | 2670 | https://github.com/naver |
 | 인베슘 | 203 | 79 | https://github.com/hamonikr |
-| 삼성전자 | 184 | 1623 | https://github.com/Samsung |
+| 삼성전자 | 184 | 1624 | https://github.com/Samsung |
 | 센드버드 | 204 | 377 | https://github.com/sendbird |
 | 데브시스터즈 | 185 | 279 | https://github.com/devsisters |
 | 리디 | 115 | 179 | https://github.com/ridi |
 | 라인 | 162 | 1478 | https://github.com/line |
-| 당근마켓 | 127 | 1245 | https://github.com/daangn |
+| 당근마켓 | 127 | 1246 | https://github.com/daangn |
 | NHN | 107 | 797 | https://github.com/nhn |
-| 래블업 | 150 | 175 | https://github.com/lablup |
+| 래블업 | 150 | 176 | https://github.com/lablup |
 | 하이퍼커넥트 | 34 | 63 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 38 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 50 | 69 | https://github.com/riiid |
@@ -26,11 +26,11 @@
 | 그린랩스 | 44 | 73 | https://github.com/green-labs |
 | 직방 | 37 | 56 | https://github.com/zigbang |
 | 우아한형제들 | 23 | 207 | https://github.com/woowabros |
-| 쏘카 | 30 | 108 | https://github.com/socar-inc |
+| 쏘카 | 30 | 109 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 35 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 154 | https://github.com/ncsoft |
-| 버켓플레이스 | 12 | 115 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 46 | 1944 | https://github.com/toss |
+| 버켓플레이스 | 12 | 116 | https://github.com/bucketplace |
+| 비바리퍼블리카 | 47 | 1945 | https://github.com/toss |
 | 마이리얼트립 | 4 | 60 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 96 | https://github.com/coupang |
 | LG전자 | 21 | 126 | https://github.com/LGE-OSS |
@@ -51,7 +51,7 @@
 | 포스코ICT | 9 | 8 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 112 | https://github.com/yogiyo |
 | 가비아 | 16 | 18 | https://github.com/gabia |
-| 힐링페이퍼 | 3 | 33 | https://github.com/healingpaper |
+| 힐링페이퍼 | 3 | 34 | https://github.com/healingpaper |
 | 11번가 | 10 | 21 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 8 | https://github.com/zuminternet |
 | 네이버랩스 | 4 | 38 | https://github.com/naverlabs |
