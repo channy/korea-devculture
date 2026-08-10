@@ -8,14 +8,14 @@
 | 티맥스클라우드 | 271 | 57 | https://github.com/tmax-cloud |
 | 네이버 | 283 | 2670 | https://github.com/naver |
 | 인베슘 | 203 | 79 | https://github.com/hamonikr |
-| 삼성전자 | 184 | 1625 | https://github.com/Samsung |
-| 센드버드 | 204 | 377 | https://github.com/sendbird |
-| 데브시스터즈 | 185 | 279 | https://github.com/devsisters |
+| 삼성전자 | 184 | 1626 | https://github.com/Samsung |
+| 센드버드 | 204 | 376 | https://github.com/sendbird |
+| 데브시스터즈 | 185 | 278 | https://github.com/devsisters |
 | 리디 | 115 | 179 | https://github.com/ridi |
 | 라인 | 162 | 1481 | https://github.com/line |
-| 당근마켓 | 128 | 1247 | https://github.com/daangn |
+| 당근마켓 | 128 | 1249 | https://github.com/daangn |
 | NHN | 107 | 798 | https://github.com/nhn |
-| 래블업 | 150 | 176 | https://github.com/lablup |
+| 래블업 | 151 | 176 | https://github.com/lablup |
 | 하이퍼커넥트 | 34 | 63 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 38 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 50 | 69 | https://github.com/riiid |
@@ -28,7 +28,7 @@
 | 우아한형제들 | 23 | 207 | https://github.com/woowabros |
 | 쏘카 | 30 | 109 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 35 | https://github.com/hancom-io |
-| 엔씨소프트 | 40 | 154 | https://github.com/ncsoft |
+| 엔씨소프트 | 40 | 153 | https://github.com/ncsoft |
 | 버켓플레이스 | 12 | 116 | https://github.com/bucketplace |
 | 비바리퍼블리카 | 47 | 1944 | https://github.com/toss |
 | 마이리얼트립 | 4 | 60 | https://github.com/myrealtrip |
@@ -49,7 +49,7 @@
 | 메가존클라우드 | 8 | 3 | https://github.com/megazone-devops |
 | 현대자동차 | 10 | 189 | https://github.com/hkmc-airlab (3)<br />https://github.com/42dot (7) |
 | 포스코ICT | 9 | 8 | https://github.com/poscoict-glueframework |
-| 요기요 | 39 | 112 | https://github.com/yogiyo |
+| 요기요 | 39 | 113 | https://github.com/yogiyo |
 | 가비아 | 17 | 19 | https://github.com/gabia |
 | 힐링페이퍼 | 3 | 34 | https://github.com/healingpaper |
 | 11번가 | 10 | 21 | https://github.com/11st-corp |
