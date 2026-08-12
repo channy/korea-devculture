@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2669,
+        "followers": 2670,
         "organization_id": "naver",
         "public_repos": 283
       }
@@ -23,7 +23,7 @@
     "name": "인베슘",
     "organizations": [
       {
-        "followers": 79,
+        "followers": 78,
         "organization_id": "hamonikr",
         "public_repos": 203
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1628,
+        "followers": 1629,
         "organization_id": "Samsung",
         "public_repos": 185
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1481,
+        "followers": 1480,
         "organization_id": "line",
         "public_repos": 162
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 176,
+        "followers": 177,
         "organization_id": "lablup",
         "public_repos": 151
       }
@@ -155,7 +155,7 @@
       {
         "followers": 25,
         "organization_id": "Buzzvil",
-        "public_repos": 22
+        "public_repos": 23
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1945,
+        "followers": 1944,
         "organization_id": "toss",
         "public_repos": 46
       }
@@ -275,7 +275,7 @@
       {
         "followers": 60,
         "organization_id": "myrealtrip",
-        "public_repos": 6
+        "public_repos": 5
       }
     ]
   },
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 262,
+        "followers": 263,
         "organization_id": "musinsa",
         "public_repos": 2
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 222,
+        "followers": 223,
         "organization_id": "planetarium",
         "public_repos": 217
       }
@@ -613,7 +613,7 @@
     "name": "코클",
     "organizations": [
       {
-        "followers": 23,
+        "followers": 24,
         "organization_id": "cochlearai",
         "public_repos": 15
       }
