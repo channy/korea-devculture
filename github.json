@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1638,
+        "followers": 1639,
         "organization_id": "Samsung",
         "public_repos": 185
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1482,
+        "followers": 1481,
         "organization_id": "line",
         "public_repos": 162
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 647,
+        "followers": 648,
         "organization_id": "kakao",
         "public_repos": 71
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 109,
+        "followers": 110,
         "organization_id": "socar-inc",
         "public_repos": 30
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 126,
+        "followers": 127,
         "organization_id": "LGE-OSS",
         "public_repos": 21
       }
@@ -303,7 +303,7 @@
     "name": "드라마앤컴퍼니",
     "organizations": [
       {
-        "followers": 41,
+        "followers": 42,
         "organization_id": "dramancompany",
         "public_repos": 9
       }
@@ -343,7 +343,7 @@
     "name": "뱅크샐러드",
     "organizations": [
       {
-        "followers": 108,
+        "followers": 107,
         "organization_id": "banksalad",
         "public_repos": 19
       }
@@ -433,7 +433,7 @@
     "name": "현대자동차",
     "organizations": [
       {
-        "followers": 60,
+        "followers": 61,
         "organization_id": "hkmc-airlab",
         "public_repos": 3
       },
