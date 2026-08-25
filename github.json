@@ -43,9 +43,9 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 377,
+        "followers": 378,
         "organization_id": "sendbird",
-        "public_repos": 205
+        "public_repos": 206
       }
     ]
   },
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 647,
+        "followers": 648,
         "organization_id": "kakao",
         "public_repos": 71
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1948,
+        "followers": 1950,
         "organization_id": "toss",
         "public_repos": 46
       }
@@ -303,7 +303,7 @@
     "name": "드라마앤컴퍼니",
     "organizations": [
       {
-        "followers": 42,
+        "followers": 43,
         "organization_id": "dramancompany",
         "public_repos": 9
       }
