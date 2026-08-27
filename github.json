@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2679,
+        "followers": 2680,
         "organization_id": "naver",
         "public_repos": 283
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1646,
+        "followers": 1649,
         "organization_id": "Samsung",
         "public_repos": 185
       }
@@ -45,7 +45,7 @@
       {
         "followers": 378,
         "organization_id": "sendbird",
-        "public_repos": 206
+        "public_repos": 207
       }
     ]
   },
@@ -55,7 +55,7 @@
       {
         "followers": 280,
         "organization_id": "devsisters",
-        "public_repos": 185
+        "public_repos": 186
       }
     ]
   },
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1487,
+        "followers": 1488,
         "organization_id": "line",
         "public_repos": 162
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 648,
+        "followers": 647,
         "organization_id": "kakao",
         "public_repos": 71
       }
@@ -173,7 +173,7 @@
     "name": "네이버클라우드",
     "organizations": [
       {
-        "followers": 140,
+        "followers": 141,
         "organization_id": "NaverCloudPlatform",
         "public_repos": 58
       }
@@ -193,7 +193,7 @@
     "name": "그린랩스",
     "organizations": [
       {
-        "followers": 73,
+        "followers": 74,
         "organization_id": "green-labs",
         "public_repos": 44
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 110,
+        "followers": 111,
         "organization_id": "socar-inc",
         "public_repos": 30
       }
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 119,
+        "followers": 120,
         "organization_id": "bucketplace",
         "public_repos": 12
       }
@@ -265,7 +265,7 @@
       {
         "followers": 1951,
         "organization_id": "toss",
-        "public_repos": 46
+        "public_repos": 47
       }
     ]
   },
@@ -470,7 +470,7 @@
       {
         "followers": 19,
         "organization_id": "gabia",
-        "public_repos": 17
+        "public_repos": 18
       }
     ]
   },
