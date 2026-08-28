@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1254,
+        "followers": 1252,
         "organization_id": "daangn",
         "public_repos": 128
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 799,
+        "followers": 800,
         "organization_id": "nhn",
         "public_repos": 107
       }
@@ -225,7 +225,7 @@
       {
         "followers": 111,
         "organization_id": "socar-inc",
-        "public_repos": 30
+        "public_repos": 28
       }
     ]
   },
