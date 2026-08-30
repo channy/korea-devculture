@@ -8,19 +8,19 @@
 | 티맥스클라우드 | 271 | 56 | https://github.com/tmax-cloud |
 | 네이버 | 283 | 2680 | https://github.com/naver |
 | 인베슘 | 203 | 78 | https://github.com/hamonikr |
-| 삼성전자 | 185 | 1650 | https://github.com/Samsung |
+| 삼성전자 | 185 | 1653 | https://github.com/Samsung |
 | 센드버드 | 207 | 378 | https://github.com/sendbird |
 | 데브시스터즈 | 186 | 280 | https://github.com/devsisters |
 | 리디 | 115 | 180 | https://github.com/ridi |
-| 라인 | 162 | 1488 | https://github.com/line |
+| 라인 | 162 | 1489 | https://github.com/line |
 | 당근마켓 | 128 | 1252 | https://github.com/daangn |
 | NHN | 107 | 800 | https://github.com/nhn |
-| 래블업 | 151 | 179 | https://github.com/lablup |
+| 래블업 | 151 | 180 | https://github.com/lablup |
 | 하이퍼커넥트 | 33 | 63 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 38 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 50 | 69 | https://github.com/riiid |
 | 버즈빌 | 23 | 27 | https://github.com/Buzzvil |
-| 카카오 | 71 | 647 | https://github.com/kakao |
+| 카카오 | 71 | 646 | https://github.com/kakao |
 | 네이버클라우드 | 58 | 141 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 508 | https://github.com/kakaobrain |
 | 그린랩스 | 44 | 74 | https://github.com/green-labs |
