@@ -13,9 +13,9 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2690,
+        "followers": 2691,
         "organization_id": "naver",
-        "public_repos": 285
+        "public_repos": 284
       }
     ]
   },
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 797,
+        "followers": 798,
         "organization_id": "nhn",
         "public_repos": 107
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1955,
+        "followers": 1956,
         "organization_id": "toss",
         "public_repos": 47
       }
@@ -433,7 +433,7 @@
     "name": "현대자동차",
     "organizations": [
       {
-        "followers": 64,
+        "followers": 66,
         "organization_id": "hkmc-airlab",
         "public_repos": 3
       },
@@ -478,7 +478,7 @@
     "name": "힐링페이퍼",
     "organizations": [
       {
-        "followers": 34,
+        "followers": 36,
         "organization_id": "healingpaper",
         "public_repos": 3
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 266,
+        "followers": 267,
         "organization_id": "musinsa",
         "public_repos": 1
       }
