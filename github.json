@@ -13,9 +13,9 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2691,
+        "followers": 2690,
         "organization_id": "naver",
-        "public_repos": 284
+        "public_repos": 285
       }
     ]
   },
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1252,
+        "followers": 1251,
         "organization_id": "daangn",
         "public_repos": 128
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1955,
+        "followers": 1956,
         "organization_id": "toss",
         "public_repos": 47
       }
