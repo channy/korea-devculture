@@ -8,20 +8,20 @@
 | 티맥스클라우드 | 271 | 56 | https://github.com/tmax-cloud |
 | 네이버 | 285 | 2690 | https://github.com/naver |
 | 인베슘 | 203 | 79 | https://github.com/hamonikr |
-| 삼성전자 | 186 | 1661 | https://github.com/Samsung |
-| 센드버드 | 208 | 378 | https://github.com/sendbird |
+| 삼성전자 | 186 | 1662 | https://github.com/Samsung |
+| 센드버드 | 208 | 379 | https://github.com/sendbird |
 | 데브시스터즈 | 185 | 279 | https://github.com/devsisters |
 | 리디 | 115 | 180 | https://github.com/ridi |
-| 라인 | 162 | 1494 | https://github.com/line |
-| 당근마켓 | 128 | 1251 | https://github.com/daangn |
-| NHN | 107 | 798 | https://github.com/nhn |
+| 라인 | 162 | 1495 | https://github.com/line |
+| 당근마켓 | 128 | 1252 | https://github.com/daangn |
+| NHN | 107 | 799 | https://github.com/nhn |
 | 래블업 | 151 | 180 | https://github.com/lablup |
 | 하이퍼커넥트 | 33 | 63 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 38 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 50 | 69 | https://github.com/riiid |
 | 버즈빌 | 24 | 28 | https://github.com/Buzzvil |
 | 카카오 | 73 | 648 | https://github.com/kakao |
-| 네이버클라우드 | 58 | 140 | https://github.com/NaverCloudPlatform |
+| 네이버클라우드 | 58 | 141 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 508 | https://github.com/kakaobrain |
 | 그린랩스 | 44 | 73 | https://github.com/green-labs |
 | 직방 | 36 | 56 | https://github.com/zigbang |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 35 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 153 | https://github.com/ncsoft |
 | 버켓플레이스 | 12 | 119 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 47 | 1956 | https://github.com/toss |
+| 비바리퍼블리카 | 47 | 1957 | https://github.com/toss |
 | 마이리얼트립 | 5 | 60 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 99 | https://github.com/coupang |
 | LG전자 | 21 | 130 | https://github.com/LGE-OSS |
