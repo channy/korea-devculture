@@ -6,14 +6,14 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 56 | https://github.com/tmax-cloud |
-| 네이버 | 285 | 2690 | https://github.com/naver |
+| 네이버 | 285 | 2692 | https://github.com/naver |
 | 인베슘 | 203 | 79 | https://github.com/hamonikr |
-| 삼성전자 | 186 | 1662 | https://github.com/Samsung |
+| 삼성전자 | 187 | 1664 | https://github.com/Samsung |
 | 센드버드 | 208 | 379 | https://github.com/sendbird |
 | 데브시스터즈 | 185 | 279 | https://github.com/devsisters |
 | 리디 | 115 | 180 | https://github.com/ridi |
-| 라인 | 162 | 1495 | https://github.com/line |
-| 당근마켓 | 128 | 1252 | https://github.com/daangn |
+| 라인 | 162 | 1496 | https://github.com/line |
+| 당근마켓 | 121 | 1252 | https://github.com/daangn |
 | NHN | 107 | 799 | https://github.com/nhn |
 | 래블업 | 151 | 180 | https://github.com/lablup |
 | 하이퍼커넥트 | 33 | 63 | https://github.com/hyperconnect |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 35 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 153 | https://github.com/ncsoft |
 | 버켓플레이스 | 12 | 119 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 47 | 1957 | https://github.com/toss |
+| 비바리퍼블리카 | 48 | 1957 | https://github.com/toss |
 | 마이리얼트립 | 5 | 60 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 99 | https://github.com/coupang |
 | LG전자 | 21 | 130 | https://github.com/LGE-OSS |
@@ -39,12 +39,12 @@
 | VCNC | 21 | 15 | https://github.com/VCNC |
 | 다나와 | 1 | 8 | https://github.com/danawalab |
 | 뱅크샐러드 | 19 | 107 | https://github.com/banksalad |
-| 카카오엔터프라이즈 | 22 | 90 | https://github.com/kakaoenterprise |
+| 카카오엔터프라이즈 | 22 | 91 | https://github.com/kakaoenterprise |
 | 딜리셔스 | 10 | 25 | https://github.com/dealicious-inc |
 | 몰로코 | 18 | 157 | https://github.com/moloco |
 | 네이버제트 | 10 | 58 | https://github.com/naverz |
 | SK텔레콤 | 8 | 43 | https://github.com/sktelecom |
-| 컬리 | 4 | 128 | https://github.com/thefarmersfront |
+| 컬리 | 4 | 129 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 3 | https://github.com/megazone-devops |
 | 현대자동차 | 10 | 197 | https://github.com/hkmc-airlab (3)<br />https://github.com/42dot (7) |
