@@ -8,12 +8,12 @@
 | 티맥스클라우드 | 271 | 56 | https://github.com/tmax-cloud |
 | 네이버 | 285 | 2692 | https://github.com/naver |
 | 인베슘 | 203 | 79 | https://github.com/hamonikr |
-| 삼성전자 | 187 | 1664 | https://github.com/Samsung |
+| 삼성전자 | 187 | 1665 | https://github.com/Samsung |
 | 센드버드 | 208 | 379 | https://github.com/sendbird |
 | 데브시스터즈 | 185 | 279 | https://github.com/devsisters |
 | 리디 | 115 | 180 | https://github.com/ridi |
-| 라인 | 162 | 1496 | https://github.com/line |
-| 당근마켓 | 121 | 1252 | https://github.com/daangn |
+| 라인 | 162 | 1497 | https://github.com/line |
+| 당근마켓 | 120 | 1252 | https://github.com/daangn |
 | NHN | 107 | 799 | https://github.com/nhn |
 | 래블업 | 151 | 180 | https://github.com/lablup |
 | 하이퍼커넥트 | 33 | 63 | https://github.com/hyperconnect |
@@ -25,12 +25,12 @@
 | 카카오브레인 | 40 | 508 | https://github.com/kakaobrain |
 | 그린랩스 | 44 | 73 | https://github.com/green-labs |
 | 직방 | 36 | 56 | https://github.com/zigbang |
-| 우아한형제들 | 23 | 217 | https://github.com/woowabros |
+| 우아한형제들 | 23 | 216 | https://github.com/woowabros |
 | 쏘카 | 28 | 111 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 35 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 153 | https://github.com/ncsoft |
 | 버켓플레이스 | 12 | 119 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 48 | 1957 | https://github.com/toss |
+| 비바리퍼블리카 | 48 | 1956 | https://github.com/toss |
 | 마이리얼트립 | 5 | 60 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 99 | https://github.com/coupang |
 | LG전자 | 21 | 130 | https://github.com/LGE-OSS |
@@ -63,7 +63,7 @@
 | 카카오뱅크 | 4 | 63 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
 | 플라네타리움 | 218 | 221 | https://github.com/planetarium |
-| 큐브리드 | 49 | 39 | https://github.com/CUBRID |
+| 큐브리드 | 49 | 40 | https://github.com/CUBRID |
 | 코클 | 15 | 24 | https://github.com/cochlearai |
 | 스켈터랩스 | 11 | 13 | https://github.com/SkelterLabsInc |
 

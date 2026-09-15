@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1664,
+        "followers": 1665,
         "organization_id": "Samsung",
         "public_repos": 187
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1496,
+        "followers": 1497,
         "organization_id": "line",
         "public_repos": 162
       }
@@ -85,7 +85,7 @@
       {
         "followers": 1252,
         "organization_id": "daangn",
-        "public_repos": 121
+        "public_repos": 120
       }
     ]
   },
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 217,
+        "followers": 216,
         "organization_id": "woowabros",
         "public_repos": 23
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1957,
+        "followers": 1956,
         "organization_id": "toss",
         "public_repos": 48
       }
@@ -603,7 +603,7 @@
     "name": "큐브리드",
     "organizations": [
       {
-        "followers": 39,
+        "followers": 40,
         "organization_id": "CUBRID",
         "public_repos": 49
       }
