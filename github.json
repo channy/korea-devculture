@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2692,
+        "followers": 2693,
         "organization_id": "naver",
         "public_repos": 285
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 799,
+        "followers": 800,
         "organization_id": "nhn",
         "public_repos": 107
       }
@@ -265,7 +265,7 @@
       {
         "followers": 1956,
         "organization_id": "toss",
-        "public_repos": 48
+        "public_repos": 49
       }
     ]
   },
@@ -355,7 +355,7 @@
       {
         "followers": 91,
         "organization_id": "kakaoenterprise",
-        "public_repos": 22
+        "public_repos": 23
       }
     ]
   },
@@ -373,7 +373,7 @@
     "name": "몰로코",
     "organizations": [
       {
-        "followers": 157,
+        "followers": 158,
         "organization_id": "moloco",
         "public_repos": 18
       }
@@ -508,7 +508,7 @@
     "name": "네이버랩스",
     "organizations": [
       {
-        "followers": 39,
+        "followers": 40,
         "organization_id": "naverlabs",
         "public_repos": 4
       }
