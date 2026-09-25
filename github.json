@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1677,
+        "followers": 1678,
         "organization_id": "Samsung",
         "public_repos": 187
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 382,
+        "followers": 385,
         "organization_id": "sendbird",
         "public_repos": 209
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 650,
+        "followers": 651,
         "organization_id": "kakao",
         "public_repos": 73
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 113,
+        "followers": 114,
         "organization_id": "socar-inc",
         "public_repos": 28
       }
