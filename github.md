@@ -6,13 +6,13 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 56 | https://github.com/tmax-cloud |
-| 네이버 | 286 | 2697 | https://github.com/naver |
+| 네이버 | 286 | 2698 | https://github.com/naver |
 | 인베슘 | 203 | 79 | https://github.com/hamonikr |
-| 삼성전자 | 187 | 1682 | https://github.com/Samsung |
-| 센드버드 | 209 | 385 | https://github.com/sendbird |
-| 데브시스터즈 | 185 | 280 | https://github.com/devsisters |
+| 삼성전자 | 187 | 1683 | https://github.com/Samsung |
+| 센드버드 | 210 | 385 | https://github.com/sendbird |
+| 데브시스터즈 | 186 | 281 | https://github.com/devsisters |
 | 리디 | 115 | 180 | https://github.com/ridi |
-| 라인 | 162 | 1503 | https://github.com/line |
+| 라인 | 162 | 1504 | https://github.com/line |
 | 당근마켓 | 120 | 1255 | https://github.com/daangn |
 | NHN | 107 | 799 | https://github.com/nhn |
 | 래블업 | 151 | 181 | https://github.com/lablup |
@@ -26,11 +26,11 @@
 | 그린랩스 | 44 | 73 | https://github.com/green-labs |
 | 직방 | 36 | 58 | https://github.com/zigbang |
 | 우아한형제들 | 23 | 218 | https://github.com/woowabros |
-| 쏘카 | 28 | 115 | https://github.com/socar-inc |
+| 쏘카 | 28 | 116 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 37 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 153 | https://github.com/ncsoft |
 | 버켓플레이스 | 12 | 119 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 49 | 1959 | https://github.com/toss |
+| 비바리퍼블리카 | 49 | 1958 | https://github.com/toss |
 | 마이리얼트립 | 4 | 60 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 99 | https://github.com/coupang |
 | LG전자 | 22 | 131 | https://github.com/LGE-OSS |
@@ -50,7 +50,7 @@
 | 현대자동차 | 10 | 197 | https://github.com/hkmc-airlab (3)<br />https://github.com/42dot (7) |
 | 포스코ICT | 9 | 8 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 115 | https://github.com/yogiyo |
-| 가비아 | 18 | 19 | https://github.com/gabia |
+| 가비아 | 19 | 19 | https://github.com/gabia |
 | 힐링페이퍼 | 3 | 36 | https://github.com/healingpaper |
 | 11번가 | 10 | 21 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 8 | https://github.com/zuminternet |
