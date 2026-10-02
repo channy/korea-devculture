@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1687,
+        "followers": 1686,
         "organization_id": "Samsung",
         "public_repos": 187
       }
@@ -55,7 +55,7 @@
       {
         "followers": 281,
         "organization_id": "devsisters",
-        "public_repos": 186
+        "public_repos": 185
       }
     ]
   },
@@ -95,7 +95,7 @@
       {
         "followers": 799,
         "organization_id": "nhn",
-        "public_repos": 107
+        "public_repos": 108
       }
     ]
   },
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 181,
+        "followers": 182,
         "organization_id": "lablup",
         "public_repos": 151
       }
@@ -375,7 +375,7 @@
       {
         "followers": 160,
         "organization_id": "moloco",
-        "public_repos": 19
+        "public_repos": 20
       }
     ]
   },
@@ -478,7 +478,7 @@
     "name": "힐링페이퍼",
     "organizations": [
       {
-        "followers": 36,
+        "followers": 35,
         "organization_id": "healingpaper",
         "public_repos": 3
       }
