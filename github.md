@@ -8,13 +8,13 @@
 | 티맥스클라우드 | 271 | 56 | https://github.com/tmax-cloud |
 | 네이버 | 286 | 2700 | https://github.com/naver |
 | 인베슘 | 203 | 79 | https://github.com/hamonikr |
-| 삼성전자 | 187 | 1686 | https://github.com/Samsung |
+| 삼성전자 | 187 | 1688 | https://github.com/Samsung |
 | 센드버드 | 210 | 385 | https://github.com/sendbird |
 | 데브시스터즈 | 185 | 281 | https://github.com/devsisters |
 | 리디 | 115 | 180 | https://github.com/ridi |
 | 라인 | 162 | 1504 | https://github.com/line |
 | 당근마켓 | 120 | 1256 | https://github.com/daangn |
-| NHN | 108 | 799 | https://github.com/nhn |
+| NHN | 108 | 798 | https://github.com/nhn |
 | 래블업 | 151 | 182 | https://github.com/lablup |
 | 하이퍼커넥트 | 33 | 63 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 38 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
@@ -32,7 +32,7 @@
 | 버켓플레이스 | 12 | 119 | https://github.com/bucketplace |
 | 비바리퍼블리카 | 49 | 1962 | https://github.com/toss |
 | 마이리얼트립 | 4 | 60 | https://github.com/myrealtrip |
-| 쿠팡 | 18 | 99 | https://github.com/coupang |
+| 쿠팡 | 18 | 100 | https://github.com/coupang |
 | LG전자 | 22 | 132 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 9 | 42 | https://github.com/dramancompany |
 | 야놀자 | 2 | 25 | https://github.com/yanolja |
