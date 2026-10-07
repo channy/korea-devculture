@@ -6,11 +6,11 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 56 | https://github.com/tmax-cloud |
-| 네이버 | 287 | 2705 | https://github.com/naver |
+| 네이버 | 287 | 2706 | https://github.com/naver |
 | 인베슘 | 203 | 79 | https://github.com/hamonikr |
-| 삼성전자 | 187 | 1693 | https://github.com/Samsung |
+| 삼성전자 | 187 | 1694 | https://github.com/Samsung |
 | 센드버드 | 210 | 385 | https://github.com/sendbird |
-| 데브시스터즈 | 185 | 282 | https://github.com/devsisters |
+| 데브시스터즈 | 185 | 281 | https://github.com/devsisters |
 | 리디 | 115 | 180 | https://github.com/ridi |
 | 라인 | 162 | 1506 | https://github.com/line |
 | 당근마켓 | 120 | 1256 | https://github.com/daangn |
@@ -20,21 +20,21 @@
 | 삼성SDS | 95 | 39 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 50 | 69 | https://github.com/riiid |
 | 버즈빌 | 25 | 29 | https://github.com/Buzzvil |
-| 카카오 | 73 | 653 | https://github.com/kakao |
+| 카카오 | 73 | 655 | https://github.com/kakao |
 | 네이버클라우드 | 58 | 143 | https://github.com/NaverCloudPlatform |
 | 카카오브레인 | 40 | 510 | https://github.com/kakaobrain |
 | 그린랩스 | 44 | 73 | https://github.com/green-labs |
 | 직방 | 36 | 58 | https://github.com/zigbang |
-| 우아한형제들 | 23 | 218 | https://github.com/woowabros |
+| 우아한형제들 | 23 | 217 | https://github.com/woowabros |
 | 쏘카 | 28 | 116 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 37 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 153 | https://github.com/ncsoft |
-| 버켓플레이스 | 12 | 119 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 49 | 1963 | https://github.com/toss |
+| 버켓플레이스 | 12 | 120 | https://github.com/bucketplace |
+| 비바리퍼블리카 | 49 | 1962 | https://github.com/toss |
 | 마이리얼트립 | 4 | 60 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 101 | https://github.com/coupang |
 | LG전자 | 22 | 133 | https://github.com/LGE-OSS |
-| 드라마앤컴퍼니 | 9 | 42 | https://github.com/dramancompany |
+| 드라마앤컴퍼니 | 7 | 42 | https://github.com/dramancompany |
 | 야놀자 | 2 | 25 | https://github.com/yanolja |
 | VCNC | 21 | 15 | https://github.com/VCNC |
 | 다나와 | 1 | 8 | https://github.com/danawalab |
@@ -55,7 +55,7 @@
 | 11번가 | 10 | 21 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 8 | https://github.com/zuminternet |
 | 네이버랩스 | 4 | 42 | https://github.com/naverlabs |
-| 무신사 | 1 | 269 | https://github.com/musinsa |
+| 무신사 | 1 | 270 | https://github.com/musinsa |
 | SK | 1 | 2 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (1) |
 | 카카오페이 | 1 | 17 | https://github.com/kakaopay |
 | 신한은행 | 1 | 8 | https://github.com/Shinhan-Bank |
