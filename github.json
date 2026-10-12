@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1699,
+        "followers": 1700,
         "organization_id": "Samsung",
         "public_repos": 187
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 656,
+        "followers": 655,
         "organization_id": "kakao",
         "public_repos": 73
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1962,
+        "followers": 1963,
         "organization_id": "toss",
         "public_repos": 49
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 133,
+        "followers": 134,
         "organization_id": "LGE-OSS",
         "public_repos": 22
       }
@@ -595,7 +595,7 @@
       {
         "followers": 221,
         "organization_id": "planetarium",
-        "public_repos": 218
+        "public_repos": 219
       }
     ]
   },
