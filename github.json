@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1701,
+        "followers": 1702,
         "organization_id": "Samsung",
         "public_repos": 187
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1510,
+        "followers": 1514,
         "organization_id": "line",
         "public_repos": 162
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 799,
+        "followers": 801,
         "organization_id": "nhn",
         "public_repos": 108
       }
@@ -175,7 +175,7 @@
       {
         "followers": 143,
         "organization_id": "NaverCloudPlatform",
-        "public_repos": 58
+        "public_repos": 61
       }
     ]
   },
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 135,
+        "followers": 136,
         "organization_id": "LGE-OSS",
         "public_repos": 22
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 270,
+        "followers": 271,
         "organization_id": "musinsa",
         "public_repos": 1
       }
