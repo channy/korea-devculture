@@ -6,10 +6,10 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 56 | https://github.com/tmax-cloud |
-| 네이버 | 287 | 2713 | https://github.com/naver |
-| 인베슘 | 203 | 79 | https://github.com/hamonikr |
-| 삼성전자 | 187 | 1702 | https://github.com/Samsung |
-| 센드버드 | 210 | 384 | https://github.com/sendbird |
+| 네이버 | 287 | 2714 | https://github.com/naver |
+| 인베슘 | 203 | 80 | https://github.com/hamonikr |
+| 삼성전자 | 187 | 1703 | https://github.com/Samsung |
+| 센드버드 | 210 | 385 | https://github.com/sendbird |
 | 데브시스터즈 | 185 | 282 | https://github.com/devsisters |
 | 리디 | 115 | 180 | https://github.com/ridi |
 | 라인 | 162 | 1514 | https://github.com/line |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 37 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 153 | https://github.com/ncsoft |
 | 버켓플레이스 | 12 | 121 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 49 | 1965 | https://github.com/toss |
+| 비바리퍼블리카 | 49 | 1966 | https://github.com/toss |
 | 마이리얼트립 | 4 | 60 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 101 | https://github.com/coupang |
 | LG전자 | 22 | 136 | https://github.com/LGE-OSS |
@@ -51,7 +51,7 @@
 | 포스코ICT | 9 | 8 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 116 | https://github.com/yogiyo |
 | 가비아 | 19 | 19 | https://github.com/gabia |
-| 힐링페이퍼 | 3 | 35 | https://github.com/healingpaper |
+| 힐링페이퍼 | 3 | 34 | https://github.com/healingpaper |
 | 11번가 | 10 | 21 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 8 | https://github.com/zuminternet |
 | 네이버랩스 | 4 | 42 | https://github.com/naverlabs |
