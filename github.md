@@ -6,16 +6,16 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 56 | https://github.com/tmax-cloud |
-| 네이버 | 287 | 2715 | https://github.com/naver |
+| 네이버 | 287 | 2714 | https://github.com/naver |
 | 인베슘 | 203 | 80 | https://github.com/hamonikr |
-| 삼성전자 | 187 | 1706 | https://github.com/Samsung |
+| 삼성전자 | 187 | 1705 | https://github.com/Samsung |
 | 센드버드 | 210 | 385 | https://github.com/sendbird |
 | 데브시스터즈 | 185 | 282 | https://github.com/devsisters |
 | 리디 | 115 | 180 | https://github.com/ridi |
-| 라인 | 162 | 1514 | https://github.com/line |
+| 라인 | 163 | 1514 | https://github.com/line |
 | 당근마켓 | 120 | 1257 | https://github.com/daangn |
 | NHN | 108 | 801 | https://github.com/nhn |
-| 래블업 | 151 | 184 | https://github.com/lablup |
+| 래블업 | 151 | 185 | https://github.com/lablup |
 | 하이퍼커넥트 | 33 | 63 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 39 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 50 | 70 | https://github.com/riiid |
@@ -25,12 +25,12 @@
 | 카카오브레인 | 40 | 510 | https://github.com/kakaobrain |
 | 그린랩스 | 44 | 72 | https://github.com/green-labs |
 | 직방 | 36 | 58 | https://github.com/zigbang |
-| 우아한형제들 | 23 | 217 | https://github.com/woowabros |
+| 우아한형제들 | 23 | 218 | https://github.com/woowabros |
 | 쏘카 | 28 | 116 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 37 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 153 | https://github.com/ncsoft |
 | 버켓플레이스 | 12 | 121 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 49 | 1966 | https://github.com/toss |
+| 비바리퍼블리카 | 49 | 1967 | https://github.com/toss |
 | 마이리얼트립 | 4 | 60 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 101 | https://github.com/coupang |
 | LG전자 | 22 | 136 | https://github.com/LGE-OSS |
@@ -50,7 +50,7 @@
 | 현대자동차 | 10 | 197 | https://github.com/hkmc-airlab (3)<br />https://github.com/42dot (7) |
 | 포스코ICT | 9 | 8 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 116 | https://github.com/yogiyo |
-| 가비아 | 19 | 19 | https://github.com/gabia |
+| 가비아 | 20 | 19 | https://github.com/gabia |
 | 힐링페이퍼 | 3 | 34 | https://github.com/healingpaper |
 | 11번가 | 10 | 21 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 8 | https://github.com/zuminternet |
