@@ -6,9 +6,9 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 56 | https://github.com/tmax-cloud |
-| 네이버 | 288 | 2714 | https://github.com/naver |
+| 네이버 | 288 | 2715 | https://github.com/naver |
 | 인베슘 | 203 | 80 | https://github.com/hamonikr |
-| 삼성전자 | 187 | 1708 | https://github.com/Samsung |
+| 삼성전자 | 188 | 1708 | https://github.com/Samsung |
 | 센드버드 | 209 | 385 | https://github.com/sendbird |
 | 데브시스터즈 | 185 | 282 | https://github.com/devsisters |
 | 리디 | 115 | 180 | https://github.com/ridi |
@@ -25,12 +25,12 @@
 | 카카오브레인 | 40 | 509 | https://github.com/kakaobrain |
 | 그린랩스 | 44 | 72 | https://github.com/green-labs |
 | 직방 | 36 | 58 | https://github.com/zigbang |
-| 우아한형제들 | 23 | 218 | https://github.com/woowabros |
-| 쏘카 | 28 | 116 | https://github.com/socar-inc |
+| 우아한형제들 | 24 | 218 | https://github.com/woowabros |
+| 쏘카 | 28 | 117 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 37 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 153 | https://github.com/ncsoft |
 | 버켓플레이스 | 12 | 121 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 49 | 1967 | https://github.com/toss |
+| 비바리퍼블리카 | 49 | 1968 | https://github.com/toss |
 | 마이리얼트립 | 4 | 60 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 101 | https://github.com/coupang |
 | LG전자 | 22 | 136 | https://github.com/LGE-OSS |
