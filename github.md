@@ -6,13 +6,13 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 56 | https://github.com/tmax-cloud |
-| 네이버 | 292 | 2714 | https://github.com/naver |
+| 네이버 | 292 | 2715 | https://github.com/naver |
 | 인베슘 | 203 | 80 | https://github.com/hamonikr |
 | 삼성전자 | 188 | 1712 | https://github.com/Samsung |
 | 센드버드 | 209 | 385 | https://github.com/sendbird |
 | 데브시스터즈 | 186 | 282 | https://github.com/devsisters |
 | 리디 | 115 | 181 | https://github.com/ridi |
-| 라인 | 163 | 1512 | https://github.com/line |
+| 라인 | 164 | 1513 | https://github.com/line |
 | 당근마켓 | 120 | 1258 | https://github.com/daangn |
 | NHN | 108 | 800 | https://github.com/nhn |
 | 래블업 | 151 | 186 | https://github.com/lablup |
@@ -51,7 +51,7 @@
 | 포스코ICT | 9 | 8 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 116 | https://github.com/yogiyo |
 | 가비아 | 20 | 19 | https://github.com/gabia |
-| 힐링페이퍼 | 3 | 34 | https://github.com/healingpaper |
+| 힐링페이퍼 | 3 | 35 | https://github.com/healingpaper |
 | 11번가 | 10 | 21 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 8 | https://github.com/zuminternet |
 | 네이버랩스 | 4 | 42 | https://github.com/naverlabs |
