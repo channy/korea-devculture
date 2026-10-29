@@ -8,9 +8,9 @@
 | 티맥스클라우드 | 271 | 56 | https://github.com/tmax-cloud |
 | 네이버 | 292 | 2717 | https://github.com/naver |
 | 인베슘 | 203 | 80 | https://github.com/hamonikr |
-| 삼성전자 | 188 | 1715 | https://github.com/Samsung |
+| 삼성전자 | 189 | 1717 | https://github.com/Samsung |
 | 센드버드 | 209 | 385 | https://github.com/sendbird |
-| 데브시스터즈 | 186 | 282 | https://github.com/devsisters |
+| 데브시스터즈 | 186 | 281 | https://github.com/devsisters |
 | 리디 | 115 | 181 | https://github.com/ridi |
 | 라인 | 164 | 1515 | https://github.com/line |
 | 당근마켓 | 120 | 1258 | https://github.com/daangn |
@@ -25,7 +25,7 @@
 | 카카오브레인 | 40 | 510 | https://github.com/kakaobrain |
 | 그린랩스 | 44 | 72 | https://github.com/green-labs |
 | 직방 | 36 | 58 | https://github.com/zigbang |
-| 우아한형제들 | 24 | 219 | https://github.com/woowabros |
+| 우아한형제들 | 24 | 218 | https://github.com/woowabros |
 | 쏘카 | 28 | 117 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 31 | 37 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 153 | https://github.com/ncsoft |

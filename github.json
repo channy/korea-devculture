@@ -33,9 +33,9 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1715,
+        "followers": 1717,
         "organization_id": "Samsung",
-        "public_repos": 188
+        "public_repos": 189
       }
     ]
   },
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 282,
+        "followers": 281,
         "organization_id": "devsisters",
         "public_repos": 186
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 219,
+        "followers": 218,
         "organization_id": "woowabros",
         "public_repos": 24
       }
