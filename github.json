@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1719,
+        "followers": 1720,
         "organization_id": "Samsung",
         "public_repos": 189
       }
@@ -43,9 +43,9 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 386,
+        "followers": 385,
         "organization_id": "sendbird",
-        "public_repos": 209
+        "public_repos": 211
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1971,
+        "followers": 1972,
         "organization_id": "toss",
         "public_repos": 49
       }

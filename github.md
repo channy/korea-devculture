@@ -8,8 +8,8 @@
 | 티맥스클라우드 | 271 | 56 | https://github.com/tmax-cloud |
 | 네이버 | 292 | 2717 | https://github.com/naver |
 | 인베슘 | 203 | 80 | https://github.com/hamonikr |
-| 삼성전자 | 189 | 1719 | https://github.com/Samsung |
-| 센드버드 | 209 | 386 | https://github.com/sendbird |
+| 삼성전자 | 189 | 1720 | https://github.com/Samsung |
+| 센드버드 | 211 | 385 | https://github.com/sendbird |
 | 데브시스터즈 | 186 | 281 | https://github.com/devsisters |
 | 리디 | 115 | 181 | https://github.com/ridi |
 | 라인 | 164 | 1514 | https://github.com/line |
@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 31 | 37 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 153 | https://github.com/ncsoft |
 | 버켓플레이스 | 12 | 123 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 49 | 1971 | https://github.com/toss |
+| 비바리퍼블리카 | 49 | 1972 | https://github.com/toss |
 | 마이리얼트립 | 4 | 60 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 101 | https://github.com/coupang |
 | LG전자 | 22 | 135 | https://github.com/LGE-OSS |
