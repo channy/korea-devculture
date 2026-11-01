@@ -7,15 +7,15 @@
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 56 | https://github.com/tmax-cloud |
 | 네이버 | 292 | 2717 | https://github.com/naver |
-| 인베슘 | 203 | 80 | https://github.com/hamonikr |
+| 인베슘 | 203 | 81 | https://github.com/hamonikr |
 | 삼성전자 | 189 | 1720 | https://github.com/Samsung |
 | 센드버드 | 211 | 385 | https://github.com/sendbird |
 | 데브시스터즈 | 186 | 281 | https://github.com/devsisters |
 | 리디 | 115 | 181 | https://github.com/ridi |
-| 라인 | 164 | 1514 | https://github.com/line |
-| 당근마켓 | 120 | 1258 | https://github.com/daangn |
-| NHN | 108 | 800 | https://github.com/nhn |
-| 래블업 | 152 | 186 | https://github.com/lablup |
+| 라인 | 164 | 1513 | https://github.com/line |
+| 당근마켓 | 120 | 1260 | https://github.com/daangn |
+| NHN | 108 | 801 | https://github.com/nhn |
+| 래블업 | 152 | 187 | https://github.com/lablup |
 | 하이퍼커넥트 | 33 | 63 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 39 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 50 | 70 | https://github.com/riiid |
