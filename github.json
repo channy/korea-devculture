@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1720,
+        "followers": 1722,
         "organization_id": "Samsung",
         "public_repos": 189
       }
@@ -73,7 +73,7 @@
     "name": "라인",
     "organizations": [
       {
-        "followers": 1513,
+        "followers": 1514,
         "organization_id": "line",
         "public_repos": 164
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 801,
+        "followers": 802,
         "organization_id": "nhn",
         "public_repos": 108
       }
@@ -213,7 +213,7 @@
     "name": "우아한형제들",
     "organizations": [
       {
-        "followers": 218,
+        "followers": 219,
         "organization_id": "woowabros",
         "public_repos": 24
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 117,
+        "followers": 118,
         "organization_id": "socar-inc",
         "public_repos": 28
       }
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1972,
+        "followers": 1970,
         "organization_id": "toss",
         "public_repos": 49
       }
@@ -273,7 +273,7 @@
     "name": "마이리얼트립",
     "organizations": [
       {
-        "followers": 60,
+        "followers": 61,
         "organization_id": "myrealtrip",
         "public_repos": 4
       }
@@ -488,7 +488,7 @@
     "name": "11번가",
     "organizations": [
       {
-        "followers": 21,
+        "followers": 22,
         "organization_id": "11st-corp",
         "public_repos": 10
       }
