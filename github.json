@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1722,
+        "followers": 1721,
         "organization_id": "Samsung",
         "public_repos": 189
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 187,
+        "followers": 188,
         "organization_id": "lablup",
         "public_repos": 152
       }
@@ -215,7 +215,7 @@
       {
         "followers": 219,
         "organization_id": "woowabros",
-        "public_repos": 24
+        "public_repos": 19
       }
     ]
   },
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 118,
+        "followers": 119,
         "organization_id": "socar-inc",
         "public_repos": 28
       }
@@ -235,7 +235,7 @@
       {
         "followers": 37,
         "organization_id": "hancom-io",
-        "public_repos": 31
+        "public_repos": 5
       }
     ]
   },
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 275,
+        "followers": 276,
         "organization_id": "musinsa",
         "public_repos": 1
       }
