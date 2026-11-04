@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2717,
+        "followers": 2718,
         "organization_id": "naver",
         "public_repos": 292
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1721,
+        "followers": 1723,
         "organization_id": "Samsung",
         "public_repos": 189
       }
@@ -53,7 +53,7 @@
     "name": "데브시스터즈",
     "organizations": [
       {
-        "followers": 281,
+        "followers": 282,
         "organization_id": "devsisters",
         "public_repos": 186
       }
@@ -75,7 +75,7 @@
       {
         "followers": 1514,
         "organization_id": "line",
-        "public_repos": 164
+        "public_repos": 153
       }
     ]
   },
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1260,
+        "followers": 1261,
         "organization_id": "daangn",
         "public_repos": 120
       }
@@ -223,7 +223,7 @@
     "name": "쏘카",
     "organizations": [
       {
-        "followers": 119,
+        "followers": 120,
         "organization_id": "socar-inc",
         "public_repos": 28
       }
@@ -235,7 +235,7 @@
       {
         "followers": 37,
         "organization_id": "hancom-io",
-        "public_repos": 5
+        "public_repos": 4
       }
     ]
   },
@@ -253,7 +253,7 @@
     "name": "버켓플레이스",
     "organizations": [
       {
-        "followers": 123,
+        "followers": 124,
         "organization_id": "bucketplace",
         "public_repos": 12
       }
@@ -478,7 +478,7 @@
     "name": "힐링페이퍼",
     "organizations": [
       {
-        "followers": 35,
+        "followers": 36,
         "organization_id": "healingpaper",
         "public_repos": 3
       }
@@ -593,7 +593,7 @@
     "name": "플라네타리움",
     "organizations": [
       {
-        "followers": 220,
+        "followers": 221,
         "organization_id": "planetarium",
         "public_repos": 220
       }

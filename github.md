@@ -6,14 +6,14 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 56 | https://github.com/tmax-cloud |
-| 네이버 | 292 | 2717 | https://github.com/naver |
+| 네이버 | 292 | 2718 | https://github.com/naver |
 | 인베슘 | 203 | 81 | https://github.com/hamonikr |
-| 삼성전자 | 189 | 1721 | https://github.com/Samsung |
+| 삼성전자 | 189 | 1723 | https://github.com/Samsung |
 | 센드버드 | 211 | 385 | https://github.com/sendbird |
-| 데브시스터즈 | 186 | 281 | https://github.com/devsisters |
+| 데브시스터즈 | 186 | 282 | https://github.com/devsisters |
 | 리디 | 115 | 181 | https://github.com/ridi |
-| 라인 | 164 | 1514 | https://github.com/line |
-| 당근마켓 | 120 | 1260 | https://github.com/daangn |
+| 라인 | 153 | 1514 | https://github.com/line |
+| 당근마켓 | 120 | 1261 | https://github.com/daangn |
 | NHN | 108 | 802 | https://github.com/nhn |
 | 래블업 | 152 | 188 | https://github.com/lablup |
 | 하이퍼커넥트 | 33 | 63 | https://github.com/hyperconnect |
@@ -26,10 +26,10 @@
 | 그린랩스 | 44 | 72 | https://github.com/green-labs |
 | 직방 | 36 | 58 | https://github.com/zigbang |
 | 우아한형제들 | 19 | 219 | https://github.com/woowabros |
-| 쏘카 | 28 | 119 | https://github.com/socar-inc |
-| 한글과컴퓨터 | 5 | 37 | https://github.com/hancom-io |
+| 쏘카 | 28 | 120 | https://github.com/socar-inc |
+| 한글과컴퓨터 | 4 | 37 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 153 | https://github.com/ncsoft |
-| 버켓플레이스 | 12 | 123 | https://github.com/bucketplace |
+| 버켓플레이스 | 12 | 124 | https://github.com/bucketplace |
 | 비바리퍼블리카 | 49 | 1970 | https://github.com/toss |
 | 마이리얼트립 | 4 | 61 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 101 | https://github.com/coupang |
@@ -51,7 +51,7 @@
 | 포스코ICT | 9 | 8 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 116 | https://github.com/yogiyo |
 | 가비아 | 20 | 19 | https://github.com/gabia |
-| 힐링페이퍼 | 3 | 35 | https://github.com/healingpaper |
+| 힐링페이퍼 | 3 | 36 | https://github.com/healingpaper |
 | 11번가 | 10 | 22 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 8 | https://github.com/zuminternet |
 | 네이버랩스 | 4 | 42 | https://github.com/naverlabs |
@@ -62,7 +62,7 @@
 | 크레프톤 | 0 | 7 | https://github.com/Krafton |
 | 카카오뱅크 | 4 | 64 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
-| 플라네타리움 | 220 | 220 | https://github.com/planetarium |
+| 플라네타리움 | 220 | 221 | https://github.com/planetarium |
 | 큐브리드 | 49 | 40 | https://github.com/CUBRID |
 | 코클 | 15 | 24 | https://github.com/cochlearai |
 | 스켈터랩스 | 11 | 13 | https://github.com/SkelterLabsInc |
