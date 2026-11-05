@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2718,
+        "followers": 2719,
         "organization_id": "naver",
         "public_repos": 292
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1723,
+        "followers": 1725,
         "organization_id": "Samsung",
         "public_repos": 189
       }
@@ -63,7 +63,7 @@
     "name": "리디",
     "organizations": [
       {
-        "followers": 181,
+        "followers": 180,
         "organization_id": "ridi",
         "public_repos": 115
       }
@@ -83,7 +83,7 @@
     "name": "당근마켓",
     "organizations": [
       {
-        "followers": 1261,
+        "followers": 1263,
         "organization_id": "daangn",
         "public_repos": 120
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 802,
+        "followers": 803,
         "organization_id": "nhn",
         "public_repos": 108
       }
@@ -235,7 +235,7 @@
       {
         "followers": 37,
         "organization_id": "hancom-io",
-        "public_repos": 4
+        "public_repos": 5
       }
     ]
   },
@@ -263,7 +263,7 @@
     "name": "비바리퍼블리카",
     "organizations": [
       {
-        "followers": 1970,
+        "followers": 1972,
         "organization_id": "toss",
         "public_repos": 49
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 135,
+        "followers": 136,
         "organization_id": "LGE-OSS",
         "public_repos": 22
       }
@@ -403,7 +403,7 @@
     "name": "컬리",
     "organizations": [
       {
-        "followers": 129,
+        "followers": 130,
         "organization_id": "thefarmersfront",
         "public_repos": 4
       }
@@ -518,7 +518,7 @@
     "name": "무신사",
     "organizations": [
       {
-        "followers": 276,
+        "followers": 278,
         "organization_id": "musinsa",
         "public_repos": 1
       }
@@ -573,7 +573,7 @@
     "name": "카카오뱅크",
     "organizations": [
       {
-        "followers": 64,
+        "followers": 65,
         "organization_id": "kakaobank",
         "public_repos": 4
       }
