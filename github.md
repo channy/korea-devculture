@@ -8,11 +8,11 @@
 | 티맥스클라우드 | 271 | 56 | https://github.com/tmax-cloud |
 | 네이버 | 292 | 2720 | https://github.com/naver |
 | 인베슘 | 203 | 81 | https://github.com/hamonikr |
-| 삼성전자 | 189 | 1729 | https://github.com/Samsung |
+| 삼성전자 | 189 | 1730 | https://github.com/Samsung |
 | 센드버드 | 211 | 384 | https://github.com/sendbird |
 | 데브시스터즈 | 187 | 282 | https://github.com/devsisters |
 | 리디 | 115 | 180 | https://github.com/ridi |
-| 라인 | 153 | 1519 | https://github.com/line |
+| 라인 | 151 | 1520 | https://github.com/line |
 | 당근마켓 | 120 | 1264 | https://github.com/daangn |
 | NHN | 108 | 805 | https://github.com/nhn |
 | 래블업 | 152 | 188 | https://github.com/lablup |
@@ -29,8 +29,8 @@
 | 쏘카 | 28 | 120 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 5 | 37 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 153 | https://github.com/ncsoft |
-| 버켓플레이스 | 12 | 124 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 49 | 1974 | https://github.com/toss |
+| 버켓플레이스 | 12 | 125 | https://github.com/bucketplace |
+| 비바리퍼블리카 | 49 | 1975 | https://github.com/toss |
 | 마이리얼트립 | 4 | 61 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 101 | https://github.com/coupang |
 | LG전자 | 22 | 136 | https://github.com/LGE-OSS |
@@ -55,7 +55,7 @@
 | 11번가 | 10 | 22 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 8 | https://github.com/zuminternet |
 | 네이버랩스 | 4 | 42 | https://github.com/naverlabs |
-| 무신사 | 1 | 279 | https://github.com/musinsa |
+| 무신사 | 1 | 280 | https://github.com/musinsa |
 | SK | 1 | 2 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (1) |
 | 카카오페이 | 1 | 17 | https://github.com/kakaopay |
 | 신한은행 | 1 | 8 | https://github.com/Shinhan-Bank |
@@ -63,7 +63,7 @@
 | 카카오뱅크 | 4 | 66 | https://github.com/kakaobank |
 | 카카오헤어샵 | 12 | 7 | https://github.com/kakaohairshop |
 | 플라네타리움 | 220 | 221 | https://github.com/planetarium |
-| 큐브리드 | 49 | 40 | https://github.com/CUBRID |
+| 큐브리드 | 49 | 41 | https://github.com/CUBRID |
 | 코클 | 15 | 24 | https://github.com/cochlearai |
 | 스켈터랩스 | 11 | 13 | https://github.com/SkelterLabsInc |
 
