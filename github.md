@@ -30,7 +30,7 @@
 | 한글과컴퓨터 | 5 | 37 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 153 | https://github.com/ncsoft |
 | 버켓플레이스 | 12 | 125 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 49 | 1976 | https://github.com/toss |
+| 비바리퍼블리카 | 49 | 1977 | https://github.com/toss |
 | 마이리얼트립 | 5 | 61 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 101 | https://github.com/coupang |
 | LG전자 | 22 | 140 | https://github.com/LGE-OSS |
@@ -43,11 +43,11 @@
 | 딜리셔스 | 10 | 25 | https://github.com/dealicious-inc |
 | 몰로코 | 20 | 161 | https://github.com/moloco |
 | 네이버제트 | 10 | 59 | https://github.com/naverz |
-| SK텔레콤 | 8 | 44 | https://github.com/sktelecom |
+| SK텔레콤 | 8 | 45 | https://github.com/sktelecom |
 | 컬리 | 4 | 131 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 3 | https://github.com/megazone-devops |
-| 현대자동차 | 11 | 198 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (7) |
+| 현대자동차 | 11 | 199 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (7) |
 | 포스코ICT | 9 | 8 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 116 | https://github.com/yogiyo |
 | 가비아 | 20 | 19 | https://github.com/gabia |
