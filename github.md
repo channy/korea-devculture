@@ -30,10 +30,10 @@
 | 한글과컴퓨터 | 5 | 37 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 153 | https://github.com/ncsoft |
 | 버켓플레이스 | 12 | 125 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 49 | 1977 | https://github.com/toss |
+| 비바리퍼블리카 | 49 | 1975 | https://github.com/toss |
 | 마이리얼트립 | 5 | 61 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 101 | https://github.com/coupang |
-| LG전자 | 22 | 140 | https://github.com/LGE-OSS |
+| LG전자 | 22 | 141 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 7 | 42 | https://github.com/dramancompany |
 | 야놀자 | 2 | 25 | https://github.com/yanolja |
 | VCNC | 21 | 15 | https://github.com/VCNC |
