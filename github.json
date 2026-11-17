@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2727,
+        "followers": 2728,
         "organization_id": "naver",
         "public_repos": 292
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1741,
+        "followers": 1742,
         "organization_id": "Samsung",
         "public_repos": 189
       }
@@ -275,7 +275,7 @@
       {
         "followers": 61,
         "organization_id": "myrealtrip",
-        "public_repos": 5
+        "public_repos": 4
       }
     ]
   },
@@ -613,7 +613,7 @@
     "name": "코클",
     "organizations": [
       {
-        "followers": 24,
+        "followers": 25,
         "organization_id": "cochlearai",
         "public_repos": 15
       }
