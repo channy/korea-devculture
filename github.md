@@ -7,7 +7,7 @@
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 56 | https://github.com/tmax-cloud |
 | 네이버 | 292 | 2726 | https://github.com/naver |
-| 인베슘 | 203 | 81 | https://github.com/hamonikr |
+| 인베슘 | 203 | 80 | https://github.com/hamonikr |
 | 삼성전자 | 189 | 1747 | https://github.com/Samsung |
 | 센드버드 | 211 | 384 | https://github.com/sendbird |
 | 데브시스터즈 | 187 | 283 | https://github.com/devsisters |
@@ -15,7 +15,7 @@
 | 라인 | 151 | 1521 | https://github.com/line |
 | 당근마켓 | 117 | 1265 | https://github.com/daangn |
 | NHN | 108 | 805 | https://github.com/nhn |
-| 래블업 | 151 | 188 | https://github.com/lablup |
+| 래블업 | 151 | 189 | https://github.com/lablup |
 | 하이퍼커넥트 | 33 | 63 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 39 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 50 | 69 | https://github.com/riiid |
@@ -33,7 +33,7 @@
 | 비바리퍼블리카 | 49 | 1976 | https://github.com/toss |
 | 마이리얼트립 | 4 | 61 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 101 | https://github.com/coupang |
-| LG전자 | 22 | 141 | https://github.com/LGE-OSS |
+| LG전자 | 22 | 140 | https://github.com/LGE-OSS |
 | 드라마앤컴퍼니 | 7 | 42 | https://github.com/dramancompany |
 | 야놀자 | 2 | 25 | https://github.com/yanolja |
 | VCNC | 21 | 15 | https://github.com/VCNC |
@@ -44,7 +44,7 @@
 | 몰로코 | 20 | 161 | https://github.com/moloco |
 | 네이버제트 | 10 | 59 | https://github.com/naverz |
 | SK텔레콤 | 8 | 44 | https://github.com/sktelecom |
-| 컬리 | 4 | 131 | https://github.com/thefarmersfront |
+| 컬리 | 4 | 132 | https://github.com/thefarmersfront |
 | 티몬 | 8 | 1 | https://github.com/tmoncorp |
 | 메가존클라우드 | 8 | 3 | https://github.com/megazone-devops |
 | 현대자동차 | 11 | 199 | https://github.com/hkmc-airlab (4)<br />https://github.com/42dot (7) |
