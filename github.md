@@ -6,16 +6,16 @@
 | **회사명** | **레포지터리 수** | **팔로워 수** | **Github 주소** |
 |:---|---:|---:|:---|
 | 티맥스클라우드 | 271 | 56 | https://github.com/tmax-cloud |
-| 네이버 | 293 | 2726 | https://github.com/naver |
+| 네이버 | 294 | 2726 | https://github.com/naver |
 | 인베슘 | 203 | 80 | https://github.com/hamonikr |
-| 삼성전자 | 189 | 1750 | https://github.com/Samsung |
+| 삼성전자 | 189 | 1751 | https://github.com/Samsung |
 | 센드버드 | 211 | 384 | https://github.com/sendbird |
 | 데브시스터즈 | 187 | 283 | https://github.com/devsisters |
 | 리디 | 114 | 180 | https://github.com/ridi |
 | 라인 | 151 | 1522 | https://github.com/line |
 | 당근마켓 | 117 | 1265 | https://github.com/daangn |
 | NHN | 108 | 805 | https://github.com/nhn |
-| 래블업 | 151 | 189 | https://github.com/lablup |
+| 래블업 | 152 | 189 | https://github.com/lablup |
 | 하이퍼커넥트 | 33 | 63 | https://github.com/hyperconnect |
 | 삼성SDS | 95 | 39 | https://github.com/samsung-cnct (81)<br />https://github.com/SDSACT (7)<br />https://github.com/samsungsds-rnd (7) |
 | 뤼이드 | 50 | 69 | https://github.com/riiid |
@@ -25,12 +25,12 @@
 | 카카오브레인 | 40 | 511 | https://github.com/kakaobrain |
 | 그린랩스 | 44 | 72 | https://github.com/green-labs |
 | 직방 | 36 | 58 | https://github.com/zigbang |
-| 우아한형제들 | 19 | 219 | https://github.com/woowabros |
+| 우아한형제들 | 19 | 220 | https://github.com/woowabros |
 | 쏘카 | 0 | 122 | https://github.com/socar-inc |
 | 한글과컴퓨터 | 5 | 37 | https://github.com/hancom-io |
 | 엔씨소프트 | 40 | 153 | https://github.com/ncsoft |
-| 버켓플레이스 | 12 | 126 | https://github.com/bucketplace |
-| 비바리퍼블리카 | 49 | 1979 | https://github.com/toss |
+| 버켓플레이스 | 12 | 127 | https://github.com/bucketplace |
+| 비바리퍼블리카 | 49 | 1981 | https://github.com/toss |
 | 마이리얼트립 | 4 | 61 | https://github.com/myrealtrip |
 | 쿠팡 | 18 | 101 | https://github.com/coupang |
 | LG전자 | 22 | 140 | https://github.com/LGE-OSS |
@@ -51,11 +51,11 @@
 | 포스코ICT | 9 | 8 | https://github.com/poscoict-glueframework |
 | 요기요 | 39 | 118 | https://github.com/yogiyo |
 | 가비아 | 20 | 19 | https://github.com/gabia |
-| 힐링페이퍼 | 3 | 36 | https://github.com/healingpaper |
+| 힐링페이퍼 | 3 | 37 | https://github.com/healingpaper |
 | 11번가 | 10 | 22 | https://github.com/11st-corp |
 | 줌인터넷 | 4 | 8 | https://github.com/zuminternet |
 | 네이버랩스 | 4 | 42 | https://github.com/naverlabs |
-| 무신사 | 1 | 281 | https://github.com/musinsa |
+| 무신사 | 1 | 282 | https://github.com/musinsa |
 | SK | 1 | 2 | https://github.com/SK-HOLDINGS-CC (0)<br />https://github.com/cloudsvcdev (1) |
 | 카카오페이 | 1 | 17 | https://github.com/kakaopay |
 | 신한은행 | 1 | 8 | https://github.com/Shinhan-Bank |
