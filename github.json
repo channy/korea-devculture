@@ -13,7 +13,7 @@
     "name": "네이버",
     "organizations": [
       {
-        "followers": 2728,
+        "followers": 2729,
         "organization_id": "naver",
         "public_repos": 294
       }
@@ -33,7 +33,7 @@
     "name": "삼성전자",
     "organizations": [
       {
-        "followers": 1755,
+        "followers": 1754,
         "organization_id": "Samsung",
         "public_repos": 189
       }
@@ -43,7 +43,7 @@
     "name": "센드버드",
     "organizations": [
       {
-        "followers": 384,
+        "followers": 383,
         "organization_id": "sendbird",
         "public_repos": 211
       }
@@ -93,7 +93,7 @@
     "name": "NHN",
     "organizations": [
       {
-        "followers": 806,
+        "followers": 807,
         "organization_id": "nhn",
         "public_repos": 108
       }
@@ -103,7 +103,7 @@
     "name": "래블업",
     "organizations": [
       {
-        "followers": 189,
+        "followers": 190,
         "organization_id": "lablup",
         "public_repos": 152
       }
@@ -163,7 +163,7 @@
     "name": "카카오",
     "organizations": [
       {
-        "followers": 657,
+        "followers": 656,
         "organization_id": "kakao",
         "public_repos": 74
       }
@@ -183,7 +183,7 @@
     "name": "카카오브레인",
     "organizations": [
       {
-        "followers": 511,
+        "followers": 510,
         "organization_id": "kakaobrain",
         "public_repos": 40
       }
@@ -293,7 +293,7 @@
     "name": "LG전자",
     "organizations": [
       {
-        "followers": 140,
+        "followers": 139,
         "organization_id": "LGE-OSS",
         "public_repos": 22
       }
@@ -478,7 +478,7 @@
     "name": "힐링페이퍼",
     "organizations": [
       {
-        "followers": 37,
+        "followers": 38,
         "organization_id": "healingpaper",
         "public_repos": 3
       }
@@ -573,7 +573,7 @@
     "name": "카카오뱅크",
     "organizations": [
       {
-        "followers": 66,
+        "followers": 65,
         "organization_id": "kakaobank",
         "public_repos": 4
       }
